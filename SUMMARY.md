@@ -4,7 +4,7 @@
 
 ## P
 
-* [Procrastination](p/procrastination.md)
 * [PostgreSQL](p/postgresql.md)
+* [Procrastination](p/procrastination.md)
 * [Prometheus](p/prometheus.md)
 
