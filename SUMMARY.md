@@ -4,5 +4,6 @@
 
 ## P
 
+* [PostgreSQL](p/postgresql.md)
 * [Prometheus](p/prometheus.md)
 
