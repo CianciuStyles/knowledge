@@ -2,6 +2,10 @@
 
 * [index](README.md)
 
+## C
+
+* [Curriculum Vitae](c/curriculum-vitae.md)
+
 ## P
 
 * [PostgreSQL](p/postgresql.md)
