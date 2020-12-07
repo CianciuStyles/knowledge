@@ -33,3 +33,9 @@
 
 * [The tech resume inside out](https://thetechresume.com/) - Gergely Orosz
 
+### Templates
+
+* [Awesome CV](https://github.com/posquit0/Awesome-CV)
+* [Europass CV](https://github.com/gmazzamuto/europasscv)
+* [Modern CV](https://github.com/xdanaux/moderncv)
+
