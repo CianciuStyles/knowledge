@@ -203,6 +203,34 @@ map.mapValues { (key, value) -> "$key -> $value!" }
 map.mapValues { (_, value) -> "$value!" } // if one variable is not needed
 ```
 
+```kotlin
+{ println("hey!") }() // possible, but strange
+run { println("hey!") } // usual way to run lambda
+```
+
+```kotlin
+fun duplicateNonZero(list: List<Int>): List<Int> {
+    return list.flatMap {
+        if (it == 0) return listOf()
+        listOf(it, it)
+    }
+}
+
+println(duplicateNonZero(listOf(3, 0, 5)) // prints [] because the return inside
+                                          // the lambda makes the fun return
+ 
+// Correct versions                                         
+list.flatMap {
+    if (it == 0) return@flatMap listOf<Int>()
+    listOf(it, it)
+}
+
+list.flatMap l@{
+    if (it == 0) return@l listOf<Int>()
+    listOf(it, it)
+}
+```
+
 ### Loops
 
 #### For
