@@ -131,6 +131,31 @@ displaySeparator(character = '?') // equivalent to displaySeparator('?', 10)
 displaySeparator(size = 3, character = '5') // valid, prints 555
 ```
 
+#### Extension functions
+
+They are defined outside of the class, but they can be called as a regular member of the class. They have to be imported in all the locations where the function is used. As they are `static` Java methods under the hood, no `override` is possible for extension functions.
+
+```kotlin
+fun String.lastChar() = this.get(this.length - 1)
+// fun String.lastChar() = get(length - 1) is also valid
+
+val c: Char = "abc".lastChar() // returns 'c'
+```
+
+#### Infix functions
+
+```kotlin
+infix fun Int.until(to: Int): IntRange
+
+1.until(10)
+1 until 10
+
+infix fun <A, B> A.to(that: B) = Pair(this, that)
+
+"ANSWER".to(42)
+"hot" to RED
+```
+
 #### Inline functions
 
 ```kotlin
@@ -156,6 +181,26 @@ fun main() {
     val name = "Kotlin"
     println("Hello, $name!") // will print Hello, Kotlin!
 }
+```
+
+### Lambdas
+
+They replace anonymous classes in Java, and allow functional programming
+
+```kotlin
+// Basic syntax
+{ x: Int, y: Int -> x + y }
+
+// The following statements are all equivalent
+list.any({ i: Int -> i > 0})
+list.any() { i: Int -> i > 0 } // valid because lambda is the last argument
+list.any { i: Int -> i > 0 } // empty parentheses can be omitted
+list.any { i -> i > 0 } // type can be omitted if it can be inferred
+list.any { it > 0 } // if lambda has a single argument
+
+// Descructuring declarations
+map.mapValues { (key, value) -> "$key -> $value!" }
+map.mapValues { (_, value) -> "$value!" } // if one variable is not needed
 ```
 
 ### Loops
@@ -222,6 +267,50 @@ fun main(args: Array<String>) {
     val name = if (args.size > 0) args[0] else "Kotlin"
     println("Hello, $name!")
 }
+```
+
+### Multiline strings
+
+```kotlin
+val q = """To code,
+    or not to code?.."""
+println(q) // will print To code,
+           //                or not to code?..
+           
+val r = """To code,
+    or not to code?..""".trimMargin()
+println(q) // will print To code,
+           //            or not to code?..
+```
+
+### Nullability
+
+The modern approach is to make a NPE a _compile-time_ error rather than a _run-time_ error
+
+```kotlin
+val s1: String = "always not null"
+val s2: String? = null
+
+s1.length // OK
+s2.length // Compiler error, s2 might be null
+val length: Int? = s2?.length // equal to if (s2 != null) s2.length else null
+val length: Int = s2?.length ?: 0 // ?: is called the Elvis operator
+```
+
+```kotlin
+val s: String?
+if (s == null) return
+s.length // smart cast, it it passed the check above we know it's not null
+s!! // if (s != null) s else null
+```
+
+```kotlin
+if (any is String) {
+    any.toUpperCase() // smart cast, any is casted to String in this block
+}
+
+(any as? String)?.toUpperCase() // safe cast, equivalent to
+                                // if (a is String) a else null
 ```
 
 ### Ranges
