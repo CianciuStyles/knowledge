@@ -7,7 +7,93 @@
 Similar to Java class
 
 ```kotlin
-class Person(val name: String, val age: Int)
+class Person(val name: String, val age: Int) // concise constructor
+
+// Full primary constructor
+class Person(name: String) {
+    init {
+        this.name = name
+    }
+}
+
+// Changing visibility
+class InternalComponent
+internal constructor(name: String) {
+    ...
+}
+
+// Secondary constructor
+class Rectangle(val height: Int, val width: Int) {
+    constructor(side: Int) : this(side, side) { ... }
+}
+```
+
+### Class modifiers
+
+#### Class Delegation
+
+```kotlin
+interface Repository {
+    fun getById(id: Int): Customer
+    fun getAll(): List<Customer>
+}
+
+interface Logger {
+    fun logAll()
+}
+
+class Controller(
+    repository: Repository,
+    logger: Logger
+) : Repository by repository, Logger by logger
+
+fun use(controller: Controller) {
+    controller.logAll() // calls controller.logger.logAll()
+}
+```
+
+#### Data class
+
+Similar to class, but also includes definition for `copy`, `equals`, `hashCode` and `toString` methods
+
+```kotlin
+data class Person(val name: String, val address: String)
+
+contact.copy(address = "new address")
+```
+
+#### Enum class
+
+```kotlin
+enum class Color {
+    BLUE, ORANGE, RED
+}
+
+enum class Color(
+    val r: Int,
+    val g: Int,
+    val b: Int
+) {
+    BLUE(0, 0, 255), ORANGE(255, 165, 0), RED(255, 0, 0);
+    
+    fun rgb() = (r * 256 + g) * 256 + b
+}
+```
+
+#### Sealed class
+
+Restricts the class hierarchy: all subclasses must be located in the same file
+
+```kotlin
+sealed class Expr
+class Num(val value: Int) : Expr()
+class Sum(val left: Expr, val right: Expr) : Expr()
+
+fun eval(e: Expr): Int = when (e) {
+    is Num -> e.value
+    is Sum -> eval(e.left) + eval(e.right)
+}
+// if Expr was not sealed, when would need an else branch
 ```
 
 ### Conditionals
@@ -83,14 +169,6 @@ when (val pet = getMyFavouritePet()) {
     is Cat -> pet.meow()
     is Dog -> pet.woof()
 }
-```
-
-### Data class
-
-Similar to class, but also includes definition for `equals`, `hashCode` and `toString` methods
-
-```kotlin
-data class Person(val name: String, val age: Int)
 ```
 
 ### Exceptions
@@ -231,6 +309,22 @@ list.flatMap l@{
 }
 ```
 
+### Lateinit
+
+`lateinit` allows non-nullable properties to be initialized outside the constructor method. It cannot be a `val`, because that would violate immutability, and cannot be nullable or be a primitive type, as it's initialized to `null` under the hood. We can check if the property has been inialized by using the `isinitialized` property.
+
+```kotlin
+class KotlinActivity: Activity() {
+    lateinit var myData: MyData = null
+    
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        
+        myData = intent.getParcelableExtra("MY_DATA")
+    }
+}
+```
+
 ### Loops
 
 #### For
@@ -339,6 +433,70 @@ if (any is String) {
 
 (any as? String)?.toUpperCase() // safe cast, equivalent to
                                 // if (a is String) a else null
+```
+
+### Properties
+
+```kotlin
+class Contact (
+    val name: String, // read-only, property + getter
+    var address: String // mutable, property + getter + setter
+)
+
+println(contact.address)
+contact.address = "..."
+```
+
+```kotlin
+class Rectangle(val height: Int, val width: Int) {
+    val isSquare: Boolean
+        get() {
+            return height == width
+        }
+}
+
+val rectangle = Rectangle(2, 3)
+println(rectangle.isSquare) // false
+```
+
+```kotlin
+class StateLogger {
+    var state = false
+        set(value) {
+            println("state has changed: $field -> $value")
+            field = value
+        }
+}
+```
+
+```kotlin
+class LengthCounter {
+    var counter: Int = 0
+        private set
+        
+    fun addWord(word: String) {
+        counter += word.length
+    }
+}
+```
+
+```kotlin
+// Extension properties
+val String.lastIndex: Int
+    get() = this.length - 1
+    
+val String.indices: IntRange
+    get() = 0..lastIndex
+    
+"abc".lastIndex // 2
+"abc".indices // 0..2
+```
+
+```kotlin
+val lazyValue: String by lazy {
+    println("computed!")
+    "Hello"
+}
 ```
 
 ### Ranges
