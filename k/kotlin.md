@@ -171,6 +171,28 @@ when (val pet = getMyFavouritePet()) {
 }
 ```
 
+### Constants
+
+#### Compile-time constants
+
+The value will be inlined everywhere in the resulting bytecode. It's possible only for primitive types and String.
+
+```kotlin
+const val answer = 42
+```
+
+#### @JvmField
+
+Exposes a Kotlin property as a field in Java, so no getter and setter are generated.
+
+```kotlin
+@JvmField
+val prop = MyClass()
+
+// same as following in Java
+public static final MyClass prop = new MyClass();
+```
+
 ### Exceptions
 
 There is no difference between `checked` and `unchecked` exceptions
@@ -433,6 +455,67 @@ if (any is String) {
 
 (any as? String)?.toUpperCase() // safe cast, equivalent to
                                 // if (a is String) a else null
+```
+
+### Object
+
+It's the Kotlin way to express a Singleton
+
+```kotlin
+object KSingleton {
+    fun foo() {}
+}
+
+KSingleton.foo() // from Kotlin
+KSingleton.INSTANCE.foo() // from Java
+```
+
+#### Companion object
+
+Special object inside a class, useful to implement static methods in Kotlin. They can also implement a interface.
+
+```kotlin
+class A {
+    companion object {
+        fun foo() = 1
+    }
+}
+
+fun main(args: Array<String>) {
+    A.foo()
+}
+```
+
+```kotlin
+class C {
+    companion object {
+        @JvmStatic fun foo() {}
+        fun bar() {}
+    }
+}
+
+// from Java
+C.foo(); // works because of the @JvmStatic annotation
+C.Companion.foo(); // accessing the companion object from Java
+C.Companion.bar(); // accessing the companion object from Java
+```
+
+#### Object expression
+
+Replaces anonymous classes with multiple methods \(if the anonymous class has a single method, it can be replaced by a lambda expresssion\). This is **not** a singleton.
+
+```kotlin
+window.addMouseListener(
+    object : MouseAdapter() {
+        override fun mouseClicked(e: MouseEvent) {
+            // ...
+        }
+        
+        override fun mouseEntered(e: MouseEvent) {
+            // ...
+        }
+    }
+)
 ```
 
 ### Properties
