@@ -258,8 +258,16 @@ infix fun <A, B> A.to(that: B) = Pair(this, that)
 
 #### Inline functions
 
+The compiler will substitute the body of an inline function instead of calling it, which makes the performance overhead for inline functions to zero.
+
 ```kotlin
-fun max(a: Int, b: Int) = if (a > b) a else b
+inline fun max(a: Int, b: Int) = if (a > b) a else b
+
+@kotlin.internal.InlineOnly
+public inline fun <R> run(block: () -> R): R = block()
+
+// the InlineOnly annotation specifies that the function should
+// not be called directly but always inlined
 ```
 
 #### Named arguments
@@ -598,6 +606,40 @@ fun recognize(c: Char) = when (c) {
     else -> "I don't know..."
 }
 recognize('$') // I don't know...
+```
+
+### Sequences
+
+Allow lazy operations on collections without creating intermediate collections. They will apply "vertical" evaluation \(the first element goes through the whole chain, then the second, etc.\) rather than the "horizontal" evaluation collections will perform. Nothing happens until there is a terminal operation.
+
+```kotlin
+listOf(1, 2, 3, 4)    // [1, 2, 3, 4]
+    .map { it * it }  // [1, 4, 9, 16]
+    .find { it > 3 }  // 4
+    
+listOf(1, 2, 3, 4)
+    .asSequence()    // asSequence will apply map and find
+    .map { it * it } // to 1 and 2, stopping after 2 because
+    .find { it > 3 } // a result is found
+```
+
+```kotlin
+val numbers = generateSequence(3) { n ->
+    (n + 1).takeIf { n < 7 }
+}
+
+println(numbers.first())  // does not run the lambda
+println(numbers.toList()) // runs the lambda 4 times
+```
+
+```kotlin
+val numbers = sequence {
+    var x = 0
+    while (true) {
+        yield(x++)
+    }
+}
+numbers.take(5).toList() // [0, 1, 2, 3, 4]
 ```
 
 ### String templates
