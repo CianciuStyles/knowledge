@@ -339,6 +339,35 @@ list.flatMap l@{
 }
 ```
 
+#### Lambda with receiver
+
+Similar to an extensions function, it has an implicit `this` set to the first argument of the `with` extension function
+
+```kotlin
+val sb = StringBuilder()
+with (sb) {
+    appendln("Alphabeth: ")
+    for (c in 'a'..'z') {
+        append(c)
+    }
+    toString()
+}
+```
+
+```kotlin
+inline fun buildString(
+    builderAction: StringBuilder.() -> Unit
+) {
+    val stringBuilder = StringBuilder()
+    stringBuilder.builderAction()
+    return stringBuilder.toString()
+}
+
+val s = buildString {
+    this.append("...")
+}
+```
+
 ### Lateinit
 
 `lateinit` allows non-nullable properties to be initialized outside the constructor method. It cannot be a `val`, because that would violate immutability, and cannot be nullable or be a primitive type, as it's initialized to `null` under the hood. We can check if the property has been inialized by using the `isinitialized` property.
