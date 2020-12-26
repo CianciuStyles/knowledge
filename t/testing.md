@@ -89,7 +89,15 @@ public void should_calculate_subtotal_and_total_amount_ \
 }
 ```
 
+### Why You Should Write Automated Tests
+
+* Prevent regressions: if every \(relevant\) functionality of the application is verified by an automated test, you can be sure of any change you do. The moment you break something by accident, at least one test will turn red and inform you about the problem.
+* Verifying correctness: when working on some piece of code, the most common question is "is it working as expected?" - correctness can either be formally verified \(extremely costly and therefore very rarely used\) or it can be tested.
+* Risk-free refactoring: without tests, a potential refactoring is often skipped because it would take too much time.
+* Documentation: the tests show the expected behaviour of the system and its pieces. What is good about this documentation is that it cannot get outdated, as any misalignment between the tests and the production code will be fixed.
+
 ## Articles
 
 * [Anatomy of a Good Test](https://www.innoq.com/en/blog/anatomy-of-a-good-test/) - Torsten Mandry, Jacek Bilski
+* [Why You Should Write Automated Tests](https://www.innoq.com/en/blog/why-you-should-write-automated-tests/) - Torsten Mandry, Jacek Bilski
 
