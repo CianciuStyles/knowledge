@@ -3,6 +3,7 @@
 ### Articles
 
 * [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/) - Felix Gerschau
+* [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/) - Tania Rascia
 
 ### Books
 
