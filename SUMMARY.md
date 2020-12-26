@@ -28,6 +28,11 @@
 * [Procrastination](p/procrastination.md)
 * [Prometheus](p/prometheus.md)
 
+## S
+
+* [Strength Training](s/strength-training/README.md)
+  * [Deadlifts](s/strength-training/deadlifts.md)
+
 ## T
 
 * [Testing](t/testing.md)
