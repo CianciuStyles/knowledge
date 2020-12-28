@@ -43,6 +43,7 @@
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
+* [System Design](s/system-design.md)
 
 ## T
 
