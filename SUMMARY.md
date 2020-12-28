@@ -22,6 +22,10 @@
 
 * [Kotlin](k/kotlin.md)
 
+## L
+
+* [Legacy Code](l/legacy-code.md)
+
 ## N
 
 * [Nutrition](n/nutrition.md)
@@ -35,6 +39,7 @@
 
 ## S
 
+* [Sitting](s/sitting.md)
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
