@@ -4,11 +4,17 @@
 
 ## A
 
+* [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 
 ## C
 
+* [Command Line](c/command-line.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
+
+## D
+
+* [Distributed Systems](d/distributed-systems.md)
 
 ## G
 
@@ -25,6 +31,7 @@
 ## L
 
 * [Legacy Code](l/legacy-code.md)
+* [Lifestyle](l/lifestyle.md)
 
 ## N
 
@@ -36,6 +43,10 @@
 * [PostgreSQL](p/postgresql.md)
 * [Procrastination](p/procrastination.md)
 * [Prometheus](p/prometheus.md)
+
+## R
+
+* [Rust](r/rust.md)
 
 ## S
 
