@@ -15,6 +15,7 @@
 ## D
 
 * [Distributed Systems](d/distributed-systems.md)
+* [Dopamine](d/dopamine.md)
 
 ## G
 
@@ -54,6 +55,7 @@
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
+* [Stoicism](s/stoicism.md)
 * [System Design](s/system-design.md)
 
 ## T
