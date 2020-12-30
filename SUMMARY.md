@@ -14,6 +14,7 @@
 
 ## D
 
+* [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
 * [Dopamine](d/dopamine.md)
 
@@ -67,5 +68,4 @@
 ---
 
 * [Vlang](vlang.md)
-* [Digital Minimalism](digital-minimalism.md)
 
