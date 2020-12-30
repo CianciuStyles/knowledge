@@ -67,4 +67,5 @@
 ---
 
 * [Vlang](vlang.md)
+* [Digital Minimalism](digital-minimalism.md)
 
