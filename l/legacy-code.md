@@ -38,5 +38,13 @@
 * [How to own a code](https://www.iamjonas.me/2020/11/how-to-own-code.html) - Jonas Lundberg
 * [How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html) - Jonas Lundberg
 
+### Books
+
+* [The Mikado Method](https://livebook.manning.com/book/the-mikado-method/table-of-contents/) - Daniel Brolund, Ola Ellnestam
+
+### GitHub repositories
+
+* [Mikado Method examples and exercises](https://github.com/mikadomethod)
+
 
 

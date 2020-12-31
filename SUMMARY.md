@@ -7,6 +7,10 @@
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 
+## B
+
+* [Books](b/books.md)
+
 ## C
 
 * [Command Line](c/command-line.md)
