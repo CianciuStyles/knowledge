@@ -56,6 +56,7 @@
 
 ## S
 
+* [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
