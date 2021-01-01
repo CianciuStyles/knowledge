@@ -4,6 +4,7 @@
 
 ## A
 
+* [Algorithms](a/algorithms.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 

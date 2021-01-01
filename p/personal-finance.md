@@ -12,3 +12,8 @@
 * [The Total Money Makeover](https://smile.amazon.co.uk/dp/1595555277/) - Dave Ramsey
 * [Your Money or Your Life](https://smile.amazon.co.uk/dp/0143115766/) - Vicki Robin, Joe Dominguez
 
+### Websites
+
+* [Financial Samurai](https://www.financialsamurai.com/)
+* [Wise Bread](https://www.wisebread.com/)
+
