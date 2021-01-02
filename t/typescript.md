@@ -388,13 +388,19 @@ y.b // ERROR!
 
 ## Resources
 
+### Books
+
+* [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - Basarat Ali Syed
+
 ### Courses
 
 * [TypeScript 3 Fundamentals v2](https://frontendmasters.com/courses/typescript-v2/) - Mike North
 
 ### Websites
 
-* [TypeScript](https://www.typescriptlang.org/)
+* [DefinitelyTyped](https://definitelytyped.org/) - The repository for high quality TypeScript type definitions
+* [r/typescript](https://www.reddit.com/r/typescript/) - TypeScript subreddit
+* [TypeScript](https://www.typescriptlang.org/) - Official website and docs
 
 
 
