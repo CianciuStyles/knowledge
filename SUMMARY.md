@@ -59,19 +59,20 @@
 
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
+* [Stoicism](s/stoicism.md)
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
-* [Stoicism](s/stoicism.md)
 * [System Design](s/system-design.md)
 
 ## T
 
 * [Testing](t/testing.md)
+* [TypeScript](t/typescript.md)
 
 ## V
 
 ---
 
-* [Vlang](vlang.md)
+* [V \(programming language\)](vlang.md)
 
