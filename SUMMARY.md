@@ -59,6 +59,7 @@
 
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
+* [Spring \(framework\)](s/spring-framework.md)
 * [Stoicism](s/stoicism.md)
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
