@@ -140,7 +140,124 @@ public class MyService {
 }
 ```
 
+### Chapter 5: Auto-wiring Dependencies in the Spring Container
 
+* An alternative to specifying beans and their dependencies manually within an XML file is to use **annotations**. In order to do so, we define in the XML file a `context:component-scan` tag, where we specify the package name that Spring will introspect and retrieve the beans from:
+
+```markup
+<context:component-scan base-package="com.mypackage.myapp" />
+```
+
+* After that, we can use the `@Component` annotation on all the classes that Spring should consider beans, and the `@Autowired` annotation on the dependencies to be injected:
+
+```java
+@Component
+public class MyService {
+    @Autowired
+    private MyRepository repository;
+    
+    public void doBusinessLogic() {
+        System.out.println("Performing business logic...");
+        repository.doQuery();
+    }
+}
+```
+
+* Component is the most general annotation that we can use to annotate beans; more specific annotations include:
+  * Controller: the class is a web controller in a Spring MVC application
+  * Service
+  * Repository
+  * Configuration
+* The `@Autowired` annotation can be used on member fields for setter-based dependency injection, or on the constructor for constructor-based dependency injection.
+* To completely get rid of the XML context file, we can use the `AnnotationConfigApplicationContext` class, referencing the base package to scan for components:
+
+```java
+ApplicationContext ctx = new AnnotationConfigApplicationContext("com.mypackage.myapp");
+
+MyService service = ctx.getBean(MyService.class);
+service.doBusinessLogic();
+```
+
+* Alternatively, we can create a class annotated with the @Configuration annotation, and reference that in the AnnotationConfigApplicationContext constructor:
+
+```java
+ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
+
+MyService service = ctx.getBean(MyService.class);
+service.doBusinessLogic();
+```
+
+```java
+@Configuration
+@ComponentScan(basePackages = "com.mypackage.myapp")
+class AppConfig {}
+```
+
+* When multiple beans could be eligible to be injected \(e.g., two concrete implementations of a common interface\), we need to use the @Qualifier annotation to help Spring decide which one to use:
+
+```java
+public interface MyRepository {
+    public void doQuery();
+}
+```
+
+```java
+public class MyRepositoryImpl implements MyRepository {
+    @Overide
+    public void doQuery() {
+        System.out.println("Performing a query...");
+    }
+}
+```
+
+```java
+public class AnotherRepositoryImpl implements MyRepository {
+    @Overide
+    public void doQuery() {
+        System.out.println("Performing a query slightly differently...");
+    }
+}
+```
+
+```java
+public interface MyService {
+    public void doBusinessLogic();
+}
+```
+
+```java
+@Service
+public class MyServiceImpl implements MyService {
+    private MyRepository repository;
+    
+    public MyServiceImpl(@Qualifier("myRepositoryImpl") Repository repository) {
+        this.repository = repository;
+    }
+    
+    public void doBusinessLogic() {
+        System.out.println("Performing business logic...");
+        repository.doQuery();
+    }
+}        
+```
+
+```java
+@Service
+public class AnotherServiceImpl implements MyService {
+    public void doBusinessLogic() {
+        System.out.println("Performing business logic slightly differently...");
+    }
+}        
+```
+
+```java
+ApplicationContext ctx = new AnnotationConfigApplicationContext("com.mypackage.myapp");
+
+MyService service1 = ctx.getBean(MyService.class); // NoUniqueBeanDefinitionException
+MyService service2 = ctx.getBean(AnotherServiceImpl.class); // OK
+```
+
+### Chapter 6: Using Properties and Profiles in Spring Projects
 
 ## Resources
 
