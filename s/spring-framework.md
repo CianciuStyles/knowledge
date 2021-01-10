@@ -193,7 +193,7 @@ service.doBusinessLogic();
 class AppConfig {}
 ```
 
-* When multiple beans could be eligible to be injected \(e.g., two concrete implementations of a common interface\), we need to use the @Qualifier annotation to help Spring decide which one to use:
+* When multiple beans could be eligible to be injected \(e.g., two concrete implementations of a common interface\), we need to use the `@Qualifier` annotation to help Spring decide which one to use:
 
 ```java
 public interface MyRepository {
