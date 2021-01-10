@@ -37,6 +37,7 @@
 
 ## L
 
+* [Language Learning](l/language-learning.md)
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)
 
