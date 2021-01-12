@@ -27,6 +27,10 @@
 
 * [Git](g/git.md)
 
+## I
+
+* [Interviews](i/interviews.md)
+
 ## J
 
 * [JavaScript](j/javascript.md)
