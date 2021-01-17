@@ -10,6 +10,7 @@
 
 ## B
 
+* [Board Games](b/board-games.md)
 * [Books](b/books.md)
 
 ## C
