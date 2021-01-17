@@ -27,6 +27,10 @@
 
 * [Git](g/git.md)
 
+## H
+
+* [Habits](h/habits.md)
+
 ## I
 
 * [Interviews](i/interviews.md)
