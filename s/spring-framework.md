@@ -259,6 +259,117 @@ MyService service2 = ctx.getBean(AnotherServiceImpl.class); // OK
 
 ### Chapter 6: Using Properties and Profiles in Spring Projects
 
+* It is possible to define properties for the application in a property file, then add a `@PropertySource` annotation on the `@Configuration` component, and then inject the value in fields using the `@Value` annotation:
+
+{% code title="application.properties" %}
+```java
+my.name=Matt
+```
+{% endcode %}
+
+{% code title="AppConfig.java" %}
+```java
+@Configuration
+@ComponentScan("com.mypackage.myapp")
+@PropertySource("classpath:application.properties")
+public class AppConfig {}
+```
+{% endcode %}
+
+{% code title="MyService.java" %}
+```java
+@Service
+public class MyService {
+    @Value("${my.name}")
+    private String name;
+    
+    @Autowired
+    private MyRepository repository;
+    
+    public void doBusinessLogic() {
+        System.out.println("Performing business logic for " + name);
+        repository.doQuery();
+    }
+}
+```
+{% endcode %}
+
+* Other ways to inject values is to provide them through environment variables or command line arguments \(with the `-D` switch\).
+* Profiles are useful to inject different values for the same variables \(e.g., an application deployed locally and on a production instance\). The main two ways to set a profile is either to pass a `-Dspring.profiles.active=<profile>` command line argument, or call `System.setProperty("spring.profiles.active", "<profile>")` from the code.
+* We can annotate classes with the `@Profile` annotation, which means those classes will only be instantiated if the profile within the annotation matches the active profile.
+
+{% code title="DevelopmentConfig.java" %}
+```java
+@Profile("local")
+@Configuration
+@ComponentScan("com.mypackage.myapp")
+@PropertySource("classpath:application-local.properties")
+public class DevelopmentConfig {}
+```
+{% endcode %}
+
+{% code title="ProductionConfig.java" %}
+```java
+@Profile("prod")
+@Configuration
+@ComponentScan("com.mypackage.myapp")
+@PropertySource("classpath:application-prod.properties")
+public class ProductionConfig {}
+```
+{% endcode %}
+
+### Chapter 7: Getting to Know the Spring Container
+
+* It is possible to make a bean aware of two lifecycle methods \(one when the bean is created, and one when it is destroyed\) by making the bean implement two interfaces:
+
+```java
+@Service
+public class EmployeeService implements InitializingBean, DisposableBean {
+
+    @Autowired
+    private EmployeeRepository repository;
+    
+    public void afterPropertiesSet() throws Exception {
+        // called after the bean is created and all properties are injected
+    }
+    
+    public void destroy() {
+        // called when the context is closed
+    }
+}
+```
+
+* We can achieve the same result by using the JDK lifecycle annotations instead:
+
+```java
+@Service
+public class EmployeeService {
+    
+    @Autowired
+    private EmployeeRepository repository;
+    
+    @PostConstruct
+    public void init() {
+        repository.loadStaticData();
+    }
+    
+    @PreDestroy
+    public void dispose() {
+        System.out.println("Destroying service bean.");
+    }
+}
+```
+
+* The general bean lifecycle consists of:
+  * the constructor being called
+  * setter methods are called
+  * bean post-processor is called
+  * post-constructor method is called
+  * destroy method is called
+  * finalize method is called
+
+### Chapter 8: Accessing Databases with Spring
+
 ## Resources
 
 ### Websites
