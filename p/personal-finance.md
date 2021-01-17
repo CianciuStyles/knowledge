@@ -19,6 +19,11 @@
 * [The Wealthy Barber: Everyone's Commonsense Guide to Becoming Financially Independent](https://smile.amazon.co.uk/dp/0761513116/) - David Chilton
 * [Your Money or Your Life](https://smile.amazon.co.uk/dp/0143115766/) - Vicki Robin, Joe Dominguez
 
+### Videos
+
+* [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
+* [Vanguard Index Funds for Beginners](https://www.youtube.com/watch?v=aL-GgWkA25Q) - James Shack
+
 ### Websites
 
 * [Financial Samurai](https://www.financialsamurai.com/)
