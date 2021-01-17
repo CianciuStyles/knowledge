@@ -19,11 +19,14 @@
 * [r/boardgames](https://www.reddit.com/r/boardgames/)
 * [r/digitaltabletop](https://www.reddit.com/r/digitaltabletop/)
 * [Where to play boardgames online](https://www.reddit.com/r/boardgames/wiki/play_online)
+* Threads
+  *  [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats_the_best_game_you_added_to_your_collection/)
 
 ### Websites
 
 * [BoardGameArena](https://boardgamearena.com/)
 * [BoardGameGeek](https://boardgamegeek.com/)
+* [Tabletopia](https://tabletopia.com/)
 
 
 
