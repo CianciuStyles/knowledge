@@ -370,7 +370,189 @@ public class EmployeeService {
 
 ### Chapter 8: Accessing Databases with Spring
 
+* The `javax.sql.DataSource` class is essential to interface Spring with a database, as it will return connections \(new or reused\) to the database:
+
+```java
+@Configuration
+public class AppConfig {
+    @Bean
+    public DataSource dataSource() {
+        DriverManagerDataSource dataSource = new DriverManagerDataSource();
+        dataSource.setDriverClassName("org.h2.Driver");
+        dataSource.setUrl("jdbc:h2:mem:mydb");
+        dataSource.setUsername("sa");
+        dataSource.setPassword("");
+        
+        return dataSource;
+    }
+}
+```
+
+* Other useful types of DataSource implementations are:
+  * SingleConnectionDataSource
+  * HikariDataSource
+  * JndiDataSourceLookup
+* `@Repository` is the correct annotation to use with DAO \(data access objects\):
+
+```java
+@Repository
+public class MyDao {
+    private DataSource dataSource;
+    private JdbcTemplate jdbcTemplate;
+    
+    @Autowired
+    public MyDao(DataSource dataSource, JdbcTemplate jdbcTemplate) {
+        this.dataSource = dataSource;
+        this.jdbcTemplate = jdbcTemplate;
+    }
+    
+    @PostConstruct
+    public void doQuery() {
+        jdbcTemplate.execute("select 1 from dual");
+    }
+}
+```
+
+* There is an abstract class called JdbcDaoSupport which removes a lot of the boilerplate needed to configure a DAO:
+
+```java
+@Repository
+public class MyDao extends JdbcDaoSupport {
+    @Autowired
+    public MyDao(DataSource dataSource) {
+        setDataSource(dataSource);
+    }
+    
+    @PostConstruct
+    public void doQuery() {
+        String result = getJdbcTemplate().queryForObject("select 1 from dual", String.class);
+        System.out.println(result);
+    }
+}
+```
+
+### Chapter 9: Aspect-oriented Programming
+
+* Aspect-oriented Programming \(AOP\) allows you to define aspects, which are methods that are invoked before or after some events are fired in the application.
+* In order to use AOP in Spring, we need to include `spring-aspects` in the `pom.xml` file:
+
+```markup
+<dependency>
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-aspects</artifactId>
+  <version>${VERSION}</version>
+</dependency>
+```
+
+* In order to make AOP working in the Spring application, we need to annotate the `@Configuration` class with the `@EnableAspectJAutoProxy` annotation:
+
+```java
+@Configuration
+@ComponentScan("com.mypackage.myapp")
+@EnableAspectJAutoProxy
+public class AppConfig {}
+```
+
+* There are three types of Advice in Spring:
+  * `@Before`: the aspect will run before the original method
+  * `@After`: the aspect will wun after the original method
+  * `@Around`: the aspect wraps the original method \(which can be invoked via the `ProceedingJoinPoint.proceed()` method\)
+
+{% code title="MyAspect.java" %}
+```java
+@Aspect
+@Component
+public class MyAspect {
+    @Before("execution(void MyService.doSomething(..))")
+    public void intercept() {
+        System.out.println("Intercepted!")
+    }
+}
+```
+{% endcode %}
+
+{% code title="MyService.java" %}
+```java
+@Service
+public class MyService {
+    public void doSomething() {
+        System.out.println("Doing business method...");
+    }
+}
+```
+{% endcode %}
+
+* A **pointcut** is the string within the Advice annotation, and it allows to specify on what event\(s\) the aspect should run - e.g., execution of a method, accessing a variable, execution of any method in a class, etc.
+* A **joinpoint** is created in Spring anytime an event that can be matched against a pointcut is fired, and if any pointcuts match, the corresponding methods will be invoked. It is possible to access the joinpoint from the aspect method, in order to retrieve information about the original method invocation:
+
+```java
+@Aspect
+@Component
+public class MyAspect {
+    @Before("execution(void MyService.doSomething(..))")
+    public void intercept(JoinPoint joinPoint) {
+        System.out.println("Intercepted! Args: " + Arrays.toString(joinPoints.getArgs()));
+    }
+}
+```
+
+### Chapter 10: Web Application Development in Spring
+
+* The Spring MVC component allows us to use the popular Model-View-Controller pattern to create applications that handle web requests and produce responses. In order to use it, we need to add `spring-webmvc` as a dependency in the `pom.xml` file.
+* The `web.xml` file \(in the webapp/WEB-INF folder\) is a deployment descriptor, which tells the essential configuration the app needs to run to its web container \(JBoss, Tomcat, etc.\)
+
+```markup
+<web-app>
+    <servlet>
+        <servlet-name>myapp</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>myapp</servlet-name>
+        <url-pattern>/myapp/*</url-pattern>
+    </servlet-mapping>
+</web-app>
+```
+
+* The `@Controller` annotation tells Spring MVC that the annotated class is a Controller.
+
+```java
+@Controller
+public class MyController {
+    @GetMapping(path="/greeting")
+    public String greet() {
+        return "greet"; // this is the name of the view that Spring MVC will try to resolve
+    }
+}
+```
+
+* We can also access path variables and request parameters as arguments to the method:
+
+```java
+@Controller
+public class MyController {
+    @GetMapping(path="/greeting/{userName}")
+    public ModelAndView greet(
+        @PathVariable("userName") String user,
+        @RequestParam String mood) {
+        
+        Map<String, String> values = new HashMap<>();
+        values.put("name", user);
+        values.put("mood", mood);
+        
+        ModelAndView view = new ModelAndView("greet", values);
+        return view;
+    }
+}
+```
+
 ## Resources
+
+### Courses
+
+* [Mastering Spring Framework Fundamentals](https://www.packtpub.com/product/mastering-spring-framework-fundamentals-video/9781801079525) - Matthew Speake
 
 ### Websites
 
