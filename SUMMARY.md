@@ -34,7 +34,8 @@
 
 ## I
 
-* [Interviews](i/interviews.md)
+* [Interviews](i/interviews/README.md)
+  * [Coding Interviews](i/interviews/coding-interviews.md)
 
 ## J
 
