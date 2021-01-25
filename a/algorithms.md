@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms & Data Structures
 
 ## Resources
 
@@ -8,7 +8,7 @@
 
 ### GitHub Repositories
 
-* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
+* [The Algorithms](https://github.com/TheAlgorithms)
 
 ### Videos
 
