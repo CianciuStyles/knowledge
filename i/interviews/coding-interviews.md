@@ -7,4 +7,5 @@
 ### GitHub repositories
 
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
 
