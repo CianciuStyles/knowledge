@@ -28,5 +28,6 @@
 ### Websites
 
 * [Financial Samurai](https://www.financialsamurai.com/)
+* [Money To The Masses](https://moneytothemasses.com/)
 * [Wise Bread](https://www.wisebread.com/)
 
