@@ -4,6 +4,7 @@
 
 ### Books
 
+* [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 ### GitHub Repositories

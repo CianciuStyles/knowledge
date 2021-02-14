@@ -5,6 +5,7 @@
 ### Articles
 
 * [How to Build a Home Gym on the Cheap](https://www.artofmanliness.com/articles/how-to-build-a-home-gym-on-the-cheap/) - The Art of Manliness
+* [The 12 Best Compound Exercises for Beginners \(How to Train Efficiently\)](https://www.nerdfitness.com/blog/the-12-best-compound-exercises-for-beginners-how-to-train-efficiently/) - Steve Kamb, Nerd Fitness
 * [The Prisoner Workout: Killer Bodyweight Exercises for Small Spaces](https://www.artofmanliness.com/articles/the-prisoner-workout/) - The Art of Manliness
 
 ### Websites
