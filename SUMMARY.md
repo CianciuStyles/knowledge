@@ -5,6 +5,8 @@
 ## A
 
 * [Algorithms & Data Structures](a/algorithms.md)
+* [Amazon Web Services](a/amazon-web-services.md)
+* [Android](a/android.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 
@@ -15,6 +17,7 @@
 
 ## C
 
+* [C \(programming language\)](c/c-programming-language.md)
 * [Command Line](c/command-line.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
 
