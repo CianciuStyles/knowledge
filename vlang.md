@@ -1,4 +1,8 @@
 # V \(programming language\)
 
-Website: [https://vlang.io/](https://vlang.io/)
+## Resources
+
+### Websites
+
+* [The V Programming Language](https://vlang.io/)
 
