@@ -42,6 +42,7 @@
 
 ## J
 
+* [Java](j/java.md)
 * [JavaScript](j/javascript.md)
 
 ## K
