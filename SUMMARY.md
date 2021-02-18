@@ -27,6 +27,10 @@
 * [Distributed Systems](d/distributed-systems.md)
 * [Dopamine](d/dopamine.md)
 
+## F
+
+* [Focus](f/focus.md)
+
 ## G
 
 * [Git](g/git.md)
