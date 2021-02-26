@@ -14,6 +14,11 @@
 
 #### Week 2
 
+* Best Alternative to a Negotiated Agreement \(BATNA\): your walkaway price - the least amount of money you'd be willing to accept as a seller, or the most you'd be willing to pay before walking away as a buyer.
+* Zone of Possible Agreement \(ZOPA\): basically the same as the pie to be split.
+* Instead of refusing a deal flat out, try to come back with a proposal - no matter how absurd it might be - and let the other party decide whether to say no to that. People like to reach agreements, so they might actually say yes more often than you expect.
+* The opportunity to make ultimatum gives you more power - but use this power with discretion.
+
 ## Resources
 
 ### Courses
