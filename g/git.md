@@ -2,6 +2,10 @@
 
 ## Useful commands
 
+### Create a fixup commit
+
+`git commit --fixup <hash>`
+
 ### Rename current branch
 
 `git branch -m <new_name>`

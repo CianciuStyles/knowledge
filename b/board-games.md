@@ -10,6 +10,10 @@
 
 ## Resources
 
+### Articles
+
+* [How to play board games online with your friends](https://masilotti.com/play-board-games-online/) - Joe Masilotti \([HN thread](https://news.ycombinator.com/item?id=22967716)\)
+
 ### Lists
 
 * [Spiel des Jahres Awards](https://www.wikiwand.com/en/Spiel_des_Jahres)

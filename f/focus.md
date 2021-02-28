@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [Age of distraction or how to calmy enjoy what you are doing in 2021](https://www.lostbookofsales.com/age-of-distractions/) - Santeri Liukkonen
+
 ### Books
 
 * [Deep Work](https://smile.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/) - Cal Newport
