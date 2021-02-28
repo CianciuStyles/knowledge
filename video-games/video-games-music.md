@@ -9,6 +9,7 @@
 * [Age of Empires 2](https://www.youtube.com/watch?v=jadxTFqyhRM)
 * [Castlevania: Symphony of the Night](https://www.youtube.com/watch?v=0Ghd3tvsNAs)
 * [Chrono Trigger](https://www.youtube.com/watch?v=uBaqb_rUkN0&list=PLSHMcAUZYM-7vN5kvYQ_032Vdp1zRWETw)
+* [Deltarune](https://www.youtube.com/watch?v=orLe7qluemo&list=PLOM-BnUvRjr9u86OQ0ZniQkrlLTcVHvr4)
 * [DOOM 2016](https://www.youtube.com/watch?v=Q-vsx84hsbs)
 * [Final Fantasy VII](https://www.youtube.com/watch?v=WPx3h5bwXVQ&list=PL77D98F68F6DBB35D)
 * [Final Fantasy VIII](https://www.youtube.com/watch?v=Zfd9krEsr-k&list=PLAC6CCD5897973D5D)
@@ -37,5 +38,6 @@
 * [Uncharted 2: Among Thieves](https://www.youtube.com/playlist?list=PL1bsBsntnAmaErpCmbtlkZb1CxR0896_m)
 * [Uncharted 3: Drake's Deception](https://www.youtube.com/watch?v=zqspM5cL75o&list=PLo12j6u5vZgKZIt3jKnbAs-N48Gi2bIVw)
 * [Uncharted 4: A Thief's End](https://www.youtube.com/watch?v=5aCSqosrGvw&list=PLpWAlPv9GHA8bLi152hZGPbIFzTeyuGaE)
+* [Undertale](https://www.youtube.com/watch?v=s7RRgF5Ve_E&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg)
 * [Unreal Tournament](https://www.youtube.com/watch?v=qR9kvbXt4tk&list=PLED07D7ADEF957788)
 
