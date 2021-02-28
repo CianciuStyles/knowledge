@@ -17,6 +17,8 @@
 * [Katamari Damacy](https://www.youtube.com/watch?v=QAA6hq9RL-4)
 * [Life Is Strange](https://www.youtube.com/watch?v=_Df15XQgyq4&list=PLp3-KQ922RELlU_q8bmxEMtweK_b8jo0j)
 * [Mass Effect](https://www.youtube.com/watch?v=FIqHQptIDE4&list=PLJAXsS8rpwOaXRdBtVVvleIoJfzXYHKAV)
+* [No One Lives Forever](https://www.youtube.com/watch?v=2whgu1i_G3c&list=PL8B280F55A76A5F5A)
+* [No One Lives Forever 2](https://www.youtube.com/watch?v=tWzNvwuFZ70)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM&feature=youtu.be)
 * [Stronghold](https://www.youtube.com/watch?v=v6otXDTS0KU)
 * [The Last of Us](https://www.youtube.com/playlist?list=PL8ewBDH5ZkrUqmzDJvyIPoUcM8qLsJ2bZ)
