@@ -96,6 +96,8 @@
 ---
 
 * [V \(programming language\)](vlang.md)
+* [Video Games](video-games/README.md)
+  * [Video Games Music](video-games/video-games-music.md)
 
 ## W
 
