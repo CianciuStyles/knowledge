@@ -5,6 +5,7 @@
 ### Articles
 
 * [All about 64-bit programming in one place](https://software.intel.com/content/www/us/en/develop/blogs/all-about-64-bit-programming-in-one-place.html)
+* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) - Simon Tatham \([Hacker News](https://news.ycombinator.com/item?id=7134798), [Reddit](https://www.reddit.com/r/programming/comments/1wcily/the_descent_to_c/)\)
 
 ### Books
 
