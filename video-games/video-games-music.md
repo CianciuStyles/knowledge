@@ -31,6 +31,7 @@
 * [Ridge Racer Type 4](https://www.youtube.com/watch?v=dBWKwbjj020&list=PL6PHQCxAqpJTLqJjrDXhr_rXx0ta5rv4M)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM&feature=youtu.be)
 * [Stronghold](https://www.youtube.com/watch?v=v6otXDTS0KU)
+* [System Shock 2](https://www.youtube.com/watch?v=H392MiLaTm8&list=PLMSvN3D-9Rq3TYZdo_CNuWdKClB10ZGH7)
 * [The Last of Us](https://www.youtube.com/playlist?list=PL8ewBDH5ZkrUqmzDJvyIPoUcM8qLsJ2bZ)
 * [The Legeng of Zelda: Ocarina of Time](https://www.youtube.com/watch?v=N22STVAxL5M&list=PLAs1Kha_R9dLUSxTSb4wLHen4MAQDRIZ_)
 * [To The Moon](https://www.youtube.com/playlist?list=PLC1FA1F106FB20846)
