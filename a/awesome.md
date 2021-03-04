@@ -15,6 +15,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
   * [https://github.com/mbrukman/awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
 * Awesome Hacking: [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * Awesome Indie: [https://github.com/mezod/awesome-indie](https://github.com/mezod/awesome-indie)
+* Awesome IT films: [https://github.com/greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films)
 * Awesome Java: [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * Awesome JavaScript: [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * Awesome Katas: [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
