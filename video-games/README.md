@@ -2,6 +2,13 @@
 
 ## Resources
 
+### Achievements
+
+* [RetroAchievements](https://retroachievements.org/)
+* [TrueAchievements](https://www.trueachievements.com/)
+* [TrueSteamAchievements](https://truesteamachievements.com/)
+* [TrueTrophies](https://www.truetrophies.com/)
+
 ### Databases
 
 * [Glitchwave](https://glitchwave.com/)
