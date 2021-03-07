@@ -25,6 +25,7 @@
 
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
+* [Documentaries](d/documentaries.md)
 * [Dopamine](d/dopamine.md)
 
 ## F
@@ -88,7 +89,8 @@
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
-* [System Design](s/system-design.md)
+* [System Design](s/system-design/README.md)
+  * [Site Reliability Engineering](s/system-design/site-reliability-engineering.md)
 
 ## T
 

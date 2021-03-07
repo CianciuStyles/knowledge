@@ -16,7 +16,11 @@
 
 ### Lists
 
+* [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
+* [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
+* [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
 * [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
+* [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)
 
 ### Online Stores
 
