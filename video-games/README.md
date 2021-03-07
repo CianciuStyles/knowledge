@@ -42,5 +42,12 @@
 
 ### Savegames
 
+* [PC Savegames](https://www.nicouzouf.com/en/?page=home)
 * [The Tech Game](https://www.thetechgame.com/Downloads.html)
+
+### Translations
+
+* [SadNES cITy](https://www.sadnescity.it/)
+
+
 
