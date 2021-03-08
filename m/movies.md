@@ -28,6 +28,7 @@
 ### Websites
 
 * [A Good Movie To Watch](https://agoodmovietowatch.com/)
+* [Best Similar Movies recommendations](https://bestsimilar.com/)
 * [I Check Movies](https://www.icheckmovies.com/)
 * [IMDb](https://www.imdb.com/)
 * [Letterboxd](https://letterboxd.com/)
