@@ -24,7 +24,8 @@
 * [r/digitaltabletop](https://www.reddit.com/r/digitaltabletop/)
 * [Where to play boardgames online](https://www.reddit.com/r/boardgames/wiki/play_online)
 * Threads
-  *  [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats_the_best_game_you_added_to_your_collection/)
+  * [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats_the_best_game_you_added_to_your_collection/)
+  * [What was the game that turned you into a board gamer?](https://www.reddit.com/r/boardgames/comments/lq6r38/what_was_the_game_that_turned_you_into_a_board/)
 
 ### Websites
 

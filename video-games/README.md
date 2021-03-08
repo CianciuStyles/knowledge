@@ -11,13 +11,20 @@
 
 ### Databases
 
+* [Before I Play](https://www.beforeiplay.com/index.php?title=Main_Page)
 * [Glitchwave](https://glitchwave.com/)
+* [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
+* [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+* [Sega Retro](https://segaretro.org/Main_Page)
+* [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
+* [The PlayStation Datacenter](https://psxdatacenter.com/)
 
 ### Lists
 
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
+* [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
 * [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
 * [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
 * [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)
@@ -30,11 +37,13 @@
 * [GameXchange](https://www.gamexchange.co.uk/)
 * [GOG.com](https://www.gog.com/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
+* [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [The Game Collection](https://www.thegamecollection.net/)
 
 ### Reviews
 
+* [Adventure's Planet](https://www.adventuresplanet.it/)
 * [MetaCritic](https://www.metacritic.com/game)
 * [OpenCritic](https://opencritic.com/)
 * [Polygon](https://www.polygon.com/)
@@ -42,11 +51,14 @@
 
 ### Savegames
 
+* [How to Resign PS3 Game Saves](https://wonderpierrot.blogspot.com/2013/08/how-to-resign-ps3-game-saves.html)
 * [PC Savegames](https://www.nicouzouf.com/en/?page=home)
 * [The Tech Game](https://www.thetechgame.com/Downloads.html)
+* [Xbox 360 Gamesaves](https://www.xpgamesaves.com/forums/xbox-360-gamesaves.90/)
 
 ### Translations
 
+* [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
 * [SadNES cITy](https://www.sadnescity.it/)
 
 
