@@ -12,5 +12,6 @@
 
 ### Websites
 
+* [Addic7ed](https://www.addic7ed.com/)
 * [What To Watch On TV](https://whattowatchon.tv/)
 

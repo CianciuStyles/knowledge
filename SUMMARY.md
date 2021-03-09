@@ -95,6 +95,9 @@
 ## T
 
 * [Testing](t/testing.md)
+* [Travel](t/travel/README.md)
+  * [London](t/travel/london.md)
+  * [Rome](t/travel/rome.md)
 * [TV Series & Programmes](t/tv-series-and-programmes.md)
 * [TypeScript](t/typescript.md)
 
