@@ -30,6 +30,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Software Quality: [https://github.com/ligurio/awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 * Awesome Subreddits: [https://github.com/iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 * Awesome Unity: [https://github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity)
+* Awesome Web Apps \(that work without login\): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 * Awesome Windows: [https://github.com/Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
 

@@ -43,6 +43,12 @@
 * [Science Museum](https://www.sciencemuseum.org.uk/)
 * [The Cartoon Museum](https://www.cartoonmuseum.org/)
 
+### Parks
+
+* [Crystal Palace Park](https://www.bromley.gov.uk/crystalpalacepark)
+* [Hampstead Heath](https://www.hampsteadheath.net/)
+* [Holland Park](https://www.rbkc.gov.uk/leisure-and-culture/parks/holland-park)
+
 ### Pubs
 
 * [Argyll Arms](https://www.nicholsonspubs.co.uk/restaurants/london/theargyllarmsoxfordcircuslondon) - Oxford Circus
@@ -73,9 +79,7 @@
 
 ### Walks
 
-* [Crystal Palace Park](https://www.bromley.gov.uk/crystalpalacepark)
 * [Geocaching](https://www.geocaching.com/play)
-* [Hampstead Heath](https://www.hampsteadheath.net/)
 * [London's Prettiest Walks](https://www.timeout.com/london/things-to-do/londons-prettiest-walks) - TimeOut
 * [London Footprints](https://www.london-footprints.co.uk/index.htm)
 * [London Guided Walks](https://londonguidedwalks.uk/)
