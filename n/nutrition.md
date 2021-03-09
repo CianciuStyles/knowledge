@@ -9,6 +9,10 @@
 * [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/)
 * [The TRUTH about your slow metabolism](https://physiqonomics.com/slow-metabolism/) - Physiqonomics
 
+### Recipes
+
+* [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
+
 ### Websites
 
 * [Eat This, Not That!](https://www.eatthis.com/)
