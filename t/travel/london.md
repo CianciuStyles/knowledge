@@ -54,6 +54,7 @@
 * [Argyll Arms](https://www.nicholsonspubs.co.uk/restaurants/london/theargyllarmsoxfordcircuslondon) - Oxford Circus
 * [Famous Three Kings](https://www.craft-pubs.co.uk/f3k-london) - West Kensington
 * [The Bohemia](https://twitter.com/Bohemia_N12/with_replies) - North Finchley
+* [The Crown and Shuttle](https://www.crownandshuttle.com/) - Shoreditch
 
 ### Restaurants
 
