@@ -43,6 +43,7 @@
 ## I
 
 * [Interviews](i/interviews/README.md)
+  * [Behavioural Interviews](i/interviews/behavioural-interviews.md)
   * [Coding Interviews](i/interviews/coding-interviews.md)
 
 ## J
@@ -74,6 +75,7 @@
 * [Personal Finance](p/personal-finance.md)
 * [PostgreSQL](p/postgresql.md)
 * [Procrastination](p/procrastination.md)
+* [Productivity](p/productivity.md)
 * [Prometheus](p/prometheus.md)
 
 ## R
