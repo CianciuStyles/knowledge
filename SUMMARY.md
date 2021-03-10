@@ -20,6 +20,7 @@
 * [C \(programming language\)](c/c-programming-language.md)
 * [Command Line](c/command-line.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
+* [Cryptocurriencies](c/cryptocurriencies.md)
 
 ## D
 
@@ -58,6 +59,7 @@
 ## L
 
 * [Language Learning](l/language-learning.md)
+* [Learning](l/learning.md)
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)
 
