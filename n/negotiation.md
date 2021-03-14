@@ -19,6 +19,17 @@
 * Instead of refusing a deal flat out, try to come back with a proposal - no matter how absurd it might be - and let the other party decide whether to say no to that. People like to reach agreements, so they might actually say yes more often than you expect.
 * The opportunity to make ultimatum gives you more power - but use this power with discretion.
 
+#### Week 3
+
+* **Pareto optimality:** if it's the case that everyone prefers option B to option A, we should _never_ choose option A \(we say option A is _pareto-inferior_ to option B\).
+* Usually the best approach is not to fight fire with fire \(if somebody lies during the negotiation, do not call it out and/or reply with a lie\), but to **put out the fire** \(propose new terms that are going to better for both parties whether or not the lie is supposed to be true\).
+* Meeting in the middle is **not** always the best solution for a compromise: if one parties only likes broccoli and the other only likes beets, meeting in the middle would mean that each party gets half broccoli and half beets, making everyong unhappy. Instead, you can _communicate_ to the other party that you only like broccoli and, if the other party only likes beets, you can divide them so that each one gets only want they want, making everyone happy.
+* Using the principle above, the pie can be made larger than it was before when a compromise that was not fully accepted by both parties was to be found.
+
+#### Week 4
+
+* Step zero: know in advance what you want to obtain from the negotiation.
+
 ## Resources
 
 ### Courses

@@ -70,6 +70,7 @@
 ## M
 
 * [Movies](m/movies.md)
+* [Music](m/music.md)
 
 ## N
 
