@@ -10,16 +10,34 @@
 * [TrueSteamAchievements](https://truesteamachievements.com/)
 * [TrueTrophies](https://www.truetrophies.com/)
 
+### Articles
+
+* [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
+* [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list_of_best_outofthebox_video_output_options/)
+
+### Cases
+
+* [Retro Game Cases](https://www.retrogamecases.com/)
+* [Videogame Box Protectors](https://www.videogameboxprotectors.com/)
+
 ### Databases
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main_Page)
+* [Co-Optimus](https://www.co-optimus.com/)
 * [Glitchwave](https://glitchwave.com/)
 * [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 * [The PlayStation Datacenter](https://psxdatacenter.com/)
+* [Unseen64](https://www.unseen64.net/)
+* [Video Game Preservation](https://github.com/videogamepreservation)
+
+### Forums
+
+* [GamesVillage](https://www.gamesvillage.it/forum/forum.php)
 
 ### Lists
 
@@ -40,6 +58,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
+* [Retro Game Base](https://www.retrogamebase.co.uk/)
 * [The Game Collection](https://www.thegamecollection.net/)
 
 ### Quizzes
