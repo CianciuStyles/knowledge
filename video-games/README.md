@@ -42,6 +42,10 @@
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [The Game Collection](https://www.thegamecollection.net/)
 
+### Quizzes
+
+* [VGM Quiz](https://www.vgm-quiz.com/)
+
 ### Reviews
 
 * [Adventure's Planet](https://www.adventuresplanet.it/)
@@ -61,6 +65,11 @@
 
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
 * [SadNES cITy](https://www.sadnescity.it/)
+
+### Walkthroughs
+
+* [GameFAQs](https://gamefaqs.gamespot.com/)
+* [Gamepressure](https://www.gamepressure.com/)
 
 
 

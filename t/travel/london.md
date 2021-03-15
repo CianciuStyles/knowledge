@@ -12,6 +12,7 @@
 * [Emirates Air Line](https://tfl.gov.uk/modes/emirates-air-line/)
 * [Fulham Palace House & Gardens](https://www.fulhampalace.org/)
 * [Go Ape](https://goape.co.uk/locations/alexandra-palace) - Alexandra Palace
+* [Key bus routes in central London](https://www.mapaplan.com/travel-map/london-top-tourist-attractions-map/high-resolution/london-top-tourist-attractions-map-14-key-bus-routes-by-tourist-attractions-in-central-london-high-resolution.png)
 * [London Waterbus Company](https://www.londonwaterbus.com/)
 * [Mayfield Lavender](https://www.mayfieldlavender.com/)
 * [Oxygen Freejumping](https://oxygenfreejumping.co.uk/#)
@@ -38,10 +39,11 @@
 
 ### Museums
 
-* [Natural History Museum](https://www.nhm.ac.uk/)
-* [Royal Air Force Museum](https://www.rafmuseum.org.uk/london/)
-* [Science Museum](https://www.sciencemuseum.org.uk/)
-* [The Cartoon Museum](https://www.cartoonmuseum.org/)
+* [How to navigate London's Museums and Galleries](https://assets.londonist.com/uploads/2015/02/museums3_7.pdf)
+* [Natural History Museum](https://www.nhm.ac.uk/) - South Kensington
+* [Royal Air Force Museum](https://www.rafmuseum.org.uk/london/) - Colindale
+* [Science Museum](https://www.sciencemuseum.org.uk/) - South Kensington
+* [The Cartoon Museum](https://www.cartoonmuseum.org/) - Fitzrovia
 
 ### Parks
 
@@ -71,12 +73,14 @@
 
 * [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/)
 * [Angel Comedy Club](https://www.angelcomedy.co.uk/)
+* [diamond geezer](https://diamondgeezer.blogspot.com/2015_04_01_diamondgeezer_archive.html)
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
 * [Le Cool](https://london.lecool.com/)
 * [Londonist](https://londonist.com/)
 * [Randomness Guide to London](https://london.randomness.org.uk/wiki.cgi)
 * [SRO audiences](https://www.sroaudiences.com/)
+* [The London Review of Breakfasts](https://londonreviewofbreakfasts.blogspot.com/)
 
 ### Walks
 

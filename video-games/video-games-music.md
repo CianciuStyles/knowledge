@@ -1,8 +1,31 @@
 # Video Games Music
 
+### Databases
+
+* [Spotify Gaming](https://abrochard.github.io/spotify-gaming/)
+* [VGMdb](https://vgmdb.net/)
+* [Video Game Music Downloads](https://downloads.khinsider.com/)
+
+### Lists
+
+* [FIFA Soundtracks 1998-2011](https://canadianpredsfan.blogspot.com/2011/08/eas-fifa-soundtrak-1998-2011.html)
+* [The 100 best video game soundtracks of all time](https://www.factmag.com/2015/04/28/the-100-greatest-video-game-soundtracks-best-ost/)
+
 ### Medleys
 
+* [Game music for studying](https://www.youtube.com/playlist?list=PLNFc0P_CSfdPO2X4xsv38OFZLpI5cBmR_)
+* [Nostalgic Game Music](https://www.youtube.com/playlist?list=PL80frHWH8BIrvNbU4LOfmMVwsF33kW3d2)
+* [Rainwave Video Game Music Radio](https://rainwave.cc/all/)
 * [Relaxing Music From Nintendo 64 Games](https://www.youtube.com/watch?v=C9lJV36k38o)
+* [Video Game Music](https://www.youtube.com/playlist?list=PLVmjWk3MuuFrzbK9vZeCvjIxiLUUN_dEF)
+* [Vidya Intarweb Playlist](https://www.vipvgm.net/)
+
+### Reddit Threads
+
+* [Videogame music that should play when you get home discussion](https://www.reddit.com/r/gamemusic/comments/7wvz0h/videogame_music_that_should_play_when_you_get/)
+* [What are some of the greatest video game OST's with no lyrics? Looking for as many hours as possible across all genres for study/work focus.](https://www.reddit.com/r/gamemusic/comments/3gq6jy/what_are_some_of_the_greatest_video_game_osts/)
+* [What are the most specifically 'beautiful' game soundtracks you have ever heard? Not action packed.](https://www.reddit.com/r/patientgamers/comments/6r494v/what_are_the_most_specifically_beautiful_game/)
+* [What is the best videogame soundtrack in your opinion?](https://www.reddit.com/r/AskReddit/comments/6omsga/what_is_the_best_videogame_soundtrack_in_your/)
 
 ### Soundtracks
 
@@ -29,6 +52,7 @@
 * [Rayman Legends](https://www.youtube.com/watch?v=hdGj84cakFQ&list=PLO4jlmGoc6uB_EhcOfiJWm-Q_4R25YNeT)
 * [Rayman Origins](https://www.youtube.com/watch?v=GZbKagLlFQ0&list=PLO4jlmGoc6uCRbONEtHHNHMLyFa6Mu6_y)
 * [Ridge Racer Type 4](https://www.youtube.com/watch?v=dBWKwbjj020&list=PL6PHQCxAqpJTLqJjrDXhr_rXx0ta5rv4M)
+* [Shadow Of The Colossus](https://www.youtube.com/watch?v=57jIlw6HmCE)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM&feature=youtu.be)
 * [Stronghold](https://www.youtube.com/watch?v=v6otXDTS0KU)
 * [System Shock 2](https://www.youtube.com/watch?v=H392MiLaTm8&list=PLMSvN3D-9Rq3TYZdo_CNuWdKClB10ZGH7)
@@ -41,4 +65,5 @@
 * [Uncharted 4: A Thief's End](https://www.youtube.com/watch?v=5aCSqosrGvw&list=PLpWAlPv9GHA8bLi152hZGPbIFzTeyuGaE)
 * [Undertale](https://www.youtube.com/watch?v=s7RRgF5Ve_E&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg)
 * [Unreal Tournament](https://www.youtube.com/watch?v=qR9kvbXt4tk&list=PLED07D7ADEF957788)
+* [Xenoblade Chronicles](https://www.youtube.com/playlist?list=PLWXWbr9ex3iVqtmHSJ0OIeEnD2hOZnp2Q)
 

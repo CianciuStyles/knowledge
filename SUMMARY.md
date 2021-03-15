@@ -116,7 +116,10 @@
 
 * [V \(programming language\)](vlang.md)
 * [Video Games](video-games/README.md)
+  * [Emulation](video-games/emulation.md)
   * [Video Games Music](video-games/video-games-music.md)
+* [Vim](vim.md)
+* [Vue.js](vue.js.md)
 
 ## W
 
