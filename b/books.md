@@ -34,6 +34,7 @@
 * [1,000 Free Audio Books: Download Great Books for Free](https://www.openculture.com/freeaudiobooks)
 * [800 Free eBooks for iPad, Kindle & Other Devices](https://www.openculture.com/free_ebooks)
 * [Anobii](https://www.anobii.com/)
+* [BetterWorldBooks](https://www.betterworldbooks.com/)
 * [Book Depository](https://www.bookdepository.com/)
 * [Book Finder](https://www.bookfinder.com/)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)

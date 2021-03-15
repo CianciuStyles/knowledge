@@ -29,6 +29,16 @@
 #### Week 4
 
 * Step zero: know in advance what you want to obtain from the negotiation.
+* **Anchoring theory:** the first number you will hear will serve as an anchor or a starting point - a lower number will drag down the starting point, while a higher number will pull up the best asking price.
+* If you have the opportunity to make the first offer, _a low bid may help you get a lower final price_.
+* Starting too low or too high may be **counterproductive**: if you ask for a price too high, many will be discouraged to engage, while if you bid for a price too low, the other party might think you don't know the real worth or you are trying to "steal" it from the seller.
+* Often **making a precise bid** works much better than throwing a round number and see if it sticks. Usually people will think you have some logic or some principle behind the precise price, and given consideration and thought to your ask.
+* Having a conversation about how both parties can expand the pie by working together at first rather than at last would make both parties more interested in investing time and energy, and ultimately reaching a deal.
+* Rather than saying no, propose a contingent plan: you say that you're going to ask your boss if they are willing to do more if you say **yes right now**. Don't make this easy peasy for the seller, though: instead of going all the way up to their price, toughen up and still propose something halfway.
+
+#### Week 5
+
+
 
 ## Resources
 
