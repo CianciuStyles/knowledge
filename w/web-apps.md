@@ -15,6 +15,11 @@
 * [YouTube to Mp3 Converter](https://www.videograbber.net/)
 * [Zamzar](https://www.zamzar.com)
 
+### Mail
+
+* [10 Minute Mail](https://10minutemail.com/)
+* [Temp Mail](https://temp-mail.org/)
+
 ### Programming
 
 * [Carbon](https://carbon.now.sh/) - Create images of source code
