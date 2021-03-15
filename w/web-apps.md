@@ -15,12 +15,38 @@
 * [YouTube to Mp3 Converter](https://www.videograbber.net/)
 * [Zamzar](https://www.zamzar.com)
 
+### File Sharing
+
+* [DropSend](https://www.dropsend.com/)
+* [ToffeeShare](https://toffeeshare.com/)
+
+### Habit Formation
+
+* [Day Zero](https://dayzeroproject.com/)
+* [Streak Club](https://streak.club/)
+
+### Images
+
+* [The Noun Project](https://thenounproject.com/) - Icons and Photos for Everything
+* [The Rasterbator](https://rasterbator.net/) - Wall art generator
+* [TinEye](https://tineye.com/) - Reverse image search
+
 ### Mail
 
 * [10 Minute Mail](https://10minutemail.com/)
 * [Temp Mail](https://temp-mail.org/)
 
+### Printables
+
+* [FreePrintable.com](https://www.freeprintable.com/)
+* [Pocketmod](https://pocketmod.com/)
+* [Printable Paper](https://www.printablepaper.net/)
+
 ### Programming
 
 * [Carbon](https://carbon.now.sh/) - Create images of source code
+
+### Translation
+
+* [DeepL](https://www.deepl.com/translator)
 
