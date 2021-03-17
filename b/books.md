@@ -20,6 +20,7 @@
 
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
+* [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
 
 ### Recommendations
 
@@ -38,6 +39,7 @@
 * [BetterWorldBooks](https://www.betterworldbooks.com/)
 * [Book Depository](https://www.bookdepository.com/)
 * [Book Finder](https://www.bookfinder.com/)
+* [Bookcelerator](https://bookcelerator.com/)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)

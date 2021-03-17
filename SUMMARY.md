@@ -24,6 +24,8 @@
 
 ## D
 
+* [Databases](d/databases/README.md)
+  * [PostgreSQL](d/databases/postgresql.md)
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
 * [Documentaries](d/documentaries.md)
@@ -81,7 +83,6 @@
 ## P
 
 * [Personal Finance](p/personal-finance.md)
-* [PostgreSQL](p/postgresql.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Prometheus](p/prometheus.md)
