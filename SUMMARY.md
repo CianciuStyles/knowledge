@@ -27,6 +27,7 @@
 
 * [Databases](d/databases/README.md)
   * [PostgreSQL](d/databases/postgresql.md)
+  * [SQL](d/databases/sql.md)
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
 * [Documentaries](d/documentaries.md)
@@ -44,6 +45,8 @@
 ## G
 
 * [Game Development](g/game-development/README.md)
+  * [Godot](g/game-development/godot.md)
+  * [LibGDX](g/game-development/libgdx.md)
   * [Unity](g/game-development/unity.md)
   * [Unreal Engine](g/game-development/unreal-engine.md)
 * [Git](g/git.md)
