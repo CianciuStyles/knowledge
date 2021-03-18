@@ -86,6 +86,7 @@
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Prometheus](p/prometheus.md)
+* [Public Speaking](p/public-speaking.md)
 
 ## R
 
