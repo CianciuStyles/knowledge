@@ -2,6 +2,10 @@
 
 ## Resources
 
+### GitHub repositories
+
+* [hulk/Unix-Toolbox](https://github.com/hukl/Unix-Toolbox)
+
 ### Websites
 
 * [Command Challenge](https://cmdchallenge.com/)
