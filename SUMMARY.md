@@ -79,6 +79,7 @@
 ## N
 
 * [Negotiation](n/negotiation.md)
+* [News](n/news.md)
 * [Nutrition](n/nutrition.md)
 
 ## P
