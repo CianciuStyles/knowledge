@@ -38,6 +38,10 @@
 
 #### Week 5
 
+* A party's **added value** is the size of the pie when the party is in without the size of the party when the party is out.
+* One party **will never get more** than its added value.
+* Being **allocentric** means trying to imagine ourselves in other parties' shoes and try to see the situation also from their point of view. This might help us reach a decision faster and with greater accuracy.
+
 
 
 ## Resources
