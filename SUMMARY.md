@@ -39,6 +39,7 @@
 
 ## F
 
+* [Fashion](f/fashion.md)
 * [Focus](f/focus.md)
 * [Football](f/football.md)
 
