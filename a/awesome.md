@@ -23,6 +23,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome LaTeX: [https://github.com/egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 * Awesome macOS: [https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 * Awesome macOS Open Source: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+* Awesome Music: [https://github.com/ciconia/awesome-music](https://github.com/ciconia/awesome-music)
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 * Awesome Security Gists: [https://github.com/Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 * Awesome Shell: [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
