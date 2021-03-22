@@ -42,6 +42,12 @@
 * One party **will never get more** than its added value.
 * Being **allocentric** means trying to imagine ourselves in other parties' shoes and try to see the situation also from their point of view. This might help us reach a decision faster and with greater accuracy.
 
+#### Week 6
+
+* Men are usually **more prone to negotiating** than women.
+* Women are **way better** when negotiating **for another person** rather than for themselves, while men have equal results in both scenarios.
+* Advice for women to get better at negotiations include framing the negotiation as a **cooperative** endeavour rather than a competitive one, and framing the negotiation to be for somebody else rather than for themselves.
+
 
 
 ## Resources
