@@ -48,6 +48,14 @@
 * Women are **way better** when negotiating **for another person** rather than for themselves, while men have equal results in both scenarios.
 * Advice for women to get better at negotiations include framing the negotiation as a **cooperative** endeavour rather than a competitive one, and framing the negotiation to be for somebody else rather than for themselves.
 
+#### Week 7
+
+* Virtually everything is negotiable.
+* The biggest problem people have while negotiating is they fall in love with the thing they are negotiating for, impeding them from walking away.
+* The main ingredients of a success negotiation are power, time, and information.
+* Having deadlines can be a call to action to make the negotiation move forward, but there needs to be a reason why a particular date has been chosen instead of another one.
+* Appearing to be the smartest person in the room can be counter-productive, as it might trigger a fighting reaction in the other party, and does not allow you to reach out asking for help to the person you're negotiating with.
+
 
 
 ## Resources
