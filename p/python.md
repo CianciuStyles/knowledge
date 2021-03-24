@@ -50,3 +50,13 @@ description: 'https://www.python.org/'
 * [Python Library Development](https://www.youtube.com/watch?v=F5BHCVlZly4) - Vitor Baptista
 * [PyVideo.org](https://pyvideo.org/)
 
+### Websites
+
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [New Coder](https://newcoder.io/tutorials/)
+* [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
+* [Pysheeet](https://www.pythonsheets.com/)
+* [Python API Checklist](https://devchecklists.com/python-api-checklist/)
+* [Python Books](https://pythonbooks.org/)
+* [Real Python](https://realpython.com/)
+
