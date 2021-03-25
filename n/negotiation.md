@@ -56,6 +56,11 @@
 * Having deadlines can be a call to action to make the negotiation move forward, but there needs to be a reason why a particular date has been chosen instead of another one.
 * Appearing to be the smartest person in the room can be counter-productive, as it might trigger a fighting reaction in the other party, and does not allow you to reach out asking for help to the person you're negotiating with.
 
+#### Week 8
+
+* Listening is important because there's a tendency about making assumptions of what the other party thinks, and by listening you have a chance to prove or disprove those beliefs.
+* Try to discuss the major principles of the deal early on in the negotiation, so they can be agreed upon and taken off the table completely. In this way, it will be possible to concentrate on the smaller details without going back in circles.
+
 
 
 ## Resources
