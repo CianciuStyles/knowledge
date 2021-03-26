@@ -61,7 +61,10 @@
 * Listening is important because there's a tendency about making assumptions of what the other party thinks, and by listening you have a chance to prove or disprove those beliefs.
 * Try to discuss the major principles of the deal early on in the negotiation, so they can be agreed upon and taken off the table completely. In this way, it will be possible to concentrate on the smaller details without going back in circles.
 
+#### Week 9
 
+* Top 10 negotiation principles: start by asking, make principled arguments, fairness, calculate the pie, employ symmetry, know your BATNA, never accept less than your reservation price, joint problem solving, be allocentric, remember beets vs. broccoli, create new options.
+* Other important negotiation principles: don't fight fire with fire, never say no, choose a good anchor, don't lie, don't be nibbled, get paid to play, \(almost\) everything is negotiable, care but not too much, deadlines need to have a reason, get agreed-upon items off the table.
 
 ## Resources
 
