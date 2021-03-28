@@ -6,6 +6,7 @@
 
 ### Competitions
 
+* [Facebook Career Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 
 ### Platforms
