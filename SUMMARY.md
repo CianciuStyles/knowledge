@@ -95,7 +95,8 @@
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Prometheus](p/prometheus.md)
-* [Python](p/python.md)
+* [Python](p/python/README.md)
+  * [Django](p/python/django.md)
 * [Public Speaking](p/public-speaking.md)
 
 ## R
