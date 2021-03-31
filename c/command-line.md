@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) - Jeff Dickey
+
 ### GitHub repositories
 
 * [hulk/Unix-Toolbox](https://github.com/hukl/Unix-Toolbox)

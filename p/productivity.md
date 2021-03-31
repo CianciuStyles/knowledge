@@ -4,6 +4,8 @@
 
 ### Articles
 
+* [1 Weekly Habit That Will Push You to Peak Performance](https://www.inc.com/laura-garnett/1-weekly-habit-for-peak-performance.html) - Laura Garnett
+* [12 Simple Steps to Become a Productivity Bad-Ass](https://mixwellness.com/12-simple-steps-to-become-a-productivity-bad-ass/) - Kristen Boucher
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 
 ### Books

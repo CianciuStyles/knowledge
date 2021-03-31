@@ -51,6 +51,7 @@
   * [Unity](g/game-development/unity.md)
   * [Unreal Engine](g/game-development/unreal-engine.md)
 * [Git](g/git.md)
+* [Guitar](g/guitar.md)
 
 ## H
 
@@ -80,6 +81,7 @@
 
 ## M
 
+* [Meditation](m/meditation.md)
 * [Movies](m/movies.md)
 * [Music](m/music.md)
 
@@ -94,9 +96,11 @@
 * [Personal Finance](p/personal-finance.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
+* [Programming](p/programming.md)
 * [Prometheus](p/prometheus.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
+  * [Pandas](p/python/pandas.md)
 * [Public Speaking](p/public-speaking.md)
 
 ## R

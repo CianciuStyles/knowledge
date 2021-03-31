@@ -6,6 +6,8 @@ description: 'https://www.python.org/'
 
 ### Articles
 
+* [A Neural Network in 11 lines of Python \(Part 1\)](https://iamtrask.github.io/2015/07/12/basic-python-network/) - Andrew Trask
+* [Async Python: The Different Forms of Concurrency](https://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/) - Abu Ashraf Masnun
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen

@@ -14,6 +14,7 @@
 * [The Bogleheads’ Guide to Investing](https://smile.amazon.co.uk/dp/1118921283/) - Mel Lindauer, Taylor Larimore, Michael LeBeouf
 * [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel](https://smile.amazon.co.uk/dp/0060555661/) - Benjamin Graham
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://smile.amazon.co.uk/dp/1119404509/) - John Bogle
+* [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://smile.amazon.co.uk/dp/1589795474) - Thomas J. Stanley, William D. Danko
 * [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://smile.amazon.co.uk/dp/1533667926) - JL Collins
 * [The Total Money Makeover](https://smile.amazon.co.uk/dp/1595555277/) - Dave Ramsey
 * [The Truth About Money](https://smile.amazon.co.uk/dp/0062006487) - Ric Edelman

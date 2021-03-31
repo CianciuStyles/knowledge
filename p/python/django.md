@@ -6,6 +6,9 @@ description: 'https://www.djangoproject.com/'
 
 ### Articles
 
+* [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21) - Joseph Misiti
+* [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131) - Joseph Misiti
+* [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) - Vitor Freitas
 * [Django Apps Checklist](https://devchecklists.com/django-apps-checklist/en/)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 

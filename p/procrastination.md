@@ -1,10 +1,13 @@
 # Procrastination
 
-## Articles
+## Resources
 
+### Articles
+
+* [5 Scientifically Proven Ways to Beat Procrastination](https://www.inc.com/jessica-stillman/5-scientifically-proven-ways-to-beat-procrastination.html) - Jessica Stillman
 * [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) - Tim Urban
 
-## Videos
+### Videos
 
 * [Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU) - Tim Urban
 
