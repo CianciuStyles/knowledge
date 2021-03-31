@@ -10,6 +10,7 @@ description: 'https://www.python.org/'
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
+* [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [Unicode in Python, Completely Demystified](http://farmdev.com/talks/unicode/) - Kumar McMiIlan
