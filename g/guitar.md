@@ -8,5 +8,6 @@
 
 ### Websites
 
+* [Eat. Sleep. Guitar!](https://eatsleepguitar.com/)
 * [Justin Guitar](https://www.justinguitar.com/)
 

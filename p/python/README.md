@@ -10,11 +10,13 @@ description: 'https://www.python.org/'
 * [Async Python: The Different Forms of Concurrency](https://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/) - Abu Ashraf Masnun
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
+* [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
+* [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) - Simeon Franklin
 * [Unicode in Python, Completely Demystified](http://farmdev.com/talks/unicode/) - Kumar McMiIlan
 * [When is Cheryl's Birthday?](https://nbviewer.jupyter.org/url/norvig.com/ipython/Cheryl.ipynb) - Peter Norvig
 
