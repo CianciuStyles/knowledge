@@ -40,6 +40,8 @@
 ## F
 
 * [Fashion](f/fashion.md)
+* [Fitness](f/fitness/README.md)
+  * [Nutrition](f/fitness/nutrition.md)
 * [Focus](f/focus.md)
 * [Football](f/football.md)
 
@@ -89,7 +91,6 @@
 
 * [Negotiation](n/negotiation.md)
 * [News](n/news.md)
-* [Nutrition](n/nutrition.md)
 
 ## P
 

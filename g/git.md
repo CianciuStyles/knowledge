@@ -2,6 +2,10 @@
 
 ## Useful commands
 
+### Add a new remote repository
+
+`git remote add <remote_name> <remote_url>`
+
 ### Create a fixup commit
 
 `git commit --fixup <hash>`
