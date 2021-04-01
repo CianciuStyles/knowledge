@@ -16,6 +16,7 @@ description: 'https://www.python.org/'
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [Unicode in Python, Completely Demystified](http://farmdev.com/talks/unicode/) - Kumar McMiIlan
+* [When is Cheryl's Birthday?](https://nbviewer.jupyter.org/url/norvig.com/ipython/Cheryl.ipynb) - Peter Norvig
 
 ### Books
 

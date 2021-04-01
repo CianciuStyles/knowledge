@@ -5,6 +5,7 @@
 ### Articles
 
 * [Age of distraction or how to calmy enjoy what you are doing in 2021](https://www.lostbookofsales.com/age-of-distractions/) - Santeri Liukkonen
+* [Training to Attain Jedi-Like Concentration](https://siimland.com/training-attain-jedi-like-concentration/) - Siim Land
 
 ### Books
 

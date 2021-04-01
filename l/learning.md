@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [You Can Increase Your Intelligence: 5 Ways to Maximize Your Cognitive Potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/) - Andrea Kuszewski
+
 ### Websites
 
 * [CourseRoot](https://courseroot.com/) - Search 80,000 courses and tutorials
