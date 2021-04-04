@@ -11,6 +11,12 @@ description: 'https://www.djangoproject.com/'
 * [Class-Based Views vs. Function-Based Views](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) - Vitor Freitas
 * [Django Apps Checklist](https://devchecklists.com/django-apps-checklist/en/)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+* [Django, fast: part 1](https://blog.mirumee.com/django-fast-part-1-8d068a1b14bc) **-** Patryk Zawadzki
+* [Django, fast: part 2](https://blog.mirumee.com/django-fast-part-2-d73a4ecd61f3) - Patryk Zawadzki
+* [Django, fast: part 3](https://blog.mirumee.com/django-fast-part-3-a02da6f12418) **-** Patryk Zawadzki
+* [Django project optimization guide \(part 1\)](https://dizballanze.com/django-project-optimization-part-1/) - Yuri Shikanov
+* [Django project optimization guide \(part 2\)](https://dizballanze.com/en/django-project-optimization-part-2/) - Yuri Shikanov
+* [Django project optimization guide \(part 3\)](https://dizballanze.com/en/django-project-optimization-part-3/) - Yuri Shikanov
 
 ### GitHub Repositories
 
