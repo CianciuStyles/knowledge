@@ -80,6 +80,7 @@
 ## L
 
 * [Language Learning](l/language-learning.md)
+* [LaTeX](l/latex.md)
 * [Learning](l/learning.md)
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)

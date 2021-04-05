@@ -28,6 +28,10 @@
 * [DropSend](https://www.dropsend.com/)
 * [ToffeeShare](https://toffeeshare.com/)
 
+### Fonts
+
+* [WhatTheFont!](https://www.myfonts.com/WhatTheFont/)
+
 ### Habit Formation
 
 * [Day Zero](https://dayzeroproject.com/)
@@ -46,6 +50,11 @@
 
 * [10 Minute Mail](https://10minutemail.com/)
 * [Temp Mail](https://temp-mail.org/)
+
+### Math
+
+* [Mathway](https://www.mathway.com)
+* [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ### Printables
 
