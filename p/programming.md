@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [101 Tips For Being A Great Programmer \(& Human\)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl) - Emma Bostian
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie

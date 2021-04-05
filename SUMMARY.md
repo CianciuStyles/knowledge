@@ -7,6 +7,7 @@
 * [Algorithms & Data Structures](a/algorithms.md)
 * [Amazon Web Services](a/amazon-web-services.md)
 * [Android](a/android.md)
+* [Anime, Comics & Manga](a/anime-comics-and-manga.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 
