@@ -8,7 +8,8 @@
 
 ### GitHub repositories
 
-* [hulk/Unix-Toolbox](https://github.com/hukl/Unix-Toolbox)
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Unix Toolbox](https://github.com/hukl/Unix-Toolbox)
 
 ### Websites
 

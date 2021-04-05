@@ -14,14 +14,17 @@
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman \(first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)\)
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
+* [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ### GitHub repositories
 
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 
 ### Ideas for projects
 
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
+* [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - Al Sweigart
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
 
@@ -33,7 +36,9 @@
 ### Websites
 
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+* [Develop For Performance](http://developforperformance.com/)
 * [Developer Roadmaps](https://roadmap.sh/)
+* [DevFreeBooks](https://devfreebooks.github.io/)
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)

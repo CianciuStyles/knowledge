@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety](https://www.brainpickings.org/2017/08/27/seneca-anxiety/) - Brain Pickings
 * [Meditations on Meditations: Reflections on a First Reading of Marcus Aurelius](https://www.artofmanliness.com/articles/meditations-first-reading-aurelius-meditations/) - The Art of Manliness
 
 ### Blogs

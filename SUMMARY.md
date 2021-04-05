@@ -21,6 +21,7 @@
 * [C \(programming language\)](c/c-programming-language.md)
 * [Command Line](c/command-line.md)
 * [Competitive Programming](c/competitive-programming.md)
+* [Computer Science](c/computer-science.md)
 * [Cooking](c/cooking.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
 * [Cryptocurriencies](c/cryptocurriencies.md)
@@ -101,6 +102,7 @@
 ## P
 
 * [Personal Finance](p/personal-finance.md)
+* [Podcasts](p/podcasts.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Programming](p/programming.md)

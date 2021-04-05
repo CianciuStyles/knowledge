@@ -10,3 +10,7 @@
 * [Rom Hustler](https://romhustler.org/)
 * [Vimm's Lair](https://vimm.net/)
 
+### YouTube Channels
+
+* [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
+
