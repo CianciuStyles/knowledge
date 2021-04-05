@@ -1,5 +1,13 @@
 # Web Apps
 
+### Connectivity
+
+* [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
+
+### Date and Time
+
+* [Days Between Two Dates](https://www.timeanddate.com/date/duration.html)
+
 ### File Converters
 
 * [CloudConvert](https://cloudconvert.com/)

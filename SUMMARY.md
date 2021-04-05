@@ -20,6 +20,7 @@
 * [C \(programming language\)](c/c-programming-language.md)
 * [Command Line](c/command-line.md)
 * [Competitive Programming](c/competitive-programming.md)
+* [Cooking](c/cooking.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
 * [Cryptocurriencies](c/cryptocurriencies.md)
 
