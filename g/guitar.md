@@ -8,6 +8,11 @@
 
 ### Websites
 
+* [CAGED Guitar System: How To Make The Most Of It](https://www.cagedguitarsystem.net/)
+* [ChordieHow.com](https://chordiehow.com/)
 * [Eat. Sleep. Guitar!](https://eatsleepguitar.com/)
+* [GuitarHabits](https://www.guitarhabits.com/)
 * [Justin Guitar](https://www.justinguitar.com/)
+* [MyGuitarSolo.com](http://www.myguitarsolo.com/)
+* [The Guitarist's Online Survival Kit](https://gosk.com/)
 

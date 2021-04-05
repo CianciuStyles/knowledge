@@ -27,6 +27,7 @@
 * [Glitchwave](https://glitchwave.com/)
 * [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
+* [Il Dizionario dei Videogiochi](http://www.dizionariovideogiochi.it/doku.php)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)

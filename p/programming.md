@@ -31,7 +31,9 @@
 
 ### Websites
 
+* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
+* [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
 * [Programming Idioms](https://www.programming-idioms.org/)
 
