@@ -89,7 +89,9 @@
 
 * [Meditation](m/meditation.md)
 * [Movies](m/movies.md)
-* [Music](m/music.md)
+* [Music](m/music/README.md)
+  * [Music Production](m/music/music-production.md)
+  * [Music Theory](m/music/music-theory.md)
 
 ## N
 
@@ -110,6 +112,7 @@
 
 ## R
 
+* [Regular Expressions](r/regular-expressions.md)
 * [Rust](r/rust.md)
 
 ## S

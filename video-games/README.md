@@ -29,6 +29,8 @@
 * [IGDB.com](https://www.igdb.com/discover)
 * [Il Dizionario dei Videogiochi](http://www.dizionariovideogiochi.it/doku.php)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+* [Retroedicola Videoludica](https://www.retroedicola.com/)
+* [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)

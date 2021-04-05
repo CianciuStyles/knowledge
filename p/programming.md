@@ -28,10 +28,12 @@
 ### Open Source
 
 * [First Contributions](https://firstcontributions.github.io/)
+* [Up For Grabs](https://up-for-grabs.net/#/)
 
 ### Websites
 
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+* [Developer Roadmaps](https://roadmap.sh/)
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
