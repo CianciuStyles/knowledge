@@ -139,6 +139,7 @@
   * [Mods](video-games/mods.md)
   * [Video Games Music](video-games/video-games-music.md)
 * [Vim](vim.md)
+* [Virtual Tours](virtual-tours.md)
 * [Vue.js](vue.js.md)
 
 ## W
