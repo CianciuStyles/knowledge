@@ -1,5 +1,17 @@
 # LaTeX
 
+### Articles
+
+* [Begin LaTeX In Minutes](https://luong-komorebi.github.io/Begin-Latex-in-minutes/) - Luong Vo
+
+### Books
+
+* [The Not So Short Introduction to LaTeX2e](https://tobi.oetiker.ch/lshort/lshort.pdf) - Tobias Oetiker, Huber Partl, Irene Hyna, Elisabeth Schlegl
+
+### GitHub Repositories
+
+* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+
 ### Utilities
 
 * [Detextify](https://detexify.kirelabs.org/classify.html)

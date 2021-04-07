@@ -25,9 +25,12 @@
 
 ### Recommendations
 
+* [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
 * [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
+* [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
 * [The Book Seer](https://bookseer.com/) - What should I read next
+* [The Greatest Books](https://thegreatestbooks.org/)
 * [The StoryGraph](https://app.thestorygraph.com/)
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/)
 * [Whichbook](https://www.whichbook.net/)
