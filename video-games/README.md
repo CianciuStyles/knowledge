@@ -15,6 +15,10 @@
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list_of_best_outofthebox_video_output_options/)
 
+### Books
+
+* [Masters of Doom](https://smile.amazon.co.uk/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
+
 ### Cases
 
 * [Retro Game Cases](https://www.retrogamecases.com/)
