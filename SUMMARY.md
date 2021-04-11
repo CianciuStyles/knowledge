@@ -80,7 +80,8 @@
 
 ## L
 
-* [Language Learning](l/language-learning.md)
+* [Language Learning](l/language-learning/README.md)
+  * [Certificate of Proficiency in English](l/language-learning/certificate-of-proficiency-in-english.md)
 * [LaTeX](l/latex.md)
 * [Learning](l/learning.md)
 * [Legacy Code](l/legacy-code.md)
@@ -156,6 +157,7 @@
 
 * [Web Apps](w/web-apps.md)
 * [Work](w/work/README.md)
+  * [Freelancing](w/work/freelancing.md)
   * [Job Boards](w/work/job-boards.md)
   * [Remote Work](w/work/remote-work.md)
 
