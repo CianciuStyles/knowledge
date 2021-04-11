@@ -21,10 +21,12 @@
 
 * [Devhints](https://devhints.io/)
 * [DZone Refcardz](https://dzone.com/refcardz)
+* [Hyperpolyglot](https://hyperpolyglot.org/)
 
 ### GitHub repositories
 
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+* [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 
 ### Ideas for projects

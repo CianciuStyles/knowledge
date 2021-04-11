@@ -41,6 +41,7 @@
 
 * [eCommerce](e/ecommerce.md)
 * [Electronics](e/electronics.md)
+* [Events](e/events.md)
 
 ## F
 
@@ -117,6 +118,7 @@
 ## R
 
 * [Regular Expressions](r/regular-expressions.md)
+* [Renting](r/renting.md)
 * [Rust](r/rust.md)
 
 ## S
@@ -157,6 +159,7 @@
 ## W
 
 * [Web Apps](w/web-apps.md)
+* [Web Cams](w/web-cams.md)
 * [Work](w/work/README.md)
   * [Freelancing](w/work/freelancing.md)
   * [Job Boards](w/work/job-boards.md)

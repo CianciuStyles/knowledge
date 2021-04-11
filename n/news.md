@@ -6,6 +6,8 @@
 ### Technology
 
 * [Ars Technica](https://arstechnica.com/)
+* [Hacker News](https://news.ycombinator.com/)
+  * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
 * [Lobste.rs](https://lobste.rs/)
 * [Pinboard](https://pinboard.in/popular/)
 

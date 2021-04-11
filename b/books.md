@@ -26,6 +26,8 @@
 ### Recommendations
 
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
+* [Hacker News Books](https://hackernewsbooks.com/)
+* [HN Books](https://yahnd.com/books/)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
 * [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
