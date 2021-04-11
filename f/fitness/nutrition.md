@@ -16,6 +16,11 @@
 
 * [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
 
+### Videos
+
+* [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0) - What I've Learned
+* [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8) - What I've Learned
+
 ### Websites
 
 * [Eat This, Not That!](https://www.eatthis.com/)
