@@ -31,6 +31,7 @@
 * [Databases](d/databases/README.md)
   * [PostgreSQL](d/databases/postgresql.md)
   * [SQL](d/databases/sql.md)
+* [Design Patterns](d/design-patterns.md)
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
 * [Documentaries](d/documentaries.md)

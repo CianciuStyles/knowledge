@@ -17,6 +17,11 @@
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
+### Cheat Sheets
+
+* [Devhints](https://devhints.io/)
+* [DZone Refcardz](https://dzone.com/refcardz)
+
 ### GitHub repositories
 
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
@@ -38,10 +43,13 @@
 
 ### Websites
 
+* [Code Cartoons](https://code-cartoons.com/)
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [Develop For Performance](http://developforperformance.com/)
 * [Developer Roadmaps](https://roadmap.sh/)
 * [DevFreeBooks](https://devfreebooks.github.io/)
+* [DEV Community](https://dev.to/)
+* [Dev Tips](https://umaar.com/dev-tips/) - Umar Hansa
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
