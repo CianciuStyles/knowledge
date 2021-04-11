@@ -12,3 +12,7 @@
 
 
 
+* [Slashscore](https://app.slashscore.ai/)
+
+
+
