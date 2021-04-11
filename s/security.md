@@ -8,6 +8,7 @@
 
 ### GitHub Repositories
 
+* [Crypton](https://github.com/ashutosh1206/Crypton)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 
 ### Websites
@@ -21,4 +22,6 @@
   * [Juice Shop](https://owasp.org/www-project-juice-shop/)
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
+* [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 
