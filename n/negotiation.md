@@ -66,10 +66,63 @@
 * Top 10 negotiation principles: start by asking, make principled arguments, fairness, calculate the pie, employ symmetry, know your BATNA, never accept less than your reservation price, joint problem solving, be allocentric, remember beets vs. broccoli, create new options.
 * Other important negotiation principles: don't fight fire with fire, never say no, choose a good anchor, don't lie, don't be nibbled, get paid to play, \(almost\) everything is negotiable, care but not too much, deadlines need to have a reason, get agreed-upon items off the table.
 
+### Salary Negotiation Workshop - Josh Doody
+
+#### Prepare for interviews
+
+* Basic research
+  * try to learn what the company does and what's its mission
+  * search on Google for stock performance / blog posts / press releases
+* What's their story?
+  * Demonstrate their story will be better with you at the company
+* The dreaded salary question
+  * Current salary: "I'm not really comfortable sharing this info. I'd prefer to focus on the value I can add to this company"
+  * Desired salary: "I want this move to be a big step forward for both responsibility and compensation."
+  * Do not disclose these numbers early on, as they might limit your bargaining power down the line
+
+#### Negotiation strategy
+
+* You should negotiate!
+  * You don't want to start with the wrong foot =&gt; do it the right way and this won't happen
+  * You fear the offer will be pulled =&gt; that's very unlikely
+* What is your minimum acceptable salary?
+  * Find some references points: current/desired salary, comparison with other employees at the same company
+  * Pending raises and bonuses
+  * Overall feel of the company
+* Pick your number and stick to it!
+  * Counter 10% to 20% to their initial offer
+  * 10% is basically a baseline for every company
+  * 20% is a bit pushy, do this only if you sense they need you pretty badly
+* Define your negotiation window
+  * Baseline is what they offered you in the first place
+  * Upper bound is your counter offer
+  * Prepare for incremental steps
+
+#### What if you're staying put?
+
+* Define your goal
+  * Raise: target salary
+* You need a compelling case
+  * Raise: what's changed?
+  * Promotion: show your work
+* Prepare your case
+* Make your request
+  * Schedule a 1:1 with your manager to make the request
+  * Follow up with the same request in writing \(e.g., email\)
+
+#### Q&A
+
+* Maximise you base salary rather than stocks and equities
+* [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com/) to gain information about the company and salary
+
 ## Resources
 
 ### Courses
 
 * [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator ](https://www.coursera.org/learn/negotiation)- Barry Nalebuff
 * [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) - George Siedel
+
+### Videos
+
+* [Salary Negotiation Workshop](https://www.youtube.com/watch?v=sN19aNmjBoU) - Josh Doody
 
