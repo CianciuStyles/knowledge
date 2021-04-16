@@ -6,6 +6,12 @@
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 
+### Databases
+
+* [CVE Mitre](https://cve.mitre.org/)
+* [Exploit Database](https://www.exploit-db.com/)
+* [National Vulnerability Database](https://nvd.nist.gov/vuln/search)
+
 ### GitHub Repositories
 
 * [Crypton](https://github.com/ashutosh1206/Crypton)
