@@ -21,6 +21,7 @@
 
 * [DVWA](https://dvwa.co.uk/) - Damn Vulneable Web Application
 * [flAWS](http://flaws.cloud/)
+* [Hack The Box](https://www.hackthebox.eu/)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
 * [How HTTPS works](https://howhttps.works/)
 * [Open Web Application Security Project \(OWASP\)](https://owasp.org/)
