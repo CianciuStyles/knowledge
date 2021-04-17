@@ -2,7 +2,9 @@
 
 ### Best Series I Have Watched
 
-* [Sherlock](https://www.bbc.co.uk/programmes/b018ttws)
+* [Black Mirror](https://www.imdb.com/title/tt2085059/)
+* [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+* [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=nv_sr_srsg_0)
 
 ### To Watch
 
