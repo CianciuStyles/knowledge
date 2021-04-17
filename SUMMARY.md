@@ -88,6 +88,7 @@
 * [Learning](l/learning.md)
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)
+* [Life Hacks](l/life-hacks.md)
 
 ## M
 
