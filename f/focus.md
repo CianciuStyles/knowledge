@@ -2,6 +2,7 @@
 
 ## Notes
 
+* If you want to have a hyper-focus on anything in life, by definition you have to neglect other things. You only have so much attention to slice and dice. Tim Ferriss
 * Don't try to do everything at once. Pick one thing to go after, then move onto the next thing.
 
 ## Resources

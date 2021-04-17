@@ -41,6 +41,7 @@
 
 * [eCommerce](e/ecommerce.md)
 * [Electronics](e/electronics.md)
+* [Elon Musk](e/elon-musk.md)
 * [Events](e/events.md)
 
 ## F
@@ -148,6 +149,7 @@
   * [Rome](t/travel/rome.md)
 * [TV Series & Programmes](t/tv-series-and-programmes.md)
 * [TypeScript](t/typescript.md)
+* [Typography](t/typography.md)
 
 ## V
 
