@@ -1,5 +1,9 @@
 # Focus
 
+## Notes
+
+* Don't try to do everything at once. Pick one thing to go after, then move onto the next thing.
+
 ## Resources
 
 ### Articles

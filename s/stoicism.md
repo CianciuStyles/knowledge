@@ -1,5 +1,9 @@
 # Stoicism
 
+## Notes
+
+* The obstacle in your path may be difficult and uncomfortable but you will be rewarded for overcoming it.
+
 ## Resources
 
 ### Articles

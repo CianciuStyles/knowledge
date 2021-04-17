@@ -47,6 +47,7 @@
 
 * [Fashion](f/fashion.md)
 * [Fitness](f/fitness/README.md)
+  * [Exercise](f/fitness/exercise.md)
   * [Nutrition](f/fitness/nutrition.md)
 * [Focus](f/focus.md)
 * [Football](f/football.md)
@@ -115,6 +116,10 @@
   * [Django](p/python/django.md)
   * [Pandas](p/python/pandas.md)
 * [Public Speaking](p/public-speaking.md)
+
+## Q
+
+* [Quotes](q/quotes.md)
 
 ## R
 

@@ -7,7 +7,9 @@
 ### Books
 
 * [101 Guitar Tips: Stuff All the Pros Know and Use](https://smile.amazon.co.uk/dp/0634053418/) - Adam St. James
+* [Effortless Mastery: Liberating the Master Musician Within](https://smile.amazon.co.uk/Effortless-Mastery-Liberating-Master-Musician/dp/156224003X/) - Kennt Werner
 * [Guitar Fretboard Workbook](https://smile.amazon.co.uk/dp/0634049011) - Barrett Tagliarino
+* [How to Make Your Electric Guitar Play Great!](https://smile.amazon.co.uk/Make-Your-Electric-Guitar-Great/dp/0879309989) - Dan Erlewine
 * [Music Theory for Guitarists: Everything You Ever Wanted to Know But Were Afraid to Ask](https://smile.amazon.co.uk/dp/B00M0DCMEC) - Tom Kolb
 
 ### Ear Training

@@ -1,5 +1,9 @@
 # Meditation
 
+## Notes
+
+* More than 80% of Tim Ferriss's guests on the show have some from of daily mindfulness or medidation practice.
+
 ## Resources
 
 ### Articles
