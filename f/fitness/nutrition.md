@@ -1,5 +1,11 @@
 # Nutrition
 
+## Notes
+
+* Ketosis is when you have a blood concentration of ketones greater or equal to 0.5mmol.
+* The ketogenic diet mimics the physiological state of fasting by suppressing insulin and raising blood ketone levels.
+* The ketogenic diet works because it's non-glycemic - we control our appetite instead of our appetite controlling us.
+
 ## Resources
 
 ### Articles
