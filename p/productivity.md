@@ -4,6 +4,7 @@
 
 * Busy = out of control
 * Even if you can't do something, you can seek help or assistance from others to get something done.
+* When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs/)
 
 ## Resources
 
