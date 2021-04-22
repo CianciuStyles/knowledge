@@ -16,6 +16,7 @@
 ### Books
 
 * [Deep Work](https://smile.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/) - Cal Newport
+* [The Distracted Mind: Ancient Brains in a High-Tech World](https://smile.amazon.co.uk/dp/0262534436/) - Adam Gazzaley, Larry D. Rosen
 
 ### Podcasts
 

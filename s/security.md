@@ -1,5 +1,9 @@
 # Security
 
+### Articles
+
+* [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
+
 ### Awesome
 
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)

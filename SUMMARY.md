@@ -66,6 +66,7 @@
 ## H
 
 * [Habits](h/habits.md)
+* [Happiness](h/happiness.md)
 
 ## I
 
@@ -77,6 +78,7 @@
 
 * [Java](j/java.md)
 * [JavaScript](j/javascript.md)
+* [Journaling](j/journaling.md)
 
 ## K
 
@@ -117,6 +119,7 @@
   * [Django](p/python/django.md)
   * [Pandas](p/python/pandas.md)
 * [Public Speaking](p/public-speaking.md)
+* [Purpose](p/purpose.md)
 
 ## Q
 
@@ -138,6 +141,7 @@
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
   * [Push Ups](s/strength-training/push-ups.md)
+* [Success](s/success.md)
 * [System Design](s/system-design/README.md)
   * [Site Reliability Engineering](s/system-design/site-reliability-engineering.md)
 

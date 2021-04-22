@@ -2,6 +2,7 @@
 
 ## Notes
 
+* Busy = out of control
 * Even if you can't do something, you can seek help or assistance from others to get something done.
 
 ## Resources
