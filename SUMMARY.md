@@ -107,6 +107,10 @@
 * [Negotiation](n/negotiation.md)
 * [News](n/news.md)
 
+## O
+
+* [Operating Systems](o/operating-systems.md)
+
 ## P
 
 * [Personal Finance](p/personal-finance.md)
