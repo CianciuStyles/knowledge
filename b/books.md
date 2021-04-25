@@ -30,6 +30,7 @@
 * [HN Books](https://yahnd.com/books/)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
 * [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
+* [Shepherd](https://shepherd.com/)
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
 * [The Book Seer](https://bookseer.com/) - What should I read next
 * [The Greatest Books](https://thegreatestbooks.org/)
