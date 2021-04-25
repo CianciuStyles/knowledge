@@ -1,5 +1,10 @@
 # Web Apps
 
+### Color Schemes
+
+* [Color Wheel](https://color.adobe.com/create/color-wheel)
+* [Coolors](https://coolors.co/)
+
 ### Connectivity
 
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
@@ -55,7 +60,9 @@
 
 ### Math
 
+* [Derivative Calculator](https://www.derivative-calculator.net/)
 * [Mathway](https://www.mathway.com)
+* [Symbolab Math Solver](https://www.symbolab.com/)
 * [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ### Printables
@@ -67,6 +74,14 @@
 ### Programming
 
 * [Carbon](https://carbon.now.sh/) - Create images of source code
+
+### Search
+
+* [SimilarSiteSearch](https://www.similarsitesearch.com/)
+
+### Text-to-Speech
+
+* [NaturalReaders](https://www.naturalreaders.com/online/)
 
 ### Translation
 

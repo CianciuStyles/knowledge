@@ -280,3 +280,9 @@ receivers:
 * high cardinality data
 * for dashboarding \(use Grafana\)
 
+## Resources
+
+### Websites
+
+* [PromQL for Humans](https://timber.io/blog/promql-for-humans/)
+

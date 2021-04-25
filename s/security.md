@@ -27,6 +27,7 @@
 * [flAWS](http://flaws.cloud/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
+* [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
 * [How HTTPS works](https://howhttps.works/)
 * [Open Web Application Security Project \(OWASP\)](https://owasp.org/)
   * [Cheat Sheets](https://cheatsheetseries.owasp.org/)
@@ -35,6 +36,7 @@
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
 
 ### YouTube Channels

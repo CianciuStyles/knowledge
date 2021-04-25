@@ -699,6 +699,10 @@ var variable2 // mutable
 
 * [Learn Kotlin in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
 
+### Awesome
+
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+
 ### Online Courses
 
 * [Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers) - Coursera
