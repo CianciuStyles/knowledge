@@ -88,6 +88,7 @@
 
 * [Language Learning](l/language-learning/README.md)
   * [Certificate of Proficiency in English](l/language-learning/certificate-of-proficiency-in-english.md)
+  * [Japanese](l/language-learning/japanese.md)
 * [LaTeX](l/latex.md)
 * [Learning](l/learning.md)
 * [Legacy Code](l/legacy-code.md)
