@@ -128,6 +128,7 @@
 
 ## Q
 
+* [Quantum Computing](q/quantum-computing.md)
 * [Quotes](q/quotes.md)
 
 ## R
