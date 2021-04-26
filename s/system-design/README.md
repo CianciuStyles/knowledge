@@ -4,7 +4,7 @@
 
 ### Books
 
-* [Designing Data-Intensive Applications](https://smile.amazon.co.uk/dp/1449373321/) - Martin Kleppmann
+* [Designing Data-Intensive Applications](https://smile.amazon.co.uk/dp/1449373321/) - Martin Kleppmann \([website](https://dataintensive.net/)\)
 * [System Design Interview – An insider's guide, Second Edition](https://smile.amazon.co.uk/dp/B08CMF2CQF/) - Alex Xu
 
 ### Courses

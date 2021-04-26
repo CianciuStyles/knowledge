@@ -38,6 +38,7 @@
 * [How to own a code](https://www.iamjonas.me/2020/11/how-to-own-code.html) - Jonas Lundberg
 * [How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html) - Jonas Lundberg
 * [new codebase, who dis? \(How to Join a Team and Learn a Codebase\)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) - Samuel Taylor
+* [The key points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/) - Nicolas Carlo
 
 ### Books
 

@@ -13,6 +13,7 @@
 
 ### GitHub Repositories
 
+* [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
 * [The Algorithms](https://github.com/TheAlgorithms)
 
 ### Videos
