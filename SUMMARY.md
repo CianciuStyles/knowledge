@@ -178,6 +178,7 @@
 
 * [Web Apps](w/web-apps.md)
 * [Web Cams](w/web-cams.md)
+* [Web Development](w/web-development.md)
 * [Work](w/work/README.md)
   * [Freelancing](w/work/freelancing.md)
   * [Job Boards](w/work/job-boards.md)

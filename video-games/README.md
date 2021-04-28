@@ -97,5 +97,9 @@
 * [GameFAQs](https://gamefaqs.gamespot.com/)
 * [Gamepressure](https://www.gamepressure.com/)
 
+### Wikis
+
+* [Portal Wiki](https://theportalwiki.com/wiki/Main_Page)
+
 
 
