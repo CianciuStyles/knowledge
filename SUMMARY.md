@@ -4,7 +4,8 @@
 
 ## A
 
-* [Algorithms & Data Structures](a/algorithms.md)
+* [Algorithms & Data Structures](a/algorithms/README.md)
+  * [Dynamic Programming](a/algorithms/dynamic-programming.md)
 * [Amazon Web Services](a/amazon-web-services.md)
 * [Android](a/android.md)
 * [Anime, Comics & Manga](a/anime-comics-and-manga.md)

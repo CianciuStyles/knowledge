@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [SRE Case Study: Mysterious Traffic Imbalance](https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/) - Charles Li, eBay
+
 ### Books
 
 * [Building Secure & Reliable Systems](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf)
