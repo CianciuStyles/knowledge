@@ -13,10 +13,21 @@
 * Reduce exposure to the cue for bad habits - e.g., if you want to stop smoking and you noticed you always do it when drinking coffee in the garden, then stop drinking coffee in the garden. Time and location are the 2 most common cues.
 * It is much easier to avoid temptation than to resist it, so just avoid situations in which you know you will be tempted if you can.
 
+### How to Get Back on Track After Slipping Up \(Habits, Diet, etc.\) - Tim Ferriss
+
+* Expect to fall off the track at some point - but have a plan for when that happens
+* Doing anything with a friend for accountability - and put some money on the line \(even $1 bets work well\)
+* Have a "start again" meditation
+* Do less than you think you can handle - you can always add more later
+
 ## Resources
 
 ### Books
 
 * [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear
 * [The Power Of Habit](https://smile.amazon.co.uk/dp/1847946240) - Charles Duhigg
+
+### YouTube videos
+
+* [How to Get Back on Track After Slipping Up \(Habits, Diet, etc.\)](https://www.youtube.com/watch?v=dmgl_bT9_vc) - Tim Ferriss
 

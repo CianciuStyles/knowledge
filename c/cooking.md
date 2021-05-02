@@ -14,6 +14,10 @@
 
 * [Mint Yogurt Dipping Sauce for Tandoori](https://www.youtube.com/watch?v=GOaprsNaGDI)
 
+#### Italian
+
+* [Paccheri cremosi speck e zucchine](https://www.fattoincasadabenedetta.it/ricetta/paccheri-cremosi-speck-e-zucchine/)
+
 ### Websites
 
 * [Allrecipes](https://www.allrecipes.com/)
