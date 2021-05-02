@@ -11,3 +11,7 @@
 
 * [Project Oberon](https://www.projectoberon.com/)
 
+### YouTube channels
+
+* [Andreas Kling](https://www.youtube.com/c/AndreasKling/videos) - SerenityOS
+

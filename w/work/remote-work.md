@@ -1,5 +1,9 @@
 # Remote Work
 
+### Articles
+
+* [The 10 Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext#PageTop) - Vanessa Sochat
+
 ### Awesome
 
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
