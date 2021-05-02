@@ -1,8 +1,23 @@
 # Public Speaking
 
+## Notes
+
+* Don't be afraid of slowing down a conversation \(especially one about engineering\).
+* You're not speaking to a group, you're speaking to each individual in a group. Always focus on someone briefly, including eye contact, and then on someone else.
+* It's easiest to talk well about things you're confident about.
+* Theory is great but practice is better. Find and join a Toastmaster club in your area or online.
+* If you use slides, do **not** read the slides to your audience. It's a waste of time: they can read, and they can read faster than you can talk.
+* Focus on the on the broad themes and concepts without trying to remember a specific sequence of words.
+
+## Resources
+
 ### Courses
 
 * [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl_ub9) - Matt McGarrity, University of Washington
+
+### Hacker News threads
+
+* [How to Speak Confidently?](https://news.ycombinator.com/item?id=26807085)
 
 ### Videos
 

@@ -23,3 +23,7 @@
   * [Google's architecture \(2008\)](http://highscalability.com/google-architecture)
   * [YouTube's architecture \(2008\)](http://highscalability.com/youtube-architecture)
 
+### YouTube playlists
+
+* [Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
+
