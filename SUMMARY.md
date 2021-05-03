@@ -23,6 +23,7 @@
 * [Command Line](c/command-line.md)
 * [Competitive Programming](c/competitive-programming.md)
 * [Computer Science](c/computer-science.md)
+* [Continuous Integration / Delivery](c/continuous-integration-delivery.md)
 * [Cooking](c/cooking.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
 * [Cryptocurriencies](c/cryptocurriencies.md)
@@ -78,7 +79,9 @@
 ## J
 
 * [Java](j/java.md)
-* [JavaScript](j/javascript.md)
+* [JavaScript](j/javascript/README.md)
+  * [Electron](j/javascript/electron.md)
+  * [Vue.js](j/javascript/vue.js.md)
 * [Journaling](j/journaling.md)
 
 ## K
@@ -173,7 +176,6 @@
   * [Video Games Music](video-games/video-games-music.md)
 * [Vim](vim.md)
 * [Virtual Tours](virtual-tours.md)
-* [Vue.js](vue.js.md)
 
 ## W
 
