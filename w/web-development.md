@@ -11,6 +11,7 @@
 ### Benchmarks
 
 * [Measure](https://web.dev/measure/)
+* [Page Load Speed Analyzer](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 
 ### Code playgrounds
 
@@ -27,8 +28,13 @@
 
 ### Websites
 
+* [Code Guide](https://codeguide.co/) - Mark Otto
 * [HEAD](https://htmlhead.dev/) - A free guide to HTML5 &lt;head&gt; elements
 * [HTML5 Security Checklist](https://html5sec.org/)
+* [Jamstack](https://jamstack.org/) - For fast and secure sites
+* [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator
 * [Performance Tooling Today](https://www.perf-tooling.today/)
+* [The Front-End Checklist](https://frontendchecklist.io/)
+* [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins
 * [web.dev](https://web.dev/)
 

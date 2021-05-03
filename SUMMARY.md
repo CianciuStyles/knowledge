@@ -63,6 +63,7 @@
   * [Unity](g/game-development/unity.md)
   * [Unreal Engine](g/game-development/unreal-engine.md)
 * [Git](g/git.md)
+* [GraphQL](g/graphql.md)
 * [Guitar](g/guitar.md)
 
 ## H
@@ -81,6 +82,7 @@
 * [Java](j/java.md)
 * [JavaScript](j/javascript/README.md)
   * [Electron](j/javascript/electron.md)
+  * [React.js](j/javascript/react.js.md)
   * [Vue.js](j/javascript/vue.js.md)
 * [Journaling](j/journaling.md)
 

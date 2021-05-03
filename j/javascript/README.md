@@ -10,6 +10,7 @@
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Professor Frisby
+* [ServiceWorker Cookbook](https://serviceworke.rs/) - Mozilla
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson
 
 ### GitHub repositories
