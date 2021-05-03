@@ -1,3 +1,7 @@
+---
+description: 'https://www.typescriptlang.org/'
+---
+
 # TypeScript
 
 ## Notes

@@ -21,6 +21,12 @@
 ### Courses
 
 * [egghead.io](https://egghead.io/)
+* [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - Colt Steele
+
+### Frameworks
+
+* [htmx](https://htmx.org/)
+* [Svelte](https://svelte.dev/)
 
 ### GitHub repositories
 
@@ -29,6 +35,7 @@
 ### Websites
 
 * [Code Guide](https://codeguide.co/) - Mark Otto
+* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [HEAD](https://htmlhead.dev/) - A free guide to HTML5 &lt;head&gt; elements
 * [HTML5 Security Checklist](https://html5sec.org/)
 * [Jamstack](https://jamstack.org/) - For fast and secure sites

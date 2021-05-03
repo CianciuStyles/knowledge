@@ -46,7 +46,6 @@
 ### Websites
 
 * [Code Cartoons](https://code-cartoons.com/)
-* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [Develop For Performance](http://developforperformance.com/)
 * [Developer Roadmaps](https://roadmap.sh/)
 * [DevFreeBooks](https://devfreebooks.github.io/)
@@ -55,5 +54,6 @@
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
+* [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [Programming Idioms](https://www.programming-idioms.org/)
 

@@ -9,6 +9,7 @@
 * [Amazon Web Services](a/amazon-web-services.md)
 * [Android](a/android.md)
 * [Anime, Comics & Manga](a/anime-comics-and-manga.md)
+* [APIs](a/apis.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Awesome](a/awesome.md)
 
@@ -83,6 +84,7 @@
 * [JavaScript](j/javascript/README.md)
   * [Electron](j/javascript/electron.md)
   * [React.js](j/javascript/react.js.md)
+  * [Redux](j/javascript/redux.md)
   * [Vue.js](j/javascript/vue.js.md)
 * [Journaling](j/journaling.md)
 
