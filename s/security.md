@@ -27,6 +27,7 @@
 * [flAWS](http://flaws.cloud/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
+* [HackThisSite](https://www.hackthissite.org/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
 * [How HTTPS works](https://howhttps.works/)
 * [Open Web Application Security Project \(OWASP\)](https://owasp.org/)
