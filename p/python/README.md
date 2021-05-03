@@ -4,6 +4,8 @@ description: 'https://www.python.org/'
 
 # Python
 
+## Resources
+
 ### Articles
 
 * [A Neural Network in 11 lines of Python \(Part 1\)](https://iamtrask.github.io/2015/07/12/basic-python-network/) - Andrew Trask

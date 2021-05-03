@@ -10,6 +10,7 @@
 
 ### Benchmarks
 
+* [Instant page](https://instant.page/)
 * [Measure](https://web.dev/measure/)
 * [Page Load Speed Analyzer](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 

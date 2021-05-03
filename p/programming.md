@@ -22,6 +22,7 @@
 * [Devhints](https://devhints.io/)
 * [DZone Refcardz](https://dzone.com/refcardz)
 * [Hyperpolyglot](https://hyperpolyglot.org/)
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 ### GitHub repositories
 
