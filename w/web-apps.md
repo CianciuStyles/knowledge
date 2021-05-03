@@ -4,6 +4,7 @@
 
 * [Color Wheel](https://color.adobe.com/create/color-wheel)
 * [Coolors](https://coolors.co/)
+* [Paletton](https://paletton.com)
 
 ### Connectivity
 

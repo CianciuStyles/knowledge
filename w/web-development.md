@@ -32,6 +32,11 @@
 
 * [How I write backends](https://github.com/fpereiro/backendlore) - Federico Pereiro
 
+### Hosting
+
+* [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
+* [Netlify](https://www.netlify.com/)
+
 ### Websites
 
 * [Code Guide](https://codeguide.co/) - Mark Otto
