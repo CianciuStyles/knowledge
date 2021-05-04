@@ -32,6 +32,7 @@
 * [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
 * [Il Dizionario dei Videogiochi](http://www.dizionariovideogiochi.it/doku.php)
+* [NinDB](https://nindb.net/)
 * [Nintendo64EVER](https://www.nintendo64ever.com/home.html)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)

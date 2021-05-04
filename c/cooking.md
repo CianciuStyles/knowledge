@@ -13,6 +13,7 @@
 #### Indian
 
 * [Mint Yogurt Dipping Sauce for Tandoori](https://www.youtube.com/watch?v=GOaprsNaGDI)
+* [Red Lentil Curry](https://rainbowplantlife.com/vegan-red-lentil-curry/)
 
 #### Italian
 

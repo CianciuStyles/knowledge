@@ -27,6 +27,7 @@
 
 * [Getting Things Done](https://smile.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947) - David Allen
 * [The Seven Habits Of Highly Effective People](https://smile.amazon.co.uk/Habits-Highly-Effective-People/dp/1471165086) - Stephen Covey
+  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the_7_habits_of/)
 
 ### Hacker News Threads
 
