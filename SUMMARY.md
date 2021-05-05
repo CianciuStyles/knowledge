@@ -25,6 +25,7 @@
 * [Command Line](c/command-line.md)
 * [Competitive Programming](c/competitive-programming.md)
 * [Computer Science](c/computer-science.md)
+* [Concurrency](c/concurrency.md)
 * [Continuous Integration / Delivery](c/continuous-integration-delivery.md)
 * [Cooking](c/cooking.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)

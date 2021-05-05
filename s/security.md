@@ -4,6 +4,7 @@
 
 * [A Complete Penetration Testing & Hacking Tools List for Hackers & Security Professionals](https://gbhackers.com/hacking-tools-list/)
 * [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
+* [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
