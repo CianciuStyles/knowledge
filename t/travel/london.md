@@ -57,6 +57,7 @@
 * [Famous Three Kings](https://www.craft-pubs.co.uk/f3k-london) - West Kensington
 * [The Bohemia](https://twitter.com/Bohemia_N12/with_replies) - North Finchley
 * [The Crown and Shuttle](https://www.crownandshuttle.com/) - Shoreditch
+* [The Lighterman](https://www.thelighterman.co.uk/) - King's Cross
 
 ### Restaurants
 
@@ -71,7 +72,8 @@
 
 ### Things To Do
 
-* [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/)
+* [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/) - Secret London
+* [5 places to see incredible views of the London skyline](https://www.timeout.com/london/things-to-do/places-to-see-incredible-views-of-the-london-skyline-for-free) - TimeOut
 * [Angel Comedy Club](https://www.angelcomedy.co.uk/)
 * [diamond geezer](https://diamondgeezer.blogspot.com/2015_04_01_diamondgeezer_archive.html)
 * [Hidden London](https://hidden-london.com/)
@@ -80,6 +82,7 @@
 * [Londonist](https://londonist.com/)
 * [Randomness Guide to London](https://london.randomness.org.uk/wiki.cgi)
 * [SRO audiences](https://www.sroaudiences.com/)
+* [The best cheap eats in London](https://www.timeout.com/london/food-drink/londons-best-cheap-eats) - TimeOut
 * [The London Review of Breakfasts](https://londonreviewofbreakfasts.blogspot.com/)
 
 ### Walks

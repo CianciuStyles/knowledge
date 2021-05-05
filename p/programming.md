@@ -56,5 +56,6 @@
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
+* [ProgrammerHumor](https://programmerhumor.io/)
 * [Programming Idioms](https://www.programming-idioms.org/)
 

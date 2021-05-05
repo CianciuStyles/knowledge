@@ -18,6 +18,7 @@
 * [PlayStation 1 Music - Relaxing Video Game Music for Studying](https://www.youtube.com/watch?v=lsile6MA2QU)
 * [Rainwave Video Game Music Radio](https://rainwave.cc/all/)
 * [Relaxing Music From Nintendo 64 Games](https://www.youtube.com/watch?v=C9lJV36k38o)
+* Relaxing PS1 Music \(100 Songs\) - [Part 1](https://www.youtube.com/watch?v=7vFn49NZfYs&t=0s), [Part 2](https://www.youtube.com/watch?v=LWUlfDHIeZQ)
 * [Video Game Music](https://www.youtube.com/playlist?list=PLVmjWk3MuuFrzbK9vZeCvjIxiLUUN_dEF)
 * [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 
