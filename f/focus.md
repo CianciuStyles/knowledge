@@ -2,8 +2,10 @@
 
 ## Notes
 
-* If you want to have a hyper-focus on anything in life, by definition you have to neglect other things. You only have so much attention to slice and dice. Tim Ferriss
 * Don't try to do everything at once. Pick one thing to go after, then move onto the next thing.
+* "If you want to have a hyper-focus on anything in life, by definition you have to neglect other things. You only have so much attention to slice and dice" - [Tim Ferriss](https://twitter.com/tferriss)
+* "Our mindstate is the first thing holding us back from getting the results we want" - [Greg McKeown](https://twitter.com/GregoryMcKeown)
+* “When we focus on what we lack, we lose what we have, when we focus on what we have, we gain what we lack” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 
 ## Resources
 

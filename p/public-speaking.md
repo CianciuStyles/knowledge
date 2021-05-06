@@ -11,6 +11,11 @@
 
 ## Resources
 
+### Books
+
+* [Confessions of a Public Speaker](https://smile.amazon.co.uk/dp/1449301959/) - Scott Berkun
+* [Weekend Language: Presenting with More Stories and Less PowerPoint](https://smile.amazon.co.uk/dp/0988595613) - Andy Craig, Dave Yewman
+
 ### Courses
 
 * [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl_ub9) - Matt McGarrity, University of Washington

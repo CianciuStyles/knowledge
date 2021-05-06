@@ -3,7 +3,11 @@
 ## Notes
 
 * Busy = out of control
+* Effortless action is about asking a few questions to simplify your projects. When projects or problems are unclear in our mind we feel overwhelmed.
 * Even if you can't do something, you can seek help or assistance from others to get something done.
+* "If you can’t work any harder, you gotta find an easier path” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
+* Three key productivity hacks: forgiveness, gratitude, and asking "how can I do this effortlessly" - [Greg McKeown](https://twitter.com/GregoryMcKeown)
+* “What is one thing that is absolutely essential that I’m underinvesting on right now?” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs/)
 
 ## Resources
