@@ -416,5 +416,11 @@
 * Changing the `postgresql.conf` file to have the `ssl=on` key will enable SSL \(out by default\)
 * When you want to use SSL, you must specify the host \(even if it is localhost\) with the `-h` option. If you connect locally without the `-h` option, it will use Unix Domain Sockets, which do not support SSL
 
+## Resources
+
+### Articles
+
+* [psql Tips](https://mydbanotebook.org/psql_tips_all.html) - Lætitia Avrot
+
 
 

@@ -126,6 +126,7 @@
 ## P
 
 * [Personal Finance](p/personal-finance.md)
+* [Physics](p/physics.md)
 * [Podcasts](p/podcasts.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)

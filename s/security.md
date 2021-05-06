@@ -34,9 +34,11 @@
 
 ### GitHub Repositories
 
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Crypton](https://github.com/ashutosh1206/Crypton)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ### Tools
 
