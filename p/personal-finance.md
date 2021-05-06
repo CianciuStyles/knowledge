@@ -30,5 +30,6 @@
 
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Money To The Masses](https://moneytothemasses.com/)
+* [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wise Bread](https://www.wisebread.com/)
 

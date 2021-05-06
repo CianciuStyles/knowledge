@@ -85,6 +85,7 @@
 * [Java](j/java.md)
 * [JavaScript](j/javascript/README.md)
   * [Electron](j/javascript/electron.md)
+  * [Jest](j/javascript/jest.md)
   * [React.js](j/javascript/react.js.md)
   * [Redux](j/javascript/redux.md)
   * [Vue.js](j/javascript/vue.js.md)

@@ -43,6 +43,7 @@
 * [Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) \([GitHub](https://github.com/poteto/hiring-without-whiteboards)\)
 * [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
 * [HNHIRING](https://hnhiring.com/)
+* [Otta](https://otta.com/)
 * [Slashscore](https://app.slashscore.ai/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [whoishiring.io](https://whoishiring.io/)
