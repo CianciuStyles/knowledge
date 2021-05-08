@@ -8,3 +8,7 @@
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
 * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/) - Jacob Kaplan-Moss
 
+### Books
+
+* [How To Get Any Job You Want](https://github.com/bee-san/Employabiltiy-book) - Brandon Skerritt
+

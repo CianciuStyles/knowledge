@@ -108,6 +108,7 @@
 
 ## M
 
+* [Maths](m/maths.md)
 * [Meditation](m/meditation.md)
 * [Movies](m/movies.md)
 * [Music](m/music/README.md)

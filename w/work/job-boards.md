@@ -44,6 +44,7 @@
 * [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
 * [HNHIRING](https://hnhiring.com/)
 * [Otta](https://otta.com/)
+* [Placement](https://www.placement.com/)
 * [Slashscore](https://app.slashscore.ai/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [whoishiring.io](https://whoishiring.io/)
