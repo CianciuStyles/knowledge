@@ -1,3 +1,7 @@
+---
+description: 'https://git-scm.com/'
+---
+
 # Git
 
 ## Notes
@@ -32,6 +36,7 @@
 
 ### Articles
 
+* [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) - Tobias Günther
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
