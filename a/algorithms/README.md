@@ -4,6 +4,7 @@
 
 ### Books
 
+* [Algorithmics: The Spirit of Computing](https://smile.amazon.co.uk/dp/0321117840) - David Harel, Yishai Feldman
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
