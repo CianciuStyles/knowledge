@@ -79,6 +79,7 @@
 * [Interviews](i/interviews/README.md)
   * [Behavioural Interviews](i/interviews/behavioural-interviews.md)
   * [Coding Interviews](i/interviews/coding-interviews.md)
+  * [System Design Interviews](i/interviews/system-design-interviews.md)
 
 ## J
 

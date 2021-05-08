@@ -17,6 +17,10 @@
 * [grokking-system-design](https://github.com/lei-hsia/grokking-system-design)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+### Videos
+
+* [Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) - David Malan
+
 ### Websites
 
 * [High Scalability](http://highscalability.com/)
