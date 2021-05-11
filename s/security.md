@@ -70,6 +70,7 @@
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
 * [VulnHub](https://www.vulnhub.com/#)
+* [XSS Game](https://xss-game.appspot.com/)
 
 ### YouTube Channels
 
