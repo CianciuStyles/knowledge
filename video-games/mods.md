@@ -1,5 +1,6 @@
 # Mods
 
+* [A comprehensive list of all singleplayer Half-Life/Source mods that are worth playing](https://www.reddit.com/r/HalfLife/comments/60pmr9/a_comprehensive_list_of_all_singleplayer/)
 * [Fallout 1.5: Resurrection - a mega-modification for Fallout 2, it has a completely new story and takes place in New Mexico, sometime between the events of Fallout 1 and 2 - Now Released](http://www.moddb.com/mods/fallout-15-resurrection/news/fallout-15-resurrection-release)
 * [For the most immersive Resident Evil experience in Left 4 Dead, download these mods \(direct links inside\)!](https://www.reddit.com/r/l4d2/comments/7wqwhb/for_the_most_immersive_resident_evil_experience/)
 * [How to run Deus Ex on Windows 7/8](https://www.pcgamer.com/how-to-run-deus-ex-on-windows-78/)
