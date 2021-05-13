@@ -64,6 +64,7 @@
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
   * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [Pwnable.kr](https://pwnable.kr/)
+* [Security List](https://security-list.js.org/#/) \([GitHub](https://github.com/Lissy93/personal-security-checklist)\)
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
