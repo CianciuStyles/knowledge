@@ -93,5 +93,6 @@
 * [London Guided Walks](https://londonguidedwalks.uk/)
 * [Rambles from the London Tube](https://www.londontuberambles.co.uk/)
 * [Saturday Walkers Club](https://www.walkingclub.org.uk/)
+* [Slow Ways](https://beta.slowways.org/)
 * [Walk London](https://www.walklondon.org.uk/)
 
