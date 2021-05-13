@@ -6,6 +6,7 @@
 
 ### Courses
 
+* [Coderust: Hacking the Coding Interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview) - Educative.io
 * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) - Andrei Neagoie
 
 ### GitHub repositories
@@ -16,5 +17,7 @@
 
 ### Websites
 
+* [CodeSignal](https://app.codesignal.com/)
+* [Codility](https://app.codility.com/programmers/lessons)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) \([GitHub](https://github.com/yangshun/tech-interview-handbook)\)
 
