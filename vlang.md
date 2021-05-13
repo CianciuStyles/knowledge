@@ -1,3 +1,7 @@
+---
+description: 'https://vlang.io/'
+---
+
 # V \(programming language\)
 
 ## Resources

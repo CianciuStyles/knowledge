@@ -43,6 +43,7 @@ description: 'https://git-scm.com/'
 
 ### Books
 
+* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
 * [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon, Ben Straub
 
 ### Videos

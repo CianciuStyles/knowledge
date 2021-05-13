@@ -10,6 +10,10 @@
 * [Refactoring CSS Without Losing Your Mind](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind) - Harry Roberts
 * [The Ultimate Flexbox Cheat Sheet](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html) - Sean Fioritto
 
+### Courses
+
+* [Modern CSS Explained For Dinosaurs](https://actualize.teachable.com/p/modern-css-explained-for-dinosaurs) - Peter Jang
+
 ### Websites
 
 * [CodeMyUI](https://codemyui.com/)
