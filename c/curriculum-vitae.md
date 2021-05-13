@@ -39,3 +39,7 @@
 * [Europass CV](https://github.com/gmazzamuto/europasscv)
 * [Modern CV](https://github.com/xdanaux/moderncv)
 
+### Websites
+
+* [Jobscan](https://www.jobscan.co/) - Check CV against job description
+
