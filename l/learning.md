@@ -12,6 +12,7 @@
 ### Websites
 
 * [CourseRoot](https://courseroot.com/) - Search 80,000 courses and tutorials
+* [HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
 * [Learn Anything](https://learn-anything.xyz/)
 * [OpenLearn](https://www.open.edu/openlearn/)
 * [Quizlet](https://quizlet.com)
