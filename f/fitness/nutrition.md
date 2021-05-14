@@ -26,6 +26,10 @@
 
 * [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
 
+### Subreddits
+
+* [r/EatCheapAndVegan](https://www.reddit.com/r/EatCheapAndVegan/)
+
 ### Videos
 
 * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0) - What I've Learned

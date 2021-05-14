@@ -41,6 +41,10 @@
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
+### Subreddits
+
+* [r/websec](https://www.reddit.com/r/websec/)
+
 ### Tools
 
 * [Dradis](https://dradisframework.com/ce/)
