@@ -98,11 +98,12 @@
 
 ## L
 
-* [Language Learning](l/language-learning/README.md)
-  * [Certificate of Proficiency in English](l/language-learning/certificate-of-proficiency-in-english.md)
-  * [Japanese](l/language-learning/japanese.md)
 * [LaTeX](l/latex.md)
-* [Learning](l/learning.md)
+* [Learning](l/learning/README.md)
+  * [Drawing](l/learning/drawing.md)
+  * [Languages](l/learning/language-learning/README.md)
+    * [Certificate of Proficiency in English](l/learning/language-learning/certificate-of-proficiency-in-english.md)
+    * [Japanese](l/learning/language-learning/japanese.md)
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)
 * [Life Hacks](l/life-hacks.md)
