@@ -117,6 +117,10 @@
 
 ## Resources
 
+### Articles
+
+* [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
+
 ### Courses
 
 * [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator ](https://www.coursera.org/learn/negotiation)- Barry Nalebuff
