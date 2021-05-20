@@ -18,6 +18,7 @@
 
 * [CodeSandbox](https://codesandbox.io/)
 * [CodePen](https://codepen.io/)
+* [Mocky.io](https://designer.mocky.io/) - API mocks
 
 ### Courses
 
