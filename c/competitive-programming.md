@@ -1,5 +1,9 @@
 # Competitive Programming
 
+### Awesome
+
+* [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+
 ### Books
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen
