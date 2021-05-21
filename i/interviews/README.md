@@ -9,6 +9,7 @@
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) - Carlos Bueno
 * [Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) - Steve Yegge
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
+* [The Guerrilla Guide to Interviewing \(version 3.0\)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
 * [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - Gayle Laakmann McDowell
 * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/) - Jacob Kaplan-Moss
 * [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) - Adilet Zhaxybay
