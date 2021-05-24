@@ -10,6 +10,9 @@
 
 ### Courses
 
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Kevin Wayne, Robert Sedgewick
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Robert Sedgewick, Kevin Wayne
+* [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms) - Robert Sedgewick
 * [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Steven Skiena
 
 ### GitHub Repositories

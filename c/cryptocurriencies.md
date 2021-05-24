@@ -2,6 +2,11 @@
 
 ## Resources
 
+### Courses
+
+* [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) - Arvind Narayanan
+* [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency) - Jessica Watcher, Sarah Hammer
+
 ### GitHub repositories
 
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency links

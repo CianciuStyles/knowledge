@@ -17,5 +17,9 @@
 * [The C Book](https://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady, Mark Doran
 * The C Programming Language - Dennis Ritchie, Brian Kernighan
 
+### Courses
+
+* [C Programming with Linux](https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux) - Dartmouth University
+
 
 

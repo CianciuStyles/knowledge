@@ -18,6 +18,7 @@
 
 ### Courses
 
+* [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills) - Maurice Schweitzer, University of Pennsylvania
 * [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl_ub9) - Matt McGarrity, University of Washington
 
 ### Hacker News threads

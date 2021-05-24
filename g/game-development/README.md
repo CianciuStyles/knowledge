@@ -16,6 +16,10 @@
 * [Procedural Content Generation in Games](https://www.docdroid.net/zReQS98/output-pdf)
 * [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo, Jen Lowe
 
+### Courses
+
+* [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) - David J. Malan, Colton Odgen
+
 ### GitHub repositories
 
 * [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
