@@ -20,6 +20,10 @@
 
 * [How To Get Any Job You Want](https://github.com/bee-san/Employabiltiy-book) - Brandon Skerritt
 
+### GitHub repositories
+
+* [FAANG](https://github.com/neerazz/FAANG)
+
 ### Websites
 
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
