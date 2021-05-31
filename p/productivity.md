@@ -22,6 +22,7 @@
 * [12 Simple Steps to Become a Productivity Bad-Ass](https://mixwellness.com/12-simple-steps-to-become-a-productivity-bad-ass/) - Kristen Boucher
 * [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf) - Getting Things Done
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
+* [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 
 ### Blogs
 
