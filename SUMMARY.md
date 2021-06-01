@@ -29,6 +29,7 @@
 * [Continuous Integration / Delivery](c/continuous-integration-delivery.md)
 * [Cooking](c/cooking.md)
 * [Curriculum Vitae](c/curriculum-vitae.md)
+* [Cryptography](c/cryptography.md)
 * [Cryptocurriencies](c/cryptocurriencies.md)
 
 ## D
