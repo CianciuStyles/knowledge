@@ -15,7 +15,10 @@
 ### Blogs
 
 * [Fabien Sanglard](https://fabiensanglard.net/)
+* [Jeff Atwood](https://blog.codinghorror.com/)
+* [Jess Frazelle](https://blog.jessfraz.com/)
 * [Julia Evans](https://jvns.ca/)
+* [Rachel Kroll](https://rachelbythebay.com/)
 
 ### Books
 
