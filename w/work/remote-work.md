@@ -12,6 +12,15 @@
 
 * [Established Remote Companies](https://github.com/yanirs/established-remote)
 
+### Remote Companies
+
+* [Elastic](https://www.elastic.co/about/careers/)
+* [Ghost](https://careers.ghost.org/)
+* [Help Scout](https://www.helpscout.com/company/careers/)
+* [Human Made](https://humanmade.com/hiring/)
+* [Remote](https://boards.greenhouse.io/remotecom)
+* [Sourcegraph](https://boards.greenhouse.io/sourcegraph91)
+
 
 
 * [100+ Companies with Open Remote Positions](https://docs.google.com/spreadsheets/d/1Sr0vy3eDn2fcEhxOdkPv0BjsWBR7JntDJqRM6_hyjbE/edit#gid=0)
