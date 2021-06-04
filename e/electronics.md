@@ -9,3 +9,11 @@
 
 * [NandGame](https://nandgame.com/)
 
+### Websites
+
+* [Ben Eater](https://eater.net/)
+
+### YouTube Channels
+
+* [Ben Eater](https://www.youtube.com/c/BenEater/videos)
+
