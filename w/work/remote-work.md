@@ -19,6 +19,7 @@
 * [Help Scout](https://www.helpscout.com/company/careers/)
 * [Human Made](https://humanmade.com/hiring/)
 * [Remote](https://boards.greenhouse.io/remotecom)
+* [Shopify](https://www.shopify.ca/careers/work-anywhere)
 * [Sourcegraph](https://boards.greenhouse.io/sourcegraph91)
 
 
