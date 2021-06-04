@@ -14,10 +14,15 @@
 
 ### Blogs
 
+* [Amos Wenger](https://fasterthanli.me/)
+* [Dan Luu](https://danluu.com/)
+* [Eli Bendersky](https://eli.thegreenplace.net/)
 * [Fabien Sanglard](https://fabiensanglard.net/)
+* [Fabrice Bellard](https://bellard.org/)
 * [Jeff Atwood](https://blog.codinghorror.com/)
 * [Jess Frazelle](https://blog.jessfraz.com/)
 * [Julia Evans](https://jvns.ca/)
+* [Martin Kleppmann](https://martin.kleppmann.com/archive.html)
 * [Rachel Kroll](https://rachelbythebay.com/)
 
 ### Books
