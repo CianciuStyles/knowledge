@@ -22,5 +22,10 @@
 
 * [The Untethered Soul: The Journey Beyond Yourself](https://smile.amazon.co.uk/dp/1572245379) - Michael A. Singer
 
+### Websites
+
+* [Trascendental Meditation](https://www.tm.org/)
+* [Vipassana Meditation](https://www.dhamma.org/en/about/vipassana)
+
 
 
