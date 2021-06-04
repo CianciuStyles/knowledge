@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Blogs
+
+* [Vitalik Buterin](https://vitalik.ca/)
+
 ### Courses
 
 * [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) - Arvind Narayanan

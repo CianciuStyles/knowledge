@@ -1,5 +1,7 @@
 # Programming
 
+## Resources
+
 ### Articles
 
 * [101 Tips For Being A Great Programmer \(& Human\)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl) - Emma Bostian
@@ -9,6 +11,11 @@
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
 * [Why you should learn brainf\*ck \(or: learn you a brainf\*ck for great good!\)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig
+
+### Blogs
+
+* [Fabien Sanglard](https://fabiensanglard.net/)
+* [Julia Evans](https://jvns.ca/)
 
 ### Books
 
