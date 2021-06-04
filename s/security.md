@@ -16,6 +16,10 @@
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 
+### Blogs
+
+* [Filippo Valsorda](https://filippo.io/)
+
 ### Bug Bounty Programs
 
 * [HackerOne](https://www.hackerone.com/)
