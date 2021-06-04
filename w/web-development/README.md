@@ -14,6 +14,11 @@
 * [Measure](https://web.dev/measure/)
 * [Page Load Speed Analyzer](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 
+### Blogs
+
+* [Addy Osmani](https://addyosmani.com/blog/)
+* [Josh W Comeau](https://www.joshwcomeau.com/)
+
 ### Code playgrounds
 
 * [CodeSandbox](https://codesandbox.io/)
