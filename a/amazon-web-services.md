@@ -11,3 +11,7 @@
 
 * [AWS Blog](https://aws.amazon.com/blogs/)
 
+### Videos
+
+* [Your First Week on Amazon Web Services](https://www.youtube.com/watch?v=7CiHBcqw6zc) - Miles Ward
+

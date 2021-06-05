@@ -3,6 +3,7 @@
 ### Articles
 
 * [The 10 Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext#PageTop) - Vanessa Sochat
+* [What if Remote Work Didn’t Mean Working from Home?](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) - Cal Newport
 
 ### Awesome
 

@@ -24,6 +24,11 @@
 
 * [FAANG](https://github.com/neerazz/FAANG)
 
+### Videos
+
+* [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) - Moishe Lettvin
+  * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/talks/what-i-learned-doing-250-interviews-at-google/)
+
 ### Websites
 
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
