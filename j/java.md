@@ -11,6 +11,7 @@
 ### Books
 
 * [Effective Java](https://smile.amazon.co.uk/Effective-Java-Joshua-Bloch/dp/0134685997) - Joshua Bloch
+  * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/effective-java/)
   * [Summary by David Sauvage](https://github.com/david-sauvage/effective-java-summary)
   * [Summary by Hugo Mantilla](https://github.com/HugoMatilla/Effective-JAVA-Summary)
   * [Summary by Michael Parker](https://github.com/mgp/book-notes/blob/master/effective-java-2nd-edition.markdown)
