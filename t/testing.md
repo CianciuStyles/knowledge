@@ -96,8 +96,15 @@ public void should_calculate_subtotal_and_total_amount_ \
 * Risk-free refactoring: without tests, a potential refactoring is often skipped because it would take too much time.
 * Documentation: the tests show the expected behaviour of the system and its pieces. What is good about this documentation is that it cannot get outdated, as any misalignment between the tests and the production code will be fixed.
 
-## Articles
+## Resources
+
+### Articles
 
 * [Anatomy of a Good Test](https://www.innoq.com/en/blog/anatomy-of-a-good-test/) - Torsten Mandry, Jacek Bilski
 * [Why You Should Write Automated Tests](https://www.innoq.com/en/blog/why-you-should-write-automated-tests/) - Torsten Mandry, Jacek Bilski
+
+### Books
+
+* [Test-Driven Development: By Example](https://smile.amazon.co.uk/dp/0321146530) - Kent Beck
+  * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/test-driven-development/)
 
