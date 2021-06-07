@@ -158,6 +158,7 @@
 ## S
 
 * [Security](s/security.md)
+* [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
 * [Spring \(framework\)](s/spring-framework.md)
