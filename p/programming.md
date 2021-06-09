@@ -65,6 +65,11 @@
 * [First Contributions](https://firstcontributions.github.io/)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
+### Videos
+
+* ["Am I Senior Yet?"](https://www.youtube.com/watch?v=jcTmoOHhG9A) - Katlyn Parvin, RubyConf 2016
+  * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/talks/am-i-senior-yet/)
+
 ### Websites
 
 * [Code Cartoons](https://code-cartoons.com/)
