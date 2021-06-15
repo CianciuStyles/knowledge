@@ -69,7 +69,9 @@
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
+* [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/)
 * [The Game Collection](https://www.thegamecollection.net/)
+* [Warners Retro Corner](https://warnersretrocorner.com/)
 
 ### Quizzes
 
