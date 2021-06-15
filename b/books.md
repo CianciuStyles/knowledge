@@ -43,6 +43,7 @@
 
 * [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if_one_could_only_read_5_books_over_their/)
 * [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what_is_that_one_book_that_absolutely_changed/)
+* [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats_a_book_everyone_should_read_at_least_once/)
 
 ### Websites
 
