@@ -143,6 +143,7 @@
   * [Pandas](p/python/pandas.md)
 * [Public Speaking](p/public-speaking.md)
 * [Purpose](p/purpose.md)
+* [Puzzles](p/puzzles.md)
 
 ## Q
 
