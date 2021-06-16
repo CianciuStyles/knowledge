@@ -23,6 +23,7 @@
 ### GitHub repositories
 
 * [FAANG](https://github.com/neerazz/FAANG)
+* [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to ask a company
 
 ### Videos
 
