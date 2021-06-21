@@ -29,6 +29,7 @@
 ### Subreddits
 
 * [r/EatCheapAndVegan](https://www.reddit.com/r/EatCheapAndVegan/)
+* [r/Volumeeating](https://www.reddit.com/r/Volumeeating/)
 
 ### Videos
 
