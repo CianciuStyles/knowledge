@@ -8,6 +8,7 @@
 
 ### GitHub repositories
 
+* [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Unix Toolbox](https://github.com/hukl/Unix-Toolbox)
 
