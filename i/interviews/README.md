@@ -34,3 +34,7 @@
 
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
 
+### YouTube Playlists
+
+* [Technical Interview Preparation](https://www.youtube.com/playlist?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA)
+
