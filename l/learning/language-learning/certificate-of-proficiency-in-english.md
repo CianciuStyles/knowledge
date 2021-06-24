@@ -13,3 +13,13 @@
 * [Exam English](https://www.examenglish.com/cpe/index.php)
 * [Flo-Joe](https://www.flo-joe.co.uk/cpe/students/tests/)
 
+### Websites
+
+* [British Council](https://learnenglish.britishcouncil.org/)
+* [Pronunciation Guide - Oxford's Learner Dictionaries](https://www.oxfordlearnersdictionaries.com/about/pronunciation_english)
+* [Rachel's English](https://rachelsenglish.com/)
+
+### YouTube Channels
+
+* [Crown Academy of English](https://www.youtube.com/c/CrownAcademyEnglish/videos)
+
