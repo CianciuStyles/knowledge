@@ -183,15 +183,13 @@
 
 ## V
 
----
-
-* [V \(programming language\)](vlang.md)
-* [Video Games](video-games/README.md)
-  * [Emulation](video-games/emulation.md)
-  * [Mods](video-games/mods.md)
-  * [Video Games Music](video-games/video-games-music.md)
-* [Vim](vim.md)
-* [Virtual Tours](virtual-tours.md)
+* [Virtual Tours](v/virtual-tours.md)
+* [Vim](v/vim.md)
+* [Video Games](v/video-games/README.md)
+  * [Emulation](v/video-games/emulation.md)
+  * [Mods](v/video-games/mods.md)
+  * [Video Games Music](v/video-games/video-games-music.md)
+* [V \(programming language\)](v/vlang.md)
 
 ## W
 
