@@ -9,3 +9,7 @@
 * [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://smile.amazon.co.uk/dp/0062457721) - Mark Manson
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/the-subtle-art-of-not-giving-a-fuck/)
 
+### Websites
+
+* [Steve Pavlina](https://stevepavlina.com/)
+

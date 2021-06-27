@@ -89,4 +89,7 @@
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [ProgrammerHumor](https://programmerhumor.io/)
 * [Programming Idioms](https://www.programming-idioms.org/)
+* [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
+* [Stack Overflow](https://stackoverflow.com/)
+* [StackShare](https://stackshare.io/)
 
