@@ -11,6 +11,7 @@
 * [Ab exercises you should be doing](https://imgur.com/a/Fkql2)
 * [Body Recomposition: How to Lose Fat and Gain Muscle at the Same Time](https://physiqonomics.com/body-recomposition/) - Physiqonomics
 * [Cardio or Weights: What’s Better for Fat Loss?](https://physiqonomics.com/cardio-or-weights/) - Physiqonomics
+* [Does Fasted Training Burn More Fat?](https://physiqonomics.com/fasted-training/) - Physiqonomics
 * [Greyskull LP](https://www.powerliftingtowin.com/greyskull-lp/)
 * [How to Actually Get Fit](https://imgur.com/a/klzP3/layout/undefined)
 * [How to Do a Bodyweight Row or Inverted Row](https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/) - Nerd Fitness

@@ -16,8 +16,9 @@
 * [How to Lose 100 Pounds on The Slow-Carb Diet](https://tim.blog/2012/07/12/how-to-lose-100-pounds/) - Tim Ferriss
 * [Mean Plan](https://gamechangersmovie.com/food/meal-plan/) - The Game Changers
 * [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/)
-* [The TRUTH about your slow metabolism](https://physiqonomics.com/slow-metabolism/) - Physiqonomics
+* [The Best Fat Loss Article on the Motherfuckin’ Internet](https://physiqonomics.com/fat-loss/) - Physiqonomics
 * [The Slow-Carb Diet One-Pager](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) - Tim Ferriss
+* [The TRUTH about your slow metabolism](https://physiqonomics.com/slow-metabolism/) - Physiqonomics
 * [What Does 200 Calories Look Like?](https://www.wisegeek.com/what-does-200-calories-look-like.htm) - L. S. Wynn
 
 ### Books
@@ -32,6 +33,7 @@
 ### Subreddits
 
 * [r/EatCheapAndVegan](https://www.reddit.com/r/EatCheapAndVegan/)
+* [r/Keto](https://www.reddit.com/r/keto/)
 * [r/Volumeeating](https://www.reddit.com/r/Volumeeating/)
 
 ### Videos
@@ -44,4 +46,5 @@
 * [Eat This, Not That!](https://www.eatthis.com/)
 * [Fit Men Cook](https://fitmencook.com/)
 * [KetoNutrition](https://ketonutrition.org/)
+* [No Meat Athlete](https://www.nomeatathlete.com/)
 
