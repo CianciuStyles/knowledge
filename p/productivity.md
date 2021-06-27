@@ -15,6 +15,7 @@
 ### Ambient Sounds
 
 * [Coffitivity](https://coffitivity.com/)
+* [I Miss My Bar](https://imissmybar.com/)
 
 ### Articles
 
@@ -28,6 +29,7 @@
 ### Blogs
 
 * [Asian Efficiency](https://www.asianefficiency.com/blog/)
+* [Cal Newport](https://www.calnewport.com/blog/)
 
 ### Books
 
