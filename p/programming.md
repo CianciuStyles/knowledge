@@ -30,6 +30,7 @@
 
 ### Books
 
+* [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
@@ -76,6 +77,7 @@
 ### Websites
 
 * [Code Cartoons](https://code-cartoons.com/)
+* [Coder's Cat](https://coderscat.com/)
 * [Develop For Performance](http://developforperformance.com/)
 * [Developer Roadmaps](https://roadmap.sh/)
 * [DevFreeBooks](https://devfreebooks.github.io/)
