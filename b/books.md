@@ -55,6 +55,7 @@
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
+* [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
 * [Open Library](https://openlibrary.org/)

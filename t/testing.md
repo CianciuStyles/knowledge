@@ -101,6 +101,7 @@ public void should_calculate_subtotal_and_total_amount_ \
 ### Articles
 
 * [Anatomy of a Good Test](https://www.innoq.com/en/blog/anatomy-of-a-good-test/) - Torsten Mandry, Jacek Bilski
+* [Friday Facts \#366 - The only way to go fast, is to go well!](https://www.factorio.com/blog/post/fff-366)
 * [Why You Should Write Automated Tests](https://www.innoq.com/en/blog/why-you-should-write-automated-tests/) - Torsten Mandry, Jacek Bilski
 
 ### Books
