@@ -23,6 +23,7 @@
 * [What is your 10/10 movie?](https://www.reddit.com/r/AskReddit/comments/4q9b71/what_is_your_1010_movie/)
 * [What is your favorite animated movie of all time?](https://www.reddit.com/r/AskReddit/comments/43ce8j/what_is_your_favorite_animated_movie_of_all_time/)
 * [What movie, in your opinion, is a total masterpiece?](https://www.reddit.com/r/AskReddit/comments/6lxf7n/what_movie_in_your_opinion_is_a_total_masterpiece/)
+* [What Movie is a perfect 10/10?](https://www.reddit.com/r/AskReddit/comments/oab3gz/what_movie_is_a_perfect_1010/)
 * [What movie from the past 10 years is a must-see?](https://www.reddit.com/r/AskReddit/comments/70emha/what_movie_from_the_past_10_years_is_a_mustsee/)
 
 ### Websites

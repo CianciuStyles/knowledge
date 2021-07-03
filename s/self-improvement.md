@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [This Is How To Make Friends As An Adult: 5 Secrets Backed By Research](https://www.bakadesuyo.com/2017/02/how-to-make-friends-as-an-adult/?utm_source=sumome&utm_medium=twitter&utm_campaign=sumome_share) - Backed By Science
+
 ### Books
 
 * [How to Win Friends and Influence People](https://smile.amazon.co.uk/dp/0091906814) - Dale Carnegie
