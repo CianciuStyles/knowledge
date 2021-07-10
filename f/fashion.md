@@ -2,6 +2,7 @@
 
 ### Clothes
 
+* [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
 
 ### Infographics
