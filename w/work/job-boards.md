@@ -45,6 +45,7 @@
 * [HNHIRING](https://hnhiring.com/)
 * [Otta](https://otta.com/)
 * [Placement](https://www.placement.com/)
+* [SideQuest](https://sidequestjobs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=working)
 * [Slashscore](https://app.slashscore.ai/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [whoishiring.io](https://whoishiring.io/)
