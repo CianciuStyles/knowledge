@@ -16,6 +16,7 @@
 ### GitHub repositories
 
 * [grokking-system-design](https://github.com/lei-hsia/grokking-system-design)
+* [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ### Videos

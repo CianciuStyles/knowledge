@@ -41,6 +41,7 @@
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
 * [Documentaries](d/documentaries.md)
+* [Documentation](d/documentation.md)
 * [Dopamine](d/dopamine.md)
 
 ## E
