@@ -86,5 +86,6 @@
 ### YouTube Channels
 
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
+* [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
 

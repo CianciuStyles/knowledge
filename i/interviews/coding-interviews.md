@@ -12,6 +12,7 @@
 ### GitHub repositories
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Leetcode Java](https://github.com/gouthampradhan/leetcode)
 * [Leetcode Python](https://github.com/wuduhren/leetcode-python)
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
