@@ -24,6 +24,16 @@
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
 
+### Online Stores
+
+* [Blackwell's](https://blackwells.co.uk/bookshop/home)
+* [Books etc.](https://www.booksetc.co.uk/)
+* [Bookshop](https://uk.bookshop.org/)
+* [Foyles](https://www.foyles.co.uk/)
+* [Hive.co.uk](https://www.hive.co.uk/)
+* [Waterstones](https://www.waterstones.com/)
+* [Wordery](https://wordery.com/)
+
 ### Recommendations
 
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
@@ -55,12 +65,14 @@
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
+* [Find Book](https://www.find-book.co.uk/) - UK prices comparator
 * [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
 * [Open Library](https://openlibrary.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
+* [The Book Bundle](https://www.thebookbundle.com/)
 * [The Neglected Books Page](https://neglectedbooks.com/)
 * [World of Books](https://www.worldofbooks.com/en-gb)
 
