@@ -14,7 +14,7 @@
 * [Python Jobs](https://www.pythonjobs.com/)
 * [Python Remote Companies](https://github.com/mariusavram91/python-remote-companies)
 * [Remote Python](https://www.remotepython.com/jobs/)
-* [Remote Python Jobs](https://remoteok.io/remote-python-jobs)
+* [Remote Python Jobs](https://remoteok.io/remote-python-jobs) - [2](https://remotepython.io/)
 * [The Free Python Job Board](https://pythonjobs.github.io/)
 
 ### Relocation
