@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) - John Au-Yeung, Ryan Donovan
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) - Manuel Matuzovic
 * [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - Brandon Morelli
 * [What makes a good Progressive Web App?](https://web.dev/pwa-checklist/) - Sam Richards, Pete LePage
