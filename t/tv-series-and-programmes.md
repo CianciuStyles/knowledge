@@ -6,6 +6,10 @@
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 * [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=nv_sr_srsg_0)
 
+### Reddit Threads
+
+* [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
+
 ### To Watch
 
 * [8 Out of 10 Cats Does Countdown](https://www.channel4.com/programmes/8-out-of-10-cats-does-countdown)
