@@ -2,6 +2,7 @@
 
 * [Breaking News](https://breaking.ai/)
 * [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events)
+* [Why You Should Quit The News](https://markmanson.net/why-you-should-quit-the-news) - Mark Manson
 
 ### Technology
 
