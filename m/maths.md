@@ -27,5 +27,9 @@
 
 * [Khan Academy](https://www.khanacademy.org/)
 
+### YouTube Channels
+
+* [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos)
+
 
 
