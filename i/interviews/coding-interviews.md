@@ -11,6 +11,7 @@
 
 ### GitHub repositories
 
+* [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)
 * [Leetcode Python](https://github.com/wuduhren/leetcode-python)
