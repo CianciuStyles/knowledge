@@ -182,15 +182,15 @@
 * [TypeScript](t/typescript.md)
 * [Typography](t/typography.md)
 
-## V
+## V <a id="vi"></a>
 
-* [Virtual Tours](v/virtual-tours.md)
-* [Vim](v/vim.md)
-* [Video Games](v/video-games/README.md)
-  * [Emulation](v/video-games/emulation.md)
-  * [Mods](v/video-games/mods.md)
-  * [Video Games Music](v/video-games/video-games-music.md)
-* [V \(programming language\)](v/vlang.md)
+* [Virtual Tours](vi/virtual-tours.md)
+* [Vim](vi/vim.md)
+* [Video Games](vi/video-games/README.md)
+  * [Emulation](vi/video-games/emulation.md)
+  * [Mods](vi/video-games/mods.md)
+  * [Video Games Music](vi/video-games/video-games-music.md)
+* [V \(programming language\)](vi/vlang.md)
 
 ## W
 
