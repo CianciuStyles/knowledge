@@ -10,6 +10,7 @@
 
 ### Blogs
 
+* [Get Rich Slowly](https://www.getrichslowly.org/)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)
 
 ### Books
