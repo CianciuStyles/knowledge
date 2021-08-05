@@ -11,13 +11,16 @@
 
 ### GitHub repositories
 
+* [Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
 * [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Interview Room](https://github.com/ashuray/InterviewRoom)
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)
 * [Leetcode Python](https://github.com/wuduhren/leetcode-python)
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+* [Tech Interview Preparation](https://github.com/sastava007/Tech-Interview-Preparation)
 
 ### Websites
 

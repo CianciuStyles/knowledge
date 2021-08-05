@@ -59,6 +59,10 @@
 * [The Crown and Shuttle](https://www.crownandshuttle.com/) - Shoreditch
 * [The Lighterman](https://www.thelighterman.co.uk/) - King's Cross
 
+### Reddit Threads
+
+*  [Non-UK born Londoners, what's the best restaurant of your native cousine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk_born_londoners_whats_the_best_restaurant_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk_born_londoners_whats_the_best_restaurant_of/)
+
 ### Restaurants
 
 * [Beigel Bake](https://bricklanebeigel.co.uk/)
