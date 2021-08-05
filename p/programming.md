@@ -50,6 +50,7 @@
 
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+* [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 
 ### Ideas for projects
