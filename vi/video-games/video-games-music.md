@@ -41,6 +41,7 @@
 * [Final Fantasy IX](https://www.youtube.com/watch?v=iBGgUtd7EdA&list=PL9DADCB4F409084A4)
 * [Final Fantaxy XIII](https://www.youtube.com/watch?v=1MkjYDQoAZ8&list=PL29D37F27E93EF00C)
 * [Final Fantasy XV](https://www.youtube.com/watch?v=5dM0nB68lM8&list=PLWQEo5aMcuonQg7qdufTDGbqBxJOnrZGT)
+* [Grand Theft Auto: Vice City](https://www.youtube.com/playlist?list=PLffQpMcmLcI-3REhsGllOcwoAsYrQ9bra)
 * [Grim Fandango](https://www.youtube.com/watch?v=5-K8R1hDG9E)
 * [Hotline Miami](https://www.youtube.com/watch?v=oKD-MVfC9Ag)
 * [Interstate '76](https://www.youtube.com/watch?v=qXZGQSj8s4A)
