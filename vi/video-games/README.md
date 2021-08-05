@@ -55,6 +55,7 @@
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
+* [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643) - Kotaku
 * [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
 * [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
 * [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)

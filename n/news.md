@@ -2,6 +2,10 @@
 
 * [Breaking News](https://breaking.ai/)
 * [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events)
+* [Dan Wang](https://danwang.co/)
+* [Marginal Revolution](https://marginalrevolution.com/)
+* [Reuters](https://www.reuters.com/)
+* [The Economist](https://www.economist.com/)
 * [Why You Should Quit The News](https://markmanson.net/why-you-should-quit-the-news) - Mark Manson
 
 ### Technology
@@ -12,4 +16,5 @@
 * [Lobste.rs](https://lobste.rs/)
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
+* [Stratechery](https://stratechery.com/) - Ben Thompson
 

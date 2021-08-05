@@ -15,5 +15,6 @@ description: 'https://reactjs.org/'
 
 ### GitHub repositories
 
+* [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 * [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
