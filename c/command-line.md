@@ -12,6 +12,12 @@
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Unix Toolbox](https://github.com/hukl/Unix-Toolbox)
 
+### Tools
+
+* [autojump](https://github.com/wting/autojump)
+* [bat](https://github.com/sharkdp/bat)
+* [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
+
 ### Websites
 
 * [Command Challenge](https://cmdchallenge.com/)
