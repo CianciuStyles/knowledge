@@ -15,6 +15,7 @@
 * [Bill Gates](https://www.gatesnotes.com/Books)
 * [Derek Sivers](https://sive.rs/book)
 * [Jordan Peterson](https://www.jordanbpeterson.com/great-books/)
+* [Mark Manson](https://markmanson.net/best-books)
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
 
 ### Hacker News Threads
