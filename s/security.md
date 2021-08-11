@@ -41,6 +41,7 @@
 ### GitHub Repositories
 
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [Crypton](https://github.com/ashutosh1206/Crypton)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
