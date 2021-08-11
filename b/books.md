@@ -17,6 +17,7 @@
 * [Jordan Peterson](https://www.jordanbpeterson.com/great-books/)
 * [Mark Manson](https://markmanson.net/best-books)
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
+* [Rebel Book Club](https://rebelbook.club/library/)
 
 ### Hacker News Threads
 
