@@ -25,6 +25,11 @@
 * [Retro Game Cases](https://www.retrogamecases.com/)
 * [Videogame Box Protectors](https://www.videogameboxprotectors.com/)
 
+### Collections
+
+* [Gharlic Heimli](https://www.minah.it/collezione)
+* [Nel Profondo dei Caraibi...](https://nelprofondodeicaraibi.wordpress.com/)
+
 ### Databases
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main_Page)
