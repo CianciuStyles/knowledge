@@ -26,6 +26,12 @@
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
 
+### Infographics
+
+![/lit/&apos;s Top 100 Books of All Time](../.gitbook/assets/lits-top-100-books-of-all-time.jpg)
+
+![Sci-Fi Guide](../.gitbook/assets/r55odll.jpeg)
+
 ### Online Stores
 
 * [Blackwell's](https://blackwells.co.uk/bookshop/home)
