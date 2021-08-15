@@ -19,6 +19,7 @@
 
 * [AlgorithmsAndDataStructure](https://github.com/codePerfectPlus/AlgorithmsAndDataStructure) - C++ and Python
 * [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
+* [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 * [The Algorithms](https://github.com/TheAlgorithms)
 
 ### Videos
