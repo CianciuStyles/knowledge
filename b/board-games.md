@@ -16,7 +16,9 @@
 
 ### Infographics
 
-![](../.gitbook/assets/immagine%20%283%29.png)
+![How To Choose The Perfect Board Game](../.gitbook/assets/7kcoaut8vky41.jpg)
+
+![Top 100 Board Games](../.gitbook/assets/immagine%20%283%29.png)
 
 ### Lists
 

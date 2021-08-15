@@ -16,6 +16,7 @@
 * [How to Actually Get Fit](https://imgur.com/a/klzP3/layout/undefined)
 * [How to Do a Bodyweight Row or Inverted Row](https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/) - Nerd Fitness
 * [How To Have Flat Abs – Amazing 5-minute Daily Work-out](https://bewellhub.com/2017/02/09/how-to-have-flat-abs-amazing-5-minute-daily-work-out/)
+* [If You're So Smart, Why Don't You Exercise?](https://keremkart.medium.com/if-youre-so-smart-why-don-t-you-exercise-b7aeacd4a04a) - Keremcart
 * [The 42 Best Bodyweight Exercises: The Ultimate Guide for Working Out Anywhere!](https://www.nerdfitness.com/blog/the-42-best-bodyweight-exercises-the-ultimate-guide-for-working-out-anywhere/) - Nerd Fitness
 * [The 5 Best Pull-up Alternatives \(How to Do Pull-ups Without a Bar\)](https://www.nerdfitness.com/blog/pull-up-alternatives/) - Nerd Fitness
 * [The Ultimate Guide to Bodyweight Exercise](https://gmb.io/bodyweight-guide/)
