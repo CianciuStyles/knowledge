@@ -9,6 +9,7 @@
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+* [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 
 ### Awesome
 
@@ -58,6 +59,7 @@
 
 ### Websites
 
+* [Compiler Explorer](https://godbolt.org/)
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/#)
 * [Cybrary](https://www.cybrary.it/)
 * [DVWA](https://dvwa.co.uk/) - Damn Vulnerable Web Application
