@@ -3,6 +3,9 @@
 ### Articles
 
 * [Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time/) - Nick Ciubotariu
+* [Google Interview Questions Deconstructed: Synonymous Queries](https://alexgolec.dev/synonymous-queries/) - Alex Golec
+* [Google Interview Problems: Ratio Finder](https://alexgolec.dev/ratio-finder/) - Alex Golec
+* [Reddit Interview Problems: The Game of Life](https://alexgolec.dev/reddit-interview-problems-the-game-of-life/) - Alex Golec
 
 ### Courses
 

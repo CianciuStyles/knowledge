@@ -46,6 +46,7 @@
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
+* [Snes Central](https://snescentral.com/index.php)
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 * [The PlayStation Datacenter](https://psxdatacenter.com/)
 * [Unseen64](https://www.unseen64.net/)
