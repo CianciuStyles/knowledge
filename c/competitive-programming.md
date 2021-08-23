@@ -19,6 +19,10 @@
 
 * [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/cs3233.html) - Steven Halim
 
+### GitHub Repositories
+
+* [Competitive Programming](https://github.com/manishbisht/Competitive-Programming)
+
 ### Platforms
 
 * [CodeChef](https://www.codechef.com/)
