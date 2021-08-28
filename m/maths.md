@@ -2,6 +2,14 @@
 
 ## Resources
 
+### Articles
+
+* The Mathematics of 2048 - John Lees-Miller
+  * [Minimum Moves to Win with Markov Chains](https://jdlm.info/articles/2017/08/05/markov-chain-2048.html) \([HN](https://news.ycombinator.com/item?id=15327837)\)
+  * [Counting States with Combinatorics](https://jdlm.info/articles/2017/09/17/counting-states-combinatorics-2048.html) \([HN](https://news.ycombinator.com/item?id=15327837)\)
+  * [Counting States by Exhaustive Enumeration](https://jdlm.info/articles/2017/12/10/counting-states-enumeration-2048.html) \([HN](https://news.ycombinator.com/item?id=15894126)\)
+  * [Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html) \([HN](https://news.ycombinator.com/item?id=16790338)\)
+
 ### Books
 
 #### Discrete Mathematics
