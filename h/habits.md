@@ -24,7 +24,7 @@
 
 ### Books
 
-* [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear
+* [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear \([summary](https://public.summaries.com/files/1-page-summary/atomic-habits.pdf)\)
 * [The Power Of Habit](https://smile.amazon.co.uk/dp/1847946240) - Charles Duhigg
 
 ### YouTube videos

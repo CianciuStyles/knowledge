@@ -1,5 +1,9 @@
 # London
 
+### Bars
+
+* [Ballie Ballerson](https://www.ballieballerson.com/)
+
 ### Board Games Cafès
 
 * [Draughts](https://www.draughtslondon.com/)
@@ -16,6 +20,7 @@
 * [London Waterbus Company](https://www.londonwaterbus.com/)
 * [Mayfield Lavender](https://www.mayfieldlavender.com/)
 * [Oxygen Freejumping](https://oxygenfreejumping.co.uk/#)
+* [Party N Paint](https://www.partynpaint.co.uk/)
 * [Royal Botanical Gardens](https://www.kew.org/) - Kew
 * [Royal Observatory](https://www.rmg.co.uk/royal-observatory) - Greenwich
 * [Somerset House](https://www.somersethouse.org.uk/)
