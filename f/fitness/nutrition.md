@@ -30,6 +30,21 @@
 * [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
 * [Protein-Packed Breakfast Burritos](https://blog.myfitnesspal.com/protein-packed-breakfast-burritos/) - MyFitnessPal
 
+### Reddit Threads
+
+* [Chefs of Reddit, what's the greatest recipe you've ever come across?](https://www.reddit.com/r/AskReddit/comments/9zxypy/chefs_of_reddit_whats_the_greatest_recipe_youve/)
+* [High protein, cheap foods?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5ozvaf/high_protein_cheap_foods_apart_from_beans/)
+* [Huge collection of MOSTLY fit receipes with step by step photos](https://www.reddit.com/r/fitmeals/comments/39k7j6/huge_collection_of_mostly_fit_receipes_with_step/)
+* [One-Pan Meals. Throw 'em at me, people!](https://www.reddit.com/r/EatCheapAndHealthy/comments/5vxlvn/onepan_meals_throw_em_at_me_people/)
+* [What's the best easy-to-make foods for maximizing weight loss?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5uqe2t/q_whats_the_best_easytomake_foods_for_maximizing/)
+* [What's your best 30-minute or less healthy recipe?](https://www.reddit.com/r/fitmeals/comments/5lau2i/whats_your_best_30minute_or_less_healthy_recipe/)
+* [What are cheap staple foods which cover all the core nutritional requirements?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5kja9m/what_are_cheap_staple_foods_which_cover_all_the/)
+* [What are some of the best meal ideas/recipes that very few ingredients?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5fil8c/what_are_some_of_the_best_meal_ideasrecipes_that/)
+* [What are the cheapest low-calorie, high-volume foods?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5gcxr5/what_are_the_cheapest_lowcalorie_highvolume_foods/)
+* [What are your fastest sources of getting protein?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5u79i9/what_are_your_fastest_sources_of_getting_protein/)
+* [What is healthy but actually tastes good?](https://www.reddit.com/r/AskReddit/comments/55tij9/what_is_healthy_but_actually_tastes_good/)
+* [What would be a good way to go about a high fat/protein low carb \(the cheap and healthy way\)?](https://www.reddit.com/r/EatCheapAndHealthy/comments/8mbpl8/what_would_be_a_good_way_to_go_about_a_high/)
+
 ### Subreddits
 
 * [r/EatCheapAndVegan](https://www.reddit.com/r/EatCheapAndVegan/)
