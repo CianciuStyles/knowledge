@@ -13,6 +13,7 @@
 * [Abstruse Goose](https://abstrusegoose.com/)
 * [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin_and_hobbes/)
 * [Read Comic Online](https://readcomiconline.to/)
+* [The Oatmeal](https://theoatmeal.com/)
 * [xkcd](https://xkcd.com/)
 
 ### Manga
