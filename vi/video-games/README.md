@@ -59,6 +59,14 @@
 ### Lists
 
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
+* r/PatientGamers Essential Games Lists
+  * [3DS](https://www.reddit.com/r/patientgamers/comments/6fgh8o/rpatientgamers_essential_games_list_nintendo_3ds/)
+  * [PlayStation 3](https://www.reddit.com/r/patientgamers/comments/6cub84/rpatientgamers_essential_games_list_playstation_3/)
+  * [PlayStation 4](https://www.reddit.com/r/patientgamers/comments/6jlj5a/rpatientgamers_essential_games_list_ps4/)
+  * [PlayStation Vita](https://www.reddit.com/r/patientgamers/comments/6grkg0/rpatientgamers_essential_games_list_ps_vita/)
+  * [Wii](https://www.reddit.com/r/patientgamers/comments/6e29ij/rpatientgamers_essential_games_list_nintendo_wii/)
+  * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers_essential_games_list_wii_u/)
+  * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers_essential_games_list_xbox_360/)
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
 * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643) - Kotaku
