@@ -9,6 +9,10 @@
 
 * [This column will change your life](https://www.theguardian.com/lifeandstyle/series/thiscolumnwillchangeyourlife) - The Guardian
 
+### Reddit Threads
+
+* [What improved your quality of life so much, you wish you did it sooner?](https://www.reddit.com/r/AskReddit/comments/pbzt5b/what_improved_your_quality_of_life_so_much_you/)
+
 ### Websites
 
 * [The Art of Manliness](https://www.artofmanliness.com/)

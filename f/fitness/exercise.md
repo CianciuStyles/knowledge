@@ -30,3 +30,7 @@
 * [NerdFitness](http://www.nerdfitness.com/)
 * [Physiqonomics](https://physiqonomics.com/)
 
+### YouTube Channels
+
+* [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene)
+

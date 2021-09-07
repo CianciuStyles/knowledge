@@ -38,6 +38,12 @@
 ### YouTube Channels
 
 * [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos)
+* [blackredpen](https://www.youtube.com/c/blackpenredpen/videos)
+* [Eddie Woo](https://www.youtube.com/c/misterwootube/videos)
+* [Mathologer](https://www.youtube.com/c/Mathologer/videos)
+* [Michael Penn](https://www.youtube.com/c/MichaelPennMath/videos)
+* [Numberphile](https://www.youtube.com/user/numberphile/videos)
+* [Vsauce](https://www.youtube.com/c/vsauce1/videos)
 
 
 
