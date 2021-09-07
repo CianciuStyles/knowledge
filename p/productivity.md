@@ -22,10 +22,12 @@
 
 * [1 Weekly Habit That Will Push You to Peak Performance](https://www.inc.com/laura-garnett/1-weekly-habit-for-peak-performance.html) - Laura Garnett
 * [12 Simple Steps to Become a Productivity Bad-Ass](https://mixwellness.com/12-simple-steps-to-become-a-productivity-bad-ass/) - Kristen Boucher
+* [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) - TJCX
 * [How to make Todoist conform to GTD](https://medium.com/@dougvk/how-to-make-todoist-conform-to-gtd-362d86f037bf) - Doug von Kohorn
 * [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf) - Getting Things Done
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
+* [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
 
 ### Blogs
 
