@@ -3,8 +3,10 @@
 ### Anime
 
 * [4Anime](https://4anime.to/)
+* [Crunchyroll](https://www.crunchyroll.com)
 * [MyAnimeList](https://myanimelist.net/)
 * [The massive "I just got in to anime" recommendation list](https://redditanime.fandom.com/wiki/The_massive_%22I_just_got_in_to_anime%22_recommendation_list)
+* [VVVVID](https://www.vvvvid.it)
 
 ### Comics
 

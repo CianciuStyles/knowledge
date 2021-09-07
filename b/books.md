@@ -5,6 +5,7 @@
 ### Articles
 
 * [How to Read a Book](https://www.artofmanliness.com/articles/how-to-read-a-book/) - The Art of Manliness
+* [How to Remember What You Read](https://fs.blog/2021/08/remember-books/) - Farnam Street
 
 ### Books
 
