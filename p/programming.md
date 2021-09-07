@@ -50,6 +50,7 @@
 
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+* [Influential CS Books](https://github.com/cs-books/influential-cs-books)
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 

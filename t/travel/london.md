@@ -2,7 +2,11 @@
 
 ### Bars
 
+* [Arcade Monkeyz](https://www.arcademonkeyz.com/)
 * [Ballie Ballerson](https://www.ballieballerson.com/)
+* [Electric Shuffle](https://electricshuffle.com/london/)
+* [Four Quarters](https://fourquarters.bar/)
+* [Hyper Reality](https://hyper-reality.io/) - Cyberpunk
 
 ### Board Games Cafès
 
@@ -13,12 +17,14 @@
 * [Barbican Conservatory](https://www.barbican.org.uk/whats-on/2021/event/visit-the-conservatory)
 * [Chislehurst Caves](https://www.chislehurst-caves.co.uk/)
 * [Chiswick House & Gardens](https://chiswickhouseandgardens.org.uk/)
+* [Electric Gamebox](https://electricgamebox.com/)
 * [Emirates Air Line](https://tfl.gov.uk/modes/emirates-air-line/)
 * [Fulham Palace House & Gardens](https://www.fulhampalace.org/)
 * [Go Ape](https://goape.co.uk/locations/alexandra-palace) - Alexandra Palace
 * [Key bus routes in central London](https://www.mapaplan.com/travel-map/london-top-tourist-attractions-map/high-resolution/london-top-tourist-attractions-map-14-key-bus-routes-by-tourist-attractions-in-central-london-high-resolution.png)
 * [London Waterbus Company](https://www.londonwaterbus.com/)
 * [Mayfield Lavender](https://www.mayfieldlavender.com/)
+* [Morning Yoga](https://skygarden.london/morning-yoga/) - Sky Garden
 * [Oxygen Freejumping](https://oxygenfreejumping.co.uk/#)
 * [Party N Paint](https://www.partynpaint.co.uk/)
 * [Royal Botanical Gardens](https://www.kew.org/) - Kew
@@ -26,6 +32,7 @@
 * [Somerset House](https://www.somersethouse.org.uk/)
 * [The Arch Climbing Wall](https://www.archclimbingwall.com/)
 * [The Castle Climbing Centre](https://www.castle-climbing.co.uk/)
+* [The Dare Skywalk](https://experience.tottenhamhotspur.com/spurs-sky-walk.htm) - Tottenham Hotspur Stadium
 * [The View from The Shard](https://www.theviewfromtheshard.com/)
 * [Up at The O2](https://www.theo2.co.uk/m/news/detail/up-at-the-o2)
 
