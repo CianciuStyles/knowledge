@@ -7,6 +7,7 @@
 * [How Millennials Can Overcome Their 6 Biggest Financial Challenges](https://www.artofmanliness.com/articles/millennials-can-overcome-6-biggest-financial-challenges/) - The Art of Manliness
 * [How People Get Rich Now](https://paulgraham.com/richnow.html) - Paul Graham
 * [How to invest spare lockdown cash in the stock market… safely](https://www.theguardian.com/money/2021/jan/31/how-to-invest-spare-lockdown-cash-in-the-stock-market-safely) - Shane Hickey, The Guardian
+* [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Mr. Money Mustache
 
 ### Blogs
 
