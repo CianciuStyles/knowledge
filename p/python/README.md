@@ -15,6 +15,7 @@ description: 'https://www.python.org/'
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
+* [Python behind the scenes \#11: how the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/) - Victor Skvortsov
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
