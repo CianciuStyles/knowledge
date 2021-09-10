@@ -14,6 +14,7 @@
 
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list_of_best_outofthebox_video_output_options/)
+* [Triangoli colorati sulle confezioni dei giochi Nintendo](https://giocatorinintendo.com/2014/08/21/triangoli-colorati-sulle-confezioni-dei-giochi-nintendo/)
 
 ### Books
 
