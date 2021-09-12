@@ -77,6 +77,10 @@
 * [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
 * [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)
 
+### Movies
+
+* [Omar World](https://www.youtube.com/playlist?list=PLp5OoSIngkAiIzQvYvkMa7x7GBGzkra08)
+
 ### Online Stores
 
 * [Be More Geek](https://www.bemoregeek.co.uk/)
