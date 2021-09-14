@@ -421,6 +421,7 @@
 ### Articles
 
 * [psql Tips](https://mydbanotebook.org/psql_tips_all.html) - Lætitia Avrot
+* [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
 
 
 

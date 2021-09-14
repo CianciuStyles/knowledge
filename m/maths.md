@@ -31,6 +31,10 @@
   * [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
 * [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
 
+### GitHub Repositories
+
+* [Math As Code](https://github.com/Jam3/math-as-code)
+
 ### Websites
 
 * [Khan Academy](https://www.khanacademy.org/)
