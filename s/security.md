@@ -47,6 +47,7 @@
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
 
 ### Subreddits
 
