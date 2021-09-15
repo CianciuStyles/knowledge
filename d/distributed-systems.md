@@ -10,7 +10,8 @@
 
 ### Hacker News threads
 
-*  [Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
+* [Ask HN: Best books on modern distributed systems](https://news.ycombinator.com/item?id=28391738)
+* [Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
 
 
 
