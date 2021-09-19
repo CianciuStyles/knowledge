@@ -14,6 +14,10 @@
 
 * [Modern CSS Explained For Dinosaurs](https://actualize.teachable.com/p/modern-css-explained-for-dinosaurs) - Peter Jang
 
+### GitHub Repositories
+
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+
 ### Websites
 
 * [CodeMyUI](https://codemyui.com/)

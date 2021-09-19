@@ -39,6 +39,7 @@
 ### GitHub repositories
 
 * [How I write backends](https://github.com/fpereiro/backendlore) - Federico Pereiro
+* [Web Developer Roadmap 2021](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Hosting
 

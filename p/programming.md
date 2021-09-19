@@ -50,6 +50,7 @@
 ### GitHub repositories
 
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 * [Influential CS Books](https://github.com/cs-books/influential-cs-books)
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
@@ -80,6 +81,7 @@
 
 ### Websites
 
+* [30 Seconds Of Code](https://www.30secondsofcode.org/)
 * [Code Cartoons](https://code-cartoons.com/)
 * [Coder's Cat](https://coderscat.com/)
 * [Develop For Performance](http://developforperformance.com/)
