@@ -37,6 +37,9 @@
 ### Books
 
 * [Getting Things Done](https://smile.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947) - David Allen
+* [The Attributes](https://smile.amazon.co.uk/dp/075355867X/) - Rich Diviney
+  * [Summary by Bob Schoultz](https://bobsbeenreading.wordpress.com/2021/02/03/the-attributes-25-hidden-drivers-of-optimal-performance-by-rich-diviney/)
+  * [Summary by Kyaw Wai Yan Tun](https://waiyancan.com/summary-the-attributes-rich-diviney/)
 * [The Seven Habits Of Highly Effective People](https://smile.amazon.co.uk/Habits-Highly-Effective-People/dp/1471165086) - Stephen Covey
   * [Notes by Michael Parker](https://github.com/mgp/book-notes/blob/master/the-seven-habits-of-highly-effective-people.markdown)
   * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the_7_habits_of/)
