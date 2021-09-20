@@ -8,6 +8,7 @@
 
 ### Articles
 
+* [A Beginner's Guide to Hiking](https://www.nerdfitness.com/blog/hiking/) - Nerd Fitness
 * [Ab exercises you should be doing](https://imgur.com/a/Fkql2)
 * [Body Recomposition: How to Lose Fat and Gain Muscle at the Same Time](https://physiqonomics.com/body-recomposition/) - Physiqonomics
 * [Cardio or Weights: What’s Better for Fat Loss?](https://physiqonomics.com/cardio-or-weights/) - Physiqonomics

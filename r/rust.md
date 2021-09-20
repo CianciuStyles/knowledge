@@ -19,3 +19,8 @@
 * [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722) - Chris Biscardi
 * [The Rust Programming Language](https://frontendmasters.com/courses/rust/) - Richard Feldman
 
+### Videos
+
+* Rust for Java Developers - Jeremy Chone
+  * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
+

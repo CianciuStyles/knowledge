@@ -58,6 +58,7 @@
 
 ### Ideas for projects
 
+* [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
 * [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html) - Austin Z. Henley
 * [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal
