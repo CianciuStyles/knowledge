@@ -46,6 +46,8 @@ description: 'https://www.python.org/'
 
 ### Libraries
 
+![](../../.gitbook/assets/image%20%281%29.png)
+
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
 * [docopt](https://docopt.org/) - command-line interface description language
 * [MkDocs](https://www.mkdocs.org/) - project documentation with Markdown
