@@ -1,5 +1,6 @@
 # Emulation
 
+* [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
 * [CoolROM](https://coolrom.com.au/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
