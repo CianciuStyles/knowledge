@@ -109,3 +109,8 @@ public void should_calculate_subtotal_and_total_amount_ \
 * [Test-Driven Development: By Example](https://smile.amazon.co.uk/dp/0321146530) - Kent Beck
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/test-driven-development/)
 
+### Videos
+
+* [TDD, where did it all go wrong](https://vimeo.com/68375232) - Ian Cooper
+  * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/talks/tdd-where-did-it-all-go-wrong/)
+
