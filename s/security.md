@@ -32,6 +32,10 @@
 * [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
 * [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 
+### Conferences
+
+* [RomHack](https://www.romhack.io/)
+
 ### Databases
 
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
@@ -89,6 +93,7 @@
 
 ### YouTube Channels
 
+* [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
