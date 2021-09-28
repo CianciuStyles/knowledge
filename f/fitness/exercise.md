@@ -26,6 +26,7 @@
 
 ### Websites
 
+* [AllTrails](https://www.alltrails.com/)
 * [DAREBEE](https://darebee.com/) - Fitness On Your Terms
 * [ExRx](https://exrx.net/)
 * [NerdFitness](http://www.nerdfitness.com/)
