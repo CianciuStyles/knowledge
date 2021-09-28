@@ -10,6 +10,7 @@
 * [My Abandonware](https://www.myabandonware.com/)
 * [Old Games Download](https://oldgamesdownload.com/)
 * [Play Emulator](https://www.playemulator.com/)
+* [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)
 * [Vimm's Lair](https://vimm.net/)
 
