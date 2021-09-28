@@ -2,6 +2,7 @@
 
 ### Marketplaces
 
+* [Affetto Italiano](https://www.affettoitaliano.co.uk/) - Italian Food Shopping Online
 * [Amazon UK](https://smile.amazon.co.uk/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
   * [ShitYouCanAfford](https://shityoucanafford.com/) - The Best Products on Amazon Under $20

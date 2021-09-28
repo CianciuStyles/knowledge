@@ -12,6 +12,7 @@
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
+* [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 * [Why you should learn brainf\*ck \(or: learn you a brainf\*ck for great good!\)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig
