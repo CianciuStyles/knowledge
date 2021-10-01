@@ -42,6 +42,7 @@
 * [Lost Releases](https://www.crimson-ceremony.net/lostreleases/index.php) - Survival Horror Media Releases
 * [NinDB](https://nindb.net/)
 * [Nintendo64EVER](https://www.nintendo64ever.com/home.html)
+* [Old Video Game Advertisements](https://retrocgads.tumblr.com/)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
