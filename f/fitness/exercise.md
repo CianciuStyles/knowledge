@@ -24,6 +24,10 @@
 * [The Ultimate Guide to Building Muscle Fast \(Training & Workouts\)](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength) - Nerd Fitness
 * [The Ultimate List of Compound Exercises: 50 Muscle-Building Exercises](https://thefitnesstribe.com/list-of-compound-exercises/) - The Fitness Tribe
 
+### Hacker News Thread
+
+* [How do I get fit and healthy as a software engineer?](https://news.ycombinator.com/item?id=28561238)
+
 ### Websites
 
 * [AllTrails](https://www.alltrails.com/)
