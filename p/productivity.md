@@ -8,15 +8,16 @@
 * "If you can’t work any harder, you gotta find an easier path” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * Three key productivity hacks: forgiveness, gratitude, and asking "how can I do this effortlessly" - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * “What is one thing that is absolutely essential that I’m underinvesting on right now?” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
-* When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs/)
+* When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs)
 
 ## Resources
 
 ### Ambient Sounds
 
-* [A Soft Murmur](https://asoftmurmur.com/)
-* [Coffitivity](https://coffitivity.com/)
-* [I Miss My Bar](https://imissmybar.com/)
+* [A Soft Murmur](https://asoftmurmur.com)
+* [Coffitivity](https://coffitivity.com)
+* [I Miss My Bar](https://imissmybar.com)
+* [myNoise](https://mynoise.net)
 
 ### Articles
 
@@ -42,9 +43,8 @@
   * [Summary by Kyaw Wai Yan Tun](https://waiyancan.com/summary-the-attributes-rich-diviney/)
 * [The Seven Habits Of Highly Effective People](https://smile.amazon.co.uk/Habits-Highly-Effective-People/dp/1471165086) - Stephen Covey
   * [Notes by Michael Parker](https://github.com/mgp/book-notes/blob/master/the-seven-habits-of-highly-effective-people.markdown)
-  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the_7_habits_of/)
+  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the\_7\_habits_of/)
 
 ### Hacker News Threads
 
 * [How do I find energy to work on hobbies after the work day ends?](https://news.ycombinator.com/item?id=26500021)
-

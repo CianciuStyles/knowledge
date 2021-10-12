@@ -27,6 +27,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome macOS Open Source: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 * Awesome Music: [https://github.com/ciconia/awesome-music](https://github.com/ciconia/awesome-music)
 * Awesome OS: [https://github.com/jubalh/awesome-os](https://github.com/jubalh/awesome-os)
+* Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 * Awesome Security Gists: [https://github.com/Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
@@ -37,9 +38,8 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Subreddits: [https://github.com/iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 * Awesome Talks: [https://github.com/JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * Awesome Unity: [https://github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity)
-* Awesome Web Apps \(that work without login\): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+* Awesome Web Apps (that work without login): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 * Awesome Web Development Resources: [https://github.com/markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 * Awesome Windows: [https://github.com/Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
 * Best Websites A Programmer Should Visit: [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-
