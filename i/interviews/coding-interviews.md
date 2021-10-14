@@ -20,7 +20,7 @@
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Interview Room](https://github.com/ashuray/InterviewRoom)
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)
-* [Leetcode Python](https://github.com/wuduhren/leetcode-python)
+* [Leetcode Python](https://github.com/wuduhren/leetcode-python) - [2](https://github.com/yuzhoujr/leetcode)
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
@@ -28,7 +28,6 @@
 
 ### Websites
 
-* [CodeSignal](https://app.codesignal.com/)
+* [CodeSignal](https://app.codesignal.com)
 * [Codility](https://app.codility.com/programmers/lessons)
-* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) \([GitHub](https://github.com/yangshun/tech-interview-handbook)\)
-
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
