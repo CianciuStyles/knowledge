@@ -21,20 +21,20 @@
 * [Board Games](b/board-games.md)
 * [Books](b/books.md)
 
-## C
+## C <a href="cee" id="cee"></a>
 
-* [C (programming language)](c/c-programming-language.md)
-* [Cascading Style Sheets](c/cascading-style-sheets.md)
-* [Command Line](c/command-line.md)
-* [Competitive Programming](c/competitive-programming.md)
-* [Computer Graphics](c/computer-graphics.md)
-* [Computer Science](c/computer-science.md)
-* [Concurrency](c/concurrency.md)
-* [Continuous Integration / Delivery](c/continuous-integration-delivery.md)
-* [Cooking](c/cooking.md)
-* [Curriculum Vitae](c/curriculum-vitae.md)
-* [Cryptography](c/cryptography.md)
-* [Cryptocurriencies](c/cryptocurriencies.md)
+* [C (programming language)](cee/c-programming-language.md)
+* [Cascading Style Sheets](cee/cascading-style-sheets.md)
+* [Command Line](cee/command-line.md)
+* [Competitive Programming](cee/competitive-programming.md)
+* [Computer Graphics](cee/computer-graphics.md)
+* [Computer Science](cee/computer-science.md)
+* [Concurrency](cee/concurrency.md)
+* [Continuous Integration / Delivery](cee/continuous-integration-delivery.md)
+* [Cooking](cee/cooking.md)
+* [Curriculum Vitae](cee/curriculum-vitae.md)
+* [Cryptography](cee/cryptography.md)
+* [Cryptocurriencies](cee/cryptocurriencies.md)
 
 ## D
 
