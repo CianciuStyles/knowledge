@@ -23,10 +23,11 @@
 
 ## C
 
-* [C \(programming language\)](c/c-programming-language.md)
+* [C (programming language)](c/c-programming-language.md)
 * [Cascading Style Sheets](c/cascading-style-sheets.md)
 * [Command Line](c/command-line.md)
 * [Competitive Programming](c/competitive-programming.md)
+* [Computer Graphics](c/computer-graphics.md)
 * [Computer Science](c/computer-science.md)
 * [Concurrency](c/concurrency.md)
 * [Continuous Integration / Delivery](c/continuous-integration-delivery.md)
@@ -166,7 +167,7 @@
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
-* [Spring \(framework\)](s/spring-framework.md)
+* [Spring (framework)](s/spring-framework.md)
 * [Stoicism](s/stoicism.md)
 * [Strength Training](s/strength-training/README.md)
   * [Deadlifts](s/strength-training/deadlifts.md)
@@ -185,7 +186,7 @@
 * [TypeScript](t/typescript.md)
 * [Typography](t/typography.md)
 
-## V <a id="vi"></a>
+## V <a href="vi" id="vi"></a>
 
 * [Virtual Tours](vi/virtual-tours.md)
 * [Vim](vi/vim.md)
@@ -193,7 +194,7 @@
   * [Emulation](vi/video-games/emulation.md)
   * [Mods](vi/video-games/mods.md)
   * [Video Games Music](vi/video-games/video-games-music.md)
-* [V \(programming language\)](vi/vlang.md)
+* [V (programming language)](vi/vlang.md)
 
 ## W
 
@@ -206,4 +207,3 @@
   * [Job Boards](w/work/job-boards.md)
   * [Remote Work](w/work/remote-work.md)
 * [Writing](w/writing.md)
-
