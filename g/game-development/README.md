@@ -10,11 +10,11 @@
 
 ### Books
 
-* [Game AI Pro](https://www.gameaipro.com/)
-* [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
+* [Game AI Pro](https://www.gameaipro.com)
+* [Game Programming Patterns](https://gameprogrammingpatterns.com) - Robert Nystrom
 * [Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book) - Michael Abrash
 * [Procedural Content Generation in Games](https://www.docdroid.net/zReQS98/output-pdf)
-* [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo, Jen Lowe
+* [The Book of Shaders](https://thebookofshaders.com) - Patricio Gonzalez Vivo, Jen Lowe
 
 ### Courses
 
@@ -36,9 +36,12 @@
 ### Websites
 
 * [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
-* [GameDev.net](https://www.gamedev.net/)
+* [GameDev.net](https://www.gamedev.net)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
-* [Lazy Foo's Productions](https://lazyfoo.net/)
-* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1_llmeiAdZMo_ZanIvg)
+* [Lazy Foo's Productions](https://lazyfoo.net)
+* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo_ZanIvg)
 * [RasterTek](https://www.rastertek.com/tutindex.html)
 
+### YouTube Channels
+
+* [Randall Thomas](https://www.youtube.com/c/RandallThomas/videos) - [The Sequel](https://www.youtube.com/c/RandytheSequel/videos)
