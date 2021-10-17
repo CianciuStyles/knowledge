@@ -68,6 +68,7 @@
   * [PlayStation 3](https://www.reddit.com/r/patientgamers/comments/6cub84/rpatientgamers_essential_games_list_playstation\_3/)
   * [PlayStation 4](https://www.reddit.com/r/patientgamers/comments/6jlj5a/rpatientgamers_essential_games_list_ps4/)
   * [PlayStation Vita](https://www.reddit.com/r/patientgamers/comments/6grkg0/rpatientgamers_essential_games_list_ps_vita/)
+  * [Steam](https://www.reddit.com/r/Steam/comments/3tykt8/essential_steam_games/)
   * [Wii](https://www.reddit.com/r/patientgamers/comments/6e29ij/rpatientgamers_essential_games_list_nintendo_wii/)
   * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers_essential_games_list_wii_u/)
   * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers_essential_games_list_xbox\_360/)
