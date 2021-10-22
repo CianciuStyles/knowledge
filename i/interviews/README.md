@@ -10,7 +10,7 @@
 * [Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) - Steve Yegge
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
 * [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes-2/) - Joel Spolsky
-* [The Guerrilla Guide to Interviewing \(version 3.0\)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
+* [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
 * [The Phone Screen](https://www.joelonsoftware.com/2006/10/24/the-phone-screen-2/) - Joel Spolsky
 * [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - Gayle Laakmann McDowell
 * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/) - Jacob Kaplan-Moss
@@ -34,9 +34,9 @@
 
 ### Websites
 
+* [BFE.dev](https://bigfrontend.dev) - prepare for Front End interviews
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
 
 ### YouTube Playlists
 
 * [Technical Interview Preparation](https://www.youtube.com/playlist?list=PLJBO5eOxvWcAytirt2nBWvFyZogOFm-wA)
-
