@@ -15,3 +15,6 @@
 
 * [Your First Week on Amazon Web Services](https://www.youtube.com/watch?v=7CiHBcqw6zc) - Miles Ward
 
+### Websites
+
+* [LocalStack](https://localstack.cloud) - A fully functional local cloud stack

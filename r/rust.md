@@ -9,9 +9,10 @@
 
 ### Books
 
-* [Easy Rust](https://fongyoong.github.io/easy_rust/)
+* [Easy Rust](https://fongyoong.github.io/easy\_rust/)
+* [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
-* [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20) - Luca Palmieri
+* [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount\_code=VAT20) - Luca Palmieri
 
 ### Courses
 
@@ -23,4 +24,3 @@
 
 * Rust for Java Developers - Jeremy Chone
   * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
-
