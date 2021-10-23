@@ -7,8 +7,9 @@
 * [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
 * [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
+* [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
-* [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4\_Table_of_Contents)
+* [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 
 ### Awesome
@@ -52,7 +53,7 @@
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
-* [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions.md)
+* [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 
 ### Subreddits
 
