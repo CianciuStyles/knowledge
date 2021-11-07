@@ -8,21 +8,21 @@
 
 * The **pie** is the reason the negotiation is taking place. It's what the parties are trying to divide. The first question almost everyone asks is, how do you divide it? In particular, how do you get as big a slice as possible? Now that's a fine question, and I'll help you answer it, but it isn't where I start. My starting point is **what is the pie**?
 * The pie is how much more two parties, A and B, can achieve by working together than they can get if they don't reach an agreement.
-* In more technical terms, the pie = **net benefit from working together – \(A’s net benefit on its own + B’s net benefit on its own\)** where net benefit is the benefit leftover after costs.
+* In more technical terms, the pie = **net benefit from working together – (A’s net benefit on its own + B’s net benefit on its own)** where net benefit is the benefit leftover after costs.
 * The **Principle of the Divided Cloth** says to give each party what has been conceded to him by the other and then split the amount in dispute.
 * In a multi-side negotiation, the **Shapley value** tries to make things fair by averaging costs across all possible orderings.
 
 #### Week 2
 
-* Best Alternative to a Negotiated Agreement \(BATNA\): your walkaway price - the least amount of money you'd be willing to accept as a seller, or the most you'd be willing to pay before walking away as a buyer.
-* Zone of Possible Agreement \(ZOPA\): basically the same as the pie to be split.
+* Best Alternative to a Negotiated Agreement (BATNA): your walkaway price - the least amount of money you'd be willing to accept as a seller, or the most you'd be willing to pay before walking away as a buyer.
+* Zone of Possible Agreement (ZOPA): basically the same as the pie to be split.
 * Instead of refusing a deal flat out, try to come back with a proposal - no matter how absurd it might be - and let the other party decide whether to say no to that. People like to reach agreements, so they might actually say yes more often than you expect.
 * The opportunity to make ultimatum gives you more power - but use this power with discretion.
 
 #### Week 3
 
-* **Pareto optimality:** if it's the case that everyone prefers option B to option A, we should _never_ choose option A \(we say option A is _pareto-inferior_ to option B\).
-* Usually the best approach is not to fight fire with fire \(if somebody lies during the negotiation, do not call it out and/or reply with a lie\), but to **put out the fire** \(propose new terms that are going to better for both parties whether or not the lie is supposed to be true\).
+* **Pareto optimality:** if it's the case that everyone prefers option B to option A, we should _never_ choose option A (we say option A is _pareto-inferior_ to option B).
+* Usually the best approach is not to fight fire with fire (if somebody lies during the negotiation, do not call it out and/or reply with a lie), but to **put out the fire** (propose new terms that are going to better for both parties whether or not the lie is supposed to be true).
 * Meeting in the middle is **not** always the best solution for a compromise: if one parties only likes broccoli and the other only likes beets, meeting in the middle would mean that each party gets half broccoli and half beets, making everyong unhappy. Instead, you can _communicate_ to the other party that you only like broccoli and, if the other party only likes beets, you can divide them so that each one gets only want they want, making everyone happy.
 * Using the principle above, the pie can be made larger than it was before when a compromise that was not fully accepted by both parties was to be found.
 
@@ -64,7 +64,7 @@
 #### Week 9
 
 * Top 10 negotiation principles: start by asking, make principled arguments, fairness, calculate the pie, employ symmetry, know your BATNA, never accept less than your reservation price, joint problem solving, be allocentric, remember beets vs. broccoli, create new options.
-* Other important negotiation principles: don't fight fire with fire, never say no, choose a good anchor, don't lie, don't be nibbled, get paid to play, \(almost\) everything is negotiable, care but not too much, deadlines need to have a reason, get agreed-upon items off the table.
+* Other important negotiation principles: don't fight fire with fire, never say no, choose a good anchor, don't lie, don't be nibbled, get paid to play, (almost) everything is negotiable, care but not too much, deadlines need to have a reason, get agreed-upon items off the table.
 
 ### Salary Negotiation Workshop - Josh Doody
 
@@ -83,8 +83,8 @@
 #### Negotiation strategy
 
 * You should negotiate!
-  * You don't want to start with the wrong foot =&gt; do it the right way and this won't happen
-  * You fear the offer will be pulled =&gt; that's very unlikely
+  * You don't want to start with the wrong foot => do it the right way and this won't happen
+  * You fear the offer will be pulled => that's very unlikely
 * What is your minimum acceptable salary?
   * Find some references points: current/desired salary, comparison with other employees at the same company
   * Pending raises and bonuses
@@ -108,18 +108,19 @@
 * Prepare your case
 * Make your request
   * Schedule a 1:1 with your manager to make the request
-  * Follow up with the same request in writing \(e.g., email\)
+  * Follow up with the same request in writing (e.g., email)
 
-#### Q&A
+#### Q\&A
 
 * Maximise you base salary rather than stocks and equities
-* [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com/) to gain information about the company and salary
+* [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com) to gain information about the company and salary
 
 ## Resources
 
 ### Articles
 
 * [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
+* [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Patrick McKenzie
 
 ### Courses
 
@@ -129,4 +130,3 @@
 ### Videos
 
 * [Salary Negotiation Workshop](https://www.youtube.com/watch?v=sN19aNmjBoU) - Josh Doody
-
