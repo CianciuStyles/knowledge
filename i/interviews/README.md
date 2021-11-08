@@ -8,6 +8,7 @@
 * [Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d) - David Qorashi
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) - Carlos Bueno
 * [Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) - Steve Yegge
+* [How we hire](https://careers.google.com/how-we-hire/) - Google Careers
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
 * [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes-2/) - Joel Spolsky
 * [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky

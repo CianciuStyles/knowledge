@@ -206,6 +206,7 @@
   * [Selenium](w/web-development/selenium.md)
 * [Work](w/work/README.md)
   * [Freelancing](w/work/freelancing.md)
+  * [Interesting Companies](w/work/interesting-companies.md)
   * [Job Boards](w/work/job-boards.md)
   * [Remote Work](w/work/remote-work.md)
 * [Writing](w/writing.md)

@@ -2,7 +2,7 @@
 
 ### Clothes
 
-* [Thousand Miles](https://thousandmiles.co.uk/)
+* [Thousand Miles](https://thousandmiles.co.uk)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
 
 ### Infographics
@@ -19,8 +19,13 @@
 
 ### Shoes
 
-* [Sarenza](https://www.sarenza.it/)
-* [Solaris Sport](https://www.solarissport.com/it/)
-* [Spartoo](https://www.spartoo.it/)
-* [Zalando](https://www.zalando.it/uomo-home/)
+#### Models
 
+* [New Balance 574](https://www.newbalance.co.uk/pd/574/ML574V2-19566.html)
+
+#### Shops
+
+* [Sarenza](https://www.sarenza.it)
+* [Solaris Sport](https://www.solarissport.com/it/)
+* [Spartoo](https://www.spartoo.it)
+* [Zalando](https://www.zalando.it/uomo-home/)

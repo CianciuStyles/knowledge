@@ -13,7 +13,7 @@
 ### Articles
 
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
-* [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list_of_best_outofthebox_video_output_options/)
+* [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
 * [Triangoli colorati sulle confezioni dei giochi Nintendo](https://giocatorinintendo.com/2014/08/21/triangoli-colorati-sulle-confezioni-dei-giochi-nintendo/)
 
 ### Books
@@ -33,7 +33,7 @@
 
 ### Databases
 
-* [Before I Play](https://www.beforeiplay.com/index.php?title=Main_Page)
+* [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
 * [Co-Optimus](https://www.co-optimus.com)
 * [Glitchwave](https://glitchwave.com)
 * [How Long To Beat](https://howlongtobeat.com)
@@ -46,10 +46,10 @@
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Retroedicola Videoludica](https://www.retroedicola.com)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com)
-* [Sega Retro](https://segaretro.org/Main_Page)
+* [Sega Retro](https://segaretro.org/Main\_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [Snes Central](https://snescentral.com/index.php)
-* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
+* [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
 * [The PlayStation Datacenter](https://psxdatacenter.com)
 * [Universal Hint System](https://www.uhs-hints.com)
 * [Unseen64](https://www.unseen64.net)
@@ -63,16 +63,16 @@
 
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
 * r/PatientGamers Essential Games Lists
-  * [3DS](https://www.reddit.com/r/patientgamers/comments/6fgh8o/rpatientgamers_essential_games_list_nintendo\_3ds/)
-  * [PC](https://www.reddit.com/r/patientgamers/comments/6mefap/rpatientgamers_essential_games_list_pc/)
-  * [PlayStation 3](https://www.reddit.com/r/patientgamers/comments/6cub84/rpatientgamers_essential_games_list_playstation\_3/)
-  * [PlayStation 4](https://www.reddit.com/r/patientgamers/comments/6jlj5a/rpatientgamers_essential_games_list_ps4/)
-  * [PlayStation Vita](https://www.reddit.com/r/patientgamers/comments/6grkg0/rpatientgamers_essential_games_list_ps_vita/)
-  * [Steam](https://www.reddit.com/r/Steam/comments/3tykt8/essential_steam_games/)
-  * [Wii](https://www.reddit.com/r/patientgamers/comments/6e29ij/rpatientgamers_essential_games_list_nintendo_wii/)
-  * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers_essential_games_list_wii_u/)
-  * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers_essential_games_list_xbox\_360/)
-  * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers_essential_games_list_xbox_one/)
+  * [3DS](https://www.reddit.com/r/patientgamers/comments/6fgh8o/rpatientgamers\_essential\_games\_list\_nintendo\_3ds/)
+  * [PC](https://www.reddit.com/r/patientgamers/comments/6mefap/rpatientgamers\_essential\_games\_list\_pc/)
+  * [PlayStation 3](https://www.reddit.com/r/patientgamers/comments/6cub84/rpatientgamers\_essential\_games\_list\_playstation\_3/)
+  * [PlayStation 4](https://www.reddit.com/r/patientgamers/comments/6jlj5a/rpatientgamers\_essential\_games\_list\_ps4/)
+  * [PlayStation Vita](https://www.reddit.com/r/patientgamers/comments/6grkg0/rpatientgamers\_essential\_games\_list\_ps\_vita/)
+  * [Steam](https://www.reddit.com/r/Steam/comments/3tykt8/essential\_steam\_games/)
+  * [Wii](https://www.reddit.com/r/patientgamers/comments/6e29ij/rpatientgamers\_essential\_games\_list\_nintendo\_wii/)
+  * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers\_essential\_games\_list\_wii\_u/)
+  * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers\_essential\_games\_list\_xbox\_360/)
+  * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers\_essential\_games\_list\_xbox\_one/)
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
 * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643) - Kotaku
@@ -103,6 +103,10 @@
 
 * [VGM Quiz](https://www.vgm-quiz.com)
 
+### Reddit Threads
+
+* [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/qmlcid/what\_is\_your\_favorite\_video\_game\_of\_all\_time/)
+
 ### Reviews
 
 * [Adventure's Planet](https://www.adventuresplanet.it)
@@ -131,10 +135,10 @@
 ### Websites
 
 * [Abandonware Games](https://abandonwaregames.net)
-* [iFixit - Game Consoles](https://it.ifixit.com/Device/Game_Console)
+* [iFixit - Game Consoles](https://it.ifixit.com/Device/Game\_Console)
 * [Logical Increments](https://www.logicalincrements.com)
 
 ### Wikis
 
-* [Portal Wiki](https://theportalwiki.com/wiki/Main_Page)
+* [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 

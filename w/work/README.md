@@ -10,6 +10,10 @@
 * [Up or Out: Solving the IT Turnover Crisis](https://thedailywtf.com/articles/up-or-out-solving-the-it-turnover-crisis) - Alex Papadimoulis
 * [Why The Status Quo Is So Hard To Change In Engineering Teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) - Antoine Boulanger
 
+### Hacker News Threads
+
+* [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
+
 ### Websites
 
 * [LinkedIn](https://it.linkedin.com)
