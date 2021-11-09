@@ -101,3 +101,4 @@
 * [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
 * [Stack Overflow](https://stackoverflow.com)
 * [StackShare](https://stackshare.io)
+* [StaffEng](https://staffeng.com)
