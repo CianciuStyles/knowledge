@@ -18,6 +18,7 @@
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
 * [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
+* [Coding Interview Gym](https://github.com/partho-maple/coding-interview-gym)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Interview Room](https://github.com/ashuray/InterviewRoom)
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)

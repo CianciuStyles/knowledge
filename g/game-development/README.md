@@ -6,10 +6,11 @@
 * [Free ebooks about game development](https://gamedev.stackexchange.com/questions/355/free-ebooks-about-game-development)
 * [Game Programming Primer](https://tl.net/forum/general/382368-game-programming-primer)
 * [Graphic Courses](https://imsky.co/links/graphics-courses)
-* [List of commercial video games with available source code](https://www.wikiwand.com/en/List_of_commercial_video_games_with_available_source_code)
+* [List of commercial video games with available source code](https://www.wikiwand.com/en/List\_of\_commercial\_video\_games\_with\_available\_source\_code)
 
 ### Books
 
+* [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
 * [Game AI Pro](https://www.gameaipro.com)
 * [Game Programming Patterns](https://gameprogrammingpatterns.com) - Robert Nystrom
 * [Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book) - Michael Abrash
@@ -39,7 +40,7 @@
 * [GameDev.net](https://www.gamedev.net)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
 * [Lazy Foo's Productions](https://lazyfoo.net)
-* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo_ZanIvg)
+* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
 * [RasterTek](https://www.rastertek.com/tutindex.html)
 
 ### YouTube Channels

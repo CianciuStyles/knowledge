@@ -46,6 +46,7 @@
 
 ### Images
 
+* [Cleanup.pictures](https://cleanup.pictures) - Remove objects, people, text and defects from any picture
 * [FotoForensics](https://fotoforensics.com)
 * [Pexels](https://www.pexels.com)
 * [Pixabay](https://pixabay.com/it/)
