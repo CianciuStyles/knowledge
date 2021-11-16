@@ -7,6 +7,7 @@
 
 ### Reddit threads
 
+* [If you could only watch one Christmas movie this year, what would it be?](https://www.reddit.com/r/AskReddit/comments/qrkwhc/if\_you\_could\_only\_watch\_one\_christmas\_movie\_this/)
 * [Imagine someone who's never seen a movie. You have a chance to recommend this person only one film - what would it be?](https://www.reddit.com/r/AskReddit/comments/4g7rcd/imagine\_someone\_whos\_never\_seen\_a\_movie\_you\_have/)
 * [Movie geeks of Reddit, what are some films everyone must watch before they die?](https://www.reddit.com/r/AskReddit/comments/5x2jc9/movie\_geeks\_of\_reddit\_what\_are\_some\_films/)
 * [Movie-watchers of reddit: In your opinion, what is the most underrated movie?](https://www.reddit.com/r/AskReddit/comments/4jpy57/moviewatchers\_of\_reddit\_in\_your\_opinion\_what\_is/)
