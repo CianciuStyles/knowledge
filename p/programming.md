@@ -58,6 +58,10 @@
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 
+### Hacker News Threads
+
+* [Ask HN: What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
+
 ### Ideas for projects
 
 * [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
