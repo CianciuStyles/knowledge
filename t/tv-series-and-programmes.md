@@ -4,11 +4,11 @@
 
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/)
-* [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=nv_sr_srsg_0)
+* [Sherlock](https://www.imdb.com/title/tt1475582/?ref\_=nv\_sr\_srsg\_0)
 
 ### Reddit Threads
 
-* [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
+* [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats\_a\_show\_that\_has\_never\_had\_a\_bad\_episode/)
 
 ### To Watch
 
@@ -22,6 +22,6 @@
 
 ### Websites
 
-* [Addic7ed](https://www.addic7ed.com/)
-* [What To Watch On TV](https://whattowatchon.tv/)
-
+* [Addic7ed](https://www.addic7ed.com)
+* [Lazyday.tv](https://lazyday.tv)
+* [What To Watch On TV](https://whattowatchon.tv)

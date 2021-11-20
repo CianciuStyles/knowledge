@@ -18,6 +18,7 @@
 
 * [8mb.video](https://8mb.video)
 * [CloudConvert](https://cloudconvert.com)
+* [DistillVideo](https://distillvideo.com) - Online video downloader
 * [EPUB.to](https://epub.to) - Covert from/to EPUB
 * [File2HD](http://file2hd.com)
 * [Free Online OCR](https://www.newocr.com) - [2](https://www.onlineocr.net)
@@ -33,6 +34,8 @@
 ### File Sharing
 
 * [DropSend](https://www.dropsend.com)
+* [JustBeamIt](https://justbeamit.com)
+* [Snapdrop](https://snapdrop.net)
 * [ToffeeShare](https://toffeeshare.com)
 
 ### Fonts
@@ -56,11 +59,13 @@
 * [The Rasterbator](https://rasterbator.net) - Wall art generator
 * [TinEye](https://tineye.com) - Reverse image search
 * [Unsplash](https://unsplash.com) - Photos for everyone
+* [Vector Magic](https://vectormagic.com) - Vectorise images
 
 ### Mail & SMS
 
 * [10 Minute Mail](https://10minutemail.com)
 * [Receive SMS Online](https://www.receivesms.co)
+* [Shark Lasers](https://www.sharklasers.com)
 * [Temp Mail](https://temp-mail.org)
 * [Yopmail](https://yopmail.com/it/)
 
