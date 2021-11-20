@@ -11,8 +11,8 @@
 
 ### Blogs
 
-* [Get Rich Slowly](https://www.getrichslowly.org/)
-* [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+* [Get Rich Slowly](https://www.getrichslowly.org)
+* [Mr. Money Mustache](https://www.mrmoneymustache.com)
 
 ### Books
 
@@ -37,8 +37,9 @@
 
 ### Websites
 
-* [Financial Samurai](https://www.financialsamurai.com/)
-* [Money To The Masses](https://moneytothemasses.com/)
-* [Vanguard](https://www.vanguardinvestor.co.uk/)
-* [Wise Bread](https://www.wisebread.com/)
-
+* [Financial Samurai](https://www.financialsamurai.com)
+* [JL Collins](https://jlcollinsnh.com)
+  * [Stock Series](https://jlcollinsnh.com/stock-series/)
+* [Money To The Masses](https://moneytothemasses.com)
+* [Vanguard](https://www.vanguardinvestor.co.uk)
+* [Wise Bread](https://www.wisebread.com)
