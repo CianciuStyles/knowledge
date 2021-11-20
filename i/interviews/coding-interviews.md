@@ -28,6 +28,11 @@
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Tech Interview Preparation](https://github.com/sastava007/Tech-Interview-Preparation)
 
+### Videos
+
+* [3 Problem Solving Techniques for Technical Programming Interviews](https://www.youtube.com/watch?v=FSycYs8RpsA) - Engineering with Utsav
+* [How to Prepare for Technical Interviews, Part 1 - Coding](https://www.youtube.com/watch?v=7UlslIXHNsw) - Engineering with Utsav
+
 ### Websites
 
 * [CodeSignal](https://app.codesignal.com)
