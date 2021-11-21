@@ -10,4 +10,3 @@
 ### Books
 
 * [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) - Cal Newport
-

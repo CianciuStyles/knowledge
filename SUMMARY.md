@@ -39,15 +39,15 @@
 
 ## D <a href="dee" id="dee"></a>
 
-* [Databases](dee/databases/README.md)
-  * [PostgreSQL](dee/databases/postgresql.md)
-  * [SQL](dee/databases/sql.md)
-* [Design Patterns](dee/design-patterns.md)
-* [Digital Minimalism](dee/digital-minimalism.md)
-* [Distributed Systems](dee/distributed-systems.md)
-* [Documentaries](dee/documentaries.md)
-* [Documentation](dee/documentation.md)
-* [Dopamine](dee/dopamine.md)
+* [Databases](d/databases/README.md)
+  * [PostgreSQL](d/databases/postgresql.md)
+  * [SQL](d/databases/sql.md)
+* [Design Patterns](d/design-patterns.md)
+* [Digital Minimalism](d/digital-minimalism.md)
+* [Distributed Systems](d/distributed-systems.md)
+* [Documentaries](d/documentaries.md)
+* [Documentation](d/documentation.md)
+* [Dopamine](d/dopamine.md)
 
 ## E
 

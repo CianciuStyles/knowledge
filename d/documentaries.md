@@ -9,8 +9,8 @@
 
 ### Reddit Threads
 
-* [What are some "must-see" documentaries?](https://www.reddit.com/r/AskReddit/comments/4iqp7f/what_are_some_mustsee_documentaries/)
-* [What is the most chilling documentary you have ever watched?](https://www.reddit.com/r/AskReddit/comments/4x85gt/what_is_the_most_chilling_documentary_you_have/)
+* [What are some "must-see" documentaries?](https://www.reddit.com/r/AskReddit/comments/4iqp7f/what\_are\_some\_mustsee\_documentaries/)
+* [What is the most chilling documentary you have ever watched?](https://www.reddit.com/r/AskReddit/comments/4x85gt/what\_is\_the\_most\_chilling\_documentary\_you\_have/)
 
 ### Websites
 

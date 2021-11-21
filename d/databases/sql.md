@@ -7,5 +7,4 @@
 
 ### Websites
 
-* [Select Star SQL](https://selectstarsql.com/)
-
+* [Select Star SQL](https://selectstarsql.com)

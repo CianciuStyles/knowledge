@@ -40,7 +40,7 @@
 * The special `PUBLIC` role assigns privileges to ALL system users
 * `\password <USERNAME>` allows to specify a password for the user
 * By default, psql tries to connect to a DB with the same name as the username trying to log in
-* The postgres user cannot be removed from the system 
+* The postgres user cannot be removed from the system&#x20;
 * Default configuration does not allow remote login, because it is not specified in the `pg_hba.conf` file
 
 ### Log Configuration
@@ -124,7 +124,7 @@
 * `ALTER TABLE <table name> ALTER COLUMN <column name> SET DATA TYPE <new type>` will change the structure of the table (may result in data loss if target column does NOT support target data)
 * `ALTER TABLE <table name> ADD <column name> <column type>` will add a new column with a given data type
 * Column names MUST be unique and cannot be added more than once
-* `ALTER TABLE <table name> DROP COLUMN IF EXISTS <column name>` will remove the column (and all the existing data) 
+* `ALTER TABLE <table name> DROP COLUMN IF EXISTS <column name>` will remove the column (and all the existing data)&#x20;
 * `ALTER ROLE <user name> SUPERUSER` will make the user as a superuser (with all privileges)
 * `ALTER ROLE <old name> RENAME TO <new name>`  will change the name of the user (or the role), while clearing the MD5 hash of the password (which would then need to be reset) and updating all the ownerships of objects
 
@@ -143,7 +143,7 @@
 * Standard SQL recommends that each table contains a primary key
 * The `FOREIGN KEY` constraint links tables with other tables
 * `CREATE TABLE messagesCategories (id int REFERENCES messages(id), category text)` will create a foreign key constraint, so that the ids in the messagesCategories table must reflect values from the id column in the messages table
-*  The `CHECK` constraint confirms column values based on some boolean criteria
+* &#x20;The `CHECK` constraint confirms column values based on some boolean criteria
 * `CREATE TABLE messages (date date NOT NULL, id numeric CHECK(id > 0))` will store in the table only rows for which the id is positive
 * `CREATE TABLE message (data date NOT NULL. id numeric CONSTRAINT positive_id CHECK(id > 0))` allows to specify a name for the constraint; if no name is specified, PostgreSQL will auto-generate a name for you
 
@@ -331,7 +331,7 @@
 * We can use the `\dp <obj_name>` to reveal privileges related to that object
 * UPDATE and DELETE privileges require SELECT privileges for criteria application
 * `GRANT SELECT (<columns>) ON <obj_name> TO <role>` will grant the `SELECT` privileges just on those columns. For setting the privileges to all columns, it is sufficient `GRANT SELECT ON <obj_name>`
-* `GRANT INSERT ON <obj_name> TO <role>` will grant the `INSERT` privileges on all columns of obj_name
+* `GRANT INSERT ON <obj_name> TO <role>` will grant the `INSERT` privileges on all columns of obj\_name
 * `GRANT USAGE ON <obj_name> TO <role>` will grant the `USAGE` privileges (useful for sequences of auto-generated values)
 * `UPDATE messages SET mfacility = 'kernel' WHERE mid = '204358' RETURNING *` will update the row for which the `WHERE` clause applies, and will display the whole row (this command is specific to PostgreSQL)
 * `GRANT ALL ON <obj_name> TO <role>` will grant all privileges to role
@@ -390,7 +390,7 @@
 ### Windows Restore
 
 * `psql -h 192.168.75.105` will connect to the PostgreSQL databse running on host 192.168.75.105
-* `psql -h 192.168.75.105 -f DB_Backup.ALL` will run the DB_Backup.ALL script against the databse running on host 192.168.75.105
+* `psql -h 192.168.75.105 -f DB_Backup.ALL` will run the DB\_Backup.ALL script against the databse running on host 192.168.75.105
 * `pg_restore -h 192.168.75.105 -v -d postgres -t messages2 DB_Backup.postgres.compressed` will restore the messages2 table on the postgres database running on host 192.168.75.105, taking the values from the `DB_Backup.postgres.compressed` file
 * The HBA conf file is the one that allows Postgres to accept incoming remote connections
 
@@ -420,6 +420,6 @@
 
 ### Articles
 
-* [psql Tips](https://mydbanotebook.org/psql_tips_all.html) - Lætitia Avrot
+* [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
 

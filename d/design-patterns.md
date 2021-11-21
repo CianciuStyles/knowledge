@@ -11,7 +11,6 @@
 
 ### Websites
 
-* [Design Patterns](https://sourcemaking.com/design_patterns) - Source Making
+* [Design Patterns](https://sourcemaking.com/design\_patterns) - Source Making
 * [GoF Design Patterns in Java](https://gof-design-patterns.zeef.com/bauke.scholtz) - Bauke Scholtz
 * [Java Design Patterns](https://java-design-patterns.com/patterns/)
-
