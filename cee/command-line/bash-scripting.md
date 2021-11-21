@@ -254,3 +254,13 @@ set -x
 unset -x
 ...
 ```
+
+## Resources
+
+### Books
+
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Mendel Cooper
+
+### Websites
+
+* [Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Google

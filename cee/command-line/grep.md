@@ -15,4 +15,13 @@ grep -c hello file.txt
 
 # print lines not containing hello in file.txt
 grep -v hello file.txt
+
+# search hello recursively in dir
+grep -R hello dir
+
+# ignore non-text files
+grep -I hello dir
+
+# print 3 line of [C]ontext around, [A]fter or [B]efore a match
+grep -C|B|A 3 hello file.txt
 ```
