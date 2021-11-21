@@ -13,4 +13,5 @@
 
 ### Videos
 
+* [How to Prepare for Technical Interviews, Part 3 - Behavioral](https://www.youtube.com/watch?v=sv-3crA1img) - Engineering with Utsav
 * [Intro to Behavioural Interviews](https://www.youtube.com/watch?v=PJKYqLP6MRE) - Jackson Gabbard
