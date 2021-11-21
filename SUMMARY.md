@@ -26,7 +26,11 @@
 
 * [C (programming language)](cee/c-programming-language.md)
 * [Cascading Style Sheets](cee/cascading-style-sheets.md)
-* [Command Line](cee/command-line.md)
+* [Command Line](cee/command-line/README.md)
+  * [Awk](cee/command-line/awk.md)
+  * [Bash scripting](cee/command-line/bash-scripting.md)
+  * [Grep](cee/command-line/grep.md)
+  * [Sed](cee/command-line/sed.md)
 * [Competitive Programming](cee/competitive-programming.md)
 * [Computer Graphics](cee/computer-graphics.md)
 * [Computer Science](cee/computer-science.md)
