@@ -8,8 +8,11 @@
   * [ShitYouCanAfford](https://shityoucanafford.com) - The Best Products on Amazon Under $20
 * [Delcampe](https://www.delcampe.net/it/collezionismo/)
 * [eBay UK](https://www.ebay.co.uk)
+  * [99pbids](https://99pbids.co.uk)
+  * [BayCrazy](https://www.baycrazy.com)
   * [FatFingers](http://www.fatfingers.com) - eBay typos, misspelling & spelling mistakes
-  * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour&#x20;
+  * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour
+  * [No Bids](https://nobids.net) - find items with no bids
 * [NifeIsLife](https://www.nifeislife.com) - Italian Food Home Delivery
 * [ShopBySub.com](https://www.shopbysub.com)
 
