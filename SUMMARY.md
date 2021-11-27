@@ -30,6 +30,7 @@
   * [Awk](cee/command-line/awk.md)
   * [Bash scripting](cee/command-line/bash-scripting.md)
   * [Grep](cee/command-line/grep.md)
+  * [Lsof](cee/command-line/lsof.md)
   * [Sed](cee/command-line/sed.md)
 * [Competitive Programming](cee/competitive-programming.md)
 * [Compilers](cee/compilers.md)
