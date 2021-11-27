@@ -32,6 +32,7 @@
   * [Grep](cee/command-line/grep.md)
   * [Sed](cee/command-line/sed.md)
 * [Competitive Programming](cee/competitive-programming.md)
+* [Compilers](cee/compilers.md)
 * [Computer Graphics](cee/computer-graphics.md)
 * [Computer Science](cee/computer-science.md)
 * [Concurrency](cee/concurrency.md)
