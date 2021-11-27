@@ -9,6 +9,7 @@
 * [What is an album where EVERY song is good?](https://www.reddit.com/r/AskReddit/comments/ebdh8c/what\_is\_an\_album\_where\_every\_song\_is\_good/)
 * [What is that one album that you think is pure hits no misses?](https://www.reddit.com/r/AskReddit/comments/ovlsun/what\_is\_that\_one\_album\_that\_you\_think\_is\_pure/)
 * [What is your favorite LONG song (over 7 minutes)?](https://www.reddit.com/r/AskReddit/comments/qm82cg/what\_is\_your\_favorite\_long\_song\_over\_7\_minutes/)
+* [Which song is in your opinion 100% perfect?](https://www.reddit.com/r/AskReddit/comments/r2q1i2/which\_song\_is\_in\_your\_opinion\_100\_perfect/)
 
 ### Websites
 

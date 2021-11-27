@@ -30,13 +30,12 @@
 
 * [Jcoz - Java Causal Profiler](https://decave.github.io/JCoz/)
 * [JUnit](https://junit.org/junit5/)
-  * [Cheat sheet](https://files.jrebel.com/pdf/zt_junit_cheat_sheet.pdf)
+  * [Cheat sheet](https://files.jrebel.com/pdf/zt\_junit\_cheat\_sheet.pdf)
 
 ### Websites
 
-* [Baeldung](https://www.baeldung.com/)
-* [Java Design Patterns](https://java-design-patterns.com/)
-* [The Java Version Almanac](https://javaalmanac.io/)
-
-
+* [Baeldung](https://www.baeldung.com)
+* [Java Design Patterns](https://java-design-patterns.com)
+* [Marco Behler](https://www.marcobehler.com)
+* [The Java Version Almanac](https://javaalmanac.io)
 
