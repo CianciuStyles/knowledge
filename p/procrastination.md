@@ -10,7 +10,6 @@
 
 ### Videos
 
+* [Helping Students Who Procrastinate](https://www.youtube.com/watch?v=mhFQA998WiA) - Tim Pychyl
 * [Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU) - Tim Urban
-
-
 

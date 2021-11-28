@@ -11,6 +11,10 @@
 * [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/) - Julia Evans
 * [You Can Increase Your Intelligence: 5 Ways to Maximize Your Cognitive Potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/) - Andrea Kuszewski
 
+### Books
+
+* [The First 20 Hours - How to Learn Anything... Fast](https://smile.amazon.co.uk/First-20-Hours-Learn-Anything/dp/0670921920/) - Josh Kaufman
+
 ### Hacker News Threads
 
 * [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
