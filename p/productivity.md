@@ -10,6 +10,21 @@
 * “What is one thing that is absolutely essential that I’m underinvesting on right now?” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs)
 
+### Getting Things Done - David Allen
+
+* Your brain is for having ideas, not holding them.
+* Five simple steps:
+  * Capture: emails, action items, everything that needs to be done
+  * Process: is it actionable?
+    * if yes - if it takes less than two minutes do it straight away; if it takes longer than two minutes, add it to the action list
+    * if no - discard it or keep it as a reference
+  * Organise: what is the next action?
+    * If action is time-specific or has a deadline, it should go in the calendar
+    * Actions that are connected to the same project should go together
+    * Actions should be divided int contexts, so you can look at them only when you can action them
+  * Review: a weekly review in which you make adjustments is essential to keep things work smoothly. Every month take some time to review your short-term goals
+  * Engage: let's get cracking!
+
 ## Resources
 
 ### Ambient Sounds
