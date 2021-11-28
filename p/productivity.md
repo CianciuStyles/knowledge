@@ -23,9 +23,10 @@
 
 * [1 Weekly Habit That Will Push You to Peak Performance](https://www.inc.com/laura-garnett/1-weekly-habit-for-peak-performance.html) - Laura Garnett
 * [12 Simple Steps to Become a Productivity Bad-Ass](https://mixwellness.com/12-simple-steps-to-become-a-productivity-bad-ass/) - Kristen Boucher
+* [26 Time Management Hacks I Wish I'd Known At 20](https://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) - Etienne Garbugli
 * [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) - TJCX
 * [How to make Todoist conform to GTD](https://medium.com/@dougvk/how-to-make-todoist-conform-to-gtd-362d86f037bf) - Doug von Kohorn
-* [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf) - Getting Things Done
+* [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind\_Sweep\_Trigger\_List.pdf) - Getting Things Done
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
@@ -43,7 +44,7 @@
   * [Summary by Kyaw Wai Yan Tun](https://waiyancan.com/summary-the-attributes-rich-diviney/)
 * [The Seven Habits Of Highly Effective People](https://smile.amazon.co.uk/Habits-Highly-Effective-People/dp/1471165086) - Stephen Covey
   * [Notes by Michael Parker](https://github.com/mgp/book-notes/blob/master/the-seven-habits-of-highly-effective-people.markdown)
-  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the\_7\_habits_of/)
+  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what\_i\_learned\_from\_reading\_the\_7\_habits\_of/)
 
 ### Hacker News Threads
 
