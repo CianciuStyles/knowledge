@@ -25,6 +25,20 @@
   * Review: a weekly review in which you make adjustments is essential to keep things work smoothly. Every month take some time to review your short-term goals
   * Engage: let's get cracking!
 
+### What to Do on Breaks to Boost Productivity - Stephanie Vozza
+
+* 5 to 15 minutes
+  * Any type of movement - stairs, walk around the block, push ups, jumping jacks
+  * Mindfulness, guided meditation, or deep breathing
+  * Stare out the window and daydream (if your view includes green space)
+* 30 minutes
+  * Brisk walk
+  * Declutter your workspace
+  * Call a friend or check in with your SO
+* 60 minutes
+  * Brain dump - get things off your mind and on paper
+  * Read
+
 ## Resources
 
 ### Ambient Sounds
@@ -45,6 +59,8 @@
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
+*
+* [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
 
 ### Blogs
 
