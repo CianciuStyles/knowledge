@@ -25,6 +25,7 @@
 ## C <a href="cee" id="cee"></a>
 
 * [C (programming language)](cee/c-programming-language.md)
+* [C++](cee/c++.md)
 * [Cascading Style Sheets](cee/cascading-style-sheets.md)
 * [Command Line](cee/command-line/README.md)
   * [Awk](cee/command-line/awk.md)
