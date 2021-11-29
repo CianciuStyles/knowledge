@@ -201,7 +201,7 @@
 * [Video Games](vi/video-games/README.md)
   * [Emulation](vi/video-games/emulation.md)
   * [Mods](vi/video-games/mods.md)
-  * [Video Games Music](vi/video-games/video-games-music.md)
+  * [Music](vi/video-games/video-games-music.md)
 * [V (programming language)](vi/vlang.md)
 
 ## W
