@@ -31,6 +31,12 @@
   * [Part 9](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html) - Functions
   * [Part 10](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html) - Global Variables
 
+### Books
+
+* [Crafting A Compiler](https://smile.amazon.co.uk/Crafting-Compiler-Charles-N-Fischer/dp/0136067050/) - Charles Fischer, Ron Cytron, Richard LeBlanc
+* [Crafting Interpreters](https://craftinginterpreters.com) - Robert Nystrom
+* [Engineering: A Compiler](https://smile.amazon.co.uk/Engineering-Compiler-Keith-Cooper/dp/012088478X/) - Keith D. Cooper, Linda Torczon
+
 ### Courses
 
 * [Compilers](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - Indiana University, Fall 2020
