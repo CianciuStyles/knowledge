@@ -14,6 +14,7 @@
 ### Books
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) - Dan Boneh, Victor Shoup
+* [The Joy of Cryptography](https://joyofcryptography.com) - Mike Rosulek
 
 ### Courses
 
