@@ -105,7 +105,9 @@
 
 ### Reddit Threads
 
+* [What are the best NES, SNES, Gameboy/Gameboy Advanced or N64 Games?](https://www.reddit.com/r/patientgamers/comments/fu90im/what\_are\_the\_best\_nes\_snes\_gameboygameboy/)
 * [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/qmlcid/what\_is\_your\_favorite\_video\_game\_of\_all\_time/)
+* [Your Personal Top Ten Games of All Time](https://www.reddit.com/r/patientgamers/comments/dr5h8i/your\_personal\_top\_ten\_games\_of\_all\_time/)
 
 ### Reviews
 
