@@ -6,7 +6,7 @@
 
 * [Algorithmics: The Spirit of Computing](https://smile.amazon.co.uk/dp/0321117840) - David Harel, Yishai Feldman
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
-* [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
+* [The Arcane Algorithm Archive](https://www.algorithm-archive.org)
 
 ### Courses
 
@@ -17,6 +17,7 @@
 
 ### GitHub Repositories
 
+* [AlgoDeck](https://github.com/teivah/algodeck)
 * [AlgorithmsAndDataStructure](https://github.com/codePerfectPlus/AlgorithmsAndDataStructure) - C++ and Python
 * [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
 * [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
@@ -24,14 +25,12 @@
 
 ### Videos
 
-* [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+* [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u\_k2LIZyo)
 
 ### Websites
 
-* [Algorithm Visualizer](https://algorithm-visualizer.org/)
-* [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
-* [Data Structure Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
+* [Algorithm Visualizer](https://algorithm-visualizer.org)
+* [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com)
+* [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
 * [VisuAlgo](https://visualgo.net/en)
-
-
 

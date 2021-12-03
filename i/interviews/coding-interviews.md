@@ -17,14 +17,17 @@
 
 ### GitHub repositories
 
+* [AlgoDeck](https://github.com/teivah/algodeck)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
 * [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
 * [Coding Interview Gym](https://github.com/partho-maple/coding-interview-gym)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Google Interview University](https://github.com/Glavin001/google-interview-university)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview](https://github.com/Olshansk/interview)
 * [Interview Room](https://github.com/ashuray/InterviewRoom)
+* [Interviews](https://github.com/kdn251/interviews) - Kevin Naughton Jr.
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)
 * [Leetcode Python](https://github.com/wuduhren/leetcode-python) - [2](https://github.com/yuzhoujr/leetcode)
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
@@ -43,4 +46,5 @@
 * [CodeSignal](https://app.codesignal.com)
 * [Codility](https://app.codility.com/programmers/lessons)
 * [Daily Coding Problem](https://www.dailycodingproblem.com)
+  * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
