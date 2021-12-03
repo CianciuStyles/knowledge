@@ -17,6 +17,10 @@
 * [Rom Hustler](https://romhustler.org)
 * [Vimm's Lair](https://vimm.net)
 
+
+
+* [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
+
 ### YouTube Channels
 
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)

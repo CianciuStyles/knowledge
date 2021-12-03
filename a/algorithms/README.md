@@ -10,6 +10,7 @@
 
 ### Courses
 
+* [Advanced Data Structures](https://courses.csail.mit.edu/6.851/) - Erik Demaine, MIT
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Kevin Wayne, Robert Sedgewick
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Robert Sedgewick, Kevin Wayne
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms) - Robert Sedgewick

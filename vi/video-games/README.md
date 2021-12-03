@@ -55,6 +55,11 @@
 * [Unseen64](https://www.unseen64.net)
 * [Video Game Preservation](https://github.com/videogamepreservation)
 
+### Events
+
+* [Coin Up Italia](https://www.coinupitalia.it)
+* [London Gaming Market](https://www.londongamingmarket.com)
+
 ### Forums
 
 * [GamesVillage](https://www.gamesvillage.it/forum/forum.php)
