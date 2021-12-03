@@ -7,6 +7,7 @@
 ### Articles
 
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
+* [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
 
 ### Books
 

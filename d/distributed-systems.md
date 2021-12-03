@@ -6,6 +6,7 @@
 
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/) - Dan Cresswell
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Martin Fowler
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Microsoft Docs
 * [How Comples Systems Fail](https://how.complexsystems.fail) - Richard Cook
 
 ### Hacker News threads

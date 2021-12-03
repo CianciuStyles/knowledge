@@ -7,6 +7,7 @@
 * [Google Interview Questions Deconstructed: Synonymous Queries](https://alexgolec.dev/synonymous-queries/) - Alex Golec
 * [Google Interview Problems: Ratio Finder](https://alexgolec.dev/ratio-finder/) - Alex Golec
 * [Google Interview Questions Deconstructed: The Knight’s Dialer](https://alexgolec.dev/google-interview-questions-deconstructed-the-knights-dialer/) - Alex Golec
+* [Interview Prep](https://techdevguide.withgoogle.com/paths/interview/) - Google Tech Dev Guide
 * [Reddit Interview Problems: The Game of Life](https://alexgolec.dev/reddit-interview-problems-the-game-of-life/) - Alex Golec
 * [Top 30 Apple coding interview questions (with solutions)](https://www.educative.io/blog/apple-coding-interview-questions) - Amanda Fawcett
 
