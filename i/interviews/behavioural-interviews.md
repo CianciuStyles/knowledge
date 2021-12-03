@@ -10,6 +10,8 @@
 ### Articles
 
 * [Common Questions](https://techinterviewhandbook.org/behavioral-questions/) - Tech Interview Handbook
+* [Interview Questions](https://changingminds.org/disciplines/job-finding/interview\_questions/interview\_questions.htm)
+* [The 25 most difficult questions you'll be asked on a job interview](https://www.datsi.fi.upm.es/\~frosal/docs/25mdq.html)
 
 ### Videos
 

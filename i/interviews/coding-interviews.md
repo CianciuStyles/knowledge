@@ -6,6 +6,7 @@
 * [Algorithmic Grading Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
 * [Google Interview Questions Deconstructed: Synonymous Queries](https://alexgolec.dev/synonymous-queries/) - Alex Golec
 * [Google Interview Problems: Ratio Finder](https://alexgolec.dev/ratio-finder/) - Alex Golec
+* [Google Interview Questions Deconstructed: The Knight’s Dialer](https://alexgolec.dev/google-interview-questions-deconstructed-the-knights-dialer/) - Alex Golec
 * [Reddit Interview Problems: The Game of Life](https://alexgolec.dev/reddit-interview-problems-the-game-of-life/) - Alex Golec
 * [Top 30 Apple coding interview questions (with solutions)](https://www.educative.io/blog/apple-coding-interview-questions) - Amanda Fawcett
 
@@ -21,10 +22,13 @@
 * [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
 * [Coding Interview Gym](https://github.com/partho-maple/coding-interview-gym)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+* [Interview](https://github.com/Olshansk/interview)
 * [Interview Room](https://github.com/ashuray/InterviewRoom)
 * [Leetcode Java](https://github.com/gouthampradhan/leetcode)
 * [Leetcode Python](https://github.com/wuduhren/leetcode-python) - [2](https://github.com/yuzhoujr/leetcode)
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
+* [SDE Interview Questions](https://github.com/twowaits/SDE-Interview-Questions/)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Tech Interview Preparation](https://github.com/sastava007/Tech-Interview-Preparation)
