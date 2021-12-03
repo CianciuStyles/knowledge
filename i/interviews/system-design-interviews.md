@@ -2,6 +2,8 @@
 
 ## Resources
 
+![](<../../.gitbook/assets/immagine (4).png>)
+
 ### Articles
 
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
@@ -23,6 +25,7 @@
 ### GitHub Repositories
 
 * [FAANG System Design](https://github.com/neerazz/faang-system-design)
+* [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * [System Design Interview Questions](https://github.com/sid24rane/System-Design-Interview-Questions)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
