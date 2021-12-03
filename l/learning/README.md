@@ -44,3 +44,5 @@
 * [StackSkills](https://stackskills.com)
 * [TakeLessons](https://takelessons.com)
 * [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
+* [WiseGEEK](https://www.wisegeek.com) - Clear answers to common questions
+* [Wyzant](https://www.wyzant.com) - Find private tutors
