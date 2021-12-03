@@ -38,4 +38,5 @@
 
 * [CodeSignal](https://app.codesignal.com)
 * [Codility](https://app.codility.com/programmers/lessons)
+* [Daily Coding Problem](https://www.dailycodingproblem.com)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
