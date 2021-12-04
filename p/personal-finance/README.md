@@ -31,6 +31,10 @@
 * [The Wealthy Barber: Everyone's Commonsense Guide to Becoming Financially Independent](https://smile.amazon.co.uk/dp/0761513116/) - David Chilton
 * [Your Money or Your Life](https://smile.amazon.co.uk/dp/0143115766/) - Vicki Robin, Joe Dominguez
 
+### Infographics
+
+![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (4).png>)
+
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
@@ -38,9 +42,13 @@
 
 ### Websites
 
+* [Ask Liz Weston](https://asklizweston.com)
+* [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [Financial Samurai](https://www.financialsamurai.com)
 * [JL Collins](https://jlcollinsnh.com)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
+* [Love Your Money](https://www.loveyourmoney.org)
+* [Money Saving Expert](https://www.moneysavingexpert.com)
 * [Money To The Masses](https://moneytothemasses.com)
 * [Vanguard](https://www.vanguardinvestor.co.uk)
 * [Wise Bread](https://www.wisebread.com)
