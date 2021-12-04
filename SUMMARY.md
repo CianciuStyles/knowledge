@@ -22,7 +22,7 @@
 * [Board Games](b/board-games.md)
 * [Books](b/books.md)
 
-## C <a href="cee" id="cee"></a>
+## C <a href="#cee" id="cee"></a>
 
 * [C (programming language)](cee/c-programming-language.md)
 * [C++](cee/c++.md)
@@ -44,7 +44,7 @@
 * [Cryptography](cee/cryptography.md)
 * [Cryptocurriencies](cee/cryptocurriencies.md)
 
-## D <a href="dee" id="dee"></a>
+## D <a href="#dee" id="dee"></a>
 
 * [Databases](d/databases/README.md)
   * [PostgreSQL](d/databases/postgresql.md)
@@ -176,6 +176,7 @@
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
+* [Social Skills](s/social-skills.md)
 * [Spring (framework)](s/spring-framework.md)
 * [Stoicism](s/stoicism.md)
 * [Strength Training](s/strength-training/README.md)
@@ -195,7 +196,7 @@
 * [TypeScript](t/typescript.md)
 * [Typography](t/typography.md)
 
-## V <a href="vi" id="vi"></a>
+## V <a href="#vi" id="vi"></a>
 
 * [Virtual Tours](vi/virtual-tours.md)
 * [Vim](vi/vim.md)

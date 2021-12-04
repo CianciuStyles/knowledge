@@ -15,6 +15,7 @@
 
 * [Abstruse Goose](https://abstrusegoose.com)
 * [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin\_and\_hobbes/)
+* [Max Payne 1 & 2 Graphic Novel Story](http://gldio.com/wrkz/max\_payne/)
 * [Read Comic Online](https://readcomiconline.to)
 * [The Oatmeal](https://theoatmeal.com)
 * [xkcd](https://xkcd.com)

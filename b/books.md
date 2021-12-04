@@ -29,61 +29,61 @@
 
 ### Infographics
 
-![/lit/&apos;s Top 100 Books of All Time](../.gitbook/assets/lits-top-100-books-of-all-time.jpg)
+![/lit/'s Top 100 Books of All Time](../.gitbook/assets/lits-top-100-books-of-all-time.jpg)
 
 ![Sci-Fi Guide](../.gitbook/assets/r55odll.jpeg)
 
 ### Online Stores
 
 * [Blackwell's](https://blackwells.co.uk/bookshop/home)
-* [Books etc.](https://www.booksetc.co.uk/)
-* [Bookshop](https://uk.bookshop.org/)
-* [Foyles](https://www.foyles.co.uk/)
-* [Hive.co.uk](https://www.hive.co.uk/)
-* [Waterstones](https://www.waterstones.com/)
-* [Wordery](https://wordery.com/)
+* [Books etc.](https://www.booksetc.co.uk)
+* [Bookshop](https://uk.bookshop.org)
+* [Foyles](https://www.foyles.co.uk)
+* [Hive.co.uk](https://www.hive.co.uk)
+* [Waterstones](https://www.waterstones.com)
+* [Wordery](https://wordery.com)
 
 ### Recommendations
 
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
-* [Hacker News Books](https://hackernewsbooks.com/)
+* [Hacker News Books](https://hackernewsbooks.com)
 * [HN Books](https://yahnd.com/books/)
-* [Most Recommended Books](https://mostrecommendedbooks.com/)
-* [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
-* [Shepherd](https://shepherd.com/)
+* [Most Recommended Books](https://mostrecommendedbooks.com)
+* [Read This Twice](https://www.readthistwice.com) - Books worth reading twice
+* [Shepherd](https://shepherd.com)
 * [The 50 Best Science Fiction And Fantasy Books Of The Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade) - NPR
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
-* [The Book Seer](https://bookseer.com/) - What should I read next
-* [The Greatest Books](https://thegreatestbooks.org/)
-* [The StoryGraph](https://app.thestorygraph.com/)
-* [What Should I Read Next?](https://www.whatshouldireadnext.com/)
-* [Whichbook](https://www.whichbook.net/)
+* [The Book Seer](https://bookseer.com) - What should I read next
+* [The Greatest Books](https://thegreatestbooks.org)
+* [The StoryGraph](https://app.thestorygraph.com)
+* [What Should I Read Next?](https://www.whatshouldireadnext.com)
+* [Whichbook](https://www.whichbook.net)
 
 ### Reddit Threads
 
-* [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if_one_could_only_read_5_books_over_their/)
-* [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what_is_that_one_book_that_absolutely_changed/)
-* [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats_a_book_everyone_should_read_at_least_once/)
+* [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if\_one\_could\_only\_read\_5\_books\_over\_their/)
+* [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what\_is\_that\_one\_book\_that\_absolutely\_changed/)
+* [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats\_a\_book\_everyone\_should\_read\_at\_least\_once/)
 
 ### Websites
 
 * [1,000 Free Audio Books: Download Great Books for Free](https://www.openculture.com/freeaudiobooks)
-* [800 Free eBooks for iPad, Kindle & Other Devices](https://www.openculture.com/free_ebooks)
-* [Anobii](https://www.anobii.com/)
-* [BetterWorldBooks](https://www.betterworldbooks.com/)
-* [Book Depository](https://www.bookdepository.com/)
-* [Book Finder](https://www.bookfinder.com/)
-* [Bookcelerator](https://bookcelerator.com/)
+* [800 Free eBooks for iPad, Kindle & Other Devices](https://www.openculture.com/free\_ebooks)
+* [Anobii](https://www.anobii.com)
+* [BetterWorldBooks](https://www.betterworldbooks.com)
+* [Book Depository](https://www.bookdepository.com)
+* [Book Finder](https://www.bookfinder.com)
+* [Bookcelerator](https://bookcelerator.com)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
-* [Find Book](https://www.find-book.co.uk/) - UK prices comparator
+* [Find Book](https://www.find-book.co.uk) - UK prices comparator
 * [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
-* [LibriVox](https://librivox.org/)
-* [Open Library](https://openlibrary.org/)
-* [Project Gutenberg](https://www.gutenberg.org/)
+* [LibriVox](https://librivox.org)
+* [Open Library](https://openlibrary.org)
+* [Project Gutenberg](https://www.gutenberg.org)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
-* [Summaries.com](https://summaries.com/)
-* [The Book Bundle](https://www.thebookbundle.com/)
-* [The Neglected Books Page](https://neglectedbooks.com/)
+* [Rebel Book Club](https://www.rebelbook.club)
+* [Summaries.com](https://summaries.com)
+* [The Book Bundle](https://www.thebookbundle.com)
+* [The Neglected Books Page](https://neglectedbooks.com)
 * [World of Books](https://www.worldofbooks.com/en-gb)
-

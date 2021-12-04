@@ -44,9 +44,15 @@
 ### Ambient Sounds
 
 * [A Soft Murmur](https://asoftmurmur.com)
+* [Ambient Mixer](https://www.ambient-mixer.com)
 * [Coffitivity](https://coffitivity.com)
 * [I Miss My Bar](https://imissmybar.com)
+* [Moodil](https://www.moodil.com)
 * [myNoise](https://mynoise.net)
+* [Noisli](https://www.noisli.com)
+* [Rainy Mood](https://www.rainymood.com)
+* [Soundrown](https://soundrown.com)
+* [Tabletop Audio](https://tabletopaudio.com)
 
 ### Articles
 
@@ -59,7 +65,6 @@
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
-*
 * [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
 
 ### Blogs
@@ -80,3 +85,11 @@
 ### Hacker News Threads
 
 * [How do I find energy to work on hobbies after the work day ends?](https://news.ycombinator.com/item?id=26500021)
+
+### Music For Concentration
+
+* [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org)
+* [Marcel The Drunkard](https://www.youtube.com/c/MarcelTheDrunkard/videos)
+* [musicForProgramming](https://musicforprogramming.net)
+* [My Analog Journal](https://www.youtube.com/c/MyAnalogJournal/videos)
+* [Poolsuite FM](https://poolsuite.net)
