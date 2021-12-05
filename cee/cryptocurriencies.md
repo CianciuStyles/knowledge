@@ -4,7 +4,7 @@
 
 ### Blogs
 
-* [Vitalik Buterin](https://vitalik.ca/)
+* [Vitalik Buterin](https://vitalik.ca)
 
 ### Courses
 
@@ -17,9 +17,13 @@
 
 ### Reddit threads
 
-* [Profits from Cryptocurrency, how do I pay tax?](https://www.reddit.com/r/UKPersonalFinance/comments/n9vq5z/profits_from_cryptocurrency_how_do_i_pay_tax/)
+* [Profits from Cryptocurrency, how do I pay tax?](https://www.reddit.com/r/UKPersonalFinance/comments/n9vq5z/profits\_from\_cryptocurrency\_how\_do\_i\_pay\_tax/)
 
 ### Websites
 
-* [Bitcoin vs. Altcoins](https://bitcoinvsaltcoins.com/)
+* [Bitcoin vs. Altcoins](https://bitcoinvsaltcoins.com)
 
+### YouTube Channels
+
+* [Coin Bureau](https://www.youtube.com/c/CoinBureau/videos)
+* [Crypto Casey](https://www.youtube.com/c/CryptoCasey/videos)
