@@ -4,8 +4,12 @@
 
 ### Books
 
+* [A Common-Sense Guide to Data Structures and Algorithms](https://smile.amazon.co.uk/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680507222/) - Jan Wengrow
 * [Algorithmics: The Spirit of Computing](https://smile.amazon.co.uk/dp/0321117840) - David Harel, Yishai Feldman
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms](https://smile.amazon.co.uk/Algorithms-Robert-Sedgewick/dp/032157351X/) - Robert Sedgewick, Kevin Wayne
+* [Introduction to Algorithms](https://smile.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein
+* [The Algorithm Design Manual](https://smile.amazon.co.uk/Algorithm-Design-Manual-Computer-Science/dp/3030542580/) - Steven Skiena
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org)
 
 ### Courses
@@ -32,6 +36,8 @@
 
 * [Algorithm Visualizer](https://algorithm-visualizer.org)
 * [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com)
+* [Chris Laux](https://www.chrislaux.com)
 * [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
+* [Open Data Structures](https://opendatastructures.org)
 * [VisuAlgo](https://visualgo.net/en)
 
