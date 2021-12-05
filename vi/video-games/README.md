@@ -110,8 +110,18 @@
 
 ### Reddit Threads
 
+* [Any 2D Metroidvania-style Games You Like?](https://www.reddit.com/r/patientgamers/comments/6njttl/i\_just\_finished\_ori\_and\_the\_blind\_forest\_and/)
+* [Best original Xbox games?](https://www.reddit.com/r/patientgamers/comments/5j8dsz/best\_original\_xbox\_games/)
+* [Best PS1 RPGs?](https://www.reddit.com/r/patientgamers/comments/57uy78/best\_ps1\_rpgs/)
+* [Best PSP Games](https://www.reddit.com/r/patientgamers/comments/71nwv2/best\_psp\_games/)
+* [Bought a Playstation 2, Any Must Haves?](https://www.reddit.com/r/patientgamers/comments/6b2imq/bought\_a\_playstation\_2\_so\_that\_i\_could\_replay/)
+* [Just got a PS3. What are the must play games?](https://www.reddit.com/r/patientgamers/comments/42k5qh/just\_got\_a\_ps3\_at\_a\_thrift\_shop\_what\_are\_the\_must/)
+* [Must play Nintendo DS games?](https://www.reddit.com/r/patientgamers/comments/56yytf/must\_play\_nintendo\_ds\_games/)
+* [PS2 games I should look for?](https://www.reddit.com/r/patientgamers/comments/454wk6/ps2\_games\_i\_should\_look\_for/)
+* [PS3 hidden gems](https://www.reddit.com/r/patientgamers/comments/4n9ve6/ps3\_hidden\_gems/)
 * [What are the best NES, SNES, Gameboy/Gameboy Advanced or N64 Games?](https://www.reddit.com/r/patientgamers/comments/fu90im/what\_are\_the\_best\_nes\_snes\_gameboygameboy/)
 * [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/qmlcid/what\_is\_your\_favorite\_video\_game\_of\_all\_time/)
+* [What is your "must play" game?](https://www.reddit.com/r/patientgamers/comments/bne9as/what\_is\_your\_must\_play\_game/)
 * [Your Personal Top Ten Games of All Time](https://www.reddit.com/r/patientgamers/comments/dr5h8i/your\_personal\_top\_ten\_games\_of\_all\_time/)
 
 ### Reviews
