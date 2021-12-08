@@ -50,6 +50,7 @@
 * [HN Books](https://yahnd.com/books/)
 * [Most Recommended Books](https://mostrecommendedbooks.com)
 * [Read This Twice](https://www.readthistwice.com) - Books worth reading twice
+* [Reddit Reads](https://www.redditreads.com)
 * [Shepherd](https://shepherd.com)
 * [The 50 Best Science Fiction And Fantasy Books Of The Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade) - NPR
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
