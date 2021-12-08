@@ -69,6 +69,7 @@
 * [Challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/challengingprojects.html) - Austin Z. Henley
 * [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - Al Sweigart
+* [Kindling projects](https://nedbatchelder.com/text/kindling.html) - Ned Batchelder
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
 * [More challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/morechallengingprojects.html) - Austin Z. Henley
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Tu V. Tran
