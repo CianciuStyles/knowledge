@@ -9,6 +9,10 @@
 
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
+### Books
+
+* [Remote: Office Not Required](https://basecamp.com/books/remote) - Jason Fried, David Heinemeier Hansson
+
 ### GitHub Repositories
 
 * [Established Remote Companies](https://github.com/yanirs/established-remote)
