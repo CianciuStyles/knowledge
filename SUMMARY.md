@@ -5,6 +5,7 @@
 ## A
 
 * [Abandoned Spaces](a/abandoned-spaces.md)
+* [Age](a/age.md)
 * [Algorithms & Data Structures](a/algorithms/README.md)
   * [Dynamic Programming](a/algorithms/dynamic-programming.md)
   * [Graphs](a/algorithms/graphs.md)
