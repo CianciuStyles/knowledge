@@ -51,6 +51,7 @@ description: https://www.python.org/
 
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
 * [docopt](https://docopt.org) - command-line interface description language
+* [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 * [MkDocs](https://www.mkdocs.org) - project documentation with Markdown
 * [Nuitka](https://nuitka.net) - Python to executable compiler
 * [peewee](https://docs.peewee-orm.com/en/latest/index.html) - simple and small ORM
