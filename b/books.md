@@ -23,6 +23,8 @@
 ### Hacker News Threads
 
 * [Do you read books regularly? Fiction or nonfiction?](https://news.ycombinator.com/item?id=26593122)
+* [Favorite Nonfiction Books of 2021?](https://news.ycombinator.com/item?id=29507085)
+* [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
