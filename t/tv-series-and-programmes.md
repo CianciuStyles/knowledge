@@ -9,6 +9,7 @@
 ### Reddit Threads
 
 * [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats\_a\_show\_that\_has\_never\_had\_a\_bad\_episode/)
+* [What is your all-time favorite TV show?](https://www.reddit.com/r/AskReddit/comments/rkx24t/what\_is\_your\_alltime\_favorite\_tv\_show/)
 
 ### To Watch
 
