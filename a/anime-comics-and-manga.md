@@ -1,6 +1,8 @@
 # Anime, Comics & Manga
 
-### Anime
+## Anime
+
+### Websites
 
 * [4Anime](https://4anime.to)
 * [Crunchyroll](https://www.crunchyroll.com)
@@ -11,7 +13,13 @@
 * [Watch Anime Dub](https://www.wcostream.com)
 * [Watch Cartoon Online](https://www.wcofun.com)
 
-### Comics
+## Comics
+
+### To Read
+
+* [One of These Days](https://www.amazon.co.uk/One-Those-Days-Yehuda-Devir/dp/0593231430) - Yehuda Devir, Maya Devir
+
+### Websites
 
 * [Abstruse Goose](https://abstrusegoose.com)
 * [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin\_and\_hobbes/)
@@ -20,6 +28,14 @@
 * [The Oatmeal](https://theoatmeal.com)
 * [xkcd](https://xkcd.com)
 
-### Manga
+## Manga
+
+### Favourites
+
+* [City Hunter](https://www.wikiwand.com/en/City\_Hunter) - Tsukasa Hojo
+* [Death Note](https://www.wikiwand.com/en/Death\_Note) - Tsugumi Ohba, Takeshi Obata
+* [Neon Genesis Evangelion](https://www.wikiwand.com/en/Neon\_Genesis\_Evangelion) - Hideaki Anno, Gainax
+
+### Websites
 
 * [Mangakakalot](https://mangakakalot.com)
