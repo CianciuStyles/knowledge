@@ -11,6 +11,12 @@
 
 * [AWS Blog](https://aws.amazon.com/blogs/)
 
+### Courses
+
+* [AWS Digital Training](https://aws.amazon.com/training/digital/)
+* [AWS Online Courses](https://www.amazon.com/b/?ie=UTF8\&node=14297978011)
+* [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+
 ### Videos
 
 * [Your First Week on Amazon Web Services](https://www.youtube.com/watch?v=7CiHBcqw6zc) - Miles Ward
