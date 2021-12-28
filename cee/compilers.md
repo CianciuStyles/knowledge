@@ -42,6 +42,11 @@
 
 * [Compilers](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - Indiana University, Fall 2020
 
+### GitHub repositories
+
+* [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial) - Spencer Tipping
+* [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which interprets bytecode
+
 ### Websites
 
 * [Compiler Explorer](https://godbolt.org)
