@@ -8,12 +8,15 @@
 * [How Millennials Can Overcome Their 6 Biggest Financial Challenges](https://www.artofmanliness.com/articles/millennials-can-overcome-6-biggest-financial-challenges/) - The Art of Manliness
 * [How People Get Rich Now](https://paulgraham.com/richnow.html) - Paul Graham
 * [How to invest spare lockdown cash in the stock market… safely](https://www.theguardian.com/money/2021/jan/31/how-to-invest-spare-lockdown-cash-in-the-stock-market-safely) - Shane Hickey, The Guardian
+* [Ten Steps To Financial Freedom](https://www.fool.co.uk/ten-steps-to-financial-freedom/) - The Motley Fool UK
 * [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Mr. Money Mustache
 
 ### Blogs
 
 * [Get Rich Slowly](https://www.getrichslowly.org)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com)
+* [The Smart Passive Income Blog](https://www.smartpassiveincome.com)
+* [Young Money](https://www.youngmoneyblog.co.uk) - Iona Bain
 
 ### Books
 
@@ -38,17 +41,22 @@
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
+* [Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk) - Chamath Palihapitiya
 * [Vanguard Index Funds for Beginners](https://www.youtube.com/watch?v=aL-GgWkA25Q) - James Shack
 
 ### Websites
 
 * [Ask Liz Weston](https://asklizweston.com)
+* [Bank Account Savings](https://bankaccountsavings.co.uk)
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [Financial Samurai](https://www.financialsamurai.com)
+* [Investopedia](https://www.investopedia.com)
 * [JL Collins](https://jlcollinsnh.com)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
 * [Love Your Money](https://www.loveyourmoney.org)
 * [Money Saving Expert](https://www.moneysavingexpert.com)
 * [Money To The Masses](https://moneytothemasses.com)
+* [Passive Income](https://my-passive-income.eu)
 * [Vanguard](https://www.vanguardinvestor.co.uk)
+* [Wall Street Survivor](https://www.wallstreetsurvivor.com)
 * [Wise Bread](https://www.wisebread.com)
