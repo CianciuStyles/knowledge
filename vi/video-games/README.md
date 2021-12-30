@@ -23,8 +23,9 @@
 
 ### Cases
 
-* [Retro Game Cases](https://www.retrogamecases.com)
-* [Videogame Box Protectors](https://www.videogameboxprotectors.com)
+* [boxprotectorshop](https://www.boxprotectors.nl) - The Netherlands
+* [Retro Game Cases](https://www.retrogamecases.com) - United States
+* [Videogame Box Protectors](https://www.videogameboxprotectors.com) - United States
 
 ### Collections
 
