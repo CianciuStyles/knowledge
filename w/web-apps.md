@@ -1,5 +1,9 @@
 # Web Apps
 
+### Audio
+
+* [Vocal Remover](https://vocalremover.org)
+
 ### Color Schemes
 
 * [Color Wheel](https://color.adobe.com/create/color-wheel)
@@ -9,6 +13,7 @@
 ### Connectivity
 
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com)
+* [Fast](https://fast.com) - Internet speed test
 
 ### Date and Time
 
@@ -34,6 +39,7 @@
 ### File Sharing
 
 * [DropSend](https://www.dropsend.com)
+* [FilePizza](https://file.pizza)
 * [JustBeamIt](https://justbeamit.com)
 * [Snapdrop](https://snapdrop.net)
 * [ToffeeShare](https://toffeeshare.com)
@@ -49,6 +55,7 @@
 
 ### Images
 
+* [CleanPNG](https://www.cleanpng.com)
 * [Cleanup.pictures](https://cleanup.pictures) - Remove objects, people, text and defects from any picture
 * [FotoForensics](https://fotoforensics.com)
 * [Pexels](https://www.pexels.com)
@@ -77,6 +84,10 @@
 * [Symbolab Math Solver](https://www.symbolab.com)
 * [Wolfram Alpha](https://www.wolframalpha.com)
 
+### Meetings
+
+* [Jitsi Meet](https://meet.jit.si)
+
 ### Printables
 
 * [FreePrintable.com](https://www.freeprintable.com)
@@ -86,6 +97,7 @@
 ### Programming
 
 * [Carbon](https://carbon.now.sh) - Create images of source code
+* [Dillinger](https://dillinger.io) - Online Markdown editor
 
 ### Screen Sharing
 
@@ -96,6 +108,10 @@
 ### Search
 
 * [SimilarSiteSearch](https://www.similarsitesearch.com)
+
+### Speect-to-text
+
+* [dictation.io](https://dictation.io)
 
 ### Text-to-Speech
 
