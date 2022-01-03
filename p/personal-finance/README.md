@@ -61,3 +61,4 @@
 * [Vanguard](https://www.vanguardinvestor.co.uk)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com)
 * [Wise Bread](https://www.wisebread.com)
+* [WTF Happened in 1971?](https://wtfhappenedin1971.com)

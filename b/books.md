@@ -17,6 +17,7 @@
 * [Derek Sivers](https://sive.rs/book)
 * [Jordan Peterson](https://www.jordanbpeterson.com/great-books/)
 * [Mark Manson](https://markmanson.net/best-books)
+* [Mind Expanding Books](https://books.vishnuks.com) ([GitHub](https://github.com/hackerkid/Mind-Expanding-Books))
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
 * [Rebel Book Club](https://rebelbook.club/library/)
 
@@ -24,7 +25,10 @@
 
 * [Do you read books regularly? Fiction or nonfiction?](https://news.ycombinator.com/item?id=26593122)
 * [Favorite Nonfiction Books of 2021?](https://news.ycombinator.com/item?id=29507085)
+* [Life Changing Books?](https://news.ycombinator.com/item?id=29605394)
+* [What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 * [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
+* [What are the best books for professional effectiveness?](https://news.ycombinator.com/item?id=29602228)
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
