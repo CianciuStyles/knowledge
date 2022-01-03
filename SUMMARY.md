@@ -219,4 +219,5 @@
   * [Interesting Companies](w/work/interesting-companies.md)
   * [Job Boards](w/work/job-boards.md)
   * [Remote Work](w/work/remote-work.md)
+  * [Startup](w/work/startup.md)
 * [Writing](w/writing.md)
