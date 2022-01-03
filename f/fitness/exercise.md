@@ -36,6 +36,7 @@
 
 * [AllTrails](https://www.alltrails.com)
 * [DAREBEE](https://darebee.com) - Fitness On Your Terms
+* [DoYogaWithMe](https://www.doyogawithme.com)
 * [ExRx](https://exrx.net)
 * [NerdFitness](http://www.nerdfitness.com)
 * [Physiqonomics](https://physiqonomics.com)
