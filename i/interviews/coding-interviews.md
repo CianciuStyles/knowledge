@@ -4,6 +4,7 @@
 
 * [Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time/) - Nick Ciubotariu
 * [Algorithmic Grading Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
+* [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/) - Michael Malis
 * [Google Interview Questions Deconstructed: Synonymous Queries](https://alexgolec.dev/synonymous-queries/) - Alex Golec
 * [Google Interview Problems: Ratio Finder](https://alexgolec.dev/ratio-finder/) - Alex Golec
 * [Google Interview Questions Deconstructed: The Knight’s Dialer](https://alexgolec.dev/google-interview-questions-deconstructed-the-knights-dialer/) - Alex Golec
