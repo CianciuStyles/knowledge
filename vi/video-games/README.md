@@ -163,6 +163,7 @@
 ### Reviews
 
 * [Adventure's Planet](https://www.adventuresplanet.it)
+* [GameRankings Archived Scores Browser](https://gr.blade.sk/#/)
 * [MetaCritic](https://www.metacritic.com/game)
 * [OpenCritic](https://opencritic.com)
 * [Polygon](https://www.polygon.com)
