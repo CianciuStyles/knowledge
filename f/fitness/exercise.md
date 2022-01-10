@@ -14,6 +14,7 @@
 * [Cardio or Weights: What’s Better for Fat Loss?](https://physiqonomics.com/cardio-or-weights/) - Physiqonomics
 * [Does Fasted Training Burn More Fat?](https://physiqonomics.com/fasted-training/) - Physiqonomics
 * [Greyskull LP](https://www.powerliftingtowin.com/greyskull-lp/)
+* [How Many Calories Do You Burn Walking?](https://www.nerdfitness.com/blog/walking/) - Nerd Fitness
 * [How to Actually Get Fit](https://imgur.com/a/klzP3/layout/undefined)
 * [How to Do a Bodyweight Row or Inverted Row](https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/) - Nerd Fitness
 * [How To Have Flat Abs – Amazing 5-minute Daily Work-out](https://bewellhub.com/2017/02/09/how-to-have-flat-abs-amazing-5-minute-daily-work-out/)
