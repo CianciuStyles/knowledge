@@ -2,6 +2,21 @@
 
 ## Notes
 
+### 30 Days to Better Habits - James Clear
+
+#### How to Choose a Habit that Sticks
+
+* It is much more important to work on the right habit than it is to work really hard.
+* Improvements are only temporary until they become part of who you are.
+* Every action you take is a vote for the type of person you wish to become.
+* Your habits reshape your identty in a gradual way.
+
+#### The Two-Minute Rule for Building Lasting Habits
+
+* When you're trying to build a new habit, it's easy to start too big.
+* The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
+* A habit must be established before it can be improved. If you can’t learn the basic skill of showing up, then you have little hope of mastering the finer details.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
