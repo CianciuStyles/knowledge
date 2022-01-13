@@ -33,6 +33,7 @@
   * [Designing WhatsApp (2022)](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
   * [Google's architecture (2008)](http://highscalability.com/google-architecture)
   * [YouTube's architecture (2008)](http://highscalability.com/youtube-architecture)
+* [HowVideo.works](https://howvideo.works)
 
 ### YouTube playlists
 
