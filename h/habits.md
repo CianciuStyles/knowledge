@@ -30,6 +30,10 @@
   * [Summary](https://public.summaries.com/files/1-page-summary/atomic-habits.pdf)
 * [The Power Of Habit](https://smile.amazon.co.uk/dp/1847946240) - Charles Duhigg
 
+### Spreadsheets
+
+* [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ\_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91\_7A/edit#gid=0) - James Clear
+
 ### YouTube videos
 
 * [How to break habits](https://www.youtube.com/watch?v=W1eYrhGeffc) - Charles Duhigg
