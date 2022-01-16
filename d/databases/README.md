@@ -50,11 +50,29 @@
   * **Monotonic Reads** is a guarantee that, once you see data from a follower node, you will always see that data going forward (with no stale data as if "moving back in time").
   * **Consistent Prefix Reads** is a guarantee that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order.
 
+### How Notion sharded their Postgres Database
+
+* Notion is an app that is meant to serve as a personal (or corporate) workspace. You can store notes, tasks, wikis, kanban boards and other things in a Notion workspace and you can easily share it with other users.
+* Last year, Notion sharded their Postgres monolith into a fleet of horizontally scalable databases. The resulting performance boost was pretty big.
+* Sharding a database means partitioning your data across multiple database instances. This allows you to run your database on multiple computers and scale horizontally instead of vertically.
+
+#### When To Shard?
+
+* Sharding your database prematurely can be a big mistake. It can result in an increased maintenance burden, new constraints in application code and little to no performance improvement (so a waste of engineering time).
+* The breaking point came when the Postgres VACUUM process began to stall consistently. The VACUUM process clears storage occupied by dead tuples in your database.
+* When you update data in Postgres, the existing data is _not_ modified. Instead, a new (updated) version of that data is added to the database. This is because it’s not safe to directly modify existing data, as other transactions could be reading it. This is called Multiversion Concurrency Control (MVCC).
+* At a later point, you can run the VACUUM process to delete the old, outdated data and reclaim disk space. If you don’t regularly vacuum your database (or have Postgres run autovacuum, where it does this for you), you’ll _eventually_ reach a transaction ID wraparound failure. So, you _must_ vacuum your database or it **will** eventually fail.
+
+#### Shard Key
+
+* In order to shard a database, you have to pick a shard key. This determines how your data will be split up amongst the shards. You want to pick a shard key that will equally distribute loads amongst all the shards. If one shard is getting a lot more reads/writes than the others, that can make scaling very difficult.
+
 ## Resources
 
 ### Articles
 
 * [All Modern Database Models in 5 min](https://random-dev.medium.com/databases-in-5-min-bfd3b9bef86) - RandomDev
+* [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) - Garrett Fidalgo
 * [How Does A Database Work?](https://cstack.github.io/db\_tutorial/) - Connor Stack
 * [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of](https://www.slideshare.net/LukasEder1/how-modern-sql-databases-come-up-with-algorithms-that-you-would-have-never-dreamed-of) - Lukas Eder
 
