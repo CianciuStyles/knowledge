@@ -17,6 +17,19 @@
 * The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
 * A habit must be established before it can be improved. If you can’t learn the basic skill of showing up, then you have little hope of mastering the finer details.
 
+#### How to Fit New Habits in Your Life
+
+* Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action.
+* One effective way to insert a new habit into your life is with an “**implementation intention.”** An implementation intention is a plan you make beforehand about when and where to act. That is, how you intend to implement your habit. Scientists have found that if you make an implementation intention, you are more likely to follow through with your plans and stick to your habits.
+*   The simple way to apply this strategy to your habits is to fill out this sentence:
+
+    _I will \[BEHAVIOR] at \[TIME] in \[LOCATION]._
+
+#### How to Design Your Environment for Success
+
+* Every habit is initiated by a cue, and we are more likely to notice the cues that stand out. Creating obvious visual cues can draw your attention toward your desired habit. Unfortunately, the environments where we live and work often make it easy to not do certain actions because there is no obvious cue to trigger the behavior.
+* I think we can summarize this strategy as follows: If you want to make a habit a big part of your life, you need to make the cue a big part of your environment. Make sure the best choice is the most obvious one. In the long-run (and often in the short-run), your willpower will not beat your environment. You can alter the spaces where you live and work to increase your exposure to positive cues. Making a better decision is easy, natural even, when the cues for good habits are right in front of you.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
