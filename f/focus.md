@@ -15,6 +15,7 @@
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/) - Zachary Wade Betz
 * [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/) - [Fadeke Adegbuyi](https://blog.doist.com/by/fadeke-adegbuyi/)
 * [Training to Attain Jedi-Like Concentration](https://siimland.com/training-attain-jedi-like-concentration/) - Siim Land
+* [Your attention didn't collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - Johann Hari
 
 ### Books
 
@@ -24,4 +25,3 @@
 ### Podcasts
 
 * [The Value of Deep Work in the Age of Distraction](https://www.artofmanliness.com/articles/podcast-168-the-value-of-deep-work-in-the-age-of-distraction/) - The Art of Manliness
-
