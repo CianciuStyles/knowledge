@@ -1,6 +1,32 @@
 # Learning
 
-![](../../.gitbook/assets/image.png)
+## Notes
+
+* The _spacing effect_ clearly shows that studying time is more efficient if it is spread out over multiple sessions than if it is compressed in one session. More exposures to information, separated in time, will result in better retention than if you cram them together in one burst.
+
+![](../../.gitbook/assets/spacing.png)
+
+* The _testing effect_ says that testing oneself, so you must retrieve the important information from memory, works better than re-reading notes or creating diagrams while referencing your textbook.
+
+![](../../.gitbook/assets/testing.png)
+
+* There’s a strict hierarchy of what kinds of study materials will be most useful to you in preparing for your eventual exam:
+  1. The most valuable are **mock tests and exams** which are intended to be identical in style and form to the test you’re actually going to take.
+  2. Next are **problems**, given in homework assignments, textbook questions or quizzes, that are given for your class specifically.
+  3. Finally, **self-generated questions or writing prompts** based on the material.
+* The reason for this hierarchy of practice is known as _transfer-appropriate processing_. This basically means that the more your practice resembles the exam, the more your practice efforts will transfer into actual results.
+
+![](../../.gitbook/assets/processing.png)
+
+* Memorization matters, but it’s more often as a means to understanding rather than an end in itself. This means that deeply understanding the core concepts behind any exam you study for should be a top priority.
+* I recommend the [Feynman Technique](https://www.youtube.com/watch?v=FrNqSLPaZLc) as a tool for deepening your understanding of core concepts covered in the class. You’ll know something best when you can teach it.
+
+![](../../.gitbook/assets/explanatorydepth.png)
+
+* Anxiety is one-two punch for your studying ability. It’s both harder to concentrate and the stress makes it harder to remember things, even if you could.
+* The solution is to make at least some of your studying sessions a full-blown simulation of the exam. If you have a few mock exams, I would save these for doing a full simulation of the test - same seating posture, materials and, most importantly, the same time constraints.
+
+![](../../.gitbook/assets/anxiety.png)
 
 ## Resources
 
@@ -14,6 +40,10 @@
 ### Books
 
 * [The First 20 Hours - How to Learn Anything... Fast](https://smile.amazon.co.uk/First-20-Hours-Learn-Anything/dp/0670921920/) - Josh Kaufman
+
+### Courses
+
+* [Learning How To Learn ](https://www.coursera.org/learn/learning-how-to-learn)- Barbara Oakley
 
 ### Hacker News Threads
 
