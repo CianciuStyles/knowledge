@@ -31,6 +31,10 @@
 * [System Design Interview Questions](https://github.com/sid24rane/System-Design-Interview-Questions)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+### Reddit Threads
+
+* [How I approach Systems Design Interviews](https://www.reddit.com/r/ExperiencedDevs/comments/s5sw1h/how\_i\_approach\_systems\_design\_interviews/)
+
 ### Videos
 
 * [How to Prepare for Technical Interviews, Part 2 - System Design](https://www.youtube.com/watch?v=9N2S3JZffeg) - Engineering with Utsav
