@@ -44,3 +44,7 @@
 ### Websites
 
 * [High Scalability](http://highscalability.com)
+
+### YouTube channels
+
+* [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
