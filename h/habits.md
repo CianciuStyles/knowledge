@@ -28,7 +28,14 @@
 #### How to Design Your Environment for Success
 
 * Every habit is initiated by a cue, and we are more likely to notice the cues that stand out. Creating obvious visual cues can draw your attention toward your desired habit. Unfortunately, the environments where we live and work often make it easy to not do certain actions because there is no obvious cue to trigger the behavior.
-* I think we can summarize this strategy as follows: If you want to make a habit a big part of your life, you need to make the cue a big part of your environment. Make sure the best choice is the most obvious one. In the long-run (and often in the short-run), your willpower will not beat your environment. You can alter the spaces where you live and work to increase your exposure to positive cues. Making a better decision is easy, natural even, when the cues for good habits are right in front of you.
+* We can summarize this strategy as follows: If you want to make a habit a big part of your life, you need to make the cue a big part of your environment. Make sure the best choice is the most obvious one. In the long-run (and often in the short-run), your willpower will not beat your environment. You can alter the spaces where you live and work to increase your exposure to positive cues. Making a better decision is easy, natural even, when the cues for good habits are right in front of you.
+
+#### How to Make Good Habits Automatic
+
+* You can also optimize your environment to make the actions themselves easier to perform. This process can be called “**reducing friction**”. The less friction associated with a habit, the more likely it is to occur.
+* When deciding where to practice a new habit, it is best to choose a place that is already along the path of your daily routine. Habits are easier to build when they fit into the flow of your life.
+* The central idea is to create an environment where doing the right thing is as easy as possible. You want to make your good habits the path of least resistance.
+* The ultimate way to reduce friction is to use technology and automation. This is exactly what many popular businesses are designed to do. Just as businesses use technology to automate the behavior of the masses, you can use technology to automate your own behavior.
 
 ### Atomic Habits - James Clear
 
