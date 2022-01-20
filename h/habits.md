@@ -37,6 +37,12 @@
 * The central idea is to create an environment where doing the right thing is as easy as possible. You want to make your good habits the path of least resistance.
 * The ultimate way to reduce friction is to use technology and automation. This is exactly what many popular businesses are designed to do. Just as businesses use technology to automate the behavior of the masses, you can use technology to automate your own behavior.
 
+#### Prime Your Environment to Make Future Habits Easy
+
+* It's nearly always better to focus on one habit at a time rather than building multiple habits. It is simpler, but it also addresses an often overlooked aspect: when you're building one habit, you're often building multiple habits.
+* One way to increase the odds that your habits will be performed is to walk into an environment that is ready for the habit. This is called "**priming the environment**".
+* Environment design makes the cues of good habits more obvious. Reducing fiction makes performing habits in the moment easier. Priming the environment makes the future habits easier.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
