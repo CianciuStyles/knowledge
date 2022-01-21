@@ -27,6 +27,7 @@
 * [EPUB.to](https://epub.to) - Covert from/to EPUB
 * [File2HD](http://file2hd.com)
 * [Free Online OCR](https://www.newocr.com) - [2](https://www.onlineocr.net)
+* [iLovePDF](https://www.ilovepdf.com)
 * [Online Converter](https://www.online-convert.com)
 * [PrintFriendly](https://www.printfriendly.com)
 * [PDFescape](https://www.pdfescape.com/windows/)
