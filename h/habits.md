@@ -20,7 +20,7 @@
 #### How to Fit New Habits in Your Life
 
 * Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action.
-* One effective way to insert a new habit into your life is with an “**implementation intention.”** An implementation intention is a plan you make beforehand about when and where to act. That is, how you intend to implement your habit. Scientists have found that if you make an implementation intention, you are more likely to follow through with your plans and stick to your habits.
+* One effective way to insert a new habit into your life is with an "**implementation intention."** An implementation intention is a plan you make beforehand about when and where to act. That is, how you intend to implement your habit. Scientists have found that if you make an implementation intention, you are more likely to follow through with your plans and stick to your habits.
 *   The simple way to apply this strategy to your habits is to fill out this sentence:
 
     _I will \[BEHAVIOR] at \[TIME] in \[LOCATION]._
@@ -32,7 +32,7 @@
 
 #### How to Make Good Habits Automatic
 
-* You can also optimize your environment to make the actions themselves easier to perform. This process can be called “**reducing friction**”. The less friction associated with a habit, the more likely it is to occur.
+* You can also optimize your environment to make the actions themselves easier to perform. This process can be called "**reducing friction"**. The less friction associated with a habit, the more likely it is to occur.
 * When deciding where to practice a new habit, it is best to choose a place that is already along the path of your daily routine. Habits are easier to build when they fit into the flow of your life.
 * The central idea is to create an environment where doing the right thing is as easy as possible. You want to make your good habits the path of least resistance.
 * The ultimate way to reduce friction is to use technology and automation. This is exactly what many popular businesses are designed to do. Just as businesses use technology to automate the behavior of the masses, you can use technology to automate your own behavior.
@@ -42,6 +42,12 @@
 * It's nearly always better to focus on one habit at a time rather than building multiple habits. It is simpler, but it also addresses an often overlooked aspect: when you're building one habit, you're often building multiple habits.
 * One way to increase the odds that your habits will be performed is to walk into an environment that is ready for the habit. This is called "**priming the environment**".
 * Environment design makes the cues of good habits more obvious. Reducing fiction makes performing habits in the moment easier. Priming the environment makes the future habits easier.
+
+#### Two Strategies to Combat Fading Motivation
+
+* Rather than having some linear relationship with achievement, habits tend to have more of a compound growth curve. The greatest returns are delayed. This gap between what we expect and what we experience is what I refer to as the "**plateau of latent potential**." This plateau plays a role in any journey of improvement. You’re putting in work each day, but you feel stuck in this valley of death. You’re accumulating potential, but it hasn’t been released yet. It’s all effort, and no reward.
+* "**Temptation bundling**" works by linking an action you want to do with an action you need to do. You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time.
+* The second strategy you can use to boost your motivation is referred to as a "**commitment device**." A commitment device is a choice you make in the present that locks in your actions in the future.
 
 ### Atomic Habits - James Clear
 
