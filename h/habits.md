@@ -49,6 +49,12 @@
 * "**Temptation bundling**" works by linking an action you want to do with an action you need to do. You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time.
 * The second strategy you can use to boost your motivation is referred to as a "**commitment device**." A commitment device is a choice you make in the present that locks in your actions in the future.
 
+#### **How to Create a Reward that Makes Habits Satisfying**
+
+* The vital thing in getting a habit to stick is to feel successful - even if it’s in a small way. The feeling of success is a signal that tells your brain that the habit paid off and that it was worth the effort.
+* We learn which behaviors to repeat based on how they make us feel. When we take an action that feels good, we want to do more of that action in the future. This is called “**The Cardinal Rule of Behavior Change”**: What is rewarded gets repeated. What is punished is avoided.
+* If you’re not careful, the external reward can become the thing you end up chasing. The key is to not lose sight of your desired identity, and whenever possible, to choose an external reward that reinforces the type of person you wish to be.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
