@@ -366,7 +366,7 @@
     * `-Fc`: auto-compressed format, works only with `pg_restore`
     * `-Ft`: tarball, not compressed, works with both `tar` and `pg_restore`
 * `pg_dump postgres` - dumps the postgres DB to STDOUT (if you are able to authenticate)
-* `pg_dump -v -f DB_Backup_postgres postgres` - dumps the postgres DB to the `DB_Backup_postgres `file, in verbose mode
+* `pg_dump -v -f DB_Backup_postgres postgres` - dumps the postgres DB to the `DB_Backup_postgres` file, in verbose mode
 * `pg_dump -v postgres > DB_Backup_postgres2` - dumps the postgres DB to the `DB_Backup_postgres2` file, using output redirection
 * `pg_dump -s -f DB_Backup.schema postgres` - dumps only the schema of the postgres database to the `DB_Backup.schema` file
 * `pg_dump -t messages -t categories -f DB_Backup.messages.categories postgres` - dumps the messages and categories tables of the postgres database to the `DB_Backup.messages.categories` file
@@ -422,4 +422,8 @@
 
 * [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
+
+### Websites
+
+* [explain.dalibo.com](https://explain.dalibo.com) - PostgreSQL execution plan visualizer
 
