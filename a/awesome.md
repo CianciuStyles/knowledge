@@ -27,6 +27,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome macOS Open Source: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 * Awesome Music: [https://github.com/ciconia/awesome-music](https://github.com/ciconia/awesome-music)
 * Awesome OS: [https://github.com/jubalh/awesome-os](https://github.com/jubalh/awesome-os)
+* Awesome OSS Alternatives: [https://github.com/RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 * Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)

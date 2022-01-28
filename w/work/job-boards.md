@@ -27,6 +27,7 @@
 * [Arc.dev](https://arc.dev)
 * [Based Remote](https://basedremote.com)
 * [GoWFH](https://gowfh.com)
+* [Gun.io](https://www.gun.io)
 * [Remote Hunt](https://remotehunt.com)
 * [Remote In Tech](https://remoteintech.company)
 * [Remote Leaf](https://remoteleaf.com/whoishiring)

@@ -9,6 +9,7 @@
 
 * [Braintrust](https://www.usebraintrust.com)
 * [Fiverr](https://www.fiverr.com)
+* [Gun.io](https://www.gun.io)
 * [Periodix](https://periodix.net)
 * [Toptal](https://www.toptal.com)
 * [Upwork](https://www.upwork.com)
