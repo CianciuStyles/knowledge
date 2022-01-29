@@ -423,6 +423,10 @@
 * [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
 
+### Books
+
+* [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - Hironobu Suzuki
+
 ### Websites
 
 * [explain.dalibo.com](https://explain.dalibo.com) - PostgreSQL execution plan visualizer
