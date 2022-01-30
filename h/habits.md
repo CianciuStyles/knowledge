@@ -55,6 +55,13 @@
 * We learn which behaviors to repeat based on how they make us feel. When we take an action that feels good, we want to do more of that action in the future. This is called “**The Cardinal Rule of Behavior Change”**: What is rewarded gets repeated. What is punished is avoided.
 * If you’re not careful, the external reward can become the thing you end up chasing. The key is to not lose sight of your desired identity, and whenever possible, to choose an external reward that reinforces the type of person you wish to be.
 
+#### Visualise Your Progress and Stay the Course with a Habit Tracker
+
+* The most effective form of motivation is progress.
+* When it comes to building better habits, a crucial step is to visualize the progress you’re making, and to be able to see yourself move forward. Perhaps the most straightforward way to visualize your progress is with a “**habit tracker**.”
+* Once you have created your habit tracker, the mantra to keep in mind is **"never break the chain."** That is, once you start tracking your habits, you don’t want to break the chain of crossing off each day or filling in each cell.
+* Visual signals of progress can be particularly powerful on a bad day. When you’re feeling down, it’s easy to forget about all the progress you have already made.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
