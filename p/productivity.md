@@ -93,3 +93,4 @@
 * [musicForProgramming](https://musicforprogramming.net)
 * [My Analog Journal](https://www.youtube.com/c/MyAnalogJournal/videos)
 * [Poolsuite FM](https://poolsuite.net)
+* [SomaFM](https://somafm.com/listen/)
