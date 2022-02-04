@@ -2,9 +2,13 @@
 
 ## Resources
 
+### Articles
+
+* [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMin
+
 ### Books
 
-* [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial_Intelligence:_A_Modern_Approach) - Stuart Russell, Peter Norvig
+* [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial\_Intelligence:\_A\_Modern\_Approach) - Stuart Russell, Peter Norvig
 
 ### Documentaries
 
@@ -12,7 +16,6 @@
 
 ### Websites
 
-* [deeplearning.ai](https://www.deeplearning.ai/)
-* [fast.ai](https://www.fast.ai/)
-* [OpenAI Gym](https://gym.openai.com/)
-
+* [deeplearning.ai](https://www.deeplearning.ai)
+* [fast.ai](https://www.fast.ai)
+* [OpenAI Gym](https://gym.openai.com)
