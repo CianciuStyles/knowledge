@@ -62,6 +62,12 @@
 * Once you have created your habit tracker, the mantra to keep in mind is **"never break the chain."** That is, once you start tracking your habits, you don’t want to break the chain of crossing off each day or filling in each cell.
 * Visual signals of progress can be particularly powerful on a bad day. When you’re feeling down, it’s easy to forget about all the progress you have already made.
 
+#### The Role of Family and Friends in Shaping Habits
+
+* Your culture sets your expectation for what is "normal". Surround yourself with people who have the habits you want to have yourself. You’ll rise together.
+* New habits seem achievable when you see others doing them every day. **** If you’re surrounded by readers, you’re more likely to consider reading to be a common habit. If you’re surrounded by people who recycle, you’re more likely to start recycling too.
+* Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
