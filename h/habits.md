@@ -68,6 +68,14 @@
 * New habits seem achievable when you see others doing them every day. **** If you’re surrounded by readers, you’re more likely to consider reading to be a common habit. If you’re surrounded by people who recycle, you’re more likely to start recycling too.
 * Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits.
 
+#### Habit Graduation: Moving from Two Minutes to Mastery
+
+* When your old habit becomes boring, you know it’s time to move on. However, this can be a potential pitfall because, once people get bored, they start looking for something new to do: a new solution, a better approach, a different program. Pretty soon, you jump to one habit to the next, or one program to the next and you never spend enough time focusing on one thing long enough to get results.
+* The key is once you get bored, you stick with the same habit, but find a new detail to master or get interested in.
+* The second thing you can do is to stick with the same habit, but scale up the intensity or volume.
+* Start by mastering the first two minutes of the smallest version of the behavior, then advance to an intermediate step and repeat the process. Mastering each stage before moving on to the next level. Eventually, you’ll end up with the habit you had originally hoped to build despite starting so small.
+* The Goldilocks Rule states that humans experience peak levels of motivation when working on tasks of just manageable difficulty. Not too hard, not too easy, just right. This is precisely the region where habits remain motivating and exciting.
+
 ### Atomic Habits - James Clear
 
 * Each time you successfully do a habit, you will find it less effortful to do the next time.
