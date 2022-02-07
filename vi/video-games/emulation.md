@@ -2,6 +2,7 @@
 
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com)
+* [Console Living Room](https://archive.org/details/consolelivingroom)
 * [CoolROM](https://coolrom.com.au)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuBrowser](https://emubrowser.com)
