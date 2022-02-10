@@ -13,6 +13,7 @@
   * [FatFingers](http://www.fatfingers.com) - eBay typos, misspelling & spelling mistakes
   * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour
   * [No Bids](https://nobids.net) - find items with no bids
+  * [PicClick](https://picclick.co.uk)
 * [NifeIsLife](https://www.nifeislife.com) - Italian Food Home Delivery
 * [ShopBySub.com](https://www.shopbysub.com)
 
