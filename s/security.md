@@ -66,6 +66,7 @@
 * [Dradis](https://dradisframework.com/ce/)
 * [GTFOBins](https://gtfobins.github.io) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Metasploit](https://www.metasploit.com)
+* pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 
 ### Websites
 
