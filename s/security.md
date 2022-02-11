@@ -11,6 +11,7 @@
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
+* [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 
