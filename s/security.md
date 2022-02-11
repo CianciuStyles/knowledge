@@ -4,6 +4,7 @@
 
 * [A Complete Penetration Testing & Hacking Tools List for Hackers & Security Professionals](https://gbhackers.com/hacking-tools-list/)
 * [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce) - Positive Security
+* [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tm1k
 * [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
 * [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
@@ -63,6 +64,7 @@
 ### Tools
 
 * [Dradis](https://dradisframework.com/ce/)
+* [GTFOBins](https://gtfobins.github.io) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Metasploit](https://www.metasploit.com)
 
 ### Websites
@@ -73,6 +75,7 @@
 * [DVWA](https://dvwa.co.uk) - Damn Vulnerable Web Application
 * [flAWS](http://flaws.cloud)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
+* [Guided Hacking](https://guidedhacking.com)
 * [Hack The Box](https://www.hackthebox.eu)
 * [Hacksplaining](https://www.hacksplaining.com) - Security Training for Developers
 * [HackThisSite](https://www.hackthissite.org)
@@ -85,6 +88,8 @@
   * [Juice Shop](https://owasp.org/www-project-juice-shop/)
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
   * [WebGoat](https://owasp.org/www-project-webgoat/)
+* [PentesterLab](https://pentesterlab.com)
+* [pwn.college](https://pwn.college)
 * [Pwnable.kr](https://pwnable.kr)
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
 * [Shodan](https://www.shodan.io) - The search engine for Internet of Things
