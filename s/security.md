@@ -91,6 +91,7 @@
   * [Juice Shop](https://owasp.org/www-project-juice-shop/)
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
   * [WebGoat](https://owasp.org/www-project-webgoat/)
+* [OverTheWire Wargames](https://overthewire.org/wargames/)
 * [PentesterLab](https://pentesterlab.com)
 * [pwn.college](https://pwn.college)
 * [Pwnable.kr](https://pwnable.kr)
