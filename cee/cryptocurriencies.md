@@ -15,6 +15,10 @@
 
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency links
 
+### Hacker News threads
+
+* [Does Anyone else working in a crypto company feel this is all a scam?](https://news.ycombinator.com/item?id=30268807)
+
 ### Reddit threads
 
 * [Profits from Cryptocurrency, how do I pay tax?](https://www.reddit.com/r/UKPersonalFinance/comments/n9vq5z/profits\_from\_cryptocurrency\_how\_do\_i\_pay\_tax/)
