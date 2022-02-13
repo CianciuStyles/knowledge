@@ -20,3 +20,7 @@
 
 * [Cryptography I](https://www.coursera.org/learn/crypto) - Dan Boneh
 * [Cryptography II](https://www.coursera.org/learn/crypto2) - Dan Boneh
+
+### Websites
+
+* [SHA256 Algorithm Explained](https://sha256algorithm.com)
