@@ -28,6 +28,7 @@ description: https://www.python.org/
 ### Books
 
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - Luciano Ramalho
+* [Practical Python Projects Book](https://practicalpython.yasoob.me/index.html) - Yasoob Khalid
 * [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html) - Allen B. Downey
 
