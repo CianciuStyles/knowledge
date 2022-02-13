@@ -14,6 +14,7 @@
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
+* [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
 
 ### Awesome
 
