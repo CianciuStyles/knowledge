@@ -25,9 +25,17 @@
 
 * [NeoTokyo](https://neotokyohq.com)
 
+### Portal
+
+* [Blue Portals](https://www.moddb.com/mods/blue-portals)
+* [Portal: Prelude](https://www.moddb.com/mods/portal-prelude)
+* [Rexaura](https://store.steampowered.com/app/317790/Rexaura/)
+
 ### Portal 2
 
+* [Portal Reloaded](https://portalreloaded.com)
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
+* [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
 
 ### The Witcher 2: Assassins of Kings
 
