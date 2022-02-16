@@ -13,6 +13,7 @@
 * [How we hire](https://careers.google.com/how-we-hire/) - Google Careers
 * [Insights and My Experience From My Interview at Facebook](https://betterprogramming.pub/facebook-interview-experience-and-insights-51e383f3c70d) - Kriti Joshi
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
+* [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/) - Dave Ceddia
 * [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes-2/) - Joel Spolsky
 * [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
 * [The Phone Screen](https://www.joelonsoftware.com/2006/10/24/the-phone-screen-2/) - Joel Spolsky
