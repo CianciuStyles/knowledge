@@ -41,6 +41,12 @@
 
 * [RomHack](https://www.romhack.io)
 
+### CTFs
+
+* [CTFtime.org](https://ctftime.org)
+* [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
+* [picoCTF](https://picoctf.org)
+
 ### Databases
 
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
@@ -77,7 +83,6 @@
 * [Cybrary](https://www.cybrary.it)
 * [DVWA](https://dvwa.co.uk) - Damn Vulnerable Web Application
 * [flAWS](http://flaws.cloud)
-* [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [Guided Hacking](https://guidedhacking.com)
 * [Hack The Box](https://www.hackthebox.eu)
 * [Hacksplaining](https://www.hacksplaining.com) - Security Training for Developers
@@ -108,5 +113,8 @@
 
 * [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
+* [Infosec](https://www.youtube.com/c/InfoSecInstitute/videos)
+* [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
+* [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos)
