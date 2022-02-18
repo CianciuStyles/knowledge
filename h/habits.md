@@ -102,6 +102,7 @@
 
 * [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear
   * [Summary](https://public.summaries.com/files/1-page-summary/atomic-habits.pdf)
+  * [Summary by Chris Behan](https://www.chrisbehan.ca/posts/atomic-habits)
 * [The Power Of Habit](https://smile.amazon.co.uk/dp/1847946240) - Charles Duhigg
 
 ### Spreadsheets
