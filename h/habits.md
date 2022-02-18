@@ -9,7 +9,7 @@
 * It is much more important to work on the right habit than it is to work really hard.
 * Improvements are only temporary until they become part of who you are.
 * Every action you take is a vote for the type of person you wish to become.
-* Your habits reshape your identty in a gradual way.
+* Your habits reshape your identity in a gradual way.
 
 #### The Two-Minute Rule for Building Lasting Habits
 
