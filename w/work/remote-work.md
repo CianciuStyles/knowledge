@@ -7,6 +7,7 @@
 
 ### Awesome
 
+* [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ### Books
