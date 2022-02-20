@@ -54,6 +54,7 @@
 * [The PlayStation Datacenter](https://psxdatacenter.com)
 * [Universal Hint System](https://www.uhs-hints.com)
 * [Unseen64](https://www.unseen64.net)
+* [VGComplete](https://www.vgcomplete.com)
 * [Video Game Preservation](https://github.com/videogamepreservation)
 
 ### Events
