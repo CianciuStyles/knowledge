@@ -24,3 +24,4 @@
 
 * Rust for Java Developers - Jeremy Chone
   * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
+  * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
