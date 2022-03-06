@@ -3,7 +3,6 @@
 ## 2-players board games to try
 
 * [Hive](https://www.boardgamearena.com/gamepanel?game=hive)
-* [Jaipur](https://www.boardgamearena.com/gamepanel?game=jaipur)
 * Spirit Island
 * The Captain Is Dead
 * The Crew
@@ -12,6 +11,7 @@
 
 ### Articles
 
+* [18 Best Two-Player Board Games 2021](https://www.thestrategist.co.uk/article/best-two-player-board-games.html) - The Strategist
 * [How to play board games online with your friends](https://masilotti.com/play-board-games-online/) - Joe Masilotti ([HN thread](https://news.ycombinator.com/item?id=22967716))
 
 ### Infographics
