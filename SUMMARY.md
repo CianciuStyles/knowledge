@@ -145,7 +145,8 @@
 
 ## O
 
-* [Operating Systems](o/operating-systems.md)
+* [Operating Systems](o/operating-systems/README.md)
+  * [Linux](o/operating-systems/linux.md)
 
 ## P
 
