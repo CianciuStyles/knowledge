@@ -13,6 +13,7 @@
 
 ### Websites
 
+* [OSDev](https://wiki.osdev.org/Main\_Page)
 * [Project Oberon](https://www.projectoberon.com)
 * [Writing an OS in Rust](https://os.phil-opp.com)
 
