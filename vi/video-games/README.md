@@ -138,6 +138,7 @@
 * [Recently got a orginal xbox any suggestions?](https://www.reddit.com/r/patientgamers/comments/5wvc5t/recently\_got\_a\_orginal\_xbox\_any\_suggestions/)
 * [Recommend some xbox 360 games](https://www.reddit.com/r/patientgamers/comments/56a20r/recommend\_some\_xbox\_360\_games/)
 * [The best PC games of the last twenty years](https://www.reddit.com/r/patientgamers/comments/3zl3gk/the\_best\_pc\_games\_of\_the\_last\_twenty\_years/)
+* [What's a game everyone NEEDS to play in their lifetime?](https://www.reddit.com/r/gaming/comments/t6vhpi/whats\_a\_game\_everyone\_needs\_to\_play\_in\_their/)
 * [What's a game that's worth every penny?](https://www.reddit.com/r/AskReddit/comments/s0b8sh/whats\_a\_game\_thats\_worth\_every\_penny/)
 * [What's your favourite 'chill' game?](https://www.reddit.com/r/patientgamers/comments/96qtwr/whats\_your\_favourite\_chill\_game/)
 * [What's your top 3 must play videogames?](https://www.reddit.com/r/AskReddit/comments/42mp2c/whats\_your\_top\_3\_must\_play\_videogames/)

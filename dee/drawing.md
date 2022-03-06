@@ -22,9 +22,13 @@
 * [21 Draw](https://www.21-draw.com)
 * [Art-Wod](https://artwod.com)
 * [ArtStation](https://www.artstation.com)
+* [Drawabox](https://drawabox.com)
 * [FORCE Drawing](https://www.drawingforce.com)
+* [Proko](https://www.proko.com)
 
 ### YouTube Channels
 
+* [FZDSCHOOL](https://www.youtube.com/user/FZDSCHOOL/videos)
 * [Robert Laszlo Kiss](https://www.youtube.com/c/robertlkiss/videos)
 * [Sinix Design](https://www.youtube.com/user/sinixdesign)
+* [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie/videos)
