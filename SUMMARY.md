@@ -58,6 +58,7 @@
 * [Documentaries](d/documentaries.md)
 * [Documentation](d/documentation.md)
 * [Dopamine](d/dopamine.md)
+* [Drawing](dee/drawing.md)
 
 ## E
 
