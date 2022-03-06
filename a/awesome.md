@@ -9,6 +9,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome C++: [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 * Awesome Cheat Sheets: [https://github.com/LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * Awesome Code Reading: [https://github.com/CodeReaderMe/awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading)
+* Awesome CTO: [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
 * Awesome Developers Streams: [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 * Awesome ELI5: [https://github.com/swapagarwal/awesome-eli5](https://github.com/swapagarwal/awesome-eli5)
 * Awesome GameDev:
