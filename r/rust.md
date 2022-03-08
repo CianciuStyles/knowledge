@@ -25,4 +25,5 @@
 
 * Rust for Java Developers - Jeremy Chone
   * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
+  * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
   * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
