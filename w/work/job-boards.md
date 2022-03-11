@@ -55,6 +55,7 @@
 * [SideQuest](https://sidequestjobs.com)
 * [Slashscore](https://app.slashscore.ai)
 * [Tech Jobs for Good](https://www.techjobsforgood.com)
+* [The Pragmatic Engineer Job Board](https://pragmatic-engineer.pallet.com/jobs)
 * [underdog.io](https://underdog.io)
 * [Unicorn Hunt](https://unicornhunt.io)
 * [whoishiring.io](https://whoishiring.io)
