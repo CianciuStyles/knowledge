@@ -2,6 +2,7 @@
 
 ### Lists
 
+* [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337) - LifeHacker
 * [The 50 Greatest Geek Movies](https://www.mastersinit.org/the-50-greatest-geek-movies)
 * [Top 245 Movies](https://letterboxd.com/zonark000/list/top-245-movies/) - Letterboxd
 

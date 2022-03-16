@@ -85,6 +85,7 @@
 * [flAWS](http://flaws.cloud)
 * [Guided Hacking](https://guidedhacking.com)
 * [Hack The Box](https://www.hackthebox.eu)
+* [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com) - Security Training for Developers
 * [HackThisSite](https://www.hackthissite.org)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Check if your email has been compromised in a data breach

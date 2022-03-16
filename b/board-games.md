@@ -38,7 +38,8 @@
 
 ### Venues
 
-* [Draughts](https://www.draughtslondon.com) - London
+* [Bad Moon Cafè](https://www.badmooncafe.co.uk) - Borough, London
+* [Draughts](https://www.draughtslondon.com) - Hackney/Waterloo, London
 
 ### Websites
 
