@@ -15,7 +15,9 @@
 * Designing Data-Intensive Applications - Martin Kleppmann
 * Domain-Driven Design - Eric Evans
 * Microservice Patterns and Best Practices - Victor Feitosa Pacheco
-* System Design Interview - Alex Xu
+* System Design Interview: An Insider's Guide - Alex Xu
+  * [Volume 1](https://smile.amazon.co.uk/dp/B08B35X2ND)
+  * [Volume 2](https://smile.amazon.co.uk/dp/1736049119/)
 * Web Scalability for Startup Engineers - Artur Ejsmont
 
 ### Courses
