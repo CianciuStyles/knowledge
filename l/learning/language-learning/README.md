@@ -32,6 +32,10 @@
 
 ## Reources
 
+### Articles
+
+* [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html) - Wesley Runnels
+
 ### Blogs
 
 * [Language category on Tim Ferriss's blog](https://tim.blog/category/language/)
