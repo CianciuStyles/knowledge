@@ -7,6 +7,7 @@
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl) - Emma Bostian
 * [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Justin Etheredge
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
+* [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
