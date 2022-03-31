@@ -2,6 +2,20 @@
 
 ## Notes
 
+### A Dive Into Storage Engines
+
+* The storage engine is responsible for storing, retrieving and managing data in memory and on disk. A DBMS will often let you pick which storage engine you want to use.
+* The two most popular types of database storage engines are
+  * Log Structured (like Log Structured Merge Trees): treat the database as an append-only log file where data is sequentially added to the end of the log;
+  * Page Oriented (like B-Trees): breaks the database down into _fixed-size_ _pages_ (traditionally 4 KB in size) and they read/write one page at a time.
+
+#### **Log Structured Storage Engines**
+
+* Let's suppose we have a key-value store supporting two functions - db\_set(key, value) and db\_get(key).
+* Anytime you call **db\_set**, the (key, value) pair will be appended to the bottom of the log, _regardless_ of whether the key already exists in the log. Hence, the **db**_**\_**_**set** function runs in O(1) time since appending sequentially to a file is very efficient.
+* Anytime you call **db\_get**, you look through all the (key, value) pairs in the log and return the _last_ value for any given key. Hence, **db\_get** runs in O(n) time, since it has to look through the entire log - but we can make it faster by adding a _database index_ (at the cost of making writes slower, as now for every write both the log and the index must be updated).
+* An example of index that can be added in the database is a hash index - an in-memory hash table where keys are the keys added to the log and values are the offset in the log where the key can be found. This works well until all the (key, offset) pairs _fit into main memory_.
+
 ### How Distributed Databases Work
 
 * Replication is where you keep a copy of your data on multiple different machines. These machines are connected via a network, so they’re all accessible to your backend server(s).
