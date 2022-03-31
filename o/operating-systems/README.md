@@ -6,6 +6,7 @@
 
 * [The intermezzOS Book](https://intermezzos.github.io/book/)
 * [The little book about OS development](https://littleosbook.github.io) - Erik Helin, Adam Renberg
+* [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/\~exr/lectures/opsys/10\_11/lectures/os-dev.pdf) - Nick Blundell
 
 ### GitHub Repositories
 

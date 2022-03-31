@@ -10,6 +10,11 @@
   * **Optimisation**: take the AST and try to evaluate constant expressions, remove unused variables or unreachable code, unroll loops if possible, etc.;
   * **Generating code**: take the AST and emit the equivalent in the assembly language in an _object file_ (or other high-level programming languages in the case of a transpiler)
   * **Linking**: take all the object files and make an executable, a shared library, or a static library
+* The **front end** is responsible for taking in the source code and turning it into an intermediate representation.
+* The **middle end** is responsible for performing various optimizations on the intermediate representation.
+  * these optimisations are _independent_ of the target platform, so they are going to speed up the code regardless of what the back end does
+  * some examples of optimisations are **constant folding**, **reachability analysis** and **dead code elimination**
+* The back end is responsible for taking the optimised intermediate representation and generating the machine code for the specific CPU architecture or generating bytecode.
 
 ## Resources
 
