@@ -22,6 +22,10 @@
 * [Discrete Mathematics with Graph Theory](https://smile.amazon.co.uk/dp/8120332989/) - Edgar G. Goodaire, Michael M. Parmenter
 * [Mathematics: A Discrete Introduction](https://smile.amazon.co.uk/dp/049501866X) - Edward R. Scheinerman
 
+
+
+* [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
+
 ### Courses
 
 * [Calculus Applied!](https://www.edx.org/course/calculus-applied) - John Wesley Cain, Juliana Belding, Peter M. Garfield
@@ -50,4 +54,8 @@
 * [Michael Penn](https://www.youtube.com/c/MichaelPennMath/videos)
 * [Numberphile](https://www.youtube.com/user/numberphile/videos)
 * [Vsauce](https://www.youtube.com/c/vsauce1/videos)
+
+### YouTube Playlists
+
+* [Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A) - MIT
 
