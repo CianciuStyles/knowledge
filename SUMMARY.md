@@ -128,6 +128,7 @@
 * [Legacy Code](l/legacy-code.md)
 * [Lifestyle](l/lifestyle.md)
 * [Life Hacks](l/life-hacks.md)
+* [LISP](l/lisp.md)
 
 ## M
 
