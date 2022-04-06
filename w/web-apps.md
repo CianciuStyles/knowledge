@@ -95,6 +95,11 @@
 * [Pocketmod](https://pocketmod.com)
 * [Printable Paper](https://www.printablepaper.net)
 
+### Privacy
+
+* [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
+* [Terms of Service; Didn't Read](https://tosdr.org)
+
 ### Programming
 
 * [Carbon](https://carbon.now.sh) - Create images of source code
