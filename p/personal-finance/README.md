@@ -38,6 +38,8 @@
 
 ![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (4).png>)
 
+![](https://flowchart.ukpersonal.finance)
+
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
