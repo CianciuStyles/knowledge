@@ -82,6 +82,7 @@
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers\_essential\_games\_list\_xbox\_one/)
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
+* [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847) - Kotaku
 * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643) - Kotaku
 * [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
 * [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
