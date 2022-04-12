@@ -37,4 +37,5 @@
 
 ### YouTube playlists
 
+* [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
 * [Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=UzLMhqg3\_Wc\&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)

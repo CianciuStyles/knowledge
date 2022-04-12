@@ -51,3 +51,7 @@
 ### YouTube channels
 
 * [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
+
+### YouTube playlists
+
+* [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
