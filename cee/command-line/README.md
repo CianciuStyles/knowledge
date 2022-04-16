@@ -5,7 +5,8 @@
 ### Articles
 
 * [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) - Jeff Dickey
-* [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
+* [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) - Julia Evans
+* [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection\_tutorial)
 
 ### GitHub repositories
 
@@ -21,7 +22,6 @@
 
 ### Websites
 
-* [Command Challenge](https://cmdchallenge.com/)
-* [Command Line Interface Guidelines](https://clig.dev/)
+* [Command Challenge](https://cmdchallenge.com)
+* [Command Line Interface Guidelines](https://clig.dev)
 * [Explain Shell](https://explainshell.com/#)
-
