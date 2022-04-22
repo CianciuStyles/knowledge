@@ -163,6 +163,8 @@
 * [Top Ten games to play for Ps2](https://www.reddit.com/r/patientgamers/comments/5bn92p/10\_ten\_games\_to\_play\_for\_ps2/)
 * [What's a game everyone NEEDS to play in their lifetime?](https://www.reddit.com/r/gaming/comments/t6vhpi/whats\_a\_game\_everyone\_needs\_to\_play\_in\_their/)
 * [What's a game that's worth every penny?](https://www.reddit.com/r/AskReddit/comments/s0b8sh/whats\_a\_game\_thats\_worth\_every\_penny/)
+* [What's your all time favorite video game ?](https://www.reddit.com/r/AskReddit/comments/u452b6/whats\_your\_all\_time\_favorite\_video\_game/)
+*
 * [What's your favourite 'chill' game?](https://www.reddit.com/r/patientgamers/comments/96qtwr/whats\_your\_favourite\_chill\_game/)
 * [What's your top 3 must play videogames?](https://www.reddit.com/r/AskReddit/comments/42mp2c/whats\_your\_top\_3\_must\_play\_videogames/)
 * [What are games for the PS2 and PS1 worth playing?](https://www.reddit.com/r/patientgamers/comments/4z3h1j/just\_bought\_a\_ps2\_for\_the\_first\_time\_in\_years/)
@@ -176,6 +178,7 @@
 * [What game is proof that video games can be art?](https://www.reddit.com/r/patientgamers/comments/6jlzuj/what\_game\_is\_proof\_that\_video\_games\_can\_be\_art/)
 * [What games hooked you instantly?](https://www.reddit.com/r/patientgamers/comments/6lkmgd/branching\_off\_the\_last\_thread\_what\_games\_hooked/)
 * [What games would you guys consider to be masterpieces?](https://www.reddit.com/r/patientgamers/comments/6jiv9e/what\_games\_would\_you\_guys\_consider\_to\_be/)
+* [What is in your opinion one MUST play game from the last 20 years?](https://www.reddit.com/r/patientgamers/comments/u5j9cb/what\_is\_in\_your\_opinion\_one\_must\_play\_game\_from/)
 * [What is a great video game you can finish in a single afternoon?](https://www.reddit.com/r/AskReddit/comments/42m6y8/what\_is\_a\_great\_video\_game\_you\_can\_finish\_in\_a/)
 * [What is the oldest game that you still play?](https://www.reddit.com/r/patientgamers/comments/4q41pn/patientgamers\_what\_is\_an\_old\_pre2000\_game\_that/)
 * [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/qmlcid/what\_is\_your\_favorite\_video\_game\_of\_all\_time/)
