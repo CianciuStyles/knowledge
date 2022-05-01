@@ -26,4 +26,5 @@
 ### Workplaces
 
 * [CoWorking.Coffee](https://www.coworking.coffee)
+* [Workmode](https://workmode.co)
 
