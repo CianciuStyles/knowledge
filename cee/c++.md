@@ -19,6 +19,7 @@
 
 * [Awesome Modern C++](https://awesomecpp.com)
 * [C++ By Example](https://cppbyexample.com)
+* [Modern C++ Tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
 
 ### YouTube playlists
 
