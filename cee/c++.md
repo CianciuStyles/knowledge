@@ -25,6 +25,30 @@ namespace N
 ```
 
 * Includes with the double quotes (e.g., `#include "Log.h"`) are used for header files in the same directory as the source file, while includes with angular brackets (e.g., `#include <iostream>`) are used for standard library headers.
+* A pointer is an integer variable containing a memory address. It is possible to retrieve the address of a variable with the ampersand operator (e.g., `int* ptr = &myvar`) and it's possible to get back the value contained at the address stored in the pointer with the asterisk operator (e.g., `int mynewvar = *ptr`).&#x20;
+* Classes allow to define types containing both data and functions (called methods) that act upon them. The only difference between a class and a struct is that, by default, all members of a class are _private_, while all members of a struct are _public_.
+
+```cpp
+class Player {
+public:
+    int x, y;
+    int speed;
+    
+    void Move(int xa, int ya) {
+        x += xa * speed;
+        y += ya * speed;
+    }
+};
+
+int main() {
+    Player player;
+    player.Move(1, -1);
+}
+```
+
+* The static variable has two different meanings, depending on the context where it's used:
+  * inside classes, a static variable/method will be shared among all instances of the class where the static variable is defined (NB a static method can only access static variables in its body);
+  * outside classes, static means the linkage of the symbol declared as static will be limited to the translation unit (=C++ file) where it was defined.
 
 ## Resources
 
