@@ -1,5 +1,31 @@
 # C++
 
+## Notes
+
+* Header files are useful to share definitions among different files, so that it is possible to use in each compilation unit (=C++ file) variables, classes, and functions defined somewhere else.
+* To avoid including multiple times the same header files (and hence definitions) in a compilation unit, there are two main techniques:
+  * the `#pragma once` directive
+  * an include guard - usually implemented via a #ifndef ... #endif block:
+
+```cpp
+// my_class.h
+#ifndef MY_CLASS_H // include guard
+#define MY_CLASS_H
+
+namespace N
+{
+    class my_class
+    {
+    public:
+        void do_something();
+    };
+}
+
+#endif /* MY_CLASS_H */
+```
+
+* Includes with the double quotes (e.g., `#include "Log.h"`) are used for header files in the same directory as the source file, while includes with angular brackets (e.g., `#include <iostream>`) are used for standard library headers.
+
 ## Resources
 
 ### GitHub repositories
