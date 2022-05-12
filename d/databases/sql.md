@@ -12,3 +12,5 @@
 ### Websites
 
 * [Select Star SQL](https://selectstarsql.com)
+* [SQLBolt](https://sqlbolt.com)
+* [SQLZOO](https://sqlzoo.net/wiki/SQL\_Tutorial)
