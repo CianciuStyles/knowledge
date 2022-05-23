@@ -67,10 +67,14 @@ int main() {
 
 ### Websites
 
-* [Awesome Modern C++](https://awesomecpp.com)
-* [C++ By Example](https://cppbyexample.com)
+* [Awesome Modern C++](https://awesomecpp.com/)
+* [C++ By Example](https://cppbyexample.com/)
 * [Modern C++ Tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
 
 ### YouTube playlists
 
+* [Advanced C++](https://www.youtube.com/watch?v=7arYbAhu0aw\&list=PLE28375D4AC946CC3) - Bo Qian
 * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
+* [C++ STD Gems](https://www.youtube.com/watch?v=BxO6G4RgmAM\&list=PLqCJpWy5FohdH8bbqclZrV8CG14UEAZ2c) - ChiliTomatoNoodle
+* [C++ Unit Test](https://www.youtube.com/watch?v=TS2CTf11k1U\&list=PL5jc9xFGsL8GyES7nh-1yqljjdTvIFSsh) - Bo Qian
+* [Modern C++](https://www.youtube.com/watch?v=U6mgsPqV32A\&list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH) - Bo Qian

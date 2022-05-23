@@ -42,6 +42,7 @@
 
 
 * [30 Hour Jobs](https://30hourjobs.com/)
+* [4 Day Work Week Jobs](https://4dayweek.io/)
 * [Calm Jobs](http://calmjobs.io/)
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
 * [#epicjobs](https://epicjobs.co/)
