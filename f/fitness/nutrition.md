@@ -18,6 +18,7 @@
 * [How to Lose 100 Pounds on The Slow-Carb Diet](https://tim.blog/2012/07/12/how-to-lose-100-pounds/) - Tim Ferriss
 * [Mean Plan](https://gamechangersmovie.com/food/meal-plan/) - The Game Changers
 * [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/)
+* [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science?s=r) - Suman Manchireddy
 * [The Best Fat Loss Article on the Motherfuckin’ Internet](https://physiqonomics.com/fat-loss/) - Physiqonomics
 * [The Slow-Carb Diet One-Pager](https://tim.blog/wp-content/uploads/2019/07/tim\_ferriss\_the-4-hour-chef\_one\_pager\_slow\_carb\_diet.pdf) - Tim Ferriss
 * [The TRUTH about your slow metabolism](https://physiqonomics.com/slow-metabolism/) - Physiqonomics
@@ -60,8 +61,8 @@
 
 ### Websites
 
-* [Budget Bytes](https://www.budgetbytes.com)
-* [Eat This, Not That!](https://www.eatthis.com)
-* [Fit Men Cook](https://fitmencook.com)
-* [KetoNutrition](https://ketonutrition.org)
-* [No Meat Athlete](https://www.nomeatathlete.com)
+* [Budget Bytes](https://www.budgetbytes.com/)
+* [Eat This, Not That!](https://www.eatthis.com/)
+* [Fit Men Cook](https://fitmencook.com/)
+* [KetoNutrition](https://ketonutrition.org/)
+* [No Meat Athlete](https://www.nomeatathlete.com/)
