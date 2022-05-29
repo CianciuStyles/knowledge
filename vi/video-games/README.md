@@ -4,11 +4,11 @@
 
 ### Achievements
 
-* [PSNProfiles](https://psnprofiles.com)
-* [RetroAchievements](https://retroachievements.org)
-* [TrueAchievements](https://www.trueachievements.com)
-* [TrueSteamAchievements](https://truesteamachievements.com)
-* [TrueTrophies](https://www.truetrophies.com)
+* [PSNProfiles](https://psnprofiles.com/)
+* [RetroAchievements](https://retroachievements.org/)
+* [TrueAchievements](https://www.trueachievements.com/)
+* [TrueSteamAchievements](https://truesteamachievements.com/)
+* [TrueTrophies](https://www.truetrophies.com/)
 
 ### Articles
 
@@ -18,49 +18,50 @@
 
 ### Books
 
-* [Boss Fight Books](https://bossfightbooks.com)
+* [Boss Fight Books](https://bossfightbooks.com/)
 * [Masters of Doom](https://smile.amazon.co.uk/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
+* [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 
 ### Cases
 
-* [boxprotectorshop](https://www.boxprotectors.nl) - The Netherlands
-* [Retro Game Cases](https://www.retrogamecases.com) - United States
-* [Videogame Box Protectors](https://www.videogameboxprotectors.com) - United States
+* [boxprotectorshop](https://www.boxprotectors.nl/) - The Netherlands
+* [Retro Game Cases](https://www.retrogamecases.com/) - United States
+* [Videogame Box Protectors](https://www.videogameboxprotectors.com/) - United States
 
 ### Collections
 
 * [Gharlic Heimli](https://www.minah.it/collezione)
-* [Nel Profondo dei Caraibi...](https://nelprofondodeicaraibi.wordpress.com)
+* [Nel Profondo dei Caraibi...](https://nelprofondodeicaraibi.wordpress.com/)
 
 ### Databases
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
-* [Co-Optimus](https://www.co-optimus.com)
-* [Glitchwave](https://glitchwave.com)
-* [How Long To Beat](https://howlongtobeat.com)
+* [Co-Optimus](https://www.co-optimus.com/)
+* [Glitchwave](https://glitchwave.com/)
+* [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
 * [Il Dizionario dei Videogiochi](http://www.dizionariovideogiochi.it/doku.php)
 * [Lost Releases](https://www.crimson-ceremony.net/lostreleases/index.php) - Survival Horror Media Releases
-* [NinDB](https://nindb.net)
+* [NinDB](https://nindb.net/)
 * [Nintendo64EVER](https://www.nintendo64ever.com/home.html)
-* [Old Video Game Advertisements](https://retrocgads.tumblr.com)
+* [Old Video Game Advertisements](https://retrocgads.tumblr.com/)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
-* [Retroedicola Videoludica](https://www.retroedicola.com)
-* [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com)
+* [Retroedicola Videoludica](https://www.retroedicola.com/)
+* [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
 * [Sega Retro](https://segaretro.org/Main\_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [Snes Central](https://snescentral.com/index.php)
 * [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
-* [The PlayStation Datacenter](https://psxdatacenter.com)
-* [Universal Hint System](https://www.uhs-hints.com)
-* [Unseen64](https://www.unseen64.net)
-* [VGComplete](https://www.vgcomplete.com)
+* [The PlayStation Datacenter](https://psxdatacenter.com/)
+* [Universal Hint System](https://www.uhs-hints.com/)
+* [Unseen64](https://www.unseen64.net/)
+* [VGComplete](https://www.vgcomplete.com/)
 * [Video Game Preservation](https://github.com/videogamepreservation)
 
 ### Events
 
-* [Coin Up Italia](https://www.coinupitalia.it)
-* [London Gaming Market](https://www.londongamingmarket.com)
+* [Coin Up Italia](https://www.coinupitalia.it/)
+* [London Gaming Market](https://www.londongamingmarket.com/)
 
 ### Forums
 
@@ -94,22 +95,22 @@
 
 ### Online Stores
 
-* [Be More Geek](https://www.bemoregeek.co.uk)
-* [Chillout Games](https://www.chilloutgames.co.uk)
-* [ConsoleMAD](https://www.consolemad.co.uk)
-* [GameXchange](https://www.gamexchange.co.uk)
-* [GOG.com](https://www.gog.com)
-* [IsThereAnyDeal](https://isthereanydeal.com)
-* [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com)
+* [Be More Geek](https://www.bemoregeek.co.uk/)
+* [Chillout Games](https://www.chilloutgames.co.uk/)
+* [ConsoleMAD](https://www.consolemad.co.uk/)
+* [GameXchange](https://www.gamexchange.co.uk/)
+* [GOG.com](https://www.gog.com/)
+* [IsThereAnyDeal](https://isthereanydeal.com/)
+* [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
-* [Retro Game Base](https://www.retrogamebase.co.uk)
-* [Sore Thumb Retro Games](https://www.sorethumbretrogames.com)
-* [The Game Collection](https://www.thegamecollection.net)
-* [Warners Retro Corner](https://warnersretrocorner.com)
+* [Retro Game Base](https://www.retrogamebase.co.uk/)
+* [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/)
+* [The Game Collection](https://www.thegamecollection.net/)
+* [Warners Retro Corner](https://warnersretrocorner.com/)
 
 ### Quizzes
 
-* [VGM Quiz](https://www.vgm-quiz.com)
+* [VGM Quiz](https://www.vgm-quiz.com/)
 
 ### Reddit Threads
 
@@ -191,12 +192,12 @@
 
 ### Reviews
 
-* [Adventure's Planet](https://www.adventuresplanet.it)
+* [Adventure's Planet](https://www.adventuresplanet.it/)
 * [GameRankings Archived Scores Browser](https://gr.blade.sk/#/)
 * [MetaCritic](https://www.metacritic.com/game)
-* [OpenCritic](https://opencritic.com)
-* [Polygon](https://www.polygon.com)
-* [Spaziogames](https://www.spaziogames.it)
+* [OpenCritic](https://opencritic.com/)
+* [Polygon](https://www.polygon.com/)
+* [Spaziogames](https://www.spaziogames.it/)
 
 ### Savegames
 
@@ -208,18 +209,18 @@
 ### Translations
 
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
-* [SadNES cITy](https://www.sadnescity.it)
+* [SadNES cITy](https://www.sadnescity.it/)
 
 ### Walkthroughs
 
-* [GameFAQs](https://gamefaqs.gamespot.com)
-* [Gamepressure](https://www.gamepressure.com)
+* [GameFAQs](https://gamefaqs.gamespot.com/)
+* [Gamepressure](https://www.gamepressure.com/)
 
 ### Websites
 
-* [Abandonware Games](https://abandonwaregames.net)
+* [Abandonware Games](https://abandonwaregames.net/)
 * [iFixit - Game Consoles](https://it.ifixit.com/Device/Game\_Console)
-* [Logical Increments](https://www.logicalincrements.com)
+* [Logical Increments](https://www.logicalincrements.com/)
 
 ### Wikis
 
