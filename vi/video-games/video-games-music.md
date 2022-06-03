@@ -32,10 +32,10 @@
 
 ### Databases
 
-* [Halo Menu](https://halome.nu)
+* [Halo Menu](https://halome.nu/)
 * [Spotify Gaming](https://abrochard.github.io/spotify-gaming/)
-* [VGMdb](https://vgmdb.net)
-* [Video Game Music Downloads](https://downloads.khinsider.com)
+* [VGMdb](https://vgmdb.net/)
+* [Video Game Music Downloads](https://downloads.khinsider.com/)
 
 ### Lists
 
@@ -51,7 +51,7 @@
 * [Relaxing Music From Nintendo 64 Games](https://www.youtube.com/watch?v=C9lJV36k38o)
 * Relaxing PS1 Music (100 Songs) - [Part 1](https://www.youtube.com/watch?v=7vFn49NZfYs\&t=0s), [Part 2](https://www.youtube.com/watch?v=LWUlfDHIeZQ)
 * [Video Game Music](https://www.youtube.com/playlist?list=PLVmjWk3MuuFrzbK9vZeCvjIxiLUUN\_dEF)
-* [Vidya Intarweb Playlist](https://www.vipvgm.net)
+* [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 
 ### Reddit Threads
 
@@ -89,6 +89,7 @@
 * [Shadow Of The Colossus](https://www.youtube.com/watch?v=57jIlw6HmCE)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM\&feature=youtu.be)
 * [Stronghold](https://www.youtube.com/watch?v=v6otXDTS0KU)
+* [Surviving Mars](https://www.youtube.com/playlist?list=PLM6Huo32vF1QdhEYGVAOsc8T-BhxACUiU)
 * [System Shock 2](https://www.youtube.com/watch?v=H392MiLaTm8\&list=PLMSvN3D-9Rq3TYZdo\_CNuWdKClB10ZGH7)
 * [The Last of Us](https://www.youtube.com/playlist?list=PL8ewBDH5ZkrUqmzDJvyIPoUcM8qLsJ2bZ)
 * [The Legeng of Zelda: Ocarina of Time](https://www.youtube.com/watch?v=N22STVAxL5M\&list=PLAs1Kha\_R9dLUSxTSb4wLHen4MAQDRIZ\_)
