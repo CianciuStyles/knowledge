@@ -1,4 +1,5 @@
 # Knowledge Bases
 
-* [Matous Dzivjak](https://wiki.dzx.cz)
-* [Nikita Voloboev](https://wiki.nikitavoloboev.xyz)
+* [Hannah Spencer](https://hannah-6.gitbook.io/knowledgebase/)
+* [Matous Dzivjak](https://wiki.dzx.cz/)
+* [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
