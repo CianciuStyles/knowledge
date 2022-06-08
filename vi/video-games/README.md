@@ -67,6 +67,10 @@
 
 * [GamesVillage](https://www.gamesvillage.it/forum/forum.php)
 
+### Hacker News threads
+
+* [Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
+
 ### Lists
 
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
@@ -165,7 +169,6 @@
 * [What's a game everyone NEEDS to play in their lifetime?](https://www.reddit.com/r/gaming/comments/t6vhpi/whats\_a\_game\_everyone\_needs\_to\_play\_in\_their/)
 * [What's a game that's worth every penny?](https://www.reddit.com/r/AskReddit/comments/s0b8sh/whats\_a\_game\_thats\_worth\_every\_penny/)
 * [What's your all time favorite video game ?](https://www.reddit.com/r/AskReddit/comments/u452b6/whats\_your\_all\_time\_favorite\_video\_game/)
-*
 * [What's your favourite 'chill' game?](https://www.reddit.com/r/patientgamers/comments/96qtwr/whats\_your\_favourite\_chill\_game/)
 * [What's your top 3 must play videogames?](https://www.reddit.com/r/AskReddit/comments/42mp2c/whats\_your\_top\_3\_must\_play\_videogames/)
 * [What are games for the PS2 and PS1 worth playing?](https://www.reddit.com/r/patientgamers/comments/4z3h1j/just\_bought\_a\_ps2\_for\_the\_first\_time\_in\_years/)
@@ -219,6 +222,7 @@
 ### Websites
 
 * [Abandonware Games](https://abandonwaregames.net/)
+* [Gamepad Tester](https://gamepad-tester.com/)
 * [iFixit - Game Consoles](https://it.ifixit.com/Device/Game\_Console)
 * [Logical Increments](https://www.logicalincrements.com/)
 

@@ -21,21 +21,21 @@
 
 ### Blogs
 
-* [Amos Wenger](https://fasterthanli.me)
-* [Dan Luu](https://danluu.com)
-* [Eli Bendersky](https://eli.thegreenplace.net)
-* [Fabien Sanglard](https://fabiensanglard.net)
-* [Fabrice Bellard](https://bellard.org)
-* [Jeff Atwood](https://blog.codinghorror.com)
-* [Jess Frazelle](https://blog.jessfraz.com)
-* [Julia Evans](https://jvns.ca)
+* [Amos Wenger](https://fasterthanli.me/)
+* [Dan Luu](https://danluu.com/)
+* [Eli Bendersky](https://eli.thegreenplace.net/)
+* [Fabien Sanglard](https://fabiensanglard.net/)
+* [Fabrice Bellard](https://bellard.org/)
+* [Jeff Atwood](https://blog.codinghorror.com/)
+* [Jess Frazelle](https://blog.jessfraz.com/)
+* [Julia Evans](https://jvns.ca/)
 * [Martin Kleppmann](https://martin.kleppmann.com/archive.html)
-* [Patrick McKenzie](https://kalzumeus.com)
-* [Rachel Kroll](https://rachelbythebay.com)
+* [Patrick McKenzie](https://kalzumeus.com/)
+* [Rachel Kroll](https://rachelbythebay.com/)
 
 ### Books
 
-* [Crafting Interpreters](https://www.craftinginterpreters.com) - Bob Nystrom
+* [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
@@ -46,10 +46,10 @@
 
 ### Cheat Sheets
 
-* [Devhints](https://devhints.io)
+* [Devhints](https://devhints.io/)
 * [DZone Refcardz](https://dzone.com/refcardz)
-* [Hyperpolyglot](https://hyperpolyglot.org)
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Hyperpolyglot](https://hyperpolyglot.org/)
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 ### GitHub repositories
 
@@ -66,6 +66,7 @@
 
 ### Ideas for projects
 
+* [Ask HN: Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
 * [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
 * [Challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/challengingprojects.html) - Austin Z. Henley
@@ -79,7 +80,7 @@
 
 ### Open Source
 
-* [First Contributions](https://firstcontributions.github.io)
+* [First Contributions](https://firstcontributions.github.io/)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
 ### Videos
@@ -91,23 +92,24 @@
 
 ### Websites
 
-* [30 Seconds Of Code](https://www.30secondsofcode.org)
-* [Code Cartoons](https://code-cartoons.com)
-* [Coder's Cat](https://coderscat.com)
-* [Denigma](https://denigma.app) - AI that reads and explains code in understandable English
-* [Develop For Performance](http://developforperformance.com)
-* [Developer Roadmaps](https://roadmap.sh)
-* [DevFreeBooks](https://devfreebooks.github.io)
-* [DEV Community](https://dev.to)
+* [30 Seconds Of Code](https://www.30secondsofcode.org/)
+* [Code Cartoons](https://code-cartoons.com/)
+* [Coder's Cat](https://coderscat.com/)
+* [Denigma](https://denigma.app/) - AI that reads and explains code in understandable English
+* [Develop For Performance](http://developforperformance.com/)
+* [Developer Roadmaps](https://roadmap.sh/)
+* [DevFreeBooks](https://devfreebooks.github.io/)
+* [DEV Community](https://dev.to/)
 * [Dev Tips](https://umaar.com/dev-tips/) - Umar Hansa
+* [Execute Program](https://www.executeprogram.com/) - Gary Bernhardt
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
-* [GoalKicker.com - Free Programming Books](https://books.goalkicker.com)
-* [Monorepo Explained](https://monorepo.tools)
-* [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com)
-* [ProgrammerHumor](https://programmerhumor.io)
-* [Programming Idioms](https://www.programming-idioms.org)
+* [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
+* [Monorepo Explained](https://monorepo.tools/)
+* [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
+* [ProgrammerHumor](https://programmerhumor.io/)
+* [Programming Idioms](https://www.programming-idioms.org/)
 * [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
-* [Stack Overflow](https://stackoverflow.com)
-* [StackShare](https://stackshare.io)
-* [StaffEng](https://staffeng.com)
+* [Stack Overflow](https://stackoverflow.com/)
+* [StackShare](https://stackshare.io/)
+* [StaffEng](https://staffeng.com/)

@@ -40,10 +40,14 @@
 
 * [Math As Code](https://github.com/Jam3/math-as-code)
 
+### Hacker News threads
+
+* [Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
+
 ### Websites
 
 * [Desmos](https://www.desmos.com/calculator)
-* [Khan Academy](https://www.khanacademy.org)
+* [Khan Academy](https://www.khanacademy.org/)
 
 ### YouTube Channels
 

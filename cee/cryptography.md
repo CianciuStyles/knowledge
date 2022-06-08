@@ -9,18 +9,22 @@
 
 ### Blogs
 
-* [Filippo Valsorda](https://filippo.io)
+* [Filippo Valsorda](https://filippo.io/)
 
 ### Books
 
-* [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) - Dan Boneh, Victor Shoup
-* [The Joy of Cryptography](https://joyofcryptography.com) - Mike Rosulek
+* [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh, Victor Shoup
+* [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek
 
 ### Courses
 
 * [Cryptography I](https://www.coursera.org/learn/crypto) - Dan Boneh
 * [Cryptography II](https://www.coursera.org/learn/crypto2) - Dan Boneh
 
+### Hacker News threads
+
+* [Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
+
 ### Websites
 
-* [SHA256 Algorithm Explained](https://sha256algorithm.com)
+* [SHA256 Algorithm Explained](https://sha256algorithm.com/)
