@@ -157,7 +157,7 @@
 * [Podcasts](p/podcasts.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
-* [Programming](p/programming/README.md)
+* [Programming](p/programming.md)
   * [Functional Programming](p/programming/functional-programming.md)
 * [Prometheus](p/prometheus.md)
 * [Python](p/python/README.md)
