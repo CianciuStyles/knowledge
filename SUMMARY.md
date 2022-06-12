@@ -196,6 +196,7 @@
 ## T
 
 * [Testing](t/testing.md)
+* [Thinking](t/thinking.md)
 * [Travel](t/travel/README.md)
   * [London](t/travel/london.md)
   * [Rome](t/travel/rome.md)
