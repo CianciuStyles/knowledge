@@ -4,7 +4,7 @@
 
 ### Blogs
 
-* [Vitalik Buterin](https://vitalik.ca)
+* [Vitalik Buterin](https://vitalik.ca/)
 
 ### Courses
 
@@ -25,7 +25,7 @@
 
 ### Websites
 
-* [Bitcoin vs. Altcoins](https://bitcoinvsaltcoins.com)
+* [Bitcoin vs. Altcoins](https://bitcoinvsaltcoins.com/)
 
 ### YouTube Channels
 

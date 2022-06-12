@@ -38,13 +38,13 @@
 
 ### Venues
 
-* [Bad Moon Cafè](https://www.badmooncafe.co.uk) - Borough, London
-* [Draughts](https://www.draughtslondon.com) - Hackney/Waterloo, London
+* [Bad Moon Cafè](https://www.badmooncafe.co.uk/) - Borough, London
+* [Draughts](https://www.draughtslondon.com/) - Hackney/Waterloo, London
 
 ### Websites
 
-* [BoardGameArena](https://boardgamearena.com)
-* [BoardGameGeek](https://boardgamegeek.com)
+* [BoardGameArena](https://boardgamearena.com/)
+* [BoardGameGeek](https://boardgamegeek.com/)
 * [netgames.io](https://netgames.io/games/) - Social games for your phone
-* [Tabletopia](https://tabletopia.com)
+* [Tabletopia](https://tabletopia.com/)
 

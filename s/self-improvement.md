@@ -4,7 +4,7 @@
 
 ### Articles
 
-* [This Is How To Make Friends As An Adult: 5 Secrets Backed By Research](https://www.bakadesuyo.com/2017/02/how-to-make-friends-as-an-adult/) - Backed By Science
+* [This Is How To Make Friends As An Adult: 5 Secrets Backed By Research](https://www.bakadesuyo.com/2017/02/how-to-make-friends-as-an-adult/?utm\_source=sumome\&utm\_medium=twitter\&utm\_campaign=sumome\_share) - Backed By Science
 
 ### Books
 
@@ -19,7 +19,7 @@
 
 ### Websites
 
-* [Steve Pavlina](https://stevepavlina.com)
+* [Steve Pavlina](https://stevepavlina.com/)
 
 ### YouTube Channels
 

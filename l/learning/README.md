@@ -52,27 +52,27 @@
 ### Websites
 
 * [Academic Earth](https://academicearth.org)
-* [Class Central](https://www.classcentral.com)
-* [CourseBuffet](https://www.coursebuffet.com)
-* [Coursera](https://www.coursera.org)
-* [CourseRoot](https://courseroot.com) - Search 80,000 courses and tutorials
-* [Degreed](https://degreed.com)
-* [Future Learn](https://www.futurelearn.com)
+* [Class Central](https://www.classcentral.com/)
+* [CourseBuffet](https://www.coursebuffet.com/)
+* [Coursera](https://www.coursera.org/)
+* [CourseRoot](https://courseroot.com/) - Search 80,000 courses and tutorials
+* [Degreed](https://degreed.com/)
+* [Future Learn](https://www.futurelearn.com/)
 * [HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
-* [Learn Anything](https://learn-anything.xyz)
-* [Lynda](https://www.lynda.com)
-* [MasterClass](https://www.masterclass.com)
+* [Learn Anything](https://learn-anything.xyz/)
+* [Lynda](https://www.lynda.com/)
+* [MasterClass](https://www.masterclass.com/)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-* [OpenCourser](https://opencourser.com)
+* [OpenCourser](https://opencourser.com/)
 * [OpenLearn](https://www.open.edu/openlearn/)
-* [OpenSesame](https://www.opensesame.com)
-* [Open Yale Courses](https://oyc.yale.edu)
+* [OpenSesame](https://www.opensesame.com/)
+* [Open Yale Courses](https://oyc.yale.edu/)
 * [Quizlet](https://quizlet.com)
-* [Saylor Academy](https://learn.saylor.org)
-* [SkillShare](https://www.skillshare.com)
-* [Springboard](https://www.springboard.com)
-* [StackSkills](https://stackskills.com)
-* [TakeLessons](https://takelessons.com)
+* [Saylor Academy](https://learn.saylor.org/)
+* [SkillShare](https://www.skillshare.com/)
+* [Springboard](https://www.springboard.com/)
+* [StackSkills](https://stackskills.com/)
+* [TakeLessons](https://takelessons.com/)
 * [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
-* [WiseGEEK](https://www.wisegeek.com) - Clear answers to common questions
-* [Wyzant](https://www.wyzant.com) - Find private tutors
+* [WiseGEEK](https://www.wisegeek.com/) - Clear answers to common questions
+* [Wyzant](https://www.wyzant.com/) - Find private tutors

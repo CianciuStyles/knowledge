@@ -13,10 +13,10 @@
 
 ### Blogs
 
-* [Get Rich Slowly](https://www.getrichslowly.org)
-* [Mr. Money Mustache](https://www.mrmoneymustache.com)
-* [The Smart Passive Income Blog](https://www.smartpassiveincome.com)
-* [Young Money](https://www.youngmoneyblog.co.uk) - Iona Bain
+* [Get Rich Slowly](https://www.getrichslowly.org/)
+* [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+* [The Smart Passive Income Blog](https://www.smartpassiveincome.com/)
+* [Young Money](https://www.youngmoneyblog.co.uk/) - Iona Bain
 
 ### Books
 
@@ -38,7 +38,7 @@
 
 ![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (4).png>)
 
-![](https://flowchart.ukpersonal.finance)
+![](https://flowchart.ukpersonal.finance/)
 
 ### Videos
 
@@ -48,19 +48,19 @@
 
 ### Websites
 
-* [AccountingCoach](https://www.accountingcoach.com) - Learn Accounting for free
-* [Ask Liz Weston](https://asklizweston.com)
-* [Bank Account Savings](https://bankaccountsavings.co.uk)
+* [AccountingCoach](https://www.accountingcoach.com/) - Learn Accounting for free
+* [Ask Liz Weston](https://asklizweston.com/)
+* [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
-* [Financial Samurai](https://www.financialsamurai.com)
-* [Investopedia](https://www.investopedia.com)
-* [JL Collins](https://jlcollinsnh.com)
+* [Financial Samurai](https://www.financialsamurai.com/)
+* [Investopedia](https://www.investopedia.com/)
+* [JL Collins](https://jlcollinsnh.com/)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
-* [Love Your Money](https://www.loveyourmoney.org)
-* [Money Saving Expert](https://www.moneysavingexpert.com)
-* [Money To The Masses](https://moneytothemasses.com)
-* [Passive Income](https://my-passive-income.eu)
-* [Vanguard](https://www.vanguardinvestor.co.uk)
-* [Wall Street Survivor](https://www.wallstreetsurvivor.com)
-* [Wise Bread](https://www.wisebread.com)
-* [WTF Happened in 1971?](https://wtfhappenedin1971.com)
+* [Love Your Money](https://www.loveyourmoney.org/)
+* [Money Saving Expert](https://www.moneysavingexpert.com/)
+* [Money To The Masses](https://moneytothemasses.com/)
+* [Passive Income](https://my-passive-income.eu/)
+* [Vanguard](https://www.vanguardinvestor.co.uk/)
+* [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
+* [Wise Bread](https://www.wisebread.com/)
+* [WTF Happened in 1971?](https://wtfhappenedin1971.com/)

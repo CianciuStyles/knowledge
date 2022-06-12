@@ -17,6 +17,6 @@
 
 ### Websites
 
-* [Simple Science Fitness](https://ss.fitness)
-* [The Fitness Wiki](https://thefitness.wiki)
+* [Simple Science Fitness](https://ss.fitness/)
+* [The Fitness Wiki](https://thefitness.wiki/)
 * [The Leangains Guide](https://leangains.com/the-leangains-guide/)

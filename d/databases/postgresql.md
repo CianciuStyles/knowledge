@@ -429,5 +429,5 @@
 
 ### Websites
 
-* [explain.dalibo.com](https://explain.dalibo.com) - PostgreSQL execution plan visualizer
+* [explain.dalibo.com](https://explain.dalibo.com/) - PostgreSQL execution plan visualizer
 

@@ -21,7 +21,7 @@
 ### Remote Companies
 
 * [Elastic](https://www.elastic.co/about/careers/)
-* [Ghost](https://careers.ghost.org)
+* [Ghost](https://careers.ghost.org/)
 * [Help Scout](https://www.helpscout.com/company/careers/)
 * [Human Made](https://humanmade.com/hiring/)
 * [Remote](https://boards.greenhouse.io/remotecom)
@@ -34,7 +34,7 @@
 * [900+ Startups hiring Remotely in 2021](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 * [Fully Remote Tech Companies](https://remotemasters.dev/fully-remote-companies)
 * [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
-* [Nomad List](https://nomadlist.com)
-* [Remote Work Stash](https://www.remoteworkstash.com) - 100+ resources about remote work
+* [Nomad List](https://nomadlist.com/)
+* [Remote Work Stash](https://www.remoteworkstash.com/) - 100+ resources about remote work
 * [Remote Workers Salaries 2021](https://docs.google.com/spreadsheets/d/1VOehQv0bOs2pY7RkKJ8RmlUbuu8UmSgzfvjR0m5hyxQ/edit#gid=1145296357)
 * [Work Remotely Forever](https://www.workremotelyforever.com/members/)

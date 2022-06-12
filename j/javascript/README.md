@@ -9,11 +9,11 @@
 
 ### Books
 
-* [Eloquent JavaScript](https://eloquentjavascript.net) - Marijn Haverbeke
+* [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke
 * [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/index.html) - Dr. Axel Rauschmayer
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Professor Frisby
-* [ServiceWorker Cookbook](https://serviceworke.rs) - Mozilla
+* [ServiceWorker Cookbook](https://serviceworke.rs/) - Mozilla
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson
 
 ### GitHub repositories
@@ -29,7 +29,7 @@
 ### Websites
 
 * [ECMAScript 6 - New Features: Overview & Comparison](https://es6-features.org/#Constants)
-* [Exploring JS: JavaScript books for programmers](https://exploringjs.com) - Dr. Axel Rauschmayer
-* [Simplified JavaScript jargon](https://jargon.js.org)
-* [The State of JS Survey](https://stateofjs.com)
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - Dr. Axel Rauschmayer
+* [Simplified JavaScript jargon](https://jargon.js.org/)
+* [The State of JS Survey](https://stateofjs.com/)
 

@@ -11,11 +11,11 @@
 ### Books
 
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
-* [Game AI Pro](https://www.gameaipro.com)
-* [Game Programming Patterns](https://gameprogrammingpatterns.com) - Robert Nystrom
+* [Game AI Pro](https://www.gameaipro.com/)
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
 * [Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book) - Michael Abrash
 * [Procedural Content Generation in Games](https://www.docdroid.net/zReQS98/output-pdf)
-* [The Book of Shaders](https://thebookofshaders.com) - Patricio Gonzalez Vivo, Jen Lowe
+* [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo, Jen Lowe
 
 ### Courses
 
@@ -38,9 +38,9 @@
 ### Websites
 
 * [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
-* [GameDev.net](https://www.gamedev.net)
+* [GameDev.net](https://www.gamedev.net/)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
-* [Lazy Foo's Productions](https://lazyfoo.net)
+* [Lazy Foo's Productions](https://lazyfoo.net/)
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
 * [RasterTek](https://www.rastertek.com/tutindex.html)
 

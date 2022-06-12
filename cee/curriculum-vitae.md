@@ -34,7 +34,7 @@
 
 ### Books
 
-* [The tech resume inside out](https://thetechresume.com) - Gergely Orosz
+* [The tech resume inside out](https://thetechresume.com/) - Gergely Orosz
 
 ### Templates
 
@@ -44,4 +44,4 @@
 
 ### Websites
 
-* [Jobscan](https://www.jobscan.co) - Check CV against job description
+* [Jobscan](https://www.jobscan.co/) - Check CV against job description

@@ -4,14 +4,14 @@
 
 ### Websites
 
-* [4Anime](https://4anime.to)
+* [4Anime](https://4anime.to/)
 * [Crunchyroll](https://www.crunchyroll.com)
-* [MyAnimeList](https://myanimelist.net) ([MAL Map](https://www.malmap.net/#))
-* [The Anime Index](https://piracy.moe)
+* [MyAnimeList](https://myanimelist.net/) ([MAL Map](https://www.malmap.net))
+* [The Anime Index](https://piracy.moe/)
 * [The massive "I just got in to anime" recommendation list](https://redditanime.fandom.com/wiki/The\_massive\_%22I\_just\_got\_in\_to\_anime%22\_recommendation\_list)
 * [VVVVID](https://www.vvvvid.it)
-* [Watch Anime Dub](https://www.wcostream.com)
-* [Watch Cartoon Online](https://www.wcofun.com)
+* [Watch Anime Dub](https://www.wcostream.com/)
+* [Watch Cartoon Online](https://www.wcofun.com/)
 
 ## Comics
 
@@ -21,12 +21,12 @@
 
 ### Websites
 
-* [Abstruse Goose](https://abstrusegoose.com)
+* [Abstruse Goose](https://abstrusegoose.com/)
 * [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin\_and\_hobbes/)
 * [Max Payne 1 & 2 Graphic Novel Story](http://gldio.com/wrkz/max\_payne/)
-* [Read Comic Online](https://readcomiconline.to)
-* [The Oatmeal](https://theoatmeal.com)
-* [xkcd](https://xkcd.com)
+* [Read Comic Online](https://readcomiconline.to/)
+* [The Oatmeal](https://theoatmeal.com/)
+* [xkcd](https://xkcd.com/)
 
 ## Manga
 
@@ -38,4 +38,4 @@
 
 ### Websites
 
-* [Mangakakalot](https://mangakakalot.com)
+* [Mangakakalot](https://mangakakalot.com/)

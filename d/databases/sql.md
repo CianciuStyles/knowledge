@@ -7,10 +7,10 @@
 
 ### Books
 
-* [Use The Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com) - Markus Winand
+* [Use The Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com/) - Markus Winand
 
 ### Websites
 
-* [Select Star SQL](https://selectstarsql.com)
-* [SQLBolt](https://sqlbolt.com)
+* [Select Star SQL](https://selectstarsql.com/)
+* [SQLBolt](https://sqlbolt.com/)
 * [SQLZOO](https://sqlzoo.net/wiki/SQL\_Tutorial)

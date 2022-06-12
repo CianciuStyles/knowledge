@@ -2,7 +2,7 @@
 
 ### Clothes
 
-* [Thousand Miles](https://thousandmiles.co.uk)
+* [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
 
 ### Infographics
@@ -25,7 +25,7 @@
 
 #### Shops
 
-* [Sarenza](https://www.sarenza.it)
+* [Sarenza](https://www.sarenza.it/)
 * [Solaris Sport](https://www.solarissport.com/it/)
-* [Spartoo](https://www.spartoo.it)
+* [Spartoo](https://www.spartoo.it/)
 * [Zalando](https://www.zalando.it/uomo-home/)

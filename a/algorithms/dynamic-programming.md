@@ -73,7 +73,7 @@
 ### Courses
 
 * [Dynamic Programming](https://www.youtube.com/watch?v=OQ5jsbhAv\_M\&list=PLcDimPvbmfT8qAxD6JH\_kmXiQwTNcoK78) - MIT
-* [Dynamic Programming - I](https://www.udemy.com/course/dynamic-programming-i/?ranMID=39197\&ranEAID=JVFxdTr9V80\&ranSiteID=JVFxdTr9V80-C3d0CuJRL.3Gl.67I5NPXw\&LSNPUBID=JVFxdTr9V80) - Udemy
+* [Dynamic Programming - I](https://www.udemy.com/course/dynamic-programming-i/?ranMID=39197\&ranEAID=JVFxdTr9V80\&ranSiteID=JVFxdTr9V80-C3d0CuJRL.3Gl.67I5NPXw\&LSNPUBID=JVFxdTr9V80\&utm\_source=aff-campaign\&utm\_medium=udemyads) - Udemy
 * [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews) - Educative
 * [Intro To Dynamic Programming - Coding Interview Preparation](https://www.udemy.com/course/dynamic-programming/) - Udemy
 * [Master the art of Dynamic Programming](https://www.udemy.com/course/master-the-art-of-dynamic-programming/) - Udemy

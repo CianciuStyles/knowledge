@@ -6,7 +6,7 @@
 
 ### Books
 
-* [Designing Data-Intensive Applications](https://smile.amazon.co.uk/dp/1449373321/) - Martin Kleppmann ([website](https://dataintensive.net))
+* [Designing Data-Intensive Applications](https://smile.amazon.co.uk/dp/1449373321/) - Martin Kleppmann ([website](https://dataintensive.net/))
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/designing-data-intensive-applications/)
   * [Review by Henrik Warne](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications/)
 * [System Design Interview – An insider's guide, Second Edition](https://smile.amazon.co.uk/dp/B08CMF2CQF/) - Alex Xu
@@ -29,11 +29,11 @@
 
 ### Websites
 
-* [High Scalability](http://highscalability.com)
+* [High Scalability](http://highscalability.com/)
   * [Designing WhatsApp (2022)](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
   * [Google's architecture (2008)](http://highscalability.com/google-architecture)
   * [YouTube's architecture (2008)](http://highscalability.com/youtube-architecture)
-* [HowVideo.works](https://howvideo.works)
+* [HowVideo.works](https://howvideo.works/)
 
 ### YouTube playlists
 

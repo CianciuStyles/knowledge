@@ -36,4 +36,4 @@ description: https://www.djangoproject.com/
 
 ### Websites
 
-* [Django Class-Based Views](https://ccbv.co.uk)
+* [Django Class-Based Views](https://ccbv.co.uk/)

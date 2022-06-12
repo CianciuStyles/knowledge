@@ -48,11 +48,11 @@
 
 ### Websites
 
-* [A Good Movie To Watch](https://agoodmovietowatch.com)
-* [Best Similar Movies recommendations](https://bestsimilar.com)
-* [I Check Movies](https://www.icheckmovies.com)
-* [IMDb](https://www.imdb.com)
-* [Letterboxd](https://letterboxd.com)
-* [Movies on Freeview](https://www.moviesonfreeview.co.uk)
-* [Rotten Tomatoes](https://www.rottentomatoes.com)
+* [A Good Movie To Watch](https://agoodmovietowatch.com/)
+* [Best Similar Movies recommendations](https://bestsimilar.com/)
+* [I Check Movies](https://www.icheckmovies.com/)
+* [IMDb](https://www.imdb.com/)
+* [Letterboxd](https://letterboxd.com/)
+* [Movies on Freeview](https://www.moviesonfreeview.co.uk/)
+* [Rotten Tomatoes](https://www.rottentomatoes.com/)
 

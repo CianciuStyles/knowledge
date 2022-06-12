@@ -51,12 +51,12 @@ description: https://www.python.org/
 ![](<../../.gitbook/assets/image (1).png>)
 
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
-* [docopt](https://docopt.org) - command-line interface description language
+* [docopt](https://docopt.org/) - command-line interface description language
 * [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-* [MkDocs](https://www.mkdocs.org) - project documentation with Markdown
-* [Nuitka](https://nuitka.net) - Python to executable compiler
+* [MkDocs](https://www.mkdocs.org/) - project documentation with Markdown
+* [Nuitka](https://nuitka.net/) - Python to executable compiler
 * [peewee](https://docs.peewee-orm.com/en/latest/index.html) - simple and small ORM
-* [Poetry](https://python-poetry.org) - dependency management and packaging
+* [Poetry](https://python-poetry.org/) - dependency management and packaging
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator
 * [vprof](https://github.com/nvdv/vprof) - visual profiler
@@ -65,15 +65,15 @@ description: https://www.python.org/
 
 * [An Introduction to Property Based Testing](https://www.youtube.com/watch?v=fhFXg2f9D2A) - Alex Chan
 * [Python Library Development](https://www.youtube.com/watch?v=F5BHCVlZly4) - Vitor Baptista
-* [PyVideo.org](https://pyvideo.org)
+* [PyVideo.org](https://pyvideo.org/)
 * [So you think you can PDB?](https://www.youtube.com/watch?v=P0pIW5tJrRM) - Clayton Parker
 
 ### Websites
 
-* [Full Stack Python](https://www.fullstackpython.com)
+* [Full Stack Python](https://www.fullstackpython.com/)
 * [New Coder](https://newcoder.io/tutorials/)
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
-* [Pysheeet](https://www.pythonsheets.com)
+* [Pysheeet](https://www.pythonsheets.com/)
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/)
-* [Python Books](https://pythonbooks.org)
-* [Real Python](https://realpython.com)
+* [Python Books](https://pythonbooks.org/)
+* [Real Python](https://realpython.com/)

@@ -8,7 +8,7 @@
 * "If you can’t work any harder, you gotta find an easier path” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * Three key productivity hacks: forgiveness, gratitude, and asking "how can I do this effortlessly" - [Greg McKeown](https://twitter.com/GregoryMcKeown)
 * “What is one thing that is absolutely essential that I’m underinvesting on right now?” - [Greg McKeown](https://twitter.com/GregoryMcKeown)
-* When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs)
+* When given an opton of doing something, it should be either a Hell Yes or a No. - [Derek Sivers](https://sive.rs/)
 
 ### Getting Things Done - David Allen
 
@@ -43,16 +43,16 @@
 
 ### Ambient Sounds
 
-* [A Soft Murmur](https://asoftmurmur.com)
-* [Ambient Mixer](https://www.ambient-mixer.com)
-* [Coffitivity](https://coffitivity.com)
-* [I Miss My Bar](https://imissmybar.com)
-* [Moodil](https://www.moodil.com)
-* [myNoise](https://mynoise.net)
-* [Noisli](https://www.noisli.com)
-* [Rainy Mood](https://www.rainymood.com)
-* [Soundrown](https://soundrown.com)
-* [Tabletop Audio](https://tabletopaudio.com)
+* [A Soft Murmur](https://asoftmurmur.com/)
+* [Ambient Mixer](https://www.ambient-mixer.com/)
+* [Coffitivity](https://coffitivity.com/)
+* [I Miss My Bar](https://imissmybar.com/)
+* [Moodil](https://www.moodil.com/)
+* [myNoise](https://mynoise.net/)
+* [Noisli](https://www.noisli.com/)
+* [Rainy Mood](https://www.rainymood.com/)
+* [Soundrown](https://soundrown.com/)
+* [Tabletop Audio](https://tabletopaudio.com/)
 
 ### Articles
 
@@ -88,9 +88,9 @@
 
 ### Music For Concentration
 
-* [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org)
+* [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/)
 * [Marcel The Drunkard](https://www.youtube.com/c/MarcelTheDrunkard/videos)
-* [musicForProgramming](https://musicforprogramming.net)
+* [musicForProgramming](https://musicforprogramming.net/)
 * [My Analog Journal](https://www.youtube.com/c/MyAnalogJournal/videos)
-* [Poolsuite FM](https://poolsuite.net)
+* [Poolsuite FM](https://poolsuite.net/)
 * [SomaFM](https://somafm.com/listen/)

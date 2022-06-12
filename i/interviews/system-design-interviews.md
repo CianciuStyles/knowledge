@@ -46,7 +46,7 @@
 
 ### Websites
 
-* [High Scalability](http://highscalability.com)
+* [High Scalability](http://highscalability.com/)
 
 ### YouTube channels
 

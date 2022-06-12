@@ -24,11 +24,11 @@
 
 ### Blogs
 
-* [Filippo Valsorda](https://filippo.io)
+* [Filippo Valsorda](https://filippo.io/)
 
 ### Bug Bounty Programs
 
-* [HackerOne](https://www.hackerone.com)
+* [HackerOne](https://www.hackerone.com/)
 * [List of Bug Bounty Programs, Reward Systems & Security Acknowledgments](https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php)
 
 ### Certifications
@@ -39,19 +39,19 @@
 
 ### Conferences
 
-* [RomHack](https://www.romhack.io)
+* [RomHack](https://www.romhack.io/)
 
 ### CTFs
 
-* [CTFtime.org](https://ctftime.org)
+* [CTFtime.org](https://ctftime.org/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
-* [picoCTF](https://picoctf.org)
+* [picoCTF](https://picoctf.org/)
 
 ### Databases
 
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
-* [CVE Mitre](https://cve.mitre.org)
-* [Exploit Database](https://www.exploit-db.com)
+* [CVE Mitre](https://cve.mitre.org/)
+* [Exploit Database](https://www.exploit-db.com/)
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search)
 
 ### GitHub Repositories
@@ -72,43 +72,43 @@
 ### Tools
 
 * [Dradis](https://dradisframework.com/ce/)
-* [GTFOBins](https://gtfobins.github.io) - curated list of Unix binaries that can be used to bypass local security restrictions
-* [Metasploit](https://www.metasploit.com)
+* [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
+* [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 
 ### Websites
 
-* [Compiler Explorer](https://godbolt.org)
-* [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/#)
-* [Cybrary](https://www.cybrary.it)
-* [DVWA](https://dvwa.co.uk) - Damn Vulnerable Web Application
-* [flAWS](http://flaws.cloud)
-* [Guided Hacking](https://guidedhacking.com)
-* [Hack The Box](https://www.hackthebox.eu)
+* [Compiler Explorer](https://godbolt.org/)
+* [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
+* [Cybrary](https://www.cybrary.it/)
+* [DVWA](https://dvwa.co.uk/) - Damn Vulnerable Web Application
+* [flAWS](http://flaws.cloud/)
+* [Guided Hacking](https://guidedhacking.com/)
+* [Hack The Box](https://www.hackthebox.eu/)
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
-* [Hacksplaining](https://www.hacksplaining.com) - Security Training for Developers
-* [HackThisSite](https://www.hackthissite.org)
-* [Have I Been Pwned](https://haveibeenpwned.com) - Check if your email has been compromised in a data breach
-* [How HTTPS works](https://howhttps.works)
-* [JSFuck](http://www.jsfuck.com) - Write any JavaScript with 6 Characters: \[]\()!+
-* [Kali Training](https://kali.training) - Mastering the Pentest Distribution
-* [Open Web Application Security Project (OWASP)](https://owasp.org)
-  * [Cheat Sheets](https://cheatsheetseries.owasp.org)
+* [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
+* [HackThisSite](https://www.hackthissite.org/)
+* [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
+* [How HTTPS works](https://howhttps.works/)
+* [JSFuck](http://www.jsfuck.com/) - Write any JavaScript with 6 Characters: \[]\()!+
+* [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
+* [Open Web Application Security Project (OWASP)](https://owasp.org/)
+  * [Cheat Sheets](https://cheatsheetseries.owasp.org/)
   * [Juice Shop](https://owasp.org/www-project-juice-shop/)
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
   * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
-* [PentesterLab](https://pentesterlab.com)
-* [pwn.college](https://pwn.college)
-* [Pwnable.kr](https://pwnable.kr)
+* [PentesterLab](https://pentesterlab.com/)
+* [pwn.college](https://pwn.college/)
+* [Pwnable.kr](https://pwnable.kr/)
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
-* [Shodan](https://www.shodan.io) - The search engine for Internet of Things
-* [The Art of Hacking](https://theartofhacking.org) - Omar Santos
-* [The Cryptopals Crypto Challenges](https://cryptopals.com)
-* [The Illustrated TLS Connection](https://tls.ulfheim.net)
+* [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
+* [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
-* [VulnHub](https://www.vulnhub.com/#)
-* [XSS Game](https://xss-game.appspot.com)
+* [VulnHub](https://www.vulnhub.com)
+* [XSS Game](https://xss-game.appspot.com/)
 
 ### YouTube Channels
 

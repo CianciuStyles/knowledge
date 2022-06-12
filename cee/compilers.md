@@ -38,7 +38,7 @@
 ### Books
 
 * [Crafting A Compiler](https://smile.amazon.co.uk/Crafting-Compiler-Charles-N-Fischer/dp/0136067050/) - Charles Fischer, Ron Cytron, Richard LeBlanc
-* [Crafting Interpreters](https://craftinginterpreters.com) - Robert Nystrom
+* [Crafting Interpreters](https://craftinginterpreters.com/) - Robert Nystrom
 * [Engineering: A Compiler](https://smile.amazon.co.uk/Engineering-Compiler-Keith-Cooper/dp/012088478X/) - Keith D. Cooper, Linda Torczon
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   * [Chapter 11: LLVM](https://aosabook.org/en/llvm.html) - Chris Lattner
@@ -54,4 +54,4 @@
 
 ### Websites
 
-* [Compiler Explorer](https://godbolt.org)
+* [Compiler Explorer](https://godbolt.org/)

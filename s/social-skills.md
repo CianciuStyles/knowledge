@@ -4,4 +4,4 @@
 
 ### Websites
 
-* [Improve Your Social Skills](https://www.improveyoursocialskills.com)
+* [Improve Your Social Skills](https://www.improveyoursocialskills.com/)

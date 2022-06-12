@@ -7,13 +7,13 @@
 
 ### Marketplaces
 
-* [Braintrust](https://www.usebraintrust.com)
-* [Fiverr](https://www.fiverr.com)
-* [Gun.io](https://www.gun.io)
-* [Periodix](https://periodix.net)
-* [Toptal](https://www.toptal.com)
-* [Upwork](https://www.upwork.com)
+* [Braintrust](https://www.usebraintrust.com/)
+* [Fiverr](https://www.fiverr.com/)
+* [Gun.io](https://www.gun.io/)
+* [Periodix](https://periodix.net/)
+* [Toptal](https://www.toptal.com/)
+* [Upwork](https://www.upwork.com/)
 
 ### Websites
 
-* [Bonsai](https://www.hellobonsai.com)
+* [Bonsai](https://www.hellobonsai.com/)

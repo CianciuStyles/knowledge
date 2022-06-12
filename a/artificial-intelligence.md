@@ -16,6 +16,6 @@
 
 ### Websites
 
-* [deeplearning.ai](https://www.deeplearning.ai)
-* [fast.ai](https://www.fast.ai)
-* [OpenAI Gym](https://gym.openai.com)
+* [deeplearning.ai](https://www.deeplearning.ai/)
+* [fast.ai](https://www.fast.ai/)
+* [OpenAI Gym](https://gym.openai.com/)

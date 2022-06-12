@@ -16,8 +16,8 @@
 
 ### Frameworks
 
-* [Flexbox Grid](https://flexboxgrid.com)
-* [Simple Grid](https://simplegrid.io)
+* [Flexbox Grid](https://flexboxgrid.com/)
+* [Simple Grid](https://simplegrid.io/)
 
 ### GitHub Repositories
 
@@ -25,7 +25,7 @@
 
 ### Websites
 
-* [CodeMyUI](https://codemyui.com)
-* [CSS Triggers](https://csstriggers.com)
-* [MarkSheet](https://marksheet.io) - a free HTML and CSS tutorial
+* [CodeMyUI](https://codemyui.com/)
+* [CSS Triggers](https://csstriggers.com/)
+* [MarkSheet](https://marksheet.io/) - a free HTML and CSS tutorial
 * [Solved by Flebox](https://philipwalton.github.io/solved-by-flexbox/) - Philip Walton

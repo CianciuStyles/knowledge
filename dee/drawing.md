@@ -19,12 +19,12 @@
 
 ### Websites
 
-* [21 Draw](https://www.21-draw.com)
-* [Art-Wod](https://artwod.com)
+* [21 Draw](https://www.21-draw.com/)
+* [Art-Wod](https://artwod.com/)
 * [ArtStation](https://www.artstation.com)
-* [Drawabox](https://drawabox.com)
-* [FORCE Drawing](https://www.drawingforce.com)
-* [Proko](https://www.proko.com)
+* [Drawabox](https://drawabox.com/)
+* [FORCE Drawing](https://www.drawingforce.com/)
+* [Proko](https://www.proko.com/)
 
 ### YouTube Channels
 

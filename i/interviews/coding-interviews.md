@@ -45,8 +45,8 @@
 
 ### Websites
 
-* [CodeSignal](https://app.codesignal.com)
+* [CodeSignal](https://app.codesignal.com/)
 * [Codility](https://app.codility.com/programmers/lessons)
-* [Daily Coding Problem](https://www.dailycodingproblem.com)
+* [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))

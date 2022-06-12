@@ -34,8 +34,8 @@
 
 ### Websites
 
-* [Baeldung](https://www.baeldung.com)
-* [Java Design Patterns](https://java-design-patterns.com)
-* [Marco Behler](https://www.marcobehler.com)
-* [The Java Version Almanac](https://javaalmanac.io)
+* [Baeldung](https://www.baeldung.com/)
+* [Java Design Patterns](https://java-design-patterns.com/)
+* [Marco Behler](https://www.marcobehler.com/)
+* [The Java Version Almanac](https://javaalmanac.io/)
 

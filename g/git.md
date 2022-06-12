@@ -53,6 +53,6 @@ description: https://git-scm.com/
 
 ### Websites
 
-* [Git Exercises](https://gitexercises.fracz.com)
-* [Git Explorer](https://gitexplorer.com)
-* [Learn Git Branching](https://learngitbranching.js.org)
+* [Git Exercises](https://gitexercises.fracz.com/)
+* [Git Explorer](https://gitexplorer.com/)
+* [Learn Git Branching](https://learngitbranching.js.org/)

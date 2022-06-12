@@ -18,13 +18,13 @@
 
 ### Websites
 
-* [50 Ways to Get a Job](https://50waystogetajob.com)
-* [levels.fyi](https://www.levels.fyi)
-* [LinkedIn](https://it.linkedin.com)
-* [We've all faced rejection](https://rejected.us)
+* [50 Ways to Get a Job](https://50waystogetajob.com/)
+* [levels.fyi](https://www.levels.fyi/)
+* [LinkedIn](https://it.linkedin.com/)
+* [We've all faced rejection](https://rejected.us/)
 
 ### Workplaces
 
-* [CoWorking.Coffee](https://www.coworking.coffee)
-* [Workmode](https://workmode.co)
+* [CoWorking.Coffee](https://www.coworking.coffee/)
+* [Workmode](https://workmode.co/)
 

@@ -113,7 +113,7 @@
 #### Q\&A
 
 * Maximise you base salary rather than stocks and equities
-* [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com) to gain information about the company and salary
+* [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com/) to gain information about the company and salary
 
 ## Resources
 

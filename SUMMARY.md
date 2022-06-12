@@ -212,7 +212,6 @@
   * [Emulation](vi/video-games/emulation.md)
   * [Mods](vi/video-games/mods.md)
   * [Music](vi/video-games/video-games-music.md)
-* [V (programming language)](vi/vlang.md)
 
 ## W
 

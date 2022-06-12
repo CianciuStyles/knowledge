@@ -26,11 +26,11 @@
 
 ### Websites
 
-* [Bandcamp](https://bandcamp.com)
-* [Gnoosic](https://www.gnoosic.com) - Discover new music
-* [Musicroamer](https://www.musicroamer.com)
-* [Neverending Playlist](https://neverendingplaylist.com)
-* [Spotibot](https://www.spotibot.com)
-* [The Nostalgia Machine](https://thenostalgiamachine.com)
-* [Top 40 Charts](https://top40-charts.com)
-* [Tunefind](https://top40-charts.com)
+* [Bandcamp](https://bandcamp.com/)
+* [Gnoosic](https://www.gnoosic.com/) - Discover new music
+* [Musicroamer](https://www.musicroamer.com/)
+* [Neverending Playlist](https://neverendingplaylist.com/)
+* [Spotibot](https://www.spotibot.com/)
+* [The Nostalgia Machine](https://thenostalgiamachine.com/)
+* [Top 40 Charts](https://top40-charts.com/)
+* [Tunefind](https://top40-charts.com/)
