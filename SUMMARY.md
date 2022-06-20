@@ -28,6 +28,7 @@
 
 * [C (programming language)](cee/c-programming-language.md)
 * [C++](cee/c++.md)
+* [Cars](cee/cars.md)
 * [Cascading Style Sheets](cee/cascading-style-sheets.md)
 * [Command Line](cee/command-line/README.md)
   * [Awk](cee/command-line/awk.md)
