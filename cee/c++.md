@@ -51,6 +51,7 @@ int main() {
 * The static variable has two different meanings, depending on the context where it's used:
   * inside classes, a static variable/method will be shared among all instances of the class where the static variable is defined (NB a static method can only access static variables in its body);
   * outside classes, static means the linkage of the symbol declared as static will be limited to the translation unit (=C++ file) where it was defined.
+* The _constructor_ is a special method of a class that gets automatically called when a new object is created, and is used to properly initialise all member variables of an object. The _destructor_, instead, is the special method that will be called when an object is about to be destroyed (either by exiting its scope or when the operator `delete` is called).
 
 ## Resources
 
