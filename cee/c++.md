@@ -4,22 +4,16 @@
 
 * Header files are useful to share definitions among different files, so that it is possible to use in each compilation unit (=C++ file) variables, classes, and functions defined somewhere else.
 * To avoid including multiple times the same header files (and hence definitions) in a compilation unit, there are two main techniques:
-  * the `#pragma once` directive
-  * an include guard - usually implemented via a #ifndef ... #endif block:
+  * the `#pragma once` directive (non-standard but almost universally supported)
+  * an include guard - usually implemented via a `#ifndef` ... `#endif` block:
 
 ```cpp
 // my_class.h
 #ifndef MY_CLASS_H // include guard
 #define MY_CLASS_H
 
-namespace N
-{
-    class my_class
-    {
-    public:
-        void do_something();
-    };
-}
+// Contents of MyClass
+// ...
 
 #endif /* MY_CLASS_H */
 ```
