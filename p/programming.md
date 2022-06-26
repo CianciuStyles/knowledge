@@ -15,6 +15,7 @@
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
 * [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
+* [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
 * [Why you should learn brainf\*ck (or: learn you a brainf\*ck for great good!)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig

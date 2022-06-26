@@ -8,10 +8,6 @@
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) - Julia Evans
 * [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection\_tutorial)
 
-### Books
-
-* [Effective Shell](https://effective-shell.com/)
-
 ### GitHub repositories
 
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix)
