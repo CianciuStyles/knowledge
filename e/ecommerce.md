@@ -23,8 +23,10 @@
 
 ### Price Comparators
 
+* [Geizhals (EU)](https://geizhals.eu/)
 * [Idealo](https://www.idealo.co.uk/)
 * [PriceRunner UK](https://www.pricerunner.com/)
+* [Skinflint (UK)](https://skinflint.co.uk/)
 
 ### Shipping
 
