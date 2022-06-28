@@ -60,7 +60,7 @@ then
     echo "Age is correct"
 else
     echo "Age is not correct"
-if
+fi
 
 # switch statement
 car=$1 # read first argument
