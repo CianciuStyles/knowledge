@@ -19,6 +19,7 @@
 
 ### Courses
 
+* [Computer Game Engineering](https://research.ncl.ac.uk/game/mastersdegree/) - Newcastle University
 * [Intro to Game Programming](https://www.youtube.com/playlist?list=PL\_xRyXins848jkwC9Coy7B4N5XTOnQZzz) - Dave Churchill, Memorial University
 * [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) - David J. Malan, Colton Odgen
 
