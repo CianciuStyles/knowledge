@@ -11,6 +11,7 @@
 ### Books
 
 * [Easy Rust](https://fongyoong.github.io/easy\_rust/)
+* [Effective Rust](https://www.lurklurk.org/effective-rust/) - David Drysdale
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount\_code=VAT20) - Luca Palmieri
@@ -24,6 +25,10 @@
 ### GitHub repositories
 
 * [From JavaScript to Rust eBook](https://github.com/vinodotdev/node-to-rust)
+
+### Libraries
+
+* [CXX](https://cxx.rs/) - safe interop between Rust and C++
 
 ### Videos
 
