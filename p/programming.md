@@ -60,6 +60,7 @@
 * [Influential CS Books](https://github.com/cs-books/influential-cs-books)
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
+* [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 
 ### Hacker News Threads
 
