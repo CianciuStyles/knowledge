@@ -231,7 +231,3 @@
 
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 
-### YouTube Channels
-
-* [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
-
