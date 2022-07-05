@@ -24,7 +24,6 @@
 
 ### GitHub repositories
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 * [From JavaScript to Rust eBook](https://github.com/vinodotdev/node-to-rust)
 
 ### Libraries

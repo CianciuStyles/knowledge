@@ -101,6 +101,7 @@
 * [PentesterLab](https://pentesterlab.com/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
+* [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos

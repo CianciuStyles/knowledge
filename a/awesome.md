@@ -31,7 +31,6 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome OSS Alternatives: [https://github.com/RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 * Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-* Awesome Rust: [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 * Awesome Security Gists: [https://github.com/Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 * Awesome Shell: [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
