@@ -46,9 +46,9 @@
 * [Concurrency](cee/concurrency.md)
 * [Continuous Integration / Delivery](cee/continuous-integration-delivery.md)
 * [Cooking](cee/cooking.md)
-* [Curriculum Vitae](cee/curriculum-vitae.md)
 * [Cryptography](cee/cryptography.md)
 * [Cryptocurriencies](cee/cryptocurriencies.md)
+* [Curriculum Vitae](cee/curriculum-vitae.md)
 
 ## D <a href="#dee" id="dee"></a>
 
