@@ -25,3 +25,7 @@
 ### Podcasts
 
 * [The Value of Deep Work in the Age of Distraction](https://www.artofmanliness.com/articles/podcast-168-the-value-of-deep-work-in-the-age-of-distraction/) - The Art of Manliness
+
+### Websites
+
+* [NoSurf ](https://nosurf.net/)- Stop wasting life on the net!
