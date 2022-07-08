@@ -234,4 +234,5 @@
 ### YouTube Channels
 
 * [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
+* [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
 
