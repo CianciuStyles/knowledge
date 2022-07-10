@@ -60,6 +60,7 @@
 * [12 Simple Steps to Become a Productivity Bad-Ass](https://mixwellness.com/12-simple-steps-to-become-a-productivity-bad-ass/) - Kristen Boucher
 * [26 Time Management Hacks I Wish I'd Known At 20](https://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) - Etienne Garbugli
 * [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) - TJCX
+* [Good and Bad Procrastination](https://paulgraham.com/procrastination.html) - Paul Graham
 * [How to make Todoist conform to GTD](https://medium.com/@dougvk/how-to-make-todoist-conform-to-gtd-362d86f037bf) - Doug von Kohorn
 * [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind\_Sweep\_Trigger\_List.pdf) - Getting Things Done
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness

@@ -59,6 +59,7 @@ int main() {
 
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 * [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
+* [LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 * [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)

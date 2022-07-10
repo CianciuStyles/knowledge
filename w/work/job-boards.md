@@ -32,6 +32,7 @@
 * [Remote Hunt](https://remotehunt.com/)
 * [Remote In Tech](https://remoteintech.company/)
 * [Remote Leaf](https://remoteleaf.com/whoishiring)
+* [RemoteFriendly](https://remotefriendly.com/)
 * [RemoteMore](https://remotemore.com/candidates)
 * [remoteok](https://remoteok.io/)
 * [Remotive](https://remotive.io/)
