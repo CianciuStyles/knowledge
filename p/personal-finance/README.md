@@ -40,6 +40,10 @@
 
 ![](https://flowchart.ukpersonal.finance/)
 
+### Reddit Threads
+
+* [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
+
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
@@ -60,6 +64,7 @@
 * [Money Saving Expert](https://www.moneysavingexpert.com/)
 * [Money To The Masses](https://moneytothemasses.com/)
 * [Passive Income](https://my-passive-income.eu/)
+* [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
 * [Wise Bread](https://www.wisebread.com/)
