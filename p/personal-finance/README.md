@@ -22,6 +22,7 @@
 
 * [Get a Financial Life: Personal Finance in Your Twenties and Thirties](https://smile.amazon.co.uk/dp/1476782385/) - Beth Kobliner
 * [I Will Teach You To Be Rich](https://smile.amazon.co.uk/dp/1523505745/) - Ramit Sethi
+* [Money: A User's Guide](https://smile.amazon.co.uk/dp/0008308314) - Laura Whateley
 * [Smarter Investing: Simpler Decisions for Better Results](https://smile.amazon.co.uk/dp/0273785370/) - Tim Hale
 * [The Barefoot Investor: The Only Money Guide You'll Ever Need](https://smile.amazon.co.uk/dp/0730324214) - Scott Pape
 * [The Bogleheads’ Guide to Investing](https://smile.amazon.co.uk/dp/1118921283/) - Mel Lindauer, Taylor Larimore, Michael LeBeouf
