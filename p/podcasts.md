@@ -2,7 +2,7 @@
 
 ### Reddit threads
 
-* [What's your favorite podcast and why?](https://www.reddit.com/r/AskReddit/comments/63g5mh/whats\_your\_favorite\_podcast\_and\_why/)Aahrt
+* [What's your favorite podcast and why?](https://www.reddit.com/r/AskReddit/comments/63g5mh/whats\_your\_favorite\_podcast\_and\_why/)
 * [What is the best podcast you listen to?](https://www.reddit.com/r/AskReddit/comments/4tf38j/what\_is\_the\_best\_podcast\_you\_listen\_to/)
 
 ### Websites
