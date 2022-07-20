@@ -26,7 +26,6 @@
 
 ### Books
 
-* [Myprotein Recipe Book: Not Just Chicken & Rice](https://catalogue.thehutgroup.com/myprotein/myprotein-recipe-book-not-just-chicken-and-rice/)
 * [The Art and Science of Low Carbohydrate Performance](https://smile.amazon.co.uk/dp/0983490716) - Jeff S. Volek, Stephen D. Phinney
 
 ### Recipes
