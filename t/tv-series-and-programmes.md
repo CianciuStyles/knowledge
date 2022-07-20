@@ -5,6 +5,7 @@
 * [Better Call Saul](https://www.imdb.com/title/tt3032476)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+* [Peep Show](https://www.channel4.com/programmes/peep-show)
 * [Sherlock](https://www.imdb.com/title/tt1475582/?ref\_=nv\_sr\_srsg\_0)
 
 ### Reddit Threads
@@ -25,7 +26,6 @@
 * [Doctor Who](https://www.bbc.co.uk/iplayer/episodes/b006q2x0/doctor-who?seriesId=b007vvcq)
 * [Inspector Montalbano](https://www.bbc.co.uk/iplayer/episodes/b01cbq6b/inspector-montalbano)
 * [Malcolm in the Middle](https://www.channel4.com/programmes/malcolm-in-the-middle)
-* [Peep Show](https://www.channel4.com/programmes/peep-show)
 * [Persona 5: The Animation](https://www.channel4.com/programmes/persona-5-the-animation)
 * [Red Dwarf](https://dave.uktv.co.uk/shows/red-dwarf/)
 * [Seinfeld](https://www.channel4.com/programmes/seinfeld)
