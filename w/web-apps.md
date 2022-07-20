@@ -27,10 +27,8 @@
 * [EPUB.to](https://epub.to/) - Covert from/to EPUB
 * [File2HD](http://file2hd.com/)
 * [Free Online OCR](https://www.newocr.com/) - [2](https://www.onlineocr.net/)
-* [iLovePDF](https://www.ilovepdf.com/)
 * [Online Converter](https://www.online-convert.com/)
 * [PrintFriendly](https://www.printfriendly.com/)
-* [PDFescape](https://www.pdfescape.com/windows/)
 * [Video Grabber](https://www.videograbber.net/)
 * [Waifu2x](https://waifu2x.me/) - Image upscaler
 * [YouConvertIt](https://www.youconvertit.com/ConvertFiles.aspx)
@@ -89,6 +87,12 @@
 
 * [Jitsi Meet](https://meet.jit.si/)
 
+### PDF Tools
+
+* [iLovePDF](https://www.ilovepdf.com/)
+* [PDFescape](https://www.pdfescape.com/windows/)
+* [Sejda](https://www.sejda.com/)
+
 ### Printables
 
 * [FreePrintable.com](https://www.freeprintable.com/)
@@ -103,6 +107,7 @@
 ### Programming
 
 * [Carbon](https://carbon.now.sh/) - Create images of source code
+* [Diffchecker](https://www.diffchecker.com/)
 * [Dillinger](https://dillinger.io/) - Online Markdown editor
 
 ### Screen Sharing
