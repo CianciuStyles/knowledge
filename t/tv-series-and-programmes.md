@@ -5,7 +5,6 @@
 * [Better Call Saul](https://www.imdb.com/title/tt3032476)
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/)
-* [Peep Show](https://www.channel4.com/programmes/peep-show)
 * [Sherlock](https://www.imdb.com/title/tt1475582/?ref\_=nv\_sr\_srsg\_0)
 
 ### Reddit Threads
@@ -17,7 +16,7 @@
 * [What is your all-time favorite TV show?](https://www.reddit.com/r/AskReddit/comments/rkx24t/what\_is\_your\_alltime\_favorite\_tv\_show/)
 * [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello\_uk\_reddit\_what\_is\_your\_favourite\_british\_tv/)
 * [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what\_show\_had\_you\_hooked\_after\_1\_episode/)
-* [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)
+* [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)ks tn
 
 ### To Watch
 
@@ -26,6 +25,7 @@
 * [Doctor Who](https://www.bbc.co.uk/iplayer/episodes/b006q2x0/doctor-who?seriesId=b007vvcq)
 * [Inspector Montalbano](https://www.bbc.co.uk/iplayer/episodes/b01cbq6b/inspector-montalbano)
 * [Malcolm in the Middle](https://www.channel4.com/programmes/malcolm-in-the-middle)
+* [Peep Show](https://www.channel4.com/programmes/peep-show)
 * [Persona 5: The Animation](https://www.channel4.com/programmes/persona-5-the-animation)
 * [Red Dwarf](https://dave.uktv.co.uk/shows/red-dwarf/)
 * [Seinfeld](https://www.channel4.com/programmes/seinfeld)
