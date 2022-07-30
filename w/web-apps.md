@@ -23,12 +23,16 @@
 
 * [8mb.video](https://8mb.video/)
 * [CloudConvert](https://cloudconvert.com/)
+* [DistillVideo](https://distillvideo.com/) - Online video downloader
 * [EPUB.to](https://epub.to/) - Covert from/to EPUB
 * [File2HD](http://file2hd.com/)
 * [Free Online OCR](https://www.newocr.com/) - [2](https://www.onlineocr.net/)
 * [Online Converter](https://www.online-convert.com/)
 * [PrintFriendly](https://www.printfriendly.com/)
+* [Video Grabber](https://www.videograbber.net/)
 * [Waifu2x](https://waifu2x.me/) - Image upscaler
+* [YouConvertIt](https://www.youconvertit.com/ConvertFiles.aspx)
+* [YouTube to Mp3 Converter](https://www.videograbber.net/)
 * [Zamzar](https://www.zamzar.com)
 
 ### File Sharing
@@ -127,11 +131,3 @@
 ### Translation
 
 * [DeepL](https://www.deepl.com/translator)
-
-### YouTube Downloaders
-
-* [ClipConverter](https://www.clipconverter.cc)
-* [Converto.io](https://www.converto.io)
-* [Online Video Converter](https://onlinevideoconverter.com/youtube-converter)
-* [TubeRipper](https://tuberipper.com/)
-* [Video Grabber](https://www.videograbber.net/)
