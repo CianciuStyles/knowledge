@@ -55,6 +55,7 @@
 * [Databases](d/databases/README.md)
   * [PostgreSQL](d/databases/postgresql.md)
   * [SQL](d/databases/sql.md)
+  * [SQLite](dee/databases/sqlite.md)
 * [Design Patterns](d/design-patterns.md)
 * [Digital Minimalism](d/digital-minimalism.md)
 * [Distributed Systems](d/distributed-systems.md)
