@@ -97,6 +97,7 @@
 
 * [30 Seconds Of Code](https://www.30secondsofcode.org/)
 * [Code Cartoons](https://code-cartoons.com/)
+* [Code Catalog](https://codecatalog.org/) - A collection of code examples from prominent open-source projects
 * [Coder's Cat](https://coderscat.com/)
 * [Denigma](https://denigma.app/) - AI that reads and explains code in understandable English
 * [Develop For Performance](http://developforperformance.com/)
