@@ -26,6 +26,7 @@
 
 ### Books
 
+* [Myprotein Recipe Book: Not Just Chicken & Rice](https://catalogue.thehutgroup.com/myprotein/myprotein-recipe-book-not-just-chicken-and-rice/)
 * [The Art and Science of Low Carbohydrate Performance](https://smile.amazon.co.uk/dp/0983490716) - Jeff S. Volek, Stephen D. Phinney
 
 ### Recipes
@@ -66,3 +67,10 @@
 * [Fit Men Cook](https://fitmencook.com/)
 * [KetoNutrition](https://ketonutrition.org/)
 * [No Meat Athlete](https://www.nomeatathlete.com/)
+
+### YouTube channels
+
+* [Diet Doctor](https://www.youtube.com/c/DietDoctorVideo/videos)
+* [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
+* [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
+* [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)

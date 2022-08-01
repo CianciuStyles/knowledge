@@ -47,4 +47,5 @@
 * [Chris Heria](https://www.youtube.com/c/CHRISHERIA/videos)
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
 * [Justin Agustin](https://www.youtube.com/c/JustinAgustin/videos)
+* [Mady Morrison](https://www.youtube.com/c/MadyMorrison/videos)
 * [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene)
