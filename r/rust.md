@@ -13,6 +13,8 @@
 * [Easy Rust](https://fongyoong.github.io/easy\_rust/)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - David Drysdale
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
+* [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
+* [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount\_code=VAT20) - Luca Palmieri
 
@@ -39,3 +41,7 @@
   * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
   * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
   * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
+
+### YouTube playlists
+
+* [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z\_jLr)
