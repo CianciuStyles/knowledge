@@ -1,2 +1,24 @@
 # Rome
 
+## Bars & Pubs
+
+* [Pork 'n' Roll](https://goo.gl/maps/XjSUWyfAK387cwdz7) - Tiburtina
+* [Scholars Lounge](https://goo.gl/maps/k6BWTGMU7qg4Lfoq9) - Piazza Venezia
+
+## Ice Creams
+
+* [La Romana](https://goo.gl/maps/1vzqz3tpPPWpZnAUA) - Piramide
+* [Lubrano](https://goo.gl/maps/SwTQkrRf8jjozBJF6) - Tiburtina
+* [Palazzo del Freddo Giovanni Fassi](https://g.page/Fassi1880?share) - Esquilino
+
+## Restaurants
+
+### Ethnic
+
+* [Enqutatash](https://goo.gl/maps/dsVLVSS7LA9XwNZ57) - Prenestino
+* [Himalaya's Kashmir](https://goo.gl/maps/z4YfojSywXf8FB3eA) - Esquilino
+
+### Pizza
+
+* [180grammi](https://goo.gl/maps/4SuwxiojF7w3twWe7) - Villa Gordiani
+* [Pizzeria "Ai Marmi"](https://goo.gl/maps/9qys9ViYRAqTFcbbA) - Trastevere
