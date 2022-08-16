@@ -52,16 +52,16 @@
 
 ## D <a href="#dee" id="dee"></a>
 
-* [Databases](d/databases/README.md)
-  * [PostgreSQL](d/databases/postgresql.md)
-  * [SQL](d/databases/sql.md)
+* [Databases](dee/databases/README.md)
+  * [PostgreSQL](dee/databases/postgresql.md)
+  * [SQL](dee/databases/sql.md)
   * [SQLite](dee/databases/sqlite.md)
-* [Design Patterns](d/design-patterns.md)
-* [Digital Minimalism](d/digital-minimalism.md)
-* [Distributed Systems](d/distributed-systems.md)
-* [Documentaries](d/documentaries.md)
-* [Documentation](d/documentation.md)
-* [Dopamine](d/dopamine.md)
+* [Design Patterns](dee/design-patterns.md)
+* [Digital Minimalism](dee/digital-minimalism.md)
+* [Distributed Systems](dee/distributed-systems.md)
+* [Documentaries](dee/documentaries.md)
+* [Documentation](dee/documentation.md)
+* [Dopamine](dee/dopamine.md)
 * [Drawing](dee/drawing.md)
 
 ## E
@@ -161,7 +161,7 @@
 * [Podcasts](p/podcasts.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
-* [Programming](p/programming.md)
+* [Programming](p/programming/README.md)
   * [Functional Programming](p/programming/functional-programming.md)
 * [Prometheus](p/prometheus.md)
 * [Python](p/python/README.md)

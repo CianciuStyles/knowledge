@@ -28,6 +28,10 @@
 * [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 * [The Algorithms](https://github.com/TheAlgorithms)
 
+### Hacker News Threads
+
+* [What are some cool but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
+
 ### Videos
 
 * [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u\_k2LIZyo)

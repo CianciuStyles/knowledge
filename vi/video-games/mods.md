@@ -37,6 +37,10 @@
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
 * [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
 
+### Sanitarium
+
+* [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
+
 ### The Witcher 2: Assassins of Kings
 
 * [Farewell of the White Wolf](https://www.moddb.com/mods/farewell-of-the-white-wolf)

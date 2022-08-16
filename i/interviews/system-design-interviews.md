@@ -2,7 +2,7 @@
 
 ## Resources
 
-![](<../../.gitbook/assets/immagine (4).png>)
+![](../../.gitbook/assets/immagine.png)
 
 ### Articles
 

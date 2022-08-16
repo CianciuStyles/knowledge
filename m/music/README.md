@@ -6,6 +6,7 @@
 
 ### Reddit threads
 
+* [Albums where EVERY song is an absolute banger?](https://www.reddit.com/r/Music/comments/w4cdbj/albums\_where\_every\_song\_is\_an\_absolute\_banger/)
 * [In your opinion, what is an album with no bad songs?](https://www.reddit.com/r/AskReddit/comments/pqwt7w/in\_your\_opinion\_what\_is\_an\_album\_with\_no\_bad\_songs/)
 * [What album can you listen to front to back without wanting to skip even a single song?](https://www.reddit.com/r/AskReddit/comments/m430pr/what\_album\_can\_you\_listen\_to\_front\_to\_back/)
 * [What album do you enjoy every song on?](https://www.reddit.com/r/AskReddit/comments/2ta8yv/what\_album\_do\_you\_enjoy\_every\_song\_on/)
@@ -18,6 +19,7 @@
 * [What is an album where EVERY song is good?](https://www.reddit.com/r/AskReddit/comments/ebdh8c/what\_is\_an\_album\_where\_every\_song\_is\_good/)
 * [What is that one album that you think is pure hits no misses?](https://www.reddit.com/r/AskReddit/comments/ovlsun/what\_is\_that\_one\_album\_that\_you\_think\_is\_pure/)
 * [What is your favorite LONG song (over 7 minutes)?](https://www.reddit.com/r/AskReddit/comments/qm82cg/what\_is\_your\_favorite\_long\_song\_over\_7\_minutes/)
+* [What song are you currently obsessed with?](https://www.reddit.com/r/AskReddit/comments/w03mt8/what\_song\_are\_you\_currently\_obsessed\_with/)
 * [What song is 10/10, yet hardly anyone has heard of it?](https://www.reddit.com/r/AskReddit/comments/du5j18/what\_song\_is\_1010\_yet\_hardly\_anyone\_has\_heard\_of/)
 * [What's the best song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/6553ft/whats\_the\_best\_song\_youve\_ever\_heard/)
 * [What's your 10/10 Album?](https://www.reddit.com/r/AskReddit/comments/526kke/whats\_your\_1010\_album/)

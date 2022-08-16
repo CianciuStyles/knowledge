@@ -43,9 +43,9 @@
 
 ### Infographics
 
-![/lit/'s Top 100 Books of All Time](../.gitbook/assets/lits-top-100-books-of-all-time.jpg)
+![/lit/'s Top 100 Books of All Time](<../.gitbook/assets/lit's Top 100 Books Of All Time.jpg>)
 
-![Sci-Fi Guide](../.gitbook/assets/r55odll.jpeg)
+![Sci-Fi Guide](../.gitbook/assets/r55ODlL.jpeg)
 
 ### Online Stores
 
@@ -98,6 +98,7 @@
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
 * [Rebel Book Club](https://www.rebelbook.club/)
+* [Standard Ebooks](https://standardebooks.org/)
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
 * [The Neglected Books Page](https://neglectedbooks.com/)

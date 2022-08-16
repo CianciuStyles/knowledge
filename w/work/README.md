@@ -16,6 +16,7 @@
 
 * [Ask HN: New job at BigCo. Everything has friction](https://news.ycombinator.com/item?id=31669338)
 * [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
+* [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 
 ### Websites
 

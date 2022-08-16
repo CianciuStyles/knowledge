@@ -48,7 +48,7 @@ description: https://www.python.org/
 
 ### Libraries
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
 * [docopt](https://docopt.org/) - command-line interface description language

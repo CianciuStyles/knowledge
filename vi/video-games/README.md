@@ -14,6 +14,7 @@
 
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
+* [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/) - Rodrigo Copetti
 * [Triangoli colorati sulle confezioni dei giochi Nintendo](https://giocatorinintendo.com/2014/08/21/triangoli-colorati-sulle-confezioni-dei-giochi-nintendo/)
 
 ### Books
@@ -229,6 +230,7 @@
 * [What is your "must play" game?](https://www.reddit.com/r/patientgamers/comments/bne9as/what\_is\_your\_must\_play\_game/)
 * [What pre 2000 video game would you still recommend to anyone?](https://www.reddit.com/r/AskReddit/comments/4qle9u/what\_pre\_2000\_video\_game\_would\_you\_still/)
 * [What video game can you play over and over again and still enjoy it?](https://www.reddit.com/r/AskReddit/comments/51ydvx/what\_video\_game\_can\_you\_play\_over\_and\_over\_again/)
+* [What video game do you consider a masterpiece?](https://www.reddit.com/r/AskReddit/comments/w68jfd/what\_video\_game\_do\_you\_consider\_a\_masterpiece/)
 * [What video game left you saying "Fuck Yeah"?](https://www.reddit.com/r/AskReddit/comments/4g30rz/what\_video\_game\_left\_you\_saying\_fuck\_yeah/)
 * [What videogame was a 10/10 for you?](https://www.reddit.com/r/AskReddit/comments/594kzl/what\_videogame\_was\_a\_1010\_for\_you/)
 * [What would you say your GOTY game is for each year since 2010?](https://www.reddit.com/r/patientgamers/comments/8l2kyb/what\_would\_you\_say\_your\_goty\_game\_is\_for\_each/)
@@ -279,4 +281,5 @@
 
 * [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
+* [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
 

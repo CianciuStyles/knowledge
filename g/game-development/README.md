@@ -47,4 +47,5 @@
 
 ### YouTube Channels
 
+* [Freya Holmér](https://www.youtube.com/c/Acegikmo/videos)
 * [Randall Thomas](https://www.youtube.com/c/RandallThomas/videos) - [The Sequel](https://www.youtube.com/c/RandytheSequel/videos)

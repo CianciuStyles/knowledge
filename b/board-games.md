@@ -20,7 +20,7 @@
 
 ![Options for Online Board Games](<../.gitbook/assets/Options For Online Board Games.png>)
 
-![Top 100 Board Games](<../.gitbook/assets/immagine (3).png>)
+![Top 100 Board Games](<../.gitbook/assets/immagine (4).png>)
 
 ### Lists
 

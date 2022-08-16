@@ -23,9 +23,9 @@ Link to course: [https://www.udemy.com/course/prometheus-course/](https://www.ud
 
 * Graphite
   * Merely storage and graphing framework
-  * Separate component \(Carbon\) that passively listens for data
+  * Separate component (Carbon) that passively listens for data
 * InfluxDB
-  * Separate component \(Kapacitor\) for alerting
+  * Separate component (Kapacitor) for alerting
 * OpenTSDB
 * Nagios
 * Sensu
@@ -35,18 +35,18 @@ Link to course: [https://www.udemy.com/course/prometheus-course/](https://www.ud
 * Monitoring: process of collecting and recording activities, to check whether the target achieves its objectives or not
 * Alert: outcome of an alerting rule that is actively firing
 * Target: object whose metrics are to be monitored
-* Instance: endpoint you can scrape \(usually\)
+* Instance: endpoint you can scrape (usually)
 * Job: collection of instances with the same purpose
-* Sample: single value \(64-bit float\) of a time series
+* Sample: single value (64-bit float) of a time series
 
 ### Architecture
 
-![Prometheus architecture](../.gitbook/assets/prometheus-architecture.png)
+![Prometheus architecture](<../.gitbook/assets/Prometheus Architecture.png>)
 
 * Prometheus Server:
   * Retrieval: scrapes data from target
   * TSDB / Storage: HDD/SDD to store collected values
-  * HTTP Server: exposes data from the DB to clients \(e.g., Grafana\)
+  * HTTP Server: exposes data from the DB to clients (e.g., Grafana)
 * Push gateway: allows short-lived jobs to push metrics to Prometheus rather than Prometheus pulling metrics from them
 * Service discovery: makes Prometheus aware of all the targets to monitor and pull metrics from
 * Prometheus Web UI: request and graph raw data using PromQL
@@ -64,26 +64,26 @@ Link to course: [https://www.udemy.com/course/prometheus-course/](https://www.ud
 ### Exporters
 
 * They are used when direct instrumentation of the target is not feasible
-* Node Exporter: exposes kernel-level and machine-level metrics \(e.g., CPU, memory, disk space\) for Unix systems
+* Node Exporter: exposes kernel-level and machine-level metrics (e.g., CPU, memory, disk space) for Unix systems
 * WMI Exporter: exposes kernel-level and machine-level metrics for Windows systems
 
 ### Data Types in PromQL
 
-* Instant vector: a set of single samples per time series, all sharing the same timestamp \(e.g., `prometheus_http_requests_total`\)
-* Range vector: a set of ranges of data points over time for each time series \(e.g., `prometheus_http_requests_total[1m]`\)
+* Instant vector: a set of single samples per time series, all sharing the same timestamp (e.g., `prometheus_http_requests_total`)
+* Range vector: a set of ranges of data points over time for each time series (e.g., `prometheus_http_requests_total[1m]`)
 * Scalar: a simple numeric floating point number
-* String: a simple string value \(currently unused\)
+* String: a simple string value (currently unused)
 
 ### Selectors & Matchers
 
-* Matcher: filtering condition\(s\) that allow to consider some metrics and ignore others \(e.g., in the expression `process_cpu_seconds_total{job='node_exporter'}`, the `{job='node_exporter'}` is a matcher, because it will filter out all the `process_cpu_seconds_total` metrics for different jobs\)
-* Specifying multiple matchers in a selector will AND them together \(i.e., only metrics which satisfy all filters will be returned\)
+* Matcher: filtering condition(s) that allow to consider some metrics and ignore others (e.g., in the expression `process_cpu_seconds_total{job='node_exporter'}`, the `{job='node_exporter'}` is a matcher, because it will filter out all the `process_cpu_seconds_total` metrics for different jobs)
+* Specifying multiple matchers in a selector will AND them together (i.e., only metrics which satisfy all filters will be returned)
 * A PromQL expression can be associated to a SQL statement
 * Matcher types:
-  * `=` \(equality matcher\)
-  * `!=` \(negative equality matcher\)
-  * `=~` \(regular expression matcher\)
-  * `!~` \(negative regular expression matcher\)
+  * `=` (equality matcher)
+  * `!=` (negative equality matcher)
+  * `=~` (regular expression matcher)
+  * `!~` (negative regular expression matcher)
 
 ### Binary operators
 
@@ -100,12 +100,12 @@ Take two operands and perform the specified calculations
 * Comparison:
   * equal ==
   * not equal !=
-  * greater than &gt;
-  * less than &lt;
-  * greater or equal &gt;=
-  * less or equal &lt;=
+  * greater than >
+  * less than <
+  * greater or equal >=
+  * less or equal <=
   * are defined between scalar/scalar, vector/scalar, and vector/vector value pairs
-* Logical / set: 
+* Logical / set:&#x20;
   * and
   * or
   * unless
@@ -132,7 +132,7 @@ Take two operands and perform the specified calculations
 ### Functions
 
 * rate: how fast a counter is increasing per-second of the time series in the range vector
-* irate: the instant rate of increase of the time series in the range vector \(taking the last two samples into account\)
+* irate: the instant rate of increase of the time series in the range vector (taking the last two samples into account)
 * changes: how many times a gauge has changed over time
 * deriv: how quickly a gauge is changing
 * predict\_linear: predicts a future value of a gauge based on previous values
@@ -142,17 +142,17 @@ Take two operands and perform the specified calculations
 
 ### Metric types
 
-* Counter: cumulative metric that can only increase \(or reset to zero on restart\)
+* Counter: cumulative metric that can only increase (or reset to zero on restart)
 * Gauge: single numeric value that can go up or down
-* Summary: tracks size and number of events \(e.g., basename\_sum, basename\_count\)
-* Histogram: counts observation in configurable buckets \(to calculate quantiles\)
+* Summary: tracks size and number of events (e.g., basename\_sum, basename\_count)
+* Histogram: counts observation in configurable buckets (to calculate quantiles)
 
 ### What to instrument
 
 * Services:
-  * online-serving: request rate, latency, error rate, in-progress requests \(both client and server side\)
-  * offline-processing: items coming in, in progress, error, last process time \(both individual items and batches\)
-  * batch jobs: runtime, time of last completion \(using push gateway\)
+  * online-serving: request rate, latency, error rate, in-progress requests (both client and server side)
+  * offline-processing: items coming in, in progress, error, last process time (both individual items and batches)
+  * batch jobs: runtime, time of last completion (using push gateway)
 * Libraries:
   * internal errors
   * latency time within library
@@ -161,60 +161,58 @@ Take two operands and perform the specified calculations
 
 * Allow you to precompute frequently needed or compute expensive expressions, and save them as a new time series
 * Querying the precomputer result is much faster than computing it on-the-fly
-* Recording rules are defined in YAML files as follows:
+*   Recording rules are defined in YAML files as follows:
 
-  ```yaml
-  groups:
-  - name: my-rules # name of the rule group
-    rules:
-    - record: job:node_cpu_seconds:avg_idle # name of the first rule
-      expr: avg without(cpu) (rate(node_cpu_seconds_total{mode="idle"}[5m])) # PromQL expression
-    - record: job:node_cpu_seconds:avg_not_idle # name of the second rule
-      expr: avg without(cpu, mode) (rate(node_cpu_seconds_total{mode!="idle"}[5m])) # PromQL expression
-  - name: my-rules-new:
-    rules:
-      ...
-  ```
-
+    ```yaml
+    groups:
+    - name: my-rules # name of the rule group
+      rules:
+      - record: job:node_cpu_seconds:avg_idle # name of the first rule
+        expr: avg without(cpu) (rate(node_cpu_seconds_total{mode="idle"}[5m])) # PromQL expression
+      - record: job:node_cpu_seconds:avg_not_idle # name of the second rule
+        expr: avg without(cpu, mode) (rate(node_cpu_seconds_total{mode!="idle"}[5m])) # PromQL expression
+    - name: my-rules-new:
+      rules:
+        ...
+    ```
 * Avoid rules for long vector ranges, as such queries tend to be expensive, and running them regularly can cause performance problems
-* Use rules to store metrics data for long-term \(months / years\)
+* Use rules to store metrics data for long-term (months / years)
 
 ### Alerting
 
 * Alerts are conditions in the form of PromQL expressions that continuously get evaluated and fire when the conditions are met
-* Similarly to recording rules, they are defined in YAML files:
+*   Similarly to recording rules, they are defined in YAML files:
 
-  ```yaml
-  groups:
-  - name: my-rules # name of the rule group
-    rules:
-    - alert: NodeExportedDown
-      expr: up{job="node_exporter"} == 0
-      for: 1m
+    ```yaml
+    groups:
+    - name: my-rules # name of the rule group
+      rules:
+      - alert: NodeExportedDown
+        expr: up{job="node_exporter"} == 0
+        for: 1m
 
-    - record: job:app_response_latency_seconds:rate1m
-      expr: rate(app_response_latency_seconds_sum[1m]) / rate(app_response_latency_seconds_count[1m])
+      - record: job:app_response_latency_seconds:rate1m
+        expr: rate(app_response_latency_seconds_sum[1m]) / rate(app_response_latency_seconds_count[1m])
 
-    - alert: AppLatencyAbove5sec
-      expr: job:app_response_latency_seconds:rate1m >= 5
-      for: 2m
-      labels:
-        severity: critical
-      annotations:
-        summary: 'Python app latency is over 5 seconds'
-        description: 'app latency of instance {{ $labels.instance }}' of job {{ $labels.job }} is {{ $value }} for more than 2 minutes'
-        app_link: 'http://localhost:8000/'
+      - alert: AppLatencyAbove5sec
+        expr: job:app_response_latency_seconds:rate1m >= 5
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: 'Python app latency is over 5 seconds'
+          description: 'app latency of instance {{ $labels.instance }}' of job {{ $labels.job }} is {{ $value }} for more than 2 minutes'
+          app_link: 'http://localhost:8000/'
 
-    - alert: AppLatencyAbove2sec
-      expr: 2 < job:app_response_latency_seconds:rate1m < 5
-      for: 2m
-      labels:
-        severity: warning
-  ```
-
+      - alert: AppLatencyAbove2sec
+        expr: 2 < job:app_response_latency_seconds:rate1m < 5
+        for: 2m
+        labels:
+          severity: warning
+    ```
 * The ALERTS metric will report a time series for each alert that has fired
 * The `for` clause instructs Prometheus to keep the alert in the PENDING state for at least the time specified, and then fire if the condition has been met for the whole observation period
-* By assigning labels to alerts, we can handle them in different ways \(e.g., send a page for critical alert and an email for non-critical ones\)
+* By assigning labels to alerts, we can handle them in different ways (e.g., send a page for critical alert and an email for non-critical ones)
 
 ### Alertmanager
 
@@ -235,7 +233,7 @@ receivers:
 
 ### Blackbox Exporter
 
-![](../.gitbook/assets/prometheus-blackbox-exporter.bmp)
+![](<../.gitbook/assets/Prometheus Blackbox Exporter.bmp>)
 
 * Allows to monitor network endpoint such as HTTP, HTTPS, DNS, ICMP, or TCP
 * It can be used when we have no knowledge of the system internals, or to measure response times, availability, and network health
@@ -278,11 +276,10 @@ receivers:
 * event logs or individual events
 * for 100% accuracy of data
 * high cardinality data
-* for dashboarding \(use Grafana\)
+* for dashboarding (use Grafana)
 
 ## Resources
 
 ### Websites
 
 * [PromQL for Humans](https://timber.io/blog/promql-for-humans/)
-

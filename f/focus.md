@@ -13,6 +13,7 @@
 
 * [Age of distraction or how to calmy enjoy what you are doing in 2021](https://www.lostbookofsales.com/age-of-distractions/) - Santeri Liukkonen
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/) - Zachary Wade Betz
+* [How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/) - Gernot Starke
 * [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/) - [Fadeke Adegbuyi](https://blog.doist.com/by/fadeke-adegbuyi/)
 * [Training to Attain Jedi-Like Concentration](https://siimland.com/training-attain-jedi-like-concentration/) - Siim Land
 * [Your attention didn't collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - Johann Hari

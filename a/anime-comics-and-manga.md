@@ -2,6 +2,10 @@
 
 ## Anime
 
+### Reddit threads
+
+* [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats\_the\_best\_anime\_youve\_ever\_seen/)
+
 ### Websites
 
 * [4Anime](https://4anime.to/)
@@ -24,6 +28,7 @@
 * [Abstruse Goose](https://abstrusegoose.com/)
 * [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin\_and\_hobbes/)
 * [Max Payne 1 & 2 Graphic Novel Story](http://gldio.com/wrkz/max\_payne/)
+* [Pk hack](https://pkhack.altervista.org/)
 * [Read Comic Online](https://readcomiconline.to/)
 * [The Oatmeal](https://theoatmeal.com/)
 * [xkcd](https://xkcd.com/)
