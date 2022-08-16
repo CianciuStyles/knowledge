@@ -6,6 +6,7 @@
 * [CoolROM](https://coolrom.com.au/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuBrowser](https://emubrowser.com/)
+* [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
 * [Internet Arcade](https://archive.org/details/internetarcade)
