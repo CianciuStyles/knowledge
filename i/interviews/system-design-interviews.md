@@ -2,10 +2,13 @@
 
 ## Resources
 
+![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fdbcc119-8f5d-4d27-9a4b-2c8bde82b537\_4026x8030.jpeg)
+
 ![](../../.gitbook/assets/immagine.png)
 
 ### Articles
 
+* [Algorithms you should know before you take system designs interview](https://blog.bytebytego.com/p/algorithms-you-should-know-before) - Alex Xu
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
 * [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
 
