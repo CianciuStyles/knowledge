@@ -429,5 +429,6 @@
 
 ### Websites
 
+* [Crunchy Data](https://www.crunchydata.com/developers/tutorials) - Postgres Tutorials
 * [explain.dalibo.com](https://explain.dalibo.com/) - PostgreSQL execution plan visualizer
 
