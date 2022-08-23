@@ -28,6 +28,7 @@
 * [Free Online OCR](https://www.newocr.com/) - [2](https://www.onlineocr.net/)
 * [Online Converter](https://www.online-convert.com/)
 * [PrintFriendly](https://www.printfriendly.com/)
+* [TinyWow](https://tinywow.com/)
 * [Waifu2x](https://waifu2x.me/) - Image upscaler
 * [Zamzar](https://www.zamzar.com)
 
