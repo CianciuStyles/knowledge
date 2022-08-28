@@ -116,6 +116,7 @@
 
 ### Quizzes
 
+* [GuessThe.Game](https://guessthe.game/)
 * [VGM Quiz](https://www.vgm-quiz.com/)
 
 ### Reddit Threads
