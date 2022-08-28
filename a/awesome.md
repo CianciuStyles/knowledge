@@ -21,7 +21,6 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome IT films: [https://github.com/greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films)
 * Awesome Java: [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * Awesome JavaScript: [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-* Awesome Job Boards: [https://github.com/tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
 * Awesome Katas: [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
 * Awesome Kotlin: [https://github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 * Awesome LaTeX: [https://github.com/egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)

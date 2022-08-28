@@ -17,7 +17,7 @@
 * [Healthy Eating: The Beginner’s Guide on How to Eat Healthy and Stick to It](https://jamesclear.com/eat-healthy) - James Clear
 * [How to Lose 100 Pounds on The Slow-Carb Diet](https://tim.blog/2012/07/12/how-to-lose-100-pounds/) - Tim Ferriss
 * [Mean Plan](https://gamechangersmovie.com/food/meal-plan/) - The Game Changers
-* [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/)
+* [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/) ([2022 update](https://optimisingnutrition.com/satiety-index/))
 * [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science?s=r) - Suman Manchireddy
 * [The Best Fat Loss Article on the Motherfuckin’ Internet](https://physiqonomics.com/fat-loss/) - Physiqonomics
 * [The Slow-Carb Diet One-Pager](https://tim.blog/wp-content/uploads/2019/07/tim\_ferriss\_the-4-hour-chef\_one\_pager\_slow\_carb\_diet.pdf) - Tim Ferriss
