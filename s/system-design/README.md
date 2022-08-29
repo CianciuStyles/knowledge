@@ -105,6 +105,84 @@
 6. Analytics
 7. Availability vs. consistency
 
+#### Chapter 9 - Design a web crawler
+
+1. Parallelisation to achieve scalability
+2. Robustness for bad HTML, malicious links, unresponsive servers
+3. Politeness: do not overload servers while indexing
+4. Start from seed URL (divide URLs by country / topic)
+5. URL frontier to keep track of websites to visit
+6. Content parser to filter out malformed pages
+7. Content deduplicator to avoid visiting mirrors / duplications
+8. URL extractor to progress in the crawl
+9. URL deduplicator to avoid visiting the same URL multiple times
+10. BFS vs. DFS: depth can grow pretty quickly
+11. Different queues per domain for politeness
+12. Priority queues for proritising important content
+
+#### Chapter 10 - Design a notification system
+
+1. On app install or sign up, collect mobile token, phone number and email address
+2. Decouple notification systems from actuators (iOS, Android, SMS, email servers) through message queues
+3. Prevent data loss through at-least once delivery (with retries)
+4. Templates to avoid building content from scratch
+5. Respect user preferences with respect to communication channels
+6. Rate limiting
+7. Event tracking / analytics
+
+#### Chapter 11 - Design a news feed system
+
+1. Feed publishing -> fanout on write (good for regular people)
+2. Feed retrieval -> fanout on read (good for celebrities with caching)
+3. Use graph DB to store / retrieve user connections
+4. Use a CDN for media files (photos / videos)
+
+#### Chapter 12 - Design a chat system
+
+1. Clients connect to chat servers via WebSockets for two-ways communication (send/receive messages)
+2. Other operations (login, group management, user profile) are stateless and can be done over HTTP
+3. Notification service for newer message
+4. Chat data is very large, read-to-write ratio is 1:1 -> prefer key-value store over SQL
+5. Service discovery to find out chat server to connect to
+6. One message sync queue per user -> either delivery the message or store them when offline
+7. Online presence through heartbeat messages
+8. End-to-end encryption of messages
+9. Caching messages on the client side
+
+#### Chapter 13 - Design a search autocomplete system
+
+1. One request per input character, with low latency
+2. Data gathering system, takes input queries and aggregates them (real-time or batch)
+3. Query service, given a prefix return the most 5 searched items
+4. Using prefix trees / tries is crucial for scalability
+5. Limiting max length for query makes it a O(1) operation
+6. Cache top queries at each node to avoid full traversal
+7. Tries are not suited for SQL, better to use document store or key-value store (where the key is the prefix and the value is the trie node)
+8. AJAX requests to save a full page re-render
+9. Browser caching for data changing infrequently
+10. Store tries in CDNs for local queries
+
+#### Desing 14 - Design YouTube
+
+1. Use CDN (expensive!) for streaming videos, API servers for other operations
+2. Video uploading: original storage, transcoding servers (multiple formats and bit rates), transcoded storage, CDN, metadata servers
+3. Video streaming: access metadata servers for search, then CDN for playback
+4. Pre-signed uploads and DRM/encryption for security
+5. Send only popular videos to CDN to save costs
+6. CDN also for geographical content (popular only in one country)
+
+#### Capitolo 15 - Design Google Drive
+
+1. Reliability is extremely important (data loss in unacceptable)
+2. Bandwidth usage needs to be contained
+3. Web server to handle upload/download
+4. Database to keep track of metadata
+5. Storage system for actual files (e.g., S3) with cold storage for inactive data
+6. The block server analyses deltas between versions and only sends changed blocks (saves bandwidth)
+7. Needs strong consistency by default (different clients must see the same file)
+8. Notification service via WebSockets for updates
+9. De-duplicate blocks to save on storage data
+
 ## Resources
 
 ![](<../../.gitbook/assets/immagine (5).png>)
