@@ -89,7 +89,6 @@
   * [Unity](g/game-development/unity.md)
   * [Unreal Engine](g/game-development/unreal-engine.md)
 * [Git](g/git.md)
-* [GraphQL](g/graphql.md)
 * [Guitar](g/guitar.md)
 
 ## H
