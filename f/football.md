@@ -28,3 +28,10 @@
 ### Tactics
 
 * [Tactics Explained: Roma](https://www.youtube.com/watch?v=3FbBFAz696k) - Tifo Football
+
+### Tickets
+
+* [Premier League tickets 2022/2023](https://www.premierleague.com/tickets)
+  * [Arsenal](https://www.arsenal.com/tickets)
+  * [Chelsea](https://www.chelseafc.com/en/tickets/mens-tickets)
+  * [Fulham](https://tickets.fulhamfc.com/content)
