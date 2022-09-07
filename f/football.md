@@ -14,10 +14,7 @@
 * [Goalsarena](https://www.goalsarena.co/)
 * [HooFoot](https://hoofoot.com/)
 * [OKGoals](https://www.okgoals.com/)
-* [r/soccer.live](https://rsoccer.live)
-
-### News
-
+* ### News
 * [Corriere dello Sport](https://www.corrieredellosport.it/)
 * [La Gazzetta dello Sport](https://www.gazzetta.it/)
 
