@@ -2,6 +2,8 @@
 
 ## Resources
 
+<figure><img src="../../.gitbook/assets/Let&#x27;s Play A Game!.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Achievements
 
 * [PSNProfiles](https://psnprofiles.com/)
