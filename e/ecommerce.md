@@ -28,6 +28,10 @@
 * [PriceRunner UK](https://www.pricerunner.com/)
 * [Skinflint (UK)](https://skinflint.co.uk/)
 
+### Product Reviews
+
+* [Looria](https://looria.com/) ([Reddit](https://looria.com/reddit/overview))
+
 ### Shipping
 
 * [Packlink](https://www.packlink.com/en-GB/)
