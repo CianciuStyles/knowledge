@@ -66,7 +66,6 @@
 ### Hacker News Threads
 
 * [Ask HN: What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
-* [Ask HN: What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
 
 ### Ideas for projects
 
