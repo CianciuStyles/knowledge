@@ -7,6 +7,11 @@
 
 ## Resources
 
+### Hacker News Threads
+
+* [Mind blowing documentaries?](https://news.ycombinator.com/item?id=18271167)
+* [What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=18085765) - [2](https://news.ycombinator.com/item?id=32799789)
+
 ### Reddit Threads
 
 * [What are some "must-see" documentaries?](https://www.reddit.com/r/AskReddit/comments/4iqp7f/what\_are\_some\_mustsee\_documentaries/)

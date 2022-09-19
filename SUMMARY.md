@@ -95,6 +95,9 @@
 
 * [Habits](h/habits.md)
 * [Happiness](h/happiness.md)
+* [House](h/house/README.md)
+  * [Buying](h/house/buying.md)
+  * [Renting](h/house/renting.md)
 
 ## I
 
@@ -180,7 +183,6 @@
 ## R
 
 * [Regular Expressions](r/regular-expressions.md)
-* [Renting](r/renting.md)
 * [Rust](r/rust.md)
 
 ## S
