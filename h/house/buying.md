@@ -1,5 +1,9 @@
 # Buying
 
+### Videos
+
+* [The Complete First Time Buyers Guide](https://www.youtube.com/watch?v=QnuOExYPh\_Y) - Alex Kerr
+
 ### Websites
 
 #### Mortgage
