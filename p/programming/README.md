@@ -65,13 +65,14 @@
 
 ### Hacker News Threads
 
-* [Ask HN: What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
-* [Ask HN: What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
+* [Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
+* [What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
+* [What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
 
 ### Ideas for projects
 
-* [Ask HN: Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
-* [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
+* [Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
+* [Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
 * [Challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/challengingprojects.html) - Austin Z. Henley
 * [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal

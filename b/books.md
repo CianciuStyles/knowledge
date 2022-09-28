@@ -41,6 +41,7 @@
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which books do you consider real gems in your field of work/study?](https://news.ycombinator.com/item?id=32790064)
 * [Which books made you the most money?](https://news.ycombinator.com/item?id=26321793)
+* [Which books you have read till now that were worth investing time in?](https://news.ycombinator.com/item?id=32935412)
 
 ### Infographics
 
