@@ -1,5 +1,5 @@
 ---
-description: https://www.typescriptlang.org/
+description: 'https://www.typescriptlang.org/'
 ---
 
 # TypeScript
@@ -274,16 +274,16 @@ class ConcreteConteact extends AbstractContact {
 1. Compile project in "loose mode"
    1. start with tests passing
    2. rename all files to `.ts`, with implicit any
-   3. fix only compile errors (do not change behaviour)
+   3. fix only compile errors \(do not change behaviour\)
    4. get tests passing again
 2. Explicit Any
    1. start with tests passing
    2. add `"noImplicitAny": true` to `tsconfig.json`
-   3. Where possible, provide a specific and appropriate type (explicit any otherwise)
+   3. Where possible, provide a specific and appropriate type \(explicit any otherwise\)
    4. get tests passing again
 3. Squash explicit anys, enable strict mode
    1. Enable strict mode in `tsconfig.json`
-   2. Replace explicit anys with more appropriate types (incrementally, in small chunks)
+   2. Replace explicit anys with more appropriate types \(incrementally, in small chunks\)
 
 ### Generics
 
@@ -400,14 +400,11 @@ y.b // ERROR!
 
 * [TypeScript 3 Fundamentals v2](https://frontendmasters.com/courses/typescript-v2/) - Mike North
 
-### Videos
-
-* [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k\_4tZ16qU) - Orta Therox
-
 ### Websites
 
 * [DefinitelyTyped](https://definitelytyped.org/) - The repository for high quality TypeScript type definitions
 * [r/typescript](https://www.reddit.com/r/typescript/) - TypeScript subreddit
 * [TypeScript](https://www.typescriptlang.org/) - Official website and docs
-* [TypeScript Playground](https://www.typescriptlang.org/play)
+
+
 
