@@ -43,6 +43,5 @@
 * [Chris Laux](https://www.chrislaux.com/)
 * [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
 * [Open Data Structures](https://opendatastructures.org/)
-* [The Algorithm](https://the-algorithms.com/)
 * [VisuAlgo](https://visualgo.net/en)
 
