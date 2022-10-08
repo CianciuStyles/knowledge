@@ -11,6 +11,7 @@
 * [What album can you listen to front to back without wanting to skip even a single song?](https://www.reddit.com/r/AskReddit/comments/m430pr/what\_album\_can\_you\_listen\_to\_front\_to\_back/)
 * [What album do you enjoy every song on?](https://www.reddit.com/r/AskReddit/comments/2ta8yv/what\_album\_do\_you\_enjoy\_every\_song\_on/)
 * [What album is a 10/10?](https://www.reddit.com/r/AskReddit/comments/geylde/what\_album\_is\_a\_1010/)
+* [What music album is a true masterpiece from start to finish?](https://www.reddit.com/r/AskReddit/comments/xqi5n6/what\_music\_album\_is\_a\_true\_masterpiece\_from\_start/)
 * [What album would you rate 10/10?](https://www.reddit.com/r/AskReddit/comments/49oogt/what\_album\_would\_you\_rate\_1010/)
 * [What are some famous pop songs from 2000-2010 that people seem to have forgotten?](https://www.reddit.com/r/AskReddit/comments/5q2sdd/what\_are\_some\_famous\_pop\_songs\_from\_20002010\_that/)
 * [What instrumental song gives you chills every time you hear it?](https://www.reddit.com/r/AskReddit/comments/4tiei1/what\_instrumental\_song\_gives\_you\_chills\_every/)
