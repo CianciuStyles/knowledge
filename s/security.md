@@ -84,6 +84,7 @@
 * [DVWA](https://dvwa.co.uk/) - Damn Vulnerable Web Application
 * [flAWS](http://flaws.cloud/)
 * [Guided Hacking](https://guidedhacking.com/)
+* [H4CK1NG G00GL3](https://h4ck1ng.google/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
@@ -120,3 +121,7 @@
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
 * [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos)
+
+### YouTube Playlists
+
+* [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
