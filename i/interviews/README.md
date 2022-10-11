@@ -43,6 +43,7 @@
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
 * [InterviewBit](https://www.interviewbit.com/)
 * [Interview Cake](https://www.interviewcake.com/)
+* [InterviewGuide.dev](https://interviewguide.dev/)
 * [interviewing.io](https://interviewing.io/)
 * [Pramp](https://www.pramp.com/#/) - Practice mock interviews
 
