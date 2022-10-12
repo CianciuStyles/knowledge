@@ -39,6 +39,12 @@ description: https://git-scm.com/
 * [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) - Tobias Günther
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
+* Git's database internals - Derrick Stolee
+  * [Part I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+  * [Part II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
+  * [Part III: file history queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
+  * [Part IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/)
+  * [Part V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/)
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
 
