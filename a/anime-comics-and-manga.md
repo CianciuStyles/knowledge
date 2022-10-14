@@ -5,6 +5,7 @@
 ### Reddit threads
 
 * [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats\_the\_best\_anime\_youve\_ever\_seen/)
+* [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what\_anime\_is\_must\_watch\_anime/)
 
 ### Websites
 
