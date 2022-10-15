@@ -54,6 +54,7 @@
 
 ### YouTube channels
 
+* [System Design Fight Club](https://www.youtube.com/channel/UC5\_QAB65IbajYkL6hzoY-gg/videos)
 * [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
 
 ### YouTube playlists
