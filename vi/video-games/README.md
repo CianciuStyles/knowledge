@@ -212,6 +212,7 @@
 * [What's a game everyone NEEDS to play in their lifetime?](https://www.reddit.com/r/gaming/comments/t6vhpi/whats\_a\_game\_everyone\_needs\_to\_play\_in\_their/)
 * [What's a game that's in your all-time top-5 that wouldn't be in most others' top-5?](https://www.reddit.com/r/patientgamers/comments/54gvrq/whats\_a\_game\_thats\_in\_your\_alltime\_top5\_that/)
 * [What's a game that's worth every penny?](https://www.reddit.com/r/AskReddit/comments/s0b8sh/whats\_a\_game\_thats\_worth\_every\_penny/)
+* [What's an unknown masterpiece you want everyone to play, no questions asked, completely blind?](https://www.reddit.com/r/patientgamers/comments/y55gc3/whats\_an\_unknown\_masterpiece\_you\_want\_everyone\_to/)
 * [What's the best 2 player games to play with a significant other?](https://www.reddit.com/r/AskReddit/comments/8adw0f/whats\_the\_best\_2\_player\_games\_to\_play\_with\_a/)
 * [What's the game you can complete again and again without ever getting tired of?](https://www.reddit.com/r/patientgamers/comments/6vuqez/whats\_the\_game\_you\_can\_complete\_again\_and\_again/)
 * [What's your all time favorite video game ?](https://www.reddit.com/r/AskReddit/comments/u452b6/whats\_your\_all\_time\_favorite\_video\_game/)
