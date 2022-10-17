@@ -52,6 +52,7 @@
 ### Websites
 
 * [Code Guide](https://codeguide.co/) - Mark Otto
+* [CodebaseShow](https://codebase.show/) - Web application implemented in multiple frontend and backend frameworks
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [HEAD](https://htmlhead.dev/) - A free guide to HTML5 \<head> elements
 * [HTML5 Security Checklist](https://html5sec.org/)
