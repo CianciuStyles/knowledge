@@ -49,6 +49,12 @@
 
 * [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
 
+### Reddit Threads
+
+* [What hobby doesn't require massive amount of time and money but is a lot of fun?](https://www.reddit.com/r/AskReddit/comments/5llwzm/what\_hobby\_doesnt\_require\_massive\_amount\_of\_time/)
+* [What is a hobby you can get into for almost no money?](https://www.reddit.com/r/AskReddit/comments/4knolu/what\_is\_a\_hobby\_you\_can\_get\_into\_for\_almost\_no/)
+* [What skill can anyone independently learn in five hours?](https://www.reddit.com/r/AskReddit/comments/4xit3w/what\_skill\_can\_anyone\_independently\_learn\_in\_five/)
+
 ### Websites
 
 * [Academic Earth](https://academicearth.org)
