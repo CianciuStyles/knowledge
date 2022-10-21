@@ -25,6 +25,7 @@
 * [Cracking The Coding Interview Solutions](https://github.com/alexhagiopol/cracking-the-coding-interview) - C++ and Python
 * [Coding Interview Gym](https://github.com/partho-maple/coding-interview-gym)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
 * [Google Interview University](https://github.com/Glavin001/google-interview-university)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview](https://github.com/Olshansk/interview)
