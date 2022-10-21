@@ -25,7 +25,6 @@
 * [AlgoDeck](https://github.com/teivah/algodeck)
 * [AlgorithmsAndDataStructure](https://github.com/codePerfectPlus/AlgorithmsAndDataStructure) - C++ and Python
 * [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
-* [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
 * [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 * [The Algorithms](https://github.com/TheAlgorithms)
 
@@ -44,6 +43,5 @@
 * [Chris Laux](https://www.chrislaux.com/)
 * [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
 * [Open Data Structures](https://opendatastructures.org/)
-* [The Algorithm](https://the-algorithms.com/)
 * [VisuAlgo](https://visualgo.net/en)
 
