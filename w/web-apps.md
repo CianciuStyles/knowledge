@@ -75,6 +75,7 @@
 
 ### Math
 
+* [Cymath](https://www.cymath.com/) - Math Problem Solver with Steps
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [Desmos](https://www.desmos.com/calculator)
 * [Mathway](https://www.mathway.com)

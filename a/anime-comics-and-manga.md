@@ -17,7 +17,6 @@
 * [VVVVID](https://www.vvvvid.it)
 * [Watch Anime Dub](https://www.wcostream.com/)
 * [Watch Cartoon Online](https://www.wcofun.com/)
-* [Zoro.to](https://zoro.to/)
 
 ## Comics
 

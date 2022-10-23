@@ -57,7 +57,6 @@
 * [Sega Retro](https://segaretro.org/Main\_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [Snes Central](https://snescentral.com/index.php)
-* [SteamDB](https://steamdb.info/)
 * [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
 * [The PlayStation Datacenter](https://psxdatacenter.com/)
 * [Universal Hint System](https://www.uhs-hints.com/)
