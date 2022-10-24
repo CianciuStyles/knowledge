@@ -77,7 +77,6 @@
 ### Books
 
 * [Getting Things Done](https://smile.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947) - David Allen
-* [How To Live On Twenty-Four Hours A Day](https://www.gutenberg.org/cache/epub/2274/pg2274-images.html) - Arnold Bennett
 * [The Attributes](https://smile.amazon.co.uk/dp/075355867X/) - Rich Diviney
   * [Summary by Bob Schoultz](https://bobsbeenreading.wordpress.com/2021/02/03/the-attributes-25-hidden-drivers-of-optimal-performance-by-rich-diviney/)
   * [Summary by Kyaw Wai Yan Tun](https://waiyancan.com/summary-the-attributes-rich-diviney/)

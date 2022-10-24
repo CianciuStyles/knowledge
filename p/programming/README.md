@@ -84,6 +84,7 @@
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
 * [More challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/morechallengingprojects.html) - Austin Z. Henley
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Tu V. Tran
+* [Projectbook](https://projectbook.code.brettchalupa.com/) - Brett Chalupa
 * [What To Code](https://github.com/joereynolds/what-to-code) - Joe Reynolds
 
 ### Open Source
