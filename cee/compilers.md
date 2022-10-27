@@ -23,7 +23,6 @@
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw
 * [Making a Brainf\*ck to C Compiler in Rust](https://medium.com/@thelukaswils/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d) - Luke I. Wilson
 * [Understanding Compilers - For Humans](https://medium.com/@thelukaswils/understanding-compilers-for-humans-ba970e045877) ([v2](https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd)) - Luke I. Wilson
-* [When is JIT Faster Than A Compiler?](https://shopify.engineering/when-jit-faster-than-compiler) - Noah Gibbs, Shopify
 * Writing a C Compiler - Nora Sandler
   * [Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html) - Integers
   * [Part 2](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html) - Unary Operators
@@ -56,6 +55,5 @@
 
 ### Websites
 
-* [AST Explorer](https://astexplorer.net/)
 * [Compiler Explorer](https://godbolt.org/)
 * [Decompiler Explorer](https://dogbolt.org/)
