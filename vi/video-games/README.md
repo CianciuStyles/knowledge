@@ -14,6 +14,7 @@
 
 ### Articles
 
+* [Amazing vintage video game ads from the 1980s and 1990s](https://rarehistoricalphotos.com/vintage-video-game-ads-1980s-1990s/)
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
 * [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/) - Rodrigo Copetti
@@ -57,6 +58,7 @@
 * [Sega Retro](https://segaretro.org/Main\_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [Snes Central](https://snescentral.com/index.php)
+* [SteamDB](https://steamdb.info/)
 * [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
 * [The PlayStation Datacenter](https://psxdatacenter.com/)
 * [Universal Hint System](https://www.uhs-hints.com/)
