@@ -257,6 +257,10 @@ set +x
 
 ## Resources
 
+### Articles
+
+* [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/) - Shrikant Sharat Kandula
+
 ### Books
 
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Mendel Cooper
