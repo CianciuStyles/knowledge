@@ -5,6 +5,7 @@
 ### Articles
 
 * [All about 64-bit programming in one place](https://software.intel.com/content/www/us/en/develop/blogs/all-about-64-bit-programming-in-one-place.html)
+* [Bit Twiddling Hacks](https://graphics.stanford.edu/\~seander/bithacks.html) - Sean Eron Anderson
 * [The Descent to C](https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/) - Simon Tatham ([Hacker News](https://news.ycombinator.com/item?id=7134798), [Reddit](https://www.reddit.com/r/programming/comments/1wcily/the\_descent\_to\_c/))
 * [The Lost Art of Structure Packing](https://www.catb.org/esr/structure-packing/) - Eric S. Raymond
 
