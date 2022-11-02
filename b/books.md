@@ -6,6 +6,7 @@
 
 * [How to Read a Book](https://www.artofmanliness.com/articles/how-to-read-a-book/) - The Art of Manliness
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/) - Farnam Street
+* [The 100 best books of the 21st century](https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century) - The Guardian
 
 ### Books
 
@@ -81,6 +82,14 @@
 * [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if\_one\_could\_only\_read\_5\_books\_over\_their/)
 * [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what\_is\_that\_one\_book\_that\_absolutely\_changed/)
 * [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats\_a\_book\_everyone\_should\_read\_at\_least\_once/)
+
+### Subreddits
+
+* [r/audiobooks](http://www.reddit.com/r/audiobooks)
+* [r/books](http://www.reddit.com/r/books)
+* [r/booksuggestions](http://www.reddit.com/r/booksuggestions)
+* [r/FreeEBOOKS](http://www.reddit.com/r/FreeEBOOKS)
+* [r/suggestmeabook](http://www.reddit.com/r/suggestmeabook)
 
 ### Websites
 
