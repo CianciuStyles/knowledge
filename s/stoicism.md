@@ -24,3 +24,7 @@
 ### Videos
 
 * [Marcus Aurelius' Meditations: The Stoic Ideal](https://www.youtube.com/watch?v=Auuk1y4DRgk) - Michael Sugrue
+
+### Websites
+
+* [Stoic Mind](https://www.stoicmind.app/)
