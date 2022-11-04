@@ -3,6 +3,7 @@
 ## 2-players board games to try
 
 * [Hive](https://www.boardgamearena.com/gamepanel?game=hive)
+* Patchwork
 * Spirit Island
 * The Captain Is Dead
 * The Crew
