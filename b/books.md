@@ -82,12 +82,16 @@
 * [Growing up, what was your favorite book series to read?](https://www.reddit.com/r/AskReddit/comments/3oe1tu/growing\_up\_what\_was\_your\_favorite\_book\_series\_to/)
 * [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if\_one\_could\_only\_read\_5\_books\_over\_their/)
 * [What book do you love so much that you have read it 5+ times?](https://www.reddit.com/r/books/comments/4kmwl3/what\_book\_do\_you\_love\_so\_much\_that\_you\_have\_read/)
+* [What book should everyone on the planet read?](https://www.reddit.com/r/books/comments/4x5ljx/what\_book\_should\_everyone\_on\_the\_planet\_read/)
+* [What book would recommend to read?](https://www.reddit.com/r/AskReddit/comments/5mjiqp/serious\_what\_book\_would\_recommend\_to\_read/)
 * [What books do you find yourself re-reading?](https://www.reddit.com/r/books/comments/526iku/what\_books\_do\_you\_find\_yourself\_rereading/)
 * [What is a book everyone must read?](https://www.reddit.com/r/AskReddit/comments/4h8zag/what\_is\_a\_book\_everyone\_must\_read/)
 * [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what\_is\_that\_one\_book\_that\_absolutely\_changed/)
+* [What is the greatest dystopian book you have ever read?](https://www.reddit.com/r/books/comments/4d4gpm/what\_is\_the\_greatest\_dystopian\_book\_you\_have\_ever/)
 * [What is your favorite book?](https://www.reddit.com/r/AskReddit/comments/5l9m02/what\_is\_your\_favorite\_book/)
 * [What was your last up-til-2 am book?](https://www.reddit.com/r/books/comments/46n7bb/what\_was\_your\_last\_uptil2\_am\_book/)
 * [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats\_a\_book\_everyone\_should\_read\_at\_least\_once/)
+* [What's the book that has made you laugh out loud the most?](https://www.reddit.com/r/books/comments/5pgmwr/whats\_the\_book\_that\_has\_made\_you\_laugh\_out\_loud/)
 
 ### Subreddits
 
