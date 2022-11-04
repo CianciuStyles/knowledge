@@ -42,6 +42,7 @@
 
 ### GitHub repositories
 
+* [Heroku Free Alternatives](https://github.com/Engagespot/heroku-free-alternatives)
 * [How I write backends](https://github.com/fpereiro/backendlore) - Federico Pereiro
 * [Web Developer Roadmap 2021](https://github.com/kamranahmedse/developer-roadmap)
 
