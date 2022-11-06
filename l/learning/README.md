@@ -45,6 +45,10 @@
 
 * [Learning How To Learn ](https://www.coursera.org/learn/learning-how-to-learn)- Barbara Oakley
 
+### GitHub Repositories
+
+* [YouTube Channels & Other Resources](https://github.com/PrejudiceNeutrino/YouTube\_Channels)
+
 ### Hacker News Threads
 
 * [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
