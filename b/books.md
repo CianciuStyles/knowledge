@@ -7,6 +7,7 @@
 * [How to Read a Book](https://www.artofmanliness.com/articles/how-to-read-a-book/) - The Art of Manliness
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/) - Farnam Street
 * [The 100 best books of the 21st century](https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century) - The Guardian
+* [Top 100 Books](https://www.bbc.co.uk/arts/bigread/top100.shtml) - The Big Read, BBC
 
 ### Books
 
@@ -79,19 +80,26 @@
 
 ### Reddit Threads
 
+* [Besides The Hunger Games and Harry Potter, what are your favorite well-written modern YA novels/series?](https://www.reddit.com/r/books/comments/58ck84/besides\_the\_hunger\_games\_and\_harry\_potter\_what/)
+* [Epic sci-fi novels you should read before they become films](https://www.reddit.com/r/books/comments/89pw9a/epic\_scifi\_novels\_you\_should\_read\_before\_they/)
 * [Growing up, what was your favorite book series to read?](https://www.reddit.com/r/AskReddit/comments/3oe1tu/growing\_up\_what\_was\_your\_favorite\_book\_series\_to/)
 * [If one could only read 5 books over their lifetime, what might some of those books be?](https://www.reddit.com/r/InsightfulQuestions/comments/mrvcpe/if\_one\_could\_only\_read\_5\_books\_over\_their/)
+* [What are your favorite light hearted, feel good or funny books? What is your comfort book?](https://www.reddit.com/r/books/comments/5c3nje/what\_are\_your\_favorite\_light\_hearted\_feel\_good\_or/)
+* [What book could you just not put down after picking up?](https://www.reddit.com/r/books/comments/53pknz/what\_book\_could\_you\_just\_not\_put\_down\_after/)
 * [What book do you love so much that you have read it 5+ times?](https://www.reddit.com/r/books/comments/4kmwl3/what\_book\_do\_you\_love\_so\_much\_that\_you\_have\_read/)
 * [What book should everyone on the planet read?](https://www.reddit.com/r/books/comments/4x5ljx/what\_book\_should\_everyone\_on\_the\_planet\_read/)
 * [What book would recommend to read?](https://www.reddit.com/r/AskReddit/comments/5mjiqp/serious\_what\_book\_would\_recommend\_to\_read/)
 * [What books do you find yourself re-reading?](https://www.reddit.com/r/books/comments/526iku/what\_books\_do\_you\_find\_yourself\_rereading/)
 * [What is a book everyone must read?](https://www.reddit.com/r/AskReddit/comments/4h8zag/what\_is\_a\_book\_everyone\_must\_read/)
 * [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what\_is\_that\_one\_book\_that\_absolutely\_changed/)
+* [What is the one book you read which made you rethink your life?](https://www.reddit.com/r/books/comments/7orehn/what\_is\_the\_one\_book\_you\_read\_which\_made\_you/)
 * [What is the greatest dystopian book you have ever read?](https://www.reddit.com/r/books/comments/4d4gpm/what\_is\_the\_greatest\_dystopian\_book\_you\_have\_ever/)
 * [What is your favorite book?](https://www.reddit.com/r/AskReddit/comments/5l9m02/what\_is\_your\_favorite\_book/)
 * [What was your last up-til-2 am book?](https://www.reddit.com/r/books/comments/46n7bb/what\_was\_your\_last\_uptil2\_am\_book/)
+* [What was your most 'can't-put-down' book that you've ever read?](https://www.reddit.com/r/AskReddit/comments/94i67o/what\_was\_your\_most\_cantputdown\_book\_that\_youve/)
 * [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats\_a\_book\_everyone\_should\_read\_at\_least\_once/)
 * [What's the book that has made you laugh out loud the most?](https://www.reddit.com/r/books/comments/5pgmwr/whats\_the\_book\_that\_has\_made\_you\_laugh\_out\_loud/)
+* [Which book to film adaptation hasn't been made yet which you think can be a big box office hit?](https://www.reddit.com/r/AskReddit/comments/a0izhl/which\_book\_to\_film\_adaptation\_hasnt\_been\_made\_yet/)
 
 ### Subreddits
 
