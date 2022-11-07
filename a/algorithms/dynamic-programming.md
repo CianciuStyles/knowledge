@@ -62,6 +62,7 @@
 * [DP IS EASY! 5 Steps to Think Through DP Questions](https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.) - LeetCode
 * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/) - Oleksii Trekhleb
 * [Dynamic programming vs memoization vs tabulation](https://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html) - programming.guide
+* [Dynamic Programming – 7 Steps to Solve any DP Interview Problem](https://dev.to/nikolaotasevic/dynamic-programming--7-steps-to-solve-any-dp-interview-problem-3870) - Nikola Otasevic
 * [Introduction to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming) - Jesse Farmer
 * [What are the top 10 most popular dynamic programming problems among interviewers?](https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers) - Quora
 
