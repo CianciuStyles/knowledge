@@ -34,6 +34,7 @@
 
 ### Articles
 
+* [12 Rules for Learning Foreign Languages in Record Time](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - Tim Ferriss
 * [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html) - Wesley Runnels
 
 ### Blogs
