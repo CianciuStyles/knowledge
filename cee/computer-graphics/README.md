@@ -13,3 +13,7 @@
 ### Courses
 
 * [Computer Graphics (Spring 2017)](https://www.youtube.com/playlist?list=PLkHIj5SCfn3\_PCotoqTetMpJc\_jkpkgLt) - MIT
+
+### Videos
+
+* [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)
