@@ -183,6 +183,7 @@
 ## R
 
 * [Regular Expressions](r/regular-expressions.md)
+* [Reverse Engineering](r/reverse-engineering.md)
 * [Rust](r/rust.md)
 
 ## S
