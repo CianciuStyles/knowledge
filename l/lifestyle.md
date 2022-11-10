@@ -7,6 +7,7 @@
 * [20 Things I Should Have Known at 20](https://julien.medium.com/20-things-i-should-have-known-at-20-9fd22ea8ebd7) - Julien Smith
 * [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) - Kevin Kelly
 * [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) - Kevin Kelly
+* [In Defense of Being Average](https://markmanson.net/being-average) - Mark Manson
 
 ### Blogs
 
