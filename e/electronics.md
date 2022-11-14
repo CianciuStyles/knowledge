@@ -1,5 +1,9 @@
 # Electronics
 
+### Books
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/) - Steven W. Smith, Ph.D.
+
 ### Courses
 
 * [Computer Architecture](https://www.coursera.org/learn/comparch) - David Wentzlaff
