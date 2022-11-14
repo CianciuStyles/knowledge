@@ -30,6 +30,7 @@
 * [Life Changing Books?](https://news.ycombinator.com/item?id=29605394)
 * [What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 * [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
+* [What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 * What book changed your life?
   * [2022](https://news.ycombinator.com/item?id=30734709)
   * [2020](https://news.ycombinator.com/item?id=25356908)
