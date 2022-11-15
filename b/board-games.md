@@ -36,6 +36,7 @@
 * [r/digitaltabletop](https://www.reddit.com/r/digitaltabletop/)
 * [Where to play boardgames online](https://www.reddit.com/r/boardgames/wiki/play\_online)
 * Threads
+  * [My top 22 games for 2-players](https://www.reddit.com/r/boardgames/comments/yu8qzy/my\_top\_22\_games\_for\_2players/)
   * [What’s the best board game to play with GF, who’s never played board games before?](https://www.reddit.com/r/boardgames/comments/q9azxj/whats\_the\_best\_board\_game\_to\_play\_with\_gf\_whos/)
   * [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats\_the\_best\_game\_you\_added\_to\_your\_collection/)
   * [What was the game that turned you into a board gamer?](https://www.reddit.com/r/boardgames/comments/lq6r38/what\_was\_the\_game\_that\_turned\_you\_into\_a\_board/)
