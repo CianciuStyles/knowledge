@@ -4,10 +4,6 @@
 
 * [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) - Dmitri Pavlutin
 * [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/) - Felix Gerschau
-* [JavaScript Promises: an introduction](https://web.dev/promises/) - Jake Archibald
-* The Two Pillars of Javascript - Eric Elliott
-  * [Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-  * [Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/) - Tania Rascia
 * [Unit Testing JavaScript Using Jasmine](https://bittersweetryan.github.io/jasmine-presentation/) - Ryan S. Anklam
 

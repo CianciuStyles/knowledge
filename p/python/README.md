@@ -13,13 +13,16 @@ description: https://www.python.org/
   * [Part 2 - Gradient Descent](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [A practical introduction to Functional Programming for Python coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/) - Sachin Joglekar
 * [Async Python: The Different Forms of Concurrency](https://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/) - Abu Ashraf Masnun
+* [AsyncIO for the Working Python Developer](https://yeraydiazdiaz.medium.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - Yeray Diaz
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
+* [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) - Mike Driscoll
 * [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - Victor Skvortsov
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
+* [Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) - Glyph Lefkowitz ([Reddit thread](https://www.reddit.com/r/Python/comments/4xnip4/python\_packaging\_is\_good\_now/))
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Meaning of Underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) - Dan Bader
