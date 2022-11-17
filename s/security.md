@@ -77,6 +77,10 @@
 * [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 
+### Videos
+
+* [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg) - David Brumley
+
 ### Websites
 
 * [Compiler Explorer](https://godbolt.org/)
