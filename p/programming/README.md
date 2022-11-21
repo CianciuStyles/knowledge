@@ -7,6 +7,7 @@
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl) - Emma Bostian
 * [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Justin Etheredge
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
+* [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
@@ -19,6 +20,7 @@
 * [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
+* [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) - Matt Might
 * [What I learned from Software Engineering at Google ](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)- Swizec Teller
 * [Why you should learn brainf\*ck (or: learn you a brainf\*ck for great good!)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig
@@ -40,6 +42,7 @@
 ### Books
 
 * [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
+* [How To Be A Programmer](https://www.doc.ic.ac.uk/\~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
