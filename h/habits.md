@@ -98,6 +98,10 @@
 
 ## Resources
 
+### Articles
+
+* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta
+
 ### Books
 
 * [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear
