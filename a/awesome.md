@@ -11,6 +11,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Code Reading: [https://github.com/CodeReaderMe/awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading)
 * Awesome CTO: [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
 * Awesome Developers Streams: [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
+* Awesome Diagramming: [https://github.com/shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming)
 * Awesome ELI5: [https://github.com/swapagarwal/awesome-eli5](https://github.com/swapagarwal/awesome-eli5)
 * Awesome GameDev:
   * [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
