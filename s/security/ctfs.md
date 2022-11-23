@@ -13,6 +13,10 @@
 * [CTFs](https://github.com/ctfs)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
+### Online Tools
+
+* [HexEd.it](https://hexed.it/)
+
 ### Websites
 
 * [CTFtime.org](https://ctftime.org/)
