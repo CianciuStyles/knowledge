@@ -55,6 +55,10 @@ int main() {
 
 ## Resources
 
+### Books
+
+* [Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) - Changkun Ou ([GitHub](https://github.com/changkun/modern-cpp-tutorial))
+
 ### GitHub repositories
 
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
@@ -64,6 +68,10 @@ int main() {
 * [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation)
+
+### Reddit Threads
+
+* [Open source projects with examples of good modern C++](https://www.reddit.com/r/cpp/comments/489f9l/open\_source\_projects\_with\_examples\_of\_good\_modern/)
 
 ### Videos
 

@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [This Is How To Make Friends As An Adult: 5 Secrets Backed By Research](https://www.bakadesuyo.com/2017/02/how-to-make-friends-as-an-adult/?utm\_source=sumome\&utm\_medium=twitter\&utm\_campaign=sumome\_share) - Backed By Science
+
 ### Books
 
 * [How to Stop Worrying and Start Living](https://smile.amazon.co.uk/Worrying-Start-Living-Personal-Development/dp/0749307234/) - Dale Carnegie
