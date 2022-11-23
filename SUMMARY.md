@@ -189,7 +189,7 @@
 
 ## S
 
-* [Security](s/security/README.md)
+* [Security](s/security.md)
   * [CTFs](s/security/ctfs.md)
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)

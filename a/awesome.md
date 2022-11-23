@@ -47,5 +47,6 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Web Apps (that work without login): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 * Awesome Web Development Resources: [https://github.com/markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 * Awesome Windows: [https://github.com/Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+* Awesome YouTubers: [https://github.com/JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
 * Best Websites A Programmer Should Visit: [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
