@@ -17,18 +17,6 @@
 
 * [HexEd.it](https://hexed.it/)
 
-#### Cryptography
-
-* [CrypTool-Online](https://www.cryptool.org/en/cto/)
-* [dCode.xyz](https://www.dcode.fr/en)
-* [Substitution cipher decoder](https://planetcalc.com/8047/)
-* [Vigenère Solver](https://www.guballa.de/vigenere-solver)
-
-#### Forensics
-
-* [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
-* [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
-
 ### Websites
 
 * [CTFtime.org](https://ctftime.org/)
