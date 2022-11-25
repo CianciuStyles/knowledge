@@ -22,4 +22,5 @@
 
 ### Websites
 
+* [Online Clean Sweep Assessment](https://www.thebigbiggoalsclub.com/assessments/cleansweep.php)
 * [The Art of Manliness](https://www.artofmanliness.com/)
