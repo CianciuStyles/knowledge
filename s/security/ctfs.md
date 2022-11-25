@@ -6,6 +6,7 @@
 
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [CTF Resources](https://ctfs.github.io/resources/)
+* [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 
 ### GitHub repositories
 
@@ -15,13 +16,16 @@
 
 ### Online Tools
 
+* [CyberChef](https://gchq.github.io/CyberChef/)
 * [HexEd.it](https://hexed.it/)
+* [JSfuck Decoder](https://enkhee-osiris.github.io/Decoder-JSFuck/)
 
 #### Cryptography
 
 * [CrypTool-Online](https://www.cryptool.org/en/cto/)
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
+* [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
 * [Vigenère Solver](https://www.guballa.de/vigenere-solver)
 
