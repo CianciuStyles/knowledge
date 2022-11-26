@@ -244,6 +244,7 @@
 * [What video game do you consider a masterpiece?](https://www.reddit.com/r/AskReddit/comments/w68jfd/what\_video\_game\_do\_you\_consider\_a\_masterpiece/)
 * [What video game is an absolute 100/100 in your opinion?](https://www.reddit.com/r/AskReddit/comments/y8tz9q/what\_video\_game\_is\_an\_absolute\_100100\_in\_your/)
 * [What video game left you saying "Fuck Yeah"?](https://www.reddit.com/r/AskReddit/comments/4g30rz/what\_video\_game\_left\_you\_saying\_fuck\_yeah/)
+* [What video game to you is a "must play"?](https://www.reddit.com/r/AskReddit/comments/1rd3ci/what\_video\_game\_to\_you\_is\_a\_must\_play/)
 * [What videogame was a 10/10 for you?](https://www.reddit.com/r/AskReddit/comments/594kzl/what\_videogame\_was\_a\_1010\_for\_you/)
 * [What would you say your GOTY game is for each year since 2010?](https://www.reddit.com/r/patientgamers/comments/8l2kyb/what\_would\_you\_say\_your\_goty\_game\_is\_for\_each/)
 * [Which game is genuinely a masterpiece to you?](https://www.reddit.com/r/patientgamers/comments/dx5yu4/which\_game\_is\_genuinely\_a\_masterpiece\_to\_you/)

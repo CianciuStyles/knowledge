@@ -7,7 +7,6 @@
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tm1k
 * [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
 * [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
-* [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
@@ -42,12 +41,6 @@
 
 * [RomHack](https://www.romhack.io/)
 
-### CTFs
-
-* [CTFtime.org](https://ctftime.org/)
-* [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
-* [picoCTF](https://picoctf.org/)
-
 ### Databases
 
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
@@ -59,6 +52,8 @@
 
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
+* [corkami/formats](https://github.com/corkami/formats) - file formats
+* [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
@@ -74,6 +69,7 @@
 
 * [Dradis](https://dradisframework.com/ce/)
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
+* [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
 * [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 

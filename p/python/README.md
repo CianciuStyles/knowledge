@@ -27,6 +27,7 @@ description: https://www.python.org/
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Meaning of Underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) - Dan Bader
+* [Threaded Asynchronous Magic and How to Wield It](https://medium.com/hackernoon/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32) - Cristian Medina
 * [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/) - Tushar Sadhwani
 * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) - Simeon Franklin
 * [Unicode in Python, Completely Demystified](http://farmdev.com/talks/unicode/) - Kumar McMiIlan

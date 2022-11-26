@@ -4,6 +4,7 @@
 
 ### Books
 
+* [A Journey in Creating an Operating System Kernel](https://539kernel.com/) - Mohammed Q. Hussain
 * [Operating System Design: The Xinu Approach](https://www.amazon.co.uk/Operating-System-Design-Approach-Second-ebook/dp/B00UVB2YA2) - Douglas Comer
 * [The intermezzOS Book](https://intermezzos.github.io/book/)
 * [The little book about OS development](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
