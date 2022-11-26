@@ -26,6 +26,7 @@
 
 #### Cryptography
 
+* [CrackStation](https://crackstation.net/) - Online Password Hash Cracking
 * [CrypTool-Online](https://www.cryptool.org/en/cto/)
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
@@ -38,6 +39,17 @@
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
 * [Wireshark](https://www.wireshark.org/)
+
+#### Web Exploitation
+
+* [Burp Suite](https://portswigger.net/burp) - web application security testing
+* [Commix](https://commixproject.com/) - command injection exploitation tool
+* [fimap](https://github.com/kurobeats/fimap) - local/remote file injection audit tool
+* [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS and VHost enumeration
+* [Raccoon](https://github.com/evyatarmeged/Raccoon) - vulnerability scanner
+* [sqlmap](https://sqlmap.org/) - automatic SQL injection tool
+* [w3af](https://w3af.org/) - web application attack framework
+* [XSSer](https://xsser.03c8.net/) - cross site scripter
 
 ### Websites
 

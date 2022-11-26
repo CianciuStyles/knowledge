@@ -15,12 +15,14 @@
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
+* [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html)
 
 ### Awesome
 
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
+* [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 
 ### Blogs
 
@@ -60,6 +62,7 @@
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
+* [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
 ### Subreddits
 
@@ -70,6 +73,7 @@
 * [Dradis](https://dradisframework.com/ce/)
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
+* [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 * [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 
@@ -119,6 +123,7 @@
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
 * [Infosec](https://www.youtube.com/c/InfoSecInstitute/videos)
 * [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos)
+* [IppSec](https://www.youtube.com/@ippsec/videos)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
 * [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos)
