@@ -38,6 +38,7 @@
 
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
+* [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 * [Wireshark](https://www.wireshark.org/)
 
 #### Web Exploitation
@@ -48,6 +49,7 @@
 * [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS and VHost enumeration
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) - vulnerability scanner
 * [sqlmap](https://sqlmap.org/) - automatic SQL injection tool
+* [SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
 * [w3af](https://w3af.org/) - web application attack framework
 * [XSSer](https://xsser.03c8.net/) - cross site scripter
 

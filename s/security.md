@@ -13,9 +13,14 @@
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
+* [Penetration Testing Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - HighOn.Coffee
+* [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/) - Offensive Security
+* [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - HighOn.Coffee
+* [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentest Monkey
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
-* [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html)
+* [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
+* [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - [2](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 
 ### Awesome
 
@@ -59,8 +64,10 @@
 * [Crypton](https://github.com/ashutosh1206/Crypton)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
+* [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
+* [SecLists](https://github.com/danielmiessler/SecLists)
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
@@ -74,8 +81,11 @@
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
 * [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
+* [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2)
+* [Linux Privilege Escalation Check Script](https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123)
 * [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
+* [ShellPop](https://github.com/0x00-0x00/shellpop)
 
 ### Videos
 
