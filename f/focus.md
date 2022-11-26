@@ -15,6 +15,7 @@
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/) - Zachary Wade Betz
 * [How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/) - Gernot Starke
 * [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/) - [Fadeke Adegbuyi](https://blog.doist.com/by/fadeke-adegbuyi/)
+* [The science behind concentration and improved focus](https://blog.sandglaz.com/the-science-behind-concentration/) - Alina Vrabie
 * [Training to Attain Jedi-Like Concentration](https://siimland.com/training-attain-jedi-like-concentration/) - Siim Land
 * [Your attention didn't collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - Johann Hari
 

@@ -5,7 +5,6 @@
 ### Articles
 
 * [Machine Learning: a sound primer](https://www.franzoni.eu/machine-learning-a-sound-primer/) - Alan Franzoni
-* [Top 10 data mining algorithms in plain English](https://hackerbits.com/data/top-10-data-mining-algorithms-in-plain-english/) - Ray Li
 
 ### Books
 

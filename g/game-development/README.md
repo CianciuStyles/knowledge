@@ -6,6 +6,7 @@
 * [Free ebooks about game development](https://gamedev.stackexchange.com/questions/355/free-ebooks-about-game-development)
 * [Game Programming Primer](https://tl.net/forum/general/382368-game-programming-primer)
 * [Graphic Courses](https://imsky.co/links/graphics-courses)
+* [I want to be a game developer… now what?](https://gamefromscratch.com/i-want-to-be-a-game-developer-now-what/)
 * [List of commercial video games with available source code](https://www.wikiwand.com/en/List\_of\_commercial\_video\_games\_with\_available\_source\_code)
 
 ### Books

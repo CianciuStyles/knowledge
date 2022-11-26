@@ -7,6 +7,9 @@
 * [Java 8 Tutorial](https://winterbe.com/posts/2014/03/16/java-8-tutorial/) - Benjamin Winterberg
 * [Java 11 Tutorial](https://winterbe.com/posts/2018/09/24/java-11-tutorial/) - Benjamin Winterberg
 * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/)
+* Thinking in Clojure for Java Programmers - Aaron Crew
+  * [Part 1 — A Gentle Intro](https://www.factual.com/blog/thinking-in-clojure-for-java-programmers-1/)
+  * [Part 2 — Macros FTW](https://www.factual.com/blog/thinking-in-clojure-for-java-programmers-part-2/)
 
 ### Books
 
