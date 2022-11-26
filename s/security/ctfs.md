@@ -11,11 +11,13 @@
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [CTF Resources](https://ctfs.github.io/resources/)
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
+* [picoCTF Primer](https://primer.picoctf.com/)
 
 ### GitHub repositories
 
 * [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [CTFs](https://github.com/ctfs)
+* [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
 ### Online Tools
@@ -36,10 +38,38 @@
 
 #### Forensics
 
+* [Aircrack-ng](https://www.aircrack-ng.org/)
+* [bettercap](https://www.bettercap.org/)
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
+
+#### Networking
+
+* [masscan](https://github.com/robertdavidgraham/masscan)
+* [Nmap](https://nmap.org/)
 * [Wireshark](https://www.wireshark.org/)
+* [Zmap](https://zmap.io/)
+
+#### Reverse Engineering
+
+* [androguard](https://github.com/androguard/androguard) - Android apps
+* [apk2gold](https://github.com/lxdvs/apk2gold) - Android apps
+* [Apktool](https://ibotpeaches.github.io/Apktool/) - Android apps
+* [BARF ](https://github.com/programa-stic/barf-project)- Binary Analysis and Reverse engineering Framework
+* [Boomerang ](https://github.com/BoomerangDecompiler/boomerang)- x86 to C decompiler
+* [IDA Pro](https://www.hex-rays.com/ida-pro/)
+* [Java decompiler online](http://www.javadecompilers.com/)
+* [PLASMA ](https://github.com/plasma-disassembler/plasma)- x86/ARM/MIPS disassembler
+* [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+
+#### Steganography
+
+* [StegCracker](https://github.com/Paradoxis/StegCracker)
+* [stegextract](https://github.com/evyatarmeged/stegextract)
+* [Steghide](https://steghide.sourceforge.net/)
+* [Stegsolve](https://wiki.bi0s.in/steganography/stegsolve/)
+* [zsteg](https://github.com/zed-0xff/zsteg/)
 
 #### Web Exploitation
 

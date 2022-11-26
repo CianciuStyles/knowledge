@@ -85,6 +85,7 @@
 * [Linux Privilege Escalation Check Script](https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123)
 * [Metasploit](https://www.metasploit.com/)
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
+* [Security Tools](https://tools.tldr.run/)
 * [ShellPop](https://github.com/0x00-0x00/shellpop)
 
 ### Videos
