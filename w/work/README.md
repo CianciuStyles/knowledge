@@ -26,6 +26,7 @@
 ### Websites
 
 * [50 Ways to Get a Job](https://50waystogetajob.com/)
+* [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
 * [LinkedIn](https://it.linkedin.com/)
 * [We've all faced rejection](https://rejected.us/)
