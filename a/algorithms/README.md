@@ -37,6 +37,7 @@
 ### Videos
 
 * [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u\_k2LIZyo)
+* [The Algorithm That Transformed The World (Fast Fourier Transform)](https://www.youtube.com/watch?v=nmgFG7PUHfo) - Veritasium
 
 ### Websites
 
