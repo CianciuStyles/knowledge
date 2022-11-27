@@ -100,7 +100,8 @@
 
 ### Articles
 
-* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta
+* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta, Zen Habits
+* [The Spiral of Successful Habits](https://zenhabits.net/spiral/) - Leo Babauta, Zen Habits
 
 ### Books
 

@@ -42,6 +42,7 @@
 
 ### Fonts
 
+* [Copy Paste Character](https://copypastecharacter.com/)
 * [WhatTheFont!](https://www.myfonts.com/WhatTheFont/)
 
 ### Habit Formation

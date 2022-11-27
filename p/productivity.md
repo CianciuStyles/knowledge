@@ -67,6 +67,7 @@
 * [If You’re Busy, You’re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers](https://www.calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/) - Cal Newport
 * [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind\_Sweep\_Trigger\_List.pdf) - Getting Things Done
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
+* [The Getting Things Done (GTD) FAQ](https://zenhabits.net/the-getting-things-done-gtd-faq/) - Leo Babauta, Zen Habits
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
 * [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
