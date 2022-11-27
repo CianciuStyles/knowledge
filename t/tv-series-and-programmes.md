@@ -19,7 +19,6 @@
 * [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what\_show\_had\_you\_hooked\_after\_1\_episode/)
 * [What show will you never get tired of rewatching?](https://www.reddit.com/r/AskReddit/comments/y6wlhi/what\_show\_will\_you\_never\_get\_tired\_of\_rewatching/)
 * [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)
-* [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
 
 ### To Watch
 

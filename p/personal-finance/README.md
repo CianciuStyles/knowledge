@@ -16,6 +16,7 @@
 
 * [Get Rich Slowly](https://www.getrichslowly.org/)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+* [Personal Finance Club](https://www.personalfinanceclub.com/blog/) - Jeremy Schneider
 * [The Smart Passive Income Blog](https://www.smartpassiveincome.com/)
 * [Young Money](https://www.youngmoneyblog.co.uk/) - Iona Bain
 
@@ -36,6 +37,10 @@
 * [The Wealthy Barber: Everyone's Commonsense Guide to Becoming Financially Independent](https://smile.amazon.co.uk/dp/0761513116/) - David Chilton
 * [Your Money or Your Life](https://smile.amazon.co.uk/dp/0143115766/) - Vicki Robin, Joe Dominguez
 
+### Hacker News Threads
+
+* [Alternative ways to make money with coding and system skills?](https://news.ycombinator.com/item?id=33619650)
+
 ### Infographics
 
 ![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (4).png>)
@@ -45,6 +50,7 @@
 ### Reddit Threads
 
 * [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
+* [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways\_to\_supplement\_your\_income\_here\_in\_the\_uk/)
 
 ### Videos
 

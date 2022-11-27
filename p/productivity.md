@@ -101,3 +101,7 @@
 * [My Analog Journal](https://www.youtube.com/c/MyAnalogJournal/videos)
 * [Poolsuite FM](https://poolsuite.net/)
 * [SomaFM](https://somafm.com/listen/)
+
+### Reddit Threads
+
+* [How can I reward myself without spending money?](https://www.reddit.com/r/productivity/comments/yts7cw/how\_can\_i\_reward\_myself\_without\_spending\_money/)
