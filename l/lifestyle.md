@@ -8,6 +8,7 @@
 * [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) - Kevin Kelly
 * [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) - Kevin Kelly
 * [In Defense of Being Average](https://markmanson.net/being-average) - Mark Manson
+* [The Evolution of Anxiety: Why We Worry and What to Do About It](https://jamesclear.com/evolution-of-anxiety) - James Clear
 * [To Anyone Who Thinks They’re Falling Behind](https://medium.com/@jamievaron/to-anyone-who-thinks-they-re-falling-behind-f194afde9148) - Jamie Varon
 
 ### Blogs
@@ -23,4 +24,5 @@
 ### Websites
 
 * [Online Clean Sweep Assessment](https://www.thebigbiggoalsclub.com/assessments/cleansweep.php)
+  * [Alternative](https://www.thebigbiggoalsclub.com/assessments/cleansweep.html)
 * [The Art of Manliness](https://www.artofmanliness.com/)
