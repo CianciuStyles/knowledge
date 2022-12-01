@@ -65,6 +65,7 @@
 
 #### Steganography
 
+* [Aperi'Solve](https://www.aperisolve.com/)
 * [StegCracker](https://github.com/Paradoxis/StegCracker)
 * [stegextract](https://github.com/evyatarmeged/stegextract)
 * [Steghide](https://steghide.sourceforge.net/)
