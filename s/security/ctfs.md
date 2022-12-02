@@ -48,6 +48,7 @@
 
 * [masscan](https://github.com/robertdavidgraham/masscan)
 * [Nmap](https://nmap.org/)
+  * [Cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
 * [Wireshark](https://www.wireshark.org/)
 * [Zmap](https://zmap.io/)
 
