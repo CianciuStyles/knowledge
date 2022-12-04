@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [K-Means Clustering](https://johnloeber.com/docs/kmeans.html) - John Loeber
 * [Machine Learning: a sound primer](https://www.franzoni.eu/machine-learning-a-sound-primer/) - Alan Franzoni
 * Machine Learning Exercises in Python - John Wittenauer
   * [Part 1 - Simple Linear Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
@@ -23,6 +24,8 @@
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/\~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - Christopher M. Bishop
 * [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Kevin Murphy
 * [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+* [The Nature Of Code](https://natureofcode.com/book/) - Daniel Shiffman
+  * [Chapter 10: Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
 
 ### GitHub repositories
 
