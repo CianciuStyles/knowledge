@@ -5,6 +5,17 @@
 ### Articles
 
 * [Machine Learning: a sound primer](https://www.franzoni.eu/machine-learning-a-sound-primer/) - Alan Franzoni
+* Machine Learning Exercises in Python - John Wittenauer
+  * [Part 1 - Simple Linear Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+  * [Part 2 - Multivariate Linear Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-2/)
+  * [Part 3 - Logistic Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-3/)
+  * [Part 4 - Multivariate Logistic Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-4/)
+  * [Part 5 - Neural Networks](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-5/)
+  * [Part 6 - Support Vector Machines](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-6/)
+  * [Part 7 - K-Means Clustering & PCA](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-7/)
+  * [Part 8 - Anomaly Detection & Recommendation](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-8/)
+* [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850) - Per Harald Borgen
+* [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) - Per Harald Borgen
 * [Top 10 data mining algorithms in plain English](https://hackerbits.com/data/top-10-data-mining-algorithms-in-plain-english/) - Ray Li
 
 ### Books
