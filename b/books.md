@@ -4,11 +4,9 @@
 
 ### Articles
 
-* [100 Books To Read In A Lifetime](https://www.amazon.co.uk/100-best-books/b?ie=UTF8\&node=4656884031) - Amazon UK
 * [How to Read a Book](https://www.artofmanliness.com/articles/how-to-read-a-book/) - The Art of Manliness
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/) - Farnam Street
 * [The 100 best books of the 21st century](https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century) - The Guardian
-* [Top 100 Books](https://www.alistofbooks.com/lists/10-top-100-books-by-newsweek) - Newsweek
 * [Top 100 Books](https://www.bbc.co.uk/arts/bigread/top100.shtml) - The Big Read, BBC
 
 ### Books

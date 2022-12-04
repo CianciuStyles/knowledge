@@ -62,6 +62,7 @@
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
+* [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
@@ -77,7 +78,7 @@
 
 ### Tools
 
-* [Dradis](https://dradisframework.com/ce/)
+* [Dradis](https://dradisframework.com/ce/) - Reporting and collaboration tool
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
 * [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
@@ -97,10 +98,9 @@
 * [Compiler Explorer](https://godbolt.org/)
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 * [Cybrary](https://www.cybrary.it/)
-* [DVWA](https://dvwa.co.uk/) - Damn Vulnerable Web Application
 * [flAWS](http://flaws.cloud/)
 * [Guided Hacking](https://guidedhacking.com/)
-* [H4CK1NG G00GL3](https://h4ck1ng.google/)
+* [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
 * [Hack The Box](https://www.hackthebox.eu/)
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
