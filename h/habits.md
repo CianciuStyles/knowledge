@@ -100,7 +100,9 @@
 
 ### Articles
 
-* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta
+* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta, Zen Habits
+* [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) - James Clear
+* [The Spiral of Successful Habits](https://zenhabits.net/spiral/) - Leo Babauta, Zen Habits
 
 ### Books
 
