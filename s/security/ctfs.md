@@ -80,6 +80,7 @@
 * [fimap](https://github.com/kurobeats/fimap) - local/remote file injection audit tool
 * [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS and VHost enumeration
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) - vulnerability scanner
+* [Reverse Shell Generator](https://www.revshells.com/)
 * [sqlmap](https://sqlmap.org/) - automatic SQL injection tool
 * [SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
 * [w3af](https://w3af.org/) - web application attack framework
