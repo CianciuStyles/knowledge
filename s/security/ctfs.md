@@ -32,8 +32,6 @@
 * [CrypTool-Online](https://www.cryptool.org/en/cto/)
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
-* [Hash Decrypter](https://hashes.com/en/decrypt/hash)
-* [Hash Type Identifier](https://hashes.com/en/tools/hash\_identifier)
 * [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
 * [Vigenère Solver](https://www.guballa.de/vigenere-solver)
@@ -42,11 +40,8 @@
 
 * [Aircrack-ng](https://www.aircrack-ng.org/)
 * [bettercap](https://www.bettercap.org/)
-* [InQuest Labs](https://labs.inquest.net/)
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
-* [Simple Email Reputation](https://emailrep.io/)
-* [VirusTotal](https://www.virustotal.com/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 
 #### Networking

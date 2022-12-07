@@ -9,6 +9,10 @@
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Microsoft Docs
 * [How Comples Systems Fail](https://how.complexsystems.fail/) - Richard Cook
 
+### Books
+
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html) - Mikito Takada
+
 ### Hacker News threads
 
 * [Ask HN: Best books on modern distributed systems](https://news.ycombinator.com/item?id=28391738)

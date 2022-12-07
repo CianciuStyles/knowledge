@@ -14,14 +14,15 @@
 
 ### Books
 
-* Building Microservices - Sam Newman
-* Designing Data-Intensive Applications - Martin Kleppmann
-* Domain-Driven Design - Eric Evans
-* Microservice Patterns and Best Practices - Victor Feitosa Pacheco
+* [Building Microservices](https://smile.amazon.co.uk/Building-Microservices-Second-Sam-Newman/dp/1492034029/) - Sam Newman
+* [Designing Data-Intensive Applications](https://smile.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) - Martin Kleppmann
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html) - Mikito Takada
+* [Domain-Driven Design](https://smile.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Eric Evans
+* [Microservice Patterns and Best Practices](https://smile.amazon.co.uk/Microservice-Patterns-Best-Practices-microservices/dp/1788474031/) - Victor Feitosa Pacheco
 * System Design Interview: An Insider's Guide - Alex Xu
   * [Volume 1](https://smile.amazon.co.uk/dp/B08B35X2ND)
   * [Volume 2](https://smile.amazon.co.uk/dp/1736049119/)
-* Web Scalability for Startup Engineers - Artur Ejsmont
+* [Web Scalability for Startup Engineers](https://smile.amazon.co.uk/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655/) - Artur Ejsmont
 
 ### Courses
 
