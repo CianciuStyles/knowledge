@@ -42,8 +42,11 @@
 
 * [Aircrack-ng](https://www.aircrack-ng.org/)
 * [bettercap](https://www.bettercap.org/)
+* [InQuest Labs](https://labs.inquest.net/)
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
+* [Simple Email Reputation](https://emailrep.io/)
+* [VirusTotal](https://www.virustotal.com/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 
 #### Networking
