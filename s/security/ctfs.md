@@ -32,6 +32,8 @@
 * [CrypTool-Online](https://www.cryptool.org/en/cto/)
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
+* [Hash Decrypter](https://hashes.com/en/decrypt/hash)
+* [Hash Type Identifier](https://hashes.com/en/tools/hash\_identifier)
 * [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
 * [Vigenère Solver](https://www.guballa.de/vigenere-solver)
