@@ -5,7 +5,6 @@
 ### Articles
 
 * [Doomsday Algorithm](https://rudy.ca/doomsday.html)
-* [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) - Susan Rigetti
 * The Mathematics of 2048 - John Lees-Miller
   * [Minimum Moves to Win with Markov Chains](https://jdlm.info/articles/2017/08/05/markov-chain-2048.html) ([HN](https://news.ycombinator.com/item?id=15327837))
   * [Counting States with Combinatorics](https://jdlm.info/articles/2017/09/17/counting-states-combinatorics-2048.html) ([HN](https://news.ycombinator.com/item?id=15327837))
@@ -43,7 +42,6 @@
 
 ### Hacker News threads
 
-* [Can you recommend me a book to (re)learn math?](https://news.ycombinator.com/item?id=33859823)
 * [Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 
 ### Websites
