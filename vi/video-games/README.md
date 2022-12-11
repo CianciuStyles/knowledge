@@ -146,6 +146,7 @@
 * [Finally getting a PS4](https://www.reddit.com/r/patientgamers/comments/5seel8/finally\_getting\_a\_ps4/)
 * [Finally got a PS4, what are the must plays?](https://www.reddit.com/r/patientgamers/comments/447ijv/finally\_got\_a\_ps4\_what\_are\_the\_must\_plays/)
 * [Gamers of reddit, what is the hardest game you have ever played in your entire life?](https://www.reddit.com/r/AskReddit/comments/4808ps/gamers\_of\_reddit\_what\_is\_the\_hardest\_game\_you/)
+* [Gamers of Reddit, what video game has the best storyline?](https://www.reddit.com/r/AskReddit/comments/zbjbpq/gamers\_of\_reddit\_what\_video\_game\_has\_the\_best/)
 * [Gamers who have a potato pc, what is your favorite low-end/old game to play?](https://www.reddit.com/r/patientgamers/comments/bpbb16/gamers\_who\_have\_a\_potato\_pc\_what\_is\_your\_favorite/)
 * [Games to play Local Co-op with my girlfriend](https://www.reddit.com/r/patientgamers/comments/6iwypk/games\_to\_play\_local\_coop\_with\_my\_girlfriend/)
 * [Games to play with your SO?](https://www.reddit.com/r/patientgamers/comments/6upgt9/games\_to\_play\_with\_your\_so/)
