@@ -57,7 +57,6 @@
 
 ### GitHub Repositories
 
-* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
@@ -78,6 +77,7 @@
 
 ### Tools
 
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon) - automated enumeration of services
 * [Dradis](https://dradisframework.com/ce/) - Reporting and collaboration tool
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
