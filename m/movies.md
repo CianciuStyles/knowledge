@@ -2,9 +2,7 @@
 
 ### Lists
 
-* [125 Movies That Absolutely Every Man Should See](https://www.listal.com/list/125-movies-absolutely-every-man)
 * [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337) - LifeHacker
-* [500 Greatest Films of All Time](https://www.listchallenges.com/empire-magazines-500-greatest-films-of-all-time) - Empire Magazine
 * [The 50 Greatest Geek Movies](https://www.mastersinit.org/the-50-greatest-geek-movies)
 * [Top 245 Movies](https://letterboxd.com/zonark000/list/top-245-movies/) - Letterboxd
 
