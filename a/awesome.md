@@ -26,8 +26,6 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Katas: [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
 * Awesome Kotlin: [https://github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 * Awesome LaTeX: [https://github.com/egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
-* Awesome LEGO: [https://github.com/ad-si/awesome-lego](https://github.com/ad-si/awesome-lego)
-* Awesome LEGO Machine Learning: [https://github.com/360er0/awesome-lego-machine-learning](https://github.com/360er0/awesome-lego-machine-learning)
 * Awesome Machine Learning: [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * Awesome macOS: [https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 * Awesome macOS Open Source: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
