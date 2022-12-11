@@ -18,6 +18,7 @@
 
 ### Bookshelves
 
+* [Alex Vermeer](https://alexvermeer.com/bookshelf/)
 * [Bill Gates](https://www.gatesnotes.com/Books)
 * [Derek Sivers](https://sive.rs/book)
 * [Jordan Peterson](https://www.jordanbpeterson.com/great-books/)
