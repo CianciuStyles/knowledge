@@ -20,6 +20,24 @@
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
+### Offline Tools
+
+#### Forensics
+
+* [Aircrack-ng](https://www.aircrack-ng.org/) - assess WiFi security
+* [bettercap](https://www.bettercap.org/) - perform reconnaissance and attack WiFi networks, Bluetooth devices and IPv4/IPv6 networks
+* [capa](https://github.com/mandiant/capa) - identify capabilities in executable files
+* [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) - determines types of files
+* [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
+
+#### Networking
+
+* [masscan](https://github.com/robertdavidgraham/masscan)
+* [Nmap](https://nmap.org/)
+  * [Cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
+* [Wireshark](https://www.wireshark.org/)
+* [Zmap](https://zmap.io/)
+
 ### Online Tools
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
@@ -40,24 +58,11 @@
 
 #### Forensics
 
-* [Aircrack-ng](https://www.aircrack-ng.org/)
-* [bettercap](https://www.bettercap.org/)
-* [capa](https://github.com/mandiant/capa) - identify capabilities in executable files
-* [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) - determines types of files
 * [InQuest Labs](https://labs.inquest.net/)
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
 * [Simple Email Reputation](https://emailrep.io/)
 * [VirusTotal](https://www.virustotal.com/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
-* [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
-
-#### Networking
-
-* [masscan](https://github.com/robertdavidgraham/masscan)
-* [Nmap](https://nmap.org/)
-  * [Cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
-* [Wireshark](https://www.wireshark.org/)
-* [Zmap](https://zmap.io/)
 
 #### Reverse Engineering
 
