@@ -32,6 +32,8 @@
 * [CrypTool-Online](https://www.cryptool.org/en/cto/)
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
+* [Hash Decrypter](https://hashes.com/en/decrypt/hash)
+* [Hash Type Identifier](https://hashes.com/en/tools/hash\_identifier)
 * [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
 * [Vigenère Solver](https://www.guballa.de/vigenere-solver)
@@ -40,8 +42,13 @@
 
 * [Aircrack-ng](https://www.aircrack-ng.org/)
 * [bettercap](https://www.bettercap.org/)
+* [capa](https://github.com/mandiant/capa) - identify capabilities in executable files
+* [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) - determines types of files
+* [InQuest Labs](https://labs.inquest.net/)
 * [PacketTotal](https://packettotal.com/) - A free, online PCAP analysis engine
 * [pcapfix](https://f00l.de/hacking/pcapfix.php) - online pcap / pcapng repair service
+* [Simple Email Reputation](https://emailrep.io/)
+* [VirusTotal](https://www.virustotal.com/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 
 #### Networking
@@ -62,6 +69,7 @@
 * [IDA Pro](https://www.hex-rays.com/ida-pro/)
 * [Java decompiler online](http://www.javadecompilers.com/)
 * [PLASMA ](https://github.com/plasma-disassembler/plasma)- x86/ARM/MIPS disassembler
+* [Resource Hacker](http://www.angusj.com/resourcehacker/) - resource compiler/decompiler for Windows applications
 * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 
 #### Steganography
@@ -79,6 +87,7 @@
 * [Commix](https://commixproject.com/) - command injection exploitation tool
 * [fimap](https://github.com/kurobeats/fimap) - local/remote file injection audit tool
 * [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS and VHost enumeration
+* [Nikto](https://github.com/sullo/nikto) - web server scanner
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) - vulnerability scanner
 * [Reverse Shell Generator](https://www.revshells.com/)
 * [sqlmap](https://sqlmap.org/) - automatic SQL injection tool
