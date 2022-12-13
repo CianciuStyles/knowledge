@@ -9,7 +9,6 @@
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [The Ask A Manager guide To Asking For A Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html) - Ask A Manager
-* [The best career advice I’ve received](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/) - Nicholas C. Zakas
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans
 * [Up or Out: Solving the IT Turnover Crisis](https://thedailywtf.com/articles/up-or-out-solving-the-it-turnover-crisis) - Alex Papadimoulis
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - Charles Duhigg
