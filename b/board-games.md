@@ -18,6 +18,10 @@
   * [1-25](https://bitewinggames.com/top-50-board-games-of-all-time-2022-edition-games-25-1/)
   * [26-50](https://bitewinggames.com/top-50-board-games-of-all-time-2022-edition-games-50-26/)
 
+### Hacker News threads
+
+* [Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
+
 ### Infographics
 
 ![How To Choose The Perfect Board Game](../.gitbook/assets/7kcoaut8vky41.jpg)
