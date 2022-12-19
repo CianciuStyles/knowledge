@@ -168,12 +168,13 @@
 * [Programming](p/programming/README.md)
   * [Functional Programming](p/programming/functional-programming.md)
 * [Prometheus](p/prometheus.md)
-* [Python](p/python/README.md)
-  * [Django](p/python/django.md)
-  * [Pandas](p/python/pandas.md)
+* [Psychology](p/psychology.md)
 * [Public Speaking](p/public-speaking.md)
 * [Purpose](p/purpose.md)
 * [Puzzles](p/puzzles.md)
+* [Python](p/python/README.md)
+  * [Django](p/python/django.md)
+  * [Pandas](p/python/pandas.md)
 
 ## Q
 
