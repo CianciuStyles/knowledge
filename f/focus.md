@@ -15,6 +15,7 @@
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/) - Zachary Wade Betz
 * [How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/) - Gernot Starke
 * [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/) - [Fadeke Adegbuyi](https://blog.doist.com/by/fadeke-adegbuyi/)
+* [The Complete Guide to Increasing Your Focus](https://www.scotthyoung.com/blog/2018/07/12/guide-to-focus/) - Scott H. Young
 * [The science behind concentration and improved focus](https://blog.sandglaz.com/the-science-behind-concentration/) - Alina Vrabie
 * [Training to Attain Jedi-Like Concentration](https://siimland.com/training-attain-jedi-like-concentration/) - Siim Land
 * [Your attention didn't collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - Johann Hari
@@ -22,6 +23,8 @@
 ### Books
 
 * [Deep Work](https://smile.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/) - Cal Newport
+* [Finding Flow ](https://smile.amazon.co.uk/Finding-Flow-Psychology-Engagement-MasterMinds/dp/0465024114/)- Mihaly Csikszentmihalyi
+  * [Summary by Alex Vermeer](https://alexvermeer.com/finding-flow/)
 * [The Distracted Mind: Ancient Brains in a High-Tech World](https://smile.amazon.co.uk/dp/0262534436/) - Adam Gazzaley, Larry D. Rosen
 
 ### Podcasts
