@@ -13,6 +13,7 @@
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
+* [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) - FalconSpy
 * [Penetration Testing Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - HighOn.Coffee
 * [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/) - Offensive Security
 * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - HighOn.Coffee
@@ -55,9 +56,22 @@
 * [Exploit Database](https://www.exploit-db.com/)
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search)
 
+### Discords
+
+* [Hack The Box](https://discord.gg/hackthebox)
+* [InfoSec Prep](https://discord.gg/infosecprep)
+* [Offensive Security](https://discord.gg/offsec)
+* [Try Hack Me](https://discord.gg/tryhackme)
+* [Vulnhub](https://discord.gg/yNndh7R)
+
+### Frameworks
+
+* [MITRE ATT\&CK](https://attack.mitre.org/)
+* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+* [The Unified Kill Chain](https://www.unifiedkillchain.com/)
+
 ### GitHub Repositories
 
-* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings

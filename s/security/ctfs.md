@@ -22,6 +22,15 @@
 
 ### Offline Tools
 
+#### Enumeration
+
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
+* [nmapAutomator](https://github.com/21y4d/nmapAutomator)
+* [Raccoon](https://github.com/evyatarmeged/Raccoon)
+* [Reconbot](https://github.com/0bs3ssion/Reconbot)
+* [RustScan](https://github.com/RustScan/RustScan)
+
 #### Forensics
 
 * [Aircrack-ng](https://www.aircrack-ng.org/) - assess WiFi security
@@ -37,6 +46,12 @@
   * [Cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
 * [Wireshark](https://www.wireshark.org/)
 * [Zmap](https://zmap.io/)
+
+#### Password Cracking
+
+* [BruteX](https://github.com/1N3/BruteX)
+* [hashcat](https://hashcat.net/hashcat/)
+* [John the Ripper](https://www.openwall.com/john/)
 
 ### Online Tools
 
@@ -90,14 +105,17 @@
 
 * [Burp Suite](https://portswigger.net/burp) - web application security testing
 * [Commix](https://commixproject.com/) - command injection exploitation tool
+* [dirsearch](https://github.com/maurosoria/dirsearch)
 * [fimap](https://github.com/kurobeats/fimap) - local/remote file injection audit tool
 * [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS and VHost enumeration
+* [goWAPT](https://github.com/dzonerzy/goWAPT)
 * [Nikto](https://github.com/sullo/nikto) - web server scanner
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) - vulnerability scanner
 * [Reverse Shell Generator](https://www.revshells.com/)
 * [sqlmap](https://sqlmap.org/) - automatic SQL injection tool
 * [SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
 * [w3af](https://w3af.org/) - web application attack framework
+* [wfuzz](https://github.com/xmendez/wfuzz)
 * [XSSer](https://xsser.03c8.net/) - cross site scripter
 
 ### Websites
