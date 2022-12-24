@@ -14,9 +14,7 @@
 * [Goalsarena](https://www.goalsarena.co/)
 * [HooFoot](https://hoofoot.com/)
 * [OKGoals](https://www.okgoals.com/)
-
-### News
-
+* ### News
 * [Corriere dello Sport](https://www.corrieredellosport.it/)
 * [La Gazzetta dello Sport](https://www.gazzetta.it/)
 
@@ -34,7 +32,3 @@
   * [Arsenal](https://www.arsenal.com/tickets)
   * [Chelsea](https://www.chelseafc.com/en/tickets/mens-tickets)
   * [Fulham](https://tickets.fulhamfc.com/content)
-
-### Twitter
-
-* [The best ever Champions League goals](https://t.co/urGwoR7JRD)
