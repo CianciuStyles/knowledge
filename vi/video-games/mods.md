@@ -18,10 +18,6 @@
 
 * [Brutal Doom](https://www.moddb.com/mods/brutal-doom)
 
-### Fallout 2
-
-* [Fallout Et Tu](https://github.com/rotators/Fo1in2) - Fallout 1 to 2 engine conversion
-
 ### Fallout: New Vegas
 
 * [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138/)

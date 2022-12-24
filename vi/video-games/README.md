@@ -253,6 +253,7 @@
 * [You are locked in a room for 3 months with no internet. What 3 video games do you bring?](https://www.reddit.com/r/AskReddit/comments/597jj2/you\_are\_locked\_in\_a\_room\_for\_3\_months\_with\_no/)
 * [Your Personal Top Ten Games of All Time](https://www.reddit.com/r/patientgamers/comments/dr5h8i/your\_personal\_top\_ten\_games\_of\_all\_time/)
 * [Your system is low end and you can't find anything worthwhile to play on it? You're doing it wrong](https://www.reddit.com/r/patientgamers/comments/3xabnn/your\_system\_is\_low\_end\_and\_you\_cant\_find\_anything/)
+* ["Zero fat" games with minimal filler/cutscenes](https://www.reddit.com/r/patientgamers/comments/zt2p8r/zero\_fat\_games\_with\_minimal\_fillercutscenes/)
 
 ### Reviews
 
