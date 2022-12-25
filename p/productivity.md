@@ -62,6 +62,7 @@
 * [26 Time Management Hacks I Wish I'd Known At 20](https://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) - Etienne Garbugli
 * [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) - TJCX
 * [Good and Bad Procrastination](https://paulgraham.com/procrastination.html) - Paul Graham
+* [How Seinfeld's Productivity Secret Fixed My Procrastination Problem](https://lifehacker.com/how-seinfelds-productivity-secret-fixed-my-procrastinat-5886128) - Adam Dachis, LifeHacker ([Hacker News thread](https://news.ycombinator.com/item?id=6544267))
 * [How to debug your brain](https://oliveremberton.com/2014/how-to-debug-your-brain/) - Oliver Emberton
 * [How to make Todoist conform to GTD](https://medium.com/@dougvk/how-to-make-todoist-conform-to-gtd-362d86f037bf) - Doug von Kohorn
 * [If You’re Busy, You’re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers](https://www.calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/) - Cal Newport
@@ -81,6 +82,7 @@
 ### Books
 
 * [Getting Things Done](https://smile.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947) - David Allen
+  * [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd) - Erlend Hamberg
 * [How To Live On Twenty-Four Hours A Day](https://www.gutenberg.org/cache/epub/2274/pg2274-images.html) - Arnold Bennett
 * [The Attributes](https://smile.amazon.co.uk/dp/075355867X/) - Rich Diviney
   * [Summary by Bob Schoultz](https://bobsbeenreading.wordpress.com/2021/02/03/the-attributes-25-hidden-drivers-of-optimal-performance-by-rich-diviney/)
