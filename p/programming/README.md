@@ -12,6 +12,7 @@
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [How Wine works 101](https://werat.dev/blog/how-wine-works-101) - Andy Hippo
+* [I'm an Impostor](https://davidwalsh.name/impostor-syndrome) - David Walsh
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
@@ -125,6 +126,7 @@
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [ProgrammerHumor](https://programmerhumor.io/)
 * [Programming Idioms](https://www.programming-idioms.org/)
+* [Radical Simplicity in Technology](http://www.radicalsimpli.city/)
 * [Software Engineering Books](https://software-engineering-books.com/)
 * [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
 * [Stack Overflow](https://stackoverflow.com/)

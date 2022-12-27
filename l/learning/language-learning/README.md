@@ -46,8 +46,6 @@
 
 ### Books
 
-* Fluent Forever - Gabriel Wyner
-  * [Notes by Nat Eliason](https://www.nateliason.com/notes/fluent-forever-gabriel-weinberg)
 * [Fluent In 3 Months](https://www.fluentin3months.com/) - Benny Lewis
   * [Summary by Four Minute Books](https://fourminutebooks.com/fluent-in-3-months-summary/)
 
