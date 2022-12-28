@@ -12,10 +12,6 @@
 * [IDA Pro](https://hex-rays.com/ida-pro/)
 * [OllyDbg](https://www.ollydbg.de/)
 
-### Tutorials
-
-* [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/) - Maddie Stone
-
 ### Videos
 
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
