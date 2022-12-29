@@ -14,6 +14,7 @@
 
 * [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/) - Cal Newport
   * [Summary by Four Minute Books](https://fourminutebooks.com/so-good-they-cant-ignore-you-summary/)
+  * [Summary by Tomas Laurinavicius (Best Writing)](https://bestwriting.com/book-notes/so-good-they-cant-ignore-you)
 
 ### Videos
 

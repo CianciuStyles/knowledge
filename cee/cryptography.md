@@ -5,10 +5,7 @@
 ### Articles
 
 * [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) - Fang-Pen Lin
-* How does Google Authenticator work? - Patryk Cisek
-  * [Part 1](https://prezu.ca/post/2021-07-30-totp-1/)
-  * [Part 2](https://prezu.ca/post/2021-08-12-totp-2/)
-  * [Part 3](https://prezu.ca/post/2021-08-16-totp-3/)
+* [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) - Patryk Cisek
 
 ### Blogs
 
