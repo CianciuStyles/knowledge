@@ -5,8 +5,7 @@
 ### Articles
 
 * [5 Scientifically Proven Ways to Beat Procrastination](https://www.inc.com/jessica-stillman/5-scientifically-proven-ways-to-beat-procrastination.html) - Jessica Stillman
-* [Four Things Procrastinators Need to Learn](https://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/) - David Cain, Raptitude
-* [Procrastination is Not Laziness](https://www.raptitude.com/2011/05/procrastination-is-not-laziness/) - David Cain, Raptitude
+* [Four Things Procrastinators Need to Learn](https://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/) - David Cain
 * [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) - Tim Urban
 
 ### Videos
