@@ -15,7 +15,6 @@
 * [Going Plant-Based (A Vegan Diet for Fitness)](https://www.nerdfitness.com/blog/how-to-eat-a-plant-based-diet-a-scientific-look-at-going-vegan-safely/) - Nerd Fitness
 * [Green Foods](https://content.noom.com/custom-content/green/) - Noom
 * [Healthy Eating: The Beginner’s Guide on How to Eat Healthy and Stick to It](https://jamesclear.com/eat-healthy) - James Clear
-* [How to Lose 20 lbs. of Fat in 30 Days… Without Doing Any Exercise](https://tim.blog/2007/04/06/how-to-lose-20-lbs-of-fat-in-30-days-without-doing-any-exercise/) - Tim Ferriss
 * [How to Lose 100 Pounds on The Slow-Carb Diet](https://tim.blog/2012/07/12/how-to-lose-100-pounds/) - Tim Ferriss
 * [Mean Plan](https://gamechangersmovie.com/food/meal-plan/) - The Game Changers
 * [Satiety Index](https://www.diabetesnet.com/food-diabetes/satiety-index/) ([2022 update](https://optimisingnutrition.com/satiety-index/))
