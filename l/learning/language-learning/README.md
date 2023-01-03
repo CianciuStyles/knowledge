@@ -37,7 +37,6 @@
 * [12 Rules for Learning Foreign Languages in Record Time](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - Tim Ferriss
 * [How I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html) - Wesley Runnels
 * [How to Learn Any Language in 3 Months](https://tim.blog/2009/01/20/learning-language/) - Tim Ferriss
-* [I Learned to Speak Four Languages in a Few Years: Here's How](https://lifehacker.com/i-learned-to-speak-four-languages-in-a-few-years-heres-5903288) - Gabriel Wyner, LifeHacker
 * [The Most Effective Method for Learning a Language Alone](https://lifehacker.com/the-most-effective-method-for-learning-a-language-alone-5839401) - Dave MacLeod, LifeHacker
 * [The Science of Learning a New Language (and How to Use It)](https://lifehacker.com/the-science-of-learning-a-new-language-and-how-to-use-1579130048) - Belle Beth Cooper, LifeHacker
 
@@ -47,8 +46,6 @@
 
 ### Books
 
-* Fluent Forever - Gabriel Wyner
-  * [Notes by Nat Eliason](https://www.nateliason.com/notes/fluent-forever-gabriel-weinberg)
 * [Fluent In 3 Months](https://www.fluentin3months.com/) - Benny Lewis
   * [Summary by Four Minute Books](https://fourminutebooks.com/fluent-in-3-months-summary/)
 
