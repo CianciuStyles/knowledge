@@ -42,6 +42,7 @@
 
 ### Fonts
 
+* [Copy Paste Character](https://copypastecharacter.com/)
 * [WhatTheFont!](https://www.myfonts.com/WhatTheFont/)
 
 ### Habit Formation
@@ -139,3 +140,4 @@
 * [Online Video Converter](https://onlinevideoconverter.com/youtube-converter)
 * [TubeRipper](https://tuberipper.com/)
 * [Video Grabber](https://www.videograbber.net/)
+* [YouTube Transcript](https://youtubetranscript.com/)
