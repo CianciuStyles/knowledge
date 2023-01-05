@@ -17,6 +17,7 @@
 * [Anime, Comics & Manga](a/anime-comics-and-manga.md)
 * [APIs](a/apis.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
+* [Assembly](a/assembly.md)
 * [Audio / Video Editing](a/audio-video-editing.md)
 * [Awesome](a/awesome.md)
 
