@@ -6,6 +6,7 @@
 
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl) - Emma Bostian
 * [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Justin Etheredge
+* [20,000 hours as a Software Engineer](https://ruiper.es/fad733b2e8b147bbbe647906253001be) - Rui Peres
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
 * [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
