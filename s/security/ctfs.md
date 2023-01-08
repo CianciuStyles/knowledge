@@ -37,6 +37,7 @@
 * [bettercap](https://www.bettercap.org/) - perform reconnaissance and attack WiFi networks, Bluetooth devices and IPv4/IPv6 networks
 * [capa](https://github.com/mandiant/capa) - identify capabilities in executable files
 * [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) - determines types of files
+* [The Sleuth Kit](https://www.sleuthkit.org/) - analyse disk images and recover files
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 
 #### Networking
