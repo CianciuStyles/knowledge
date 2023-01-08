@@ -2,6 +2,11 @@
 
 ## Resources
 
+### Articles
+
+* [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) - Austin Z. Henley
+  * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging\_algorithms\_and\_data\_structures\_every/)
+
 ### Books
 
 * [A Common-Sense Guide to Data Structures and Algorithms](https://smile.amazon.co.uk/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680507222/) - Jan Wengrow
