@@ -66,6 +66,7 @@
 * [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [Financial Samurai](https://www.financialsamurai.com/)
+* [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
 * [Investopedia](https://www.investopedia.com/)
 * [JL Collins](https://jlcollinsnh.com/)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
