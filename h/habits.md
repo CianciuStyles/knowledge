@@ -100,13 +100,17 @@
 
 ### Articles
 
-* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta
+* [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta, Zen Habits
+* [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) - James Clear
+* [The Daffodil Principle: What Happens When You Take Action Every Day](https://www.samuelthomasdavies.com/the-daffodil-principle/) - Samuel Thomas Davies
+* [The Spiral of Successful Habits](https://zenhabits.net/spiral/) - Leo Babauta, Zen Habits
 
 ### Books
 
 * [Atomic Habits](https://smile.amazon.co.uk/dp/1847941834) - James Clear
   * [Summary](https://public.summaries.com/files/1-page-summary/atomic-habits.pdf)
   * [Summary by Chris Behan](https://www.chrisbehan.ca/posts/atomic-habits)
+  * [Summary by Junu Yang, Squad Habits](https://www.joinsquad.co/post/atomic-habits-by-james-clear-chapter-summaries)
 * [The Power Of Habit](https://smile.amazon.co.uk/dp/1847946240) - Charles Duhigg
 
 ### Podcasts
