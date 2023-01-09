@@ -5,6 +5,7 @@
 ### Articles
 
 * [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) - Jeff Dickey
+* [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/) - Matthieu Cneude, The Valuable Dev
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) - Julia Evans
 * [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection\_tutorial)
 
