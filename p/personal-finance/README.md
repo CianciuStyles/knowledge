@@ -38,6 +38,10 @@
 * [The Wealthy Barber: Everyone's Commonsense Guide to Becoming Financially Independent](https://smile.amazon.co.uk/dp/0761513116/) - David Chilton
 * [Your Money or Your Life](https://smile.amazon.co.uk/dp/0143115766/) - Vicki Robin, Joe Dominguez
 
+### Courses
+
+* [Build Wealth by Investing in Index Funds](https://courses.personalfinanceclub.com/courses/take/build-wealth-by-investing-in-index-funds-2022/) - Jeremy Schneider, Personal Finance Club
+
 ### Hacker News Threads
 
 * [Alternative ways to make money with coding and system skills?](https://news.ycombinator.com/item?id=33619650)
