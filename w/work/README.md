@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [8 Hard Truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) - Steven Buccini
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
@@ -32,6 +33,7 @@
 * [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
 * [LinkedIn](https://it.linkedin.com/)
+* [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 * [We've all faced rejection](https://rejected.us/)
 * [You Got This!](https://yougotthis.io/)
 
