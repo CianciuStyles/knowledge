@@ -2,7 +2,6 @@
 
 ### Articles
 
-* [Lessons Learned from the Book 'Effective Remote Work'](https://phauer.com/2022/book-remote-work-lessons-learned/) - Philipp Hauer
 * [The 10 Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext#PageTop) - Vanessa Sochat
 * [What if Remote Work Didn’t Mean Working from Home?](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) - Cal Newport
 
@@ -13,7 +12,6 @@
 
 ### Books
 
-* [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) - James Stainer
 * [Remote: Office Not Required](https://basecamp.com/books/remote) - Jason Fried, David Heinemeier Hansson
 
 ### GitHub Repositories

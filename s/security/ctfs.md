@@ -8,10 +8,12 @@
 
 ### Articles
 
+* [CTF Design Guidelines](https://bit.ly/ctf-design)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [CTF Resources](https://ctfs.github.io/resources/)
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 * [picoCTF Primer](https://primer.picoctf.com/)
+* [The Many Maxims of Maximally Effective CTFs](https://web.archive.org/web/20201124033521/https://captf.com/maxims.html)
 
 ### GitHub repositories
 
@@ -37,6 +39,7 @@
 * [bettercap](https://www.bettercap.org/) - perform reconnaissance and attack WiFi networks, Bluetooth devices and IPv4/IPv6 networks
 * [capa](https://github.com/mandiant/capa) - identify capabilities in executable files
 * [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) - determines types of files
+* [The Sleuth Kit](https://www.sleuthkit.org/) - analyse disk images and recover files
 * [volatility](https://github.com/volatilityfoundation/volatility) - memory forensics
 
 #### Networking
