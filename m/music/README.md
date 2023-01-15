@@ -4,15 +4,6 @@
 
 ## Resources
 
-### Lists
-
-* [1001 Albums You Must Hear Before You Die](https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-2016)
-
-#### Rolling Stones
-
-* [100 Best Albums of the 2000s](https://www.rollingstone.com/music/music-lists/100-best-albums-of-the-2000s-153375/)
-* [The 500 Greatest Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
-
 ### Reddit threads
 
 * [Albums where EVERY song is an absolute banger?](https://www.reddit.com/r/Music/comments/w4cdbj/albums\_where\_every\_song\_is\_an\_absolute\_banger/)
@@ -31,7 +22,6 @@
 * [What is your favorite LONG song (over 7 minutes)?](https://www.reddit.com/r/AskReddit/comments/qm82cg/what\_is\_your\_favorite\_long\_song\_over\_7\_minutes/)
 * [What song are you currently obsessed with?](https://www.reddit.com/r/AskReddit/comments/w03mt8/what\_song\_are\_you\_currently\_obsessed\_with/)
 * [What song is 10/10, yet hardly anyone has heard of it?](https://www.reddit.com/r/AskReddit/comments/du5j18/what\_song\_is\_1010\_yet\_hardly\_anyone\_has\_heard\_of/)
-* [What's an album that defined the 90s?](https://www.reddit.com/r/AskReddit/comments/10bcxfh/whats\_an\_album\_that\_defined\_the\_90s/)
 * [What's the best song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/6553ft/whats\_the\_best\_song\_youve\_ever\_heard/)
 * [What's your 10/10 Album?](https://www.reddit.com/r/AskReddit/comments/526kke/whats\_your\_1010\_album/)
 * [What's your favorite song, that has no vocals?](https://www.reddit.com/r/AskReddit/comments/4zzpuu/whats\_your\_favorite\_song\_that\_has\_no\_vocals/)

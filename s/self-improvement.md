@@ -1,5 +1,9 @@
 # Self Improvement
 
+
+
+<figure><img src="https://i.redd.it/ygk8kq4xlqaa1.png" alt=""><figcaption></figcaption></figure>
+
 ## Resources
 
 ### Books
