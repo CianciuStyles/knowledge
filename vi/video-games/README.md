@@ -291,6 +291,7 @@
 
 ### Wikis
 
+* [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 
 ### YouTube Channels
