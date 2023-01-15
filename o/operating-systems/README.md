@@ -2,15 +2,9 @@
 
 ## Resources
 
-### Articles
-
-* Writing your own operating system - Oisin O'Connell
-  * [Part 1](https://o-oconnell.github.io/2023/01/12/p1os.html)
-
 ### Books
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com/) - Mohammed Q. Hussain
-* [Operating Systems: From 0 To 1](https://github.com/tuhdo/os01) - Tu Do
 * [Operating System Design: The Xinu Approach](https://www.amazon.co.uk/Operating-System-Design-Approach-Second-ebook/dp/B00UVB2YA2) - Douglas Comer
 * [The intermezzOS Book](https://intermezzos.github.io/book/)
 * [The little book about OS development](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
@@ -19,7 +13,6 @@
 ### GitHub Repositories
 
 * [Awesome OS](https://github.com/jubalh/awesome-os)
-* [Write your own OS](https://github.com/o-oconnell/writeyourownos) - Oisin O'Connell
 
 ### Websites
 
