@@ -39,6 +39,7 @@
 * [Jess Frazelle](https://blog.jessfraz.com/)
 * [Julia Evans](https://jvns.ca/)
 * [Martin Kleppmann](https://martin.kleppmann.com/archive.html)
+* [Matthieu Cneude](https://thevaluable.dev/)
 * [Patrick McKenzie](https://kalzumeus.com/)
 * [Rachel Kroll](https://rachelbythebay.com/)
 
