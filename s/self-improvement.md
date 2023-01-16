@@ -19,6 +19,7 @@
 
 ### Websites
 
+* [Self Improvement Book Summaries](https://docs.google.com/document/d/12WYdDDt72jZCCgZvG\_EcoS5ZieG\_gF8\_ULVOYskZtjg/edit) - Aaron Brown
 * [Steve Pavlina](https://stevepavlina.com/)
 
 ### YouTube Channels
