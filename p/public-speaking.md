@@ -2,7 +2,7 @@
 
 ## Notes
 
-* Don't be afraid of slowing down a conversation (especially one about engineering).
+* Don't be afraid of slowing down a conversation \(especially one about engineering\).
 * You're not speaking to a group, you're speaking to each individual in a group. Always focus on someone briefly, including eye contact, and then on someone else.
 * It's easiest to talk well about things you're confident about.
 * Theory is great but practice is better. Find and join a Toastmaster club in your area or online.
@@ -19,7 +19,7 @@
 ### Courses
 
 * [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills) - Maurice Schweitzer, University of Pennsylvania
-* [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl\_ub9) - Matt McGarrity, University of Washington
+* [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl_ub9) - Matt McGarrity, University of Washington
 
 ### Hacker News threads
 
@@ -29,6 +29,3 @@
 
 * [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Winston
 
-### Websites
-
-* [Poised](https://www.poised.com/) - AI-Powered Communication Coach
