@@ -5,10 +5,6 @@
 * [Everything I know about freelancing](https://andyadams.org/everything-i-know-about-freelancing/) - Andy Adams
 * [First Times Guides](https://www.contractoruk.com/first\_timers) - ContractorUK
 
-### Hacker News threads
-
-* [When to make the jump to freelance/consultant?](https://news.ycombinator.com/item?id=34400435)
-
 ### Marketplaces
 
 * [Braintrust](https://www.usebraintrust.com/)
