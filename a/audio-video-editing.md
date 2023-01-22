@@ -16,3 +16,4 @@
 #### Video
 
 * [FFmpeg](https://ffmpeg.org/)
+* [Synthesia](https://www.synthesia.io/) - AI Video Generation platform

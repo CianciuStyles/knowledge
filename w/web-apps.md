@@ -2,6 +2,7 @@
 
 ### Audio
 
+* [Murf.ai](https://murf.ai/) - AI Voice Generator
 * [Vocal Remover](https://vocalremover.org/)
 
 ### Color Schemes
@@ -29,7 +30,6 @@
 * [Online Converter](https://www.online-convert.com/)
 * [PrintFriendly](https://www.printfriendly.com/)
 * [TinyWow](https://tinywow.com/)
-* [Waifu2x](https://waifu2x.me/) - Image upscaler
 * [Zamzar](https://www.zamzar.com)
 
 ### File Sharing
@@ -52,6 +52,7 @@
 
 ### Images
 
+* [AI Image Enlarger](https://imglarger.com/)
 * [CleanPNG](https://www.cleanpng.com/)
 * [Cleanup.pictures](https://cleanup.pictures/) - Remove objects, people, text and defects from any picture
 * [FotoForensics](https://fotoforensics.com/)
@@ -59,11 +60,14 @@
 * [Pixabay](https://pixabay.com/it/)
 * [Pixlr](https://pixlr.com/it/)
 * [remove.bg](https://www.remove.bg/) - Remove background from images
+* [Stable Diffusion](https://stablediffusionweb.com/) - Text-to-image generator
+* [StockAI](https://www.stockai.com/) - Free AI-powered stock photos
 * [The Death Generator](https://deathgenerator.com) - Generate fake screenshots from video games
 * [The Noun Project](https://thenounproject.com/) - Icons and Photos for Everything
 * [The Rasterbator](https://rasterbator.net/) - Wall art generator
 * [TinEye](https://tineye.com/) - Reverse image search
 * [Unsplash](https://unsplash.com/) - Photos for everyone
+* [Waifu2x](https://waifu2x.me/) - Image upscaler
 * [Vector Magic](https://vectormagic.com/) - Vectorise images
 
 ### Mail & SMS
@@ -128,6 +132,7 @@
 ### Text-to-Speech
 
 * [NaturalReaders](https://www.naturalreaders.com/online/)
+* [Synthesia](https://www.synthesia.io/) - AI Video Generation platform
 
 ### Translation
 

@@ -212,6 +212,7 @@
 * [Testing](t/testing.md)
 * [Thinking](t/thinking.md)
 * [Travel](t/travel/README.md)
+  * [Japan](t/travel/japan.md)
   * [London](t/travel/london.md)
   * [Rome](t/travel/rome.md)
 * [TV Series & Programmes](t/tv-series-and-programmes.md)

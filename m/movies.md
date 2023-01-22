@@ -60,3 +60,7 @@
 * [Movies on Freeview](https://www.moviesonfreeview.co.uk/)
 * [Rotten Tomatoes](https://www.rottentomatoes.com/)
 
+### YouTube Channels
+
+* [Cinema Therapy](https://www.youtube.com/@CinemaTherapyShow/videos)
+
