@@ -2,9 +2,6 @@
 
 ### Books
 
-* [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) - Tony R. Kuphaldt
-* [Open Circuits - The Inner Beauty of Electronic Components](https://opencircuitsbook.com/) - Windell Oskay, Eric Schlaepfer
-* [The Art of Electronics](https://artofelectronics.net/) - Paul Horowitz, Winfield Hill
 * [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/) - Steven W. Smith, Ph.D.
 
 ### Courses
@@ -16,14 +13,9 @@
 
 * [NandGame](https://nandgame.com/)
 
-### Hacker News Threads
-
-* [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
-
 ### Websites
 
 * [Ben Eater](https://eater.net/)
-* [Fixing Factory](https://www.fixingfactory.org/)
 
 ### YouTube Channels
 
