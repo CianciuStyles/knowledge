@@ -15,6 +15,7 @@
 
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 * [Fast](https://fast.com) - Internet speed test
+* [OpenSpeedTest](https://openspeedtest.com/)
 
 ### Date and Time
 
