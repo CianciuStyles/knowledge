@@ -80,7 +80,7 @@
 ### Restaurants
 
 * [Beigel Bake](https://bricklanebeigel.co.uk/)
-* [Dal Fiorentino](https://www.dalfiorentino.com/)
+* [Dal Fiorentino](https://dalfiorentino.london/)
 * [Hawksmoor](https://thehawksmoor.com/)
 * [Mercato Metropolitano](https://www.mercatometropolitano.com/)
 * [Patty & Bun](https://www.pattyandbun.co.uk/)
