@@ -23,6 +23,8 @@
 
 ### Books
 
+* [Early Retirement Extreme](https://www.amazon.co.uk/Early-Retirement-Extreme-Philosophical-Independence/dp/145360121X) - Jacob Lund Fisker
+* [From Zero to Financial Independence in less than 10 years](https://www.amazon.co.uk/Zero-Financial-Independence-less-Years-ebook/dp/B01N6FT93S) - Robert Tracey
 * [Get a Financial Life: Personal Finance in Your Twenties and Thirties](https://smile.amazon.co.uk/dp/1476782385/) - Beth Kobliner
 * [I Will Teach You To Be Rich](https://smile.amazon.co.uk/dp/1523505745/) - Ramit Sethi
 * [Money: A User's Guide](https://smile.amazon.co.uk/dp/0008308314) - Laura Whateley
@@ -33,6 +35,7 @@
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://smile.amazon.co.uk/dp/1119404509/) - John Bogle
 * [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://smile.amazon.co.uk/dp/1589795474) - Thomas J. Stanley, William D. Danko
 * [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://smile.amazon.co.uk/dp/1533667926) - JL Collins
+* [The Psychology of Money: Timeless lessons on wealth, greed and happiness](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness/dp/0857197681) - Morgan Housel
 * [The Total Money Makeover](https://smile.amazon.co.uk/dp/1595555277/) - Dave Ramsey
 * [The Truth About Money](https://smile.amazon.co.uk/dp/0062006487) - Ric Edelman
 * [The Wealthy Barber: Everyone's Commonsense Guide to Becoming Financially Independent](https://smile.amazon.co.uk/dp/0761513116/) - David Chilton
