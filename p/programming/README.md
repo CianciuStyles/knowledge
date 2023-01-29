@@ -50,7 +50,7 @@
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
-* [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
+* [Software Engineering at Google](https://abseil.io/resources/swe\_at\_google.2.pdf) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman (first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html))
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
@@ -78,7 +78,6 @@
 * [Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
 * [Programs that saved you 100 hours? (2022 edition)](https://news.ycombinator.com/item?id=34069106)
 * [Reading material on how to be a better software engineer?](https://news.ycombinator.com/item?id=33854815)
-* [Those making $0/month or less on side projects](https://news.ycombinator.com/item?id=34547265)
 * [What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
 * [What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
 * [What's your proudest hack?](https://news.ycombinator.com/item?id=33954778)

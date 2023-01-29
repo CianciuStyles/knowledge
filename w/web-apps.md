@@ -54,6 +54,7 @@
 ### Images
 
 * [AI Image Enlarger](https://imglarger.com/)
+* [Calligrapher.ai](https://www.calligrapher.ai/) - Realistic computer-generated handwriting
 * [CleanPNG](https://www.cleanpng.com/)
 * [Cleanup.pictures](https://cleanup.pictures/) - Remove objects, people, text and defects from any picture
 * [FotoForensics](https://fotoforensics.com/)
