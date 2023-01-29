@@ -80,7 +80,6 @@
 ### Restaurants
 
 * [Beigel Bake](https://bricklanebeigel.co.uk/)
-* [Dal Fiorentino](https://dalfiorentino.london/)
 * [Hawksmoor](https://thehawksmoor.com/)
 * [Mercato Metropolitano](https://www.mercatometropolitano.com/)
 * [Patty & Bun](https://www.pattyandbun.co.uk/)
@@ -104,17 +103,12 @@
 * [The best cheap eats in London](https://www.timeout.com/london/food-drink/londons-best-cheap-eats) - TimeOut
 * [The London Review of Breakfasts](https://londonreviewofbreakfasts.blogspot.com/)
 
-### Volunteering
-
-* [Fixing Factory](https://www.fixingfactory.org/)
-
 ### Walks
 
 * [Geocaching](https://www.geocaching.com/play)
 * [London's Prettiest Walks](https://www.timeout.com/london/things-to-do/londons-prettiest-walks) - TimeOut
 * [London Footprints](https://www.london-footprints.co.uk/index.htm)
 * [London Guided Walks](https://londonguidedwalks.uk/)
-* [London Walking Tours](https://lookup.london/walking-tours/)
 * [LondonRoasts](https://londonroasts.com/)
 * [Rambles from the London Tube](https://www.londontuberambles.co.uk/)
 * [Saturday Walkers Club](https://www.walkingclub.org.uk/)
