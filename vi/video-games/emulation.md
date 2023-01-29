@@ -24,12 +24,6 @@
 
 * [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
 
-### Disassemblies
-
-* [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
-* [Super Metroid](https://github.com/strager/supermetroid)
-* [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
-
 ### YouTube Channels
 
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)

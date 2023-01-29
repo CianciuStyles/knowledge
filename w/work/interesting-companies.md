@@ -7,8 +7,6 @@
 ### Apple
 
 * [Careers at Apple](https://www.apple.com/careers/uk/)
-* [Software Engineer (Java) – Apple Online Store](https://jobs.apple.com/en-gb/details/200274939/software-engineer-java-apple-online-store?team=CORSV)
-* [Systems Software Engineer - OS/Orchestration](https://jobs.apple.com/en-gb/details/200303250/systems-software-engineer-os-orchestration?team=SFTWR)
 
 ### Cloudflare
 
@@ -21,13 +19,18 @@
 ### Facebook
 
 * [Facebook Job Openings](https://www.facebookcareers.com/jobs)
-* [Software Engineer, Product](https://www.facebookcareers.com/jobs/243426553423609/)
 
 ### Google
+
+* [jhuangtw](https://github.com/jhuangtw) / [xg2xg](https://github.com/jhuangtw/xg2xg) - A lookup table of similar tech & services
 
 ### Microsoft
 
 ### Shopify
 
+* [Careers, Internships, and Jobs at Shopify](https://www.shopify.com/careers)
+
 ### Spotify
+
+* [Life at Spotify](https://www.lifeatspotify.com/)
 
