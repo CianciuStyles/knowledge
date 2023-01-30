@@ -6,7 +6,6 @@
 
 * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) - Austin Z. Henley
   * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging\_algorithms\_and\_data\_structures\_every/)
-* [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Mike Bostocks
 
 ### Books
 
@@ -51,7 +50,6 @@
 * [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Chris Laux](https://www.chrislaux.com/)
 * [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
-* [IDEA](https://idea-instructions.com/) - nonverbal algorithm assembly instructions
 * [Open Data Structures](https://opendatastructures.org/)
 * [The Algorithm](https://the-algorithms.com/)
 * [VisuAlgo](https://visualgo.net/en)
