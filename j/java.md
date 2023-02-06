@@ -39,6 +39,7 @@
 
 * [Baeldung](https://www.baeldung.com/)
 * [Java Design Patterns](https://java-design-patterns.com/)
+* [London Java Community](https://londonjavacommunity.co.uk/)
 * [Marco Behler](https://www.marcobehler.com/)
 * [The Java Version Almanac](https://javaalmanac.io/)
 
