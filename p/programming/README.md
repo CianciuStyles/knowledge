@@ -12,6 +12,7 @@
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=fav) - Geoffrey Litt
+* [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html) - David Buchanan
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [How Wine works 101](https://werat.dev/blog/how-wine-works-101) - Andy Hippo
 * [I'm an Impostor](https://davidwalsh.name/impostor-syndrome) - David Walsh
