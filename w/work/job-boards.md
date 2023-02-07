@@ -60,7 +60,6 @@
 * [People-First Job](https://peoplefirstjobs.com/)
 * [Polyfill](https://polyfill.work/)
 * [Placement](https://www.placement.com/)
-* [RecWorks](https://recworks.co.uk/)
 * [SideQuest](https://sidequestjobs.com/?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=working)
 * [Slashscore](https://app.slashscore.ai/)
 * [Tech Jobs for Good](https://www.techjobsforgood.com/)

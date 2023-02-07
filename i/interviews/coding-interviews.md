@@ -51,4 +51,8 @@
 * [Codility](https://app.codility.com/programmers/lessons)
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
+* [LeetCode](https://leetcode.com/)
+  * [LeetCode Explore](https://leetcode.com/)
+* [NeetCode](https://neetcode.io/)
+  * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
