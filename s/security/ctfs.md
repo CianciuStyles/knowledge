@@ -24,8 +24,6 @@
 
 ### Offline Tools
 
-* [ImHex](https://imhex.werwolv.net/)
-
 #### Enumeration
 
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
