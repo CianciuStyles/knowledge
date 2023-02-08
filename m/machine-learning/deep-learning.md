@@ -9,6 +9,8 @@
 ### Books
 
 * [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
+* [Neural Networks from Scratch in Python](https://nnfs.io/)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Richard S. Sutton, Andrew G. Barto
 
 ### Courses
@@ -20,3 +22,8 @@
 ### Websites
 
 * [DeepLearning.AI](https://www.deeplearning.ai/)
+* [fast.ai](https://www.fast.ai/)
+
+### YouTube Playlists
+
+* [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) - sentdex

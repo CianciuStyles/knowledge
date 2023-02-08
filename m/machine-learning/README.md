@@ -31,17 +31,28 @@
 
 ### Books
 
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+* [Learning From Data](https://amlbook.com/) - Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/\~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - Christopher M. Bishop
-* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Kevin Murphy
+* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Kevin Patrick Murphy
 * [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * [The Nature Of Code](https://natureofcode.com/book/) - Daniel Shiffman
   * [Chapter 10: Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
+* [Think Bayes 2](http://allendowney.github.io/ThinkBayes2/index.html) - Allen B. Downey
+
+### Courses
+
+* [Learning From Data](https://work.caltech.edu/telecourse) - California Institute of Technology
 
 ### GitHub repositories
 
+* [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
+* [Machine Learning Research Papers](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers)
 
 ### YouTube playlists
 
 * [Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z\_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
 * [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi) - 3Blue1Brown
+* [Statistical Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n\_RWNuS1e) - Stanford

@@ -5,6 +5,7 @@
 ### Articles
 
 * [Doomsday Algorithm](https://rudy.ca/doomsday.html)
+* [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) - Susan Rigetti
 * The Mathematics of 2048 - John Lees-Miller
   * [Minimum Moves to Win with Markov Chains](https://jdlm.info/articles/2017/08/05/markov-chain-2048.html) ([HN](https://news.ycombinator.com/item?id=15327837))
   * [Counting States with Combinatorics](https://jdlm.info/articles/2017/09/17/counting-states-combinatorics-2048.html) ([HN](https://news.ycombinator.com/item?id=15327837))
@@ -25,6 +26,7 @@
 
 
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
+* Introduction to Linear Algebra - Gilbert Strang
 
 ### Courses
 
@@ -35,6 +37,7 @@
   * [Part 3 - Integration](https://www.coursera.org/learn/integration-calculus)
   * [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
 * [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
+* [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) - Gilbert Strang
 
 ### GitHub Repositories
 
@@ -42,6 +45,8 @@
 
 ### Hacker News threads
 
+* [Can you recommend me a book to (re)learn math?](https://news.ycombinator.com/item?id=33859823)
+* [Math books that made you significantly better at math?](https://news.ycombinator.com/item?id=34439828)
 * [Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 
 ### Websites
@@ -64,4 +69,5 @@
 ### YouTube Playlists
 
 * [Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A) - MIT
+* [Coding the Matrix - Linear Algebra through Computer Science Applications](https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0)
 
