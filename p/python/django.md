@@ -21,6 +21,7 @@ description: https://www.djangoproject.com/
 ### GitHub Repositories
 
 * [Awesome Django Admin](https://github.com/originalankur/awesome-django-admin)
+* [Become A Job Ready Django Developer](https://github.com/flashohq/open-source-Django-courses)
 * [Django Ansible Setup](https://github.com/myarik/django-ansible-setup)
 * [Django Performance Testing](https://github.com/PaesslerAG/django-performance-testing)
 * [DjangoHero](https://github.com/gutfeeling/djangohero)

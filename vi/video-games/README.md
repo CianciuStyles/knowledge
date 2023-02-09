@@ -292,6 +292,7 @@
 ### Wikis
 
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
+* [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 
 ### YouTube Channels

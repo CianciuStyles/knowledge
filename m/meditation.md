@@ -19,6 +19,7 @@
 ### Articles
 
 * [4 Powerful Reasons to Meditate and How To Get Started](https://www.pickthebrain.com/4-reasons-you-should-meditate-and-how-to-get-started/) - Pick The Brain
+* [How to Meditate Daily](https://zenhabits.net/meditate/) - Leo Babauta, Zen Habits
 * [What Does Mindfulness Meditation Do to Your Brain?](https://blogs.scientificamerican.com/guest-blog/what-does-mindfulness-meditation-do-to-your-brain/) - Tom Ireland
 
 ### Books

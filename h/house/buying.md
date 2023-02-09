@@ -6,6 +6,10 @@
 
 ### Websites
 
+#### Checks
+
+* [HM Land Registry - Property Alert service](https://propertyalert.landregistry.gov.uk/)
+
 #### Credit Reports
 
 * [checkmyfile](https://www.checkmyfile.com/) - Multi Agency Credit Report

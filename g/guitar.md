@@ -1,5 +1,10 @@
 # Guitar
 
+### Articles
+
+* [400 Popular Songs to Learn on Guitar, With Lesson Links](https://deftdigits.com/2015/05/08/400-popular-songs-to-learn-on-guitar-with-lesson-links/) - Deft Digits
+* [Top 70+ Greatest Fingerpicking Songs for Guitarists](https://musiciantuts.com/fingerpicking-songs/) - Musician Tuts
+
 ### Backing Tracks
 
 * [Petti Music Studios](https://www.youtube.com/c/PettiBackingTracks/videos)
@@ -16,6 +21,12 @@
 
 * [Good Ear](https://www.good-ear.com/)
 * [Music Discipline](https://musicdiscipline.com/)
+
+### Reddit threads
+
+* [I've made a big list of songs that are cool to play on acoustic guitar!](https://www.reddit.com/r/Guitar/comments/1ypqus/ive\_made\_a\_big\_list\_of\_songs\_that\_are\_cool\_to/)
+* [My Guide on the Awesomeness of Dominant Chords](https://www.reddit.com/r/Guitar/comments/1xzfz9/music\_theory\_my\_guide\_on\_the\_awesomeness\_of/)
+* [My guide to the Harmonized Major Scale and Roman Numeral Analysis](https://www.reddit.com/r/Guitar/comments/1p9bsj/my\_guide\_to\_the\_harmonized\_major\_scale\_and\_roman/)
 
 ### Websites
 
@@ -42,4 +53,3 @@
 * [Shutup & Play](https://www.youtube.com/c/ShutupPlayGuitarTutorials/videos)
 * [Tim Pierce](https://www.youtube.com/c/timpierceguitar/videos)
 * [vanderbilly](https://www.youtube.com/c/vanderbilly/videos)
-
