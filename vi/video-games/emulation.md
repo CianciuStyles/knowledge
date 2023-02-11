@@ -23,6 +23,7 @@
 
 
 * [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
+* [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
 
 ### Disassemblies
 
