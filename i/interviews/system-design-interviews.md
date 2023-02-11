@@ -55,9 +55,13 @@
 
 ### YouTube channels
 
+* [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
 * [System Design Fight Club](https://www.youtube.com/channel/UC5\_QAB65IbajYkL6hzoY-gg/videos)
 * [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
 
 ### YouTube playlists
 
+* [Algorithms You Should Know For System Design](https://www.youtube.com/playlist?list=PLCRMIe5FDPsdSsAdVfub8OCVeFi-5m06O) - ByteByteGo
 * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
+* [System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA) - ByteByteGo
+* [System Design Interview](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8) - ByteByteGo
