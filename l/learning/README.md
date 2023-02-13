@@ -74,6 +74,7 @@
 * [Future Learn](https://www.futurelearn.com/)
 * [HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
 * [Learn Anything](https://learn-anything.xyz/)
+* [Limnology](https://limnology.co/) - Top 70,000 Educational YouTube channels organized by category
 * [Lynda](https://www.lynda.com/)
 * [MasterClass](https://www.masterclass.com/)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
