@@ -5,6 +5,10 @@
 * [Murf.ai](https://murf.ai/) - AI Voice Generator
 * [Vocal Remover](https://vocalremover.org/)
 
+### Collections
+
+* [Uneed](https://www.uneed.best/)
+
 ### Color Schemes
 
 * [Color Wheel](https://color.adobe.com/create/color-wheel)

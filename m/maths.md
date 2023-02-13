@@ -4,7 +4,6 @@
 
 ### Articles
 
-* [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/) - Jez Swanson
 * [Doomsday Algorithm](https://rudy.ca/doomsday.html)
 * [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) - Susan Rigetti
 * The Mathematics of 2048 - John Lees-Miller
