@@ -11,6 +11,7 @@
 * [CTF Design Guidelines](https://bit.ly/ctf-design)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [CTF Resources](https://ctfs.github.io/resources/)
+* [HackTricks](https://book.hacktricks.xyz/welcome/readme) - Carlos Polop
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 * [picoCTF Primer](https://primer.picoctf.com/)
 * [The Many Maxims of Maximally Effective CTFs](https://web.archive.org/web/20201124033521/https://captf.com/maxims.html)
