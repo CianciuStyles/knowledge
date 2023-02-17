@@ -13,6 +13,7 @@
 ### Articles
 
 * [18 Best Two-Player Board Games 2021](https://www.thestrategist.co.uk/article/best-two-player-board-games.html) - The Strategist
+* [Best Board Games For Adults: Top 5 Titles Most Recommended Across Expert Reviews](https://studyfinds.org/best-board-games-for-adults/) - Saloni Ordia
 * [How to play board games online with your friends](https://masilotti.com/play-board-games-online/) - Joe Masilotti ([HN thread](https://news.ycombinator.com/item?id=22967716))
 * Top 50 Board Games of All Time (2022 Edition) - Nick Murray, Bitewing Games
   * [1-25](https://bitewinggames.com/top-50-board-games-of-all-time-2022-edition-games-25-1/)
