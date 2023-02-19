@@ -211,6 +211,7 @@
 
 * [Testing](t/testing.md)
 * [Thinking](t/thinking.md)
+* [Touch Typing](t/touch-typing.md)
 * [Travel](t/travel/README.md)
   * [Japan](t/travel/japan.md)
   * [London](t/travel/london.md)
