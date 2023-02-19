@@ -78,6 +78,7 @@
 ### Hacker News threads
 
 * [Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
+* [Great text based games to play?](https://news.ycombinator.com/item?id=34469154)
 * [Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
 
 ### Lists
