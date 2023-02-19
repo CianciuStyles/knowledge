@@ -19,6 +19,7 @@
 * [Monevator](https://monevator.com/)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)
 * [Personal Finance Club](https://www.personalfinanceclub.com/blog/) - Jeremy Schneider
+* [Retirement Investing Today](http://www.retirementinvestingtoday.com/)
 * [The Smart Passive Income Blog](https://www.smartpassiveincome.com/)
 * [Young Money](https://www.youngmoneyblog.co.uk/) - Iona Bain
 
