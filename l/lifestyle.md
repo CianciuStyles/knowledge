@@ -17,7 +17,6 @@
 
 ### Hacker News Threads
 
-* [What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
 * [What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
 
 ### Reddit Threads
