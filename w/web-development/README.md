@@ -33,7 +33,6 @@
 ### Courses
 
 * [egghead.io](https://egghead.io/)
-* [The Front-End Developer Career Path](https://scrimba.com/learn/frontend) - Scrimba
 * [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - Colt Steele
 
 ### Frameworks
@@ -62,7 +61,6 @@
 * [Jamstack](https://jamstack.org/) - For fast and secure sites
 * [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator
 * [Performance Tooling Today](https://www.perf-tooling.today/)
-* [Scrimba](https://scrimba.com/allcourses?price=free)
 * [The Front-End Checklist](https://frontendchecklist.io/)
 * [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins
 * [web.dev](https://web.dev/)
