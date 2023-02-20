@@ -11,7 +11,6 @@
 * [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
-* [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/) - Bartosz Ciechanowski
 * [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=fav) - Geoffrey Litt
 * [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html) - David Buchanan
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
