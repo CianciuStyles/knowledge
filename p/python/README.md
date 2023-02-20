@@ -54,6 +54,10 @@ description: https://www.python.org/
 * [Python Tips](https://github.com/smoqadam/python-tips)
 * [Python Wats](https://github.com/cosmologicon/pywat)
 
+### Hacker News threads
+
+* [Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
+
 ### Libraries
 
 ![](<../../.gitbook/assets/image (3).png>)
