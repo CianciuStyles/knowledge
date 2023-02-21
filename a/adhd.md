@@ -11,6 +11,10 @@
 
 * [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
 
+### Subreddits
+
+* [r/ADHDUK](https://www.reddit.com/r/ADHDUK/)
+
 ### YouTube channels
 
 * [How to ADHD](https://www.youtube.com/c/HowtoADHD/videos)
