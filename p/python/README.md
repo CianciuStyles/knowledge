@@ -35,8 +35,13 @@ description: https://www.python.org/
 
 ### Books
 
+* [Effective Python](https://effectivepython.com/) - Brett Slatkin
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - Luciano Ramalho
+* [Intuitive Python](https://pragprog.com/titles/dmpython/intuitive-python/) - David Muller
 * [Practical Python Projects Book](https://practicalpython.yasoob.me/index.html) - Yasoob Khalid
+* [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Dane Hillard
+* [Python Distilled](http://www.dabeaz.com/python-distilled/) - David M. Beazley
+* [Serious Python](https://nostarch.com/seriouspython) - Julien Danjou
 * [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html) - Allen B. Downey
 
@@ -83,9 +88,11 @@ description: https://www.python.org/
 ### Websites
 
 * [Full Stack Python](https://www.fullstackpython.com/)
+* [futuecoder](https://futurecoder.io/) - learn python from scratch
 * [New Coder](https://newcoder.io/tutorials/)
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Pysheeet](https://www.pythonsheets.com/)
+* [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/)
 * [Python Books](https://pythonbooks.org/)
 * [Real Python](https://realpython.com/)
