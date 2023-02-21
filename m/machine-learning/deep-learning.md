@@ -17,6 +17,7 @@
 
 * [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html) - Stanford
 * [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) - David Silver, DeepMind
+* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Andrej Karpathy
 * [Practical Deep Learning](https://course.fast.ai/)
 
 ### Websites

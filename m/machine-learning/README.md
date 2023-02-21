@@ -4,6 +4,9 @@
 
 ### Articles
 
+* A visual introduction to machine learning - R2D3
+  * [Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  * [Part 2 - Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [Exploring Supervised Machine Learning Algorithms](https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms) - Vladyslav Miller
 * [K-Means Clustering](https://johnloeber.com/docs/kmeans.html) - John Loeber
 * [Machine Learning: a sound primer](https://www.franzoni.eu/machine-learning-a-sound-primer/) - Alan Franzoni

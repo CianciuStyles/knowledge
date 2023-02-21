@@ -25,6 +25,10 @@
 * [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
 * [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/1628964474946.png" alt=""><figcaption><p>Top 50 Brands</p></figcaption></figure>
+
 ### Videos
 
 * [Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST](https://www.youtube.com/watch?v=3\_Ue0tweDkE)
