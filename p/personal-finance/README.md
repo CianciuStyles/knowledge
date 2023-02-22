@@ -76,6 +76,7 @@
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
+* [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Investopedia](https://www.investopedia.com/)
 * [JL Collins](https://jlcollinsnh.com/)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
@@ -83,6 +84,7 @@
 * [Money Saving Expert](https://www.moneysavingexpert.com/)
 * [Money To The Masses](https://moneytothemasses.com/)
 * [Passive Income](https://my-passive-income.eu/)
+* [Plain English Finance](https://plainenglishfinance.co.uk/)
 * [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
