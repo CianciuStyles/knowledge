@@ -11,7 +11,6 @@
 
 ### Websites
 
-* [Design Patterns](https://refactoring.guru/design-patterns) - Refactoring Guru
 * [Design Patterns](https://sourcemaking.com/design\_patterns) - Source Making
 * [GoF Design Patterns in Java](https://gof-design-patterns.zeef.com/bauke.scholtz) - Bauke Scholtz
 * [Java Design Patterns](https://java-design-patterns.com/patterns/)
