@@ -71,6 +71,7 @@
 * [eCommerce](e/ecommerce.md)
 * [Electronics](e/electronics.md)
 * [Elon Musk](e/elon-musk.md)
+* [Engineering](e/engineering.md)
 * [Entrepreneurship](e/entrepreneurship.md)
 * [Events](e/events.md)
 
