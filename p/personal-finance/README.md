@@ -15,6 +15,7 @@
 
 ### Blogs
 
+* [FIRE v London](https://firevlondon.com/)
 * [Get Rich Slowly](https://www.getrichslowly.org/)
 * [Monevator](https://monevator.com/)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)
