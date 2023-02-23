@@ -85,6 +85,7 @@
 * [Money To The Masses](https://moneytothemasses.com/)
 * [Passive Income](https://my-passive-income.eu/)
 * [Plain English Finance](https://plainenglishfinance.co.uk/)
+* [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 * [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
