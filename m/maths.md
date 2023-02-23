@@ -54,6 +54,7 @@
 
 * [Desmos](https://www.desmos.com/calculator)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Setosa](https://setosa.io/#/) - data visualization and visual explanations
 
 ### YouTube Channels
 
