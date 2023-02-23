@@ -123,6 +123,7 @@
 * [How HTTPS works](https://howhttps.works/)
 * [JSFuck](http://www.jsfuck.com/) - Write any JavaScript with 6 Characters: \[]\()!+
 * [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
+* [OpenSecurityTraining2](https://p.ost2.fyi/)
 * [Open Web Application Security Project (OWASP)](https://owasp.org/)
   * [Cheat Sheets](https://cheatsheetseries.owasp.org/)
   * [Juice Shop](https://owasp.org/www-project-juice-shop/)
