@@ -52,6 +52,7 @@
 * [Lazy Foo's Productions](https://lazyfoo.net/)
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
 * [RasterTek](https://www.rastertek.com/tutindex.html)
+* [Red Blob Games](https://www.redblobgames.com/)
 
 ### YouTube Channels
 
