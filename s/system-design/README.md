@@ -201,6 +201,7 @@
 
 ### GitHub repositories
 
+* [CDN Up and Running](https://github.com/leandromoreira/cdn-up-and-running) - Leandro Moreira
 * [grokking-system-design](https://github.com/lei-hsia/grokking-system-design)
 * [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 * [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
