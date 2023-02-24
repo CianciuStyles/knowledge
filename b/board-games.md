@@ -2,7 +2,6 @@
 
 ## 2-players board games to try
 
-* [Hive](https://www.boardgamearena.com/gamepanel?game=hive)
 * Patchwork
 * Spirit Island
 * The Captain Is Dead
@@ -12,6 +11,7 @@
 
 ### Articles
 
+* [10 best two-player board games](https://www.dicebreaker.com/categories/board-game/best-games/best-two-player-board-games-2023) - Alex Meehan, Dicebreaker
 * [18 Best Two-Player Board Games 2021](https://www.thestrategist.co.uk/article/best-two-player-board-games.html) - The Strategist
 * [Best Board Games For Adults: Top 5 Titles Most Recommended Across Expert Reviews](https://studyfinds.org/best-board-games-for-adults/) - Saloni Ordia
 * [How to play board games online with your friends](https://masilotti.com/play-board-games-online/) - Joe Masilotti ([HN thread](https://news.ycombinator.com/item?id=22967716))
