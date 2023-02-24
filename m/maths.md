@@ -39,6 +39,7 @@
   * [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
 * [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
 * [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) - Gilbert Strang
+* [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects) - Diego Vera
 
 ### GitHub Repositories
 
@@ -54,6 +55,7 @@
 
 * [Desmos](https://www.desmos.com/calculator)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Setosa](https://setosa.io/#/) - data visualization and visual explanations
 
 ### YouTube Channels
 
