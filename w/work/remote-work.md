@@ -22,6 +22,10 @@
 
 * [Established Remote Companies](https://github.com/yanirs/established-remote)
 
+### Hacker News Threads
+
+* [Which big tech companies are still (or permanently) remote?](https://news.ycombinator.com/item?id=34918132)
+
 ### Remote Companies
 
 * [Elastic](https://www.elastic.co/about/careers/)
