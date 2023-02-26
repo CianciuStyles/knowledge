@@ -8,6 +8,7 @@
 ### Websites
 
 * [Podcast Notes](https://podcastnotes.org/)
+* [Podcast Review](https://podcastreview.org/)
 * [Podsearch](https://podsearch.com/)
 * [Show Me, Tim](https://showmetim.com/)
 * [Sponsors of The Tim Ferriss Show Podcast](https://tim.blog/podcast-sponsors/)
