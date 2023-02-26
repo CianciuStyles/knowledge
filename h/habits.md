@@ -104,6 +104,7 @@
 * [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) - James Clear
 * [The Daffodil Principle: What Happens When You Take Action Every Day](https://www.samuelthomasdavies.com/the-daffodil-principle/) - Samuel Thomas Davies
 * [The Spiral of Successful Habits](https://zenhabits.net/spiral/) - Leo Babauta, Zen Habits
+* [Why 'Atomic Habits' may not be working for you](https://www.krishnabharadwaj.info/why-atomic-habits-may-not-be-working-for-you/) - Krishna Bharadwaj ([Hacker News](https://news.ycombinator.com/item?id=34839197))
 
 ### Books
 
