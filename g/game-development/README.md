@@ -7,6 +7,7 @@
 * [Game Programming Primer](https://tl.net/forum/general/382368-game-programming-primer)
 * [Graphic Courses](https://imsky.co/links/graphics-courses)
 * [I want to be a game developer… now what?](https://gamefromscratch.com/i-want-to-be-a-game-developer-now-what/)
+* [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) - Gustavo Pezzi, Pikuma
 * [List of commercial video games with available source code](https://www.wikiwand.com/en/List\_of\_commercial\_video\_games\_with\_available\_source\_code)
 
 ### Books
@@ -51,7 +52,9 @@
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
 * [Lazy Foo's Productions](https://lazyfoo.net/)
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
+* [Pikuma](https://pikuma.com/) - Gustavo Pezzi
 * [RasterTek](https://www.rastertek.com/tutindex.html)
+* [Red Blob Games](https://www.redblobgames.com/)
 
 ### YouTube Channels
 
