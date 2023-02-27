@@ -127,6 +127,7 @@
 ### Websites
 
 * [CTFtime.org](https://ctftime.org/)
+* [CTF Sites](https://ctfsites.github.io/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
 * [picoCTF](https://picoctf.org/)

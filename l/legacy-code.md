@@ -14,14 +14,14 @@
 ### How to read a code
 
 * Trying to understand a new codebase is trying to get a mental model of the program into your head.
-* [Active recall](https://www.wikiwand.com/en/Active\_recall): actively trying to recall something will at the same time increase your understanding of it.
-* [Generation effect](https://www.wikiwand.com/en/Generation\_effect): if you're forced to come up with an answer to a question even when you are dead wrong pays off. By making someone guess the answer to a question even when the subject is totally unknown boosts the retention of the correct answer once it's revealed.
+* [Active recall](https://www.wikiwand.com/en/Active_recall): actively trying to recall something will at the same time increase your understanding of it.
+* [Generation effect](https://www.wikiwand.com/en/Generation_effect): if you're forced to come up with an answer to a question even when you are dead wrong pays off. By making someone guess the answer to a question even when the subject is totally unknown boosts the retention of the correct answer once it's revealed.
 * First three stages of reading a book:
   * First level - elementary reading: the readers reads a book cover to cover
   * Second level - inspectional reading: the user tries to find out the most of a book in a limited time by asking the questin "What is the book about, as a whole?"
   * Third level - active reading: the reader understands the book by bottoming-up from finding the most important words the author uses all the way up to the arguments the author has used.
 * If you don't know the syntax of your language then stop right here, learn the syntax and then come back.
-* Without looking at the README or similar - just write down what you know about the project beforehand (which will leverage the generation effect):
+* Without looking at the README or similar - just write down what you know about the project beforehand \(which will leverage the generation effect\):
   * What problem does it solve?
   * How would I implement this?
   * What do I know of the domain?
@@ -37,8 +37,7 @@
 
 * [How to own a code](https://www.iamjonas.me/2020/11/how-to-own-code.html) - Jonas Lundberg
 * [How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html) - Jonas Lundberg
-* [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) - Samuel Taylor
-* [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) - Herb Caudill
+* [new codebase, who dis? \(How to Join a Team and Learn a Codebase\)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) - Samuel Taylor
 * [The key points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/) - Nicolas Carlo
 
 ### Books
@@ -49,7 +48,5 @@
 
 * [Mikado Method examples and exercises](https://github.com/mikadomethod)
 
-### Websites
 
-* [Refactoring: clean your code](https://refactoring.guru/refactoring) - Refactoring Guru
 
