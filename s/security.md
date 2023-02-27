@@ -72,6 +72,8 @@
 
 ### GitHub Repositories
 
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
