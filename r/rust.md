@@ -7,6 +7,7 @@
 * [24 days from node.js to Rust](https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup/) - Jarrod Overson
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Amos Wenger
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
+* [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust\_concepts\_i\_wish\_i\_learned\_earlier/))
 * [Writing an OS in Rust](https://os.phil-opp.com/) - Philipp Oppermann
 
 ### Books
@@ -21,6 +22,7 @@
 
 ### Courses
 
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Android team, Google
 * [Learn Rust by Building Real Applications](https://www.udemy.com/course/rust-fundamentals/) - Lyubomir Gavadinov
 * [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722) - Chris Biscardi
 * [The Rust Programming Language](https://frontendmasters.com/courses/rust/) - Richard Feldman
@@ -28,6 +30,7 @@
 ### GitHub repositories
 
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+* [Awesome Rust Books](https://github.com/sger/RustBooks)
 * [From JavaScript to Rust eBook](https://github.com/vinodotdev/node-to-rust)
 * [py2rs - From Python into Rust](https://github.com/rochacbruno/py2rs)
 * [Rust Learning](https://github.com/ctjhoa/rust-learning)
