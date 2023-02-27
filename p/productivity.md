@@ -74,7 +74,6 @@
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
 * [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
 * [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/) - Tom Lingham
-* [Work Less, Get More Done: Analytics For Maximizing Productivity](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/) - Patrick McKenzie
 
 ### Blogs
 
