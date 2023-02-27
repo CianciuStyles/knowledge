@@ -42,6 +42,8 @@
 
 
 
+* [13 remote tech companies with four-day workweeks that are hiring now](https://www.fastcompany.com/90853899/13-remote-tech-companies-with-four-day-workweeks-that-are-hiring-now)
+* [271 Companies With 4-Day Work Weeks (Feb 2023)](https://buildremote.co/four-day-week/4-day-work-week-companies/)
 * [30 Hour Jobs](https://30hourjobs.com/)
 * [4 Day Work Week Jobs](https://4dayweek.io/)
 * [80,000 Hours](https://80000hours.org/job-board/)
