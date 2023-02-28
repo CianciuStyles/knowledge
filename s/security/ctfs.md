@@ -57,7 +57,11 @@
 
 * [BruteX](https://github.com/1N3/BruteX)
 * [hashcat](https://hashcat.net/hashcat/)
+  * [CrackerJack](https://github.com/ctxis/crackerjack)
+  * [GovCracker](https://github.com/Are-s-h/GovCracker)
+  * [hashcat.launcher](https://github.com/s77rt/hashcat.launcher)
 * [John the Ripper](https://www.openwall.com/john/)
+  * [Johnny](https://github.com/openwall/johnny)
 
 ### Online Tools
 
