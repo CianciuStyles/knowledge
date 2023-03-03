@@ -22,6 +22,7 @@
 * [Ask HN: Are you a “lifer”? If so why?](https://news.ycombinator.com/item?id=33794293)
 * [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
 * [Ask HN: New job at BigCo. Everything has friction](https://news.ycombinator.com/item?id=31669338)
+* [Ask HN: What companies have publicly available handbooks?](https://news.ycombinator.com/item?id=34959242)
 * [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
 * [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
 * [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
