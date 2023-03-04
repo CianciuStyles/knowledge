@@ -130,6 +130,7 @@
 
 ### Reddit Threads
 
+* [12 essential puzzle games I recommend to everyone](https://www.reddit.com/r/puzzlevideogames/comments/11gmjgo/12\_essential\_puzzle\_games\_i\_recommend\_to\_everyone/)
 * [About to buy a PS4. Suggest some games?](https://www.reddit.com/r/patientgamers/comments/881cln/about\_to\_buy\_a\_ps4\_suggest\_some\_games/)
 * [Any 2D Metroidvania-style Games You Like?](https://www.reddit.com/r/patientgamers/comments/6njttl/i\_just\_finished\_ori\_and\_the\_blind\_forest\_and/)
 * [Best FPS/shooters for PS3?](https://www.reddit.com/r/patientgamers/comments/4cktui/best\_fpsshooters\_for\_ps3\_which\_to\_avoid/)
