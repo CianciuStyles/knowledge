@@ -21,6 +21,7 @@
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
+* [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) - Oleksii Holub
 * [QR codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi) - Dan Hollick
 * [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
@@ -99,6 +100,7 @@
 * [More challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/morechallengingprojects.html) - Austin Z. Henley
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Tu V. Tran
 * [Projectbook](https://projectbook.code.brettchalupa.com/) - Brett Chalupa
+* [Protohackers](https://protohackers.com/)
 * [What To Code](https://github.com/joereynolds/what-to-code) - Joe Reynolds
 
 ### Open Source
