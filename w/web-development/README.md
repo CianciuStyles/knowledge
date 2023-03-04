@@ -49,8 +49,10 @@
 
 ### Hosting
 
+* [1MB](https://1mb.co)
 * [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
 * [Netlify](https://www.netlify.com/)
+* [tiiny.host](https://tiiny.host/)
 
 ### Websites
 
