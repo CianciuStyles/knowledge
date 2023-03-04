@@ -132,7 +132,9 @@
 
 * [CTFtime.org](https://ctftime.org/)
 * [CTF Sites](https://ctfsites.github.io/)
+* [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
+* [KITCTF](https://kitctf.de/)
 * [picoCTF](https://picoctf.org/)
 

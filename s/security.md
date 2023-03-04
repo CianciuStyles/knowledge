@@ -33,6 +33,7 @@
 ### Blogs
 
 * [Filippo Valsorda](https://filippo.io/)
+* [SkullSecurity](https://www.skullsecurity.org/)
 
 ### Bug Bounty Programs
 
@@ -143,6 +144,7 @@
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
 * [VulnHub](https://www.vulnhub.com)
+* [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [XSS Game](https://xss-game.appspot.com/)
 
 ### YouTube Channels
