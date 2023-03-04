@@ -23,3 +23,7 @@
 * [fast.ai](https://www.fast.ai/)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
+
+### YouTube Videos
+
+* [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy
