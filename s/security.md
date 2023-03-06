@@ -91,6 +91,8 @@
 
 ### Subreddits
 
+* [r/hacking](https://www.reddit.com/r/hacking/) ([wiki](https://www.reddit.com/r/hacking/wiki/index))
+* [r/HowToHack](https://www.reddit.com/r/HowToHack/)
 * [r/websec](https://www.reddit.com/r/websec/)
 
 ### Tools
