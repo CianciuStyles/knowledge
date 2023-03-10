@@ -47,6 +47,7 @@ description: https://www.python.org/
 
 ### GitHub repositories
 
+* [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 * [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
 * [Awesome Functional Python](https://github.com/sfermigier/awesome-functional-python)
 * [Awesome Python](https://github.com/vinta/awesome-python)
