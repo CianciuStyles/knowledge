@@ -20,3 +20,4 @@
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
+* [The Hacker News](https://thehackernews.com/)

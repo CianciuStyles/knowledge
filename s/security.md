@@ -143,6 +143,7 @@
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [The Hacker News](https://thehackernews.com/) - #1 Trusted Cybersecurity News Platform
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
 * [VulnHub](https://www.vulnhub.com)
