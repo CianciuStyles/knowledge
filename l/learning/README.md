@@ -56,6 +56,8 @@
 
 * [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
 * [Do you recall any book or course that made a topic finally click?](https://news.ycombinator.com/item?id=33593631)
+* [What's the best lecture series you've seen?](https://news.ycombinator.com/item?id=34591291)
+* [Which courses (online or not) have had the greatest impact on you?](https://news.ycombinator.com/item?id=34637678)
 
 ### Reddit Threads
 
