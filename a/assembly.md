@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/) - Tim Misiak
+
 ### GitHub Repositories
 
 * [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm\_book)
