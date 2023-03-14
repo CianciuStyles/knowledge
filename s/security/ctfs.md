@@ -67,6 +67,7 @@
 ### Online Tools
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
+* [FastPeopleSearch](https://www.fastpeoplesearch.com/)
 * [HexEd.it](https://hexed.it/)
 * [JSfuck Decoder](https://enkhee-osiris.github.io/Decoder-JSFuck/)
 
@@ -99,6 +100,7 @@
 * [Boomerang ](https://github.com/BoomerangDecompiler/boomerang)- x86 to C decompiler
 * [IDA Pro](https://www.hex-rays.com/ida-pro/)
 * [Java decompiler online](http://www.javadecompilers.com/)
+* [Online Assembler and Disassembler](https://shell-storm.org/online/Online-Assembler-and-Disassembler/)
 * [PLASMA ](https://github.com/plasma-disassembler/plasma)- x86/ARM/MIPS disassembler
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - resource compiler/decompiler for Windows applications
 * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
