@@ -303,3 +303,7 @@
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
 * [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
 
+### YouTube Playlists
+
+* [PiG's Protoss Bronze to GM Series](https://www.youtube.com/playlist?list=PLOrKQEirgvjBJrKM31yhwA8v54pcBuXsx) - StarCraft II
+
