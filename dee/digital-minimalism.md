@@ -11,3 +11,7 @@
 ### Books
 
 * [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) - Cal Newport
+
+### Websites
+
+* [The AIR Method](https://www.staygrounded.online/s/the-air-method) - Justin Hanagan
