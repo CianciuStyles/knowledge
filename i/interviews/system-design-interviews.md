@@ -47,6 +47,7 @@
 
 * [How to Prepare for Technical Interviews, Part 2 - System Design](https://www.youtube.com/watch?v=9N2S3JZffeg) - Engineering with Utsav
 * [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - Jackson Gabbard
+* [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) - Alex Xu, ByteByteGo
 * [Want to Get Better at the System Design Interview? Start Here!](https://www.youtube.com/watch?v=XxB1BCuvu9A) - Engineering with Utsav
 
 ### Websites
