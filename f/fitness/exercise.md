@@ -42,6 +42,7 @@
 * [ExRx](https://exrx.net/)
 * [NerdFitness](http://www.nerdfitness.com/)
 * [Physiqonomics](https://physiqonomics.com/)
+* [StrongLifts](https://stronglifts.com/)
 
 ### YouTube Channels
 

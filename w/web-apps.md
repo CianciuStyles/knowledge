@@ -1,5 +1,14 @@
 # Web Apps
 
+### Alternative Frontends
+
+* [Imginn](https://imginn.com/) - Instagram
+* [Invidious](https://api.invidious.io/) - YouTube
+* [nitter](https://nitter.net/) - Twitter
+* [searx](https://searx.space/) - Google Search
+* [teddit](https://teddit.net/) - Reddit
+* [Xeddit](https://www.xeddit.com/) - Reddit
+
 ### Audio
 
 * [Murf.ai](https://murf.ai/) - AI Voice Generator
