@@ -9,6 +9,7 @@
 * [I want to be a game developer… now what?](https://gamefromscratch.com/i-want-to-be-a-game-developer-now-what/)
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) - Gustavo Pezzi, Pikuma
 * [List of commercial video games with available source code](https://www.wikiwand.com/en/List\_of\_commercial\_video\_games\_with\_available\_source\_code)
+* [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/) - Grant Handy
 
 ### Books
 
