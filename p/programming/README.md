@@ -27,6 +27,7 @@
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
+* [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do) - Andy Hippo
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) - Matt Might
 * [What I learned from Software Engineering at Google ](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)- Swizec Teller
 * [Why you should learn brainf\*ck (or: learn you a brainf\*ck for great good!)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
