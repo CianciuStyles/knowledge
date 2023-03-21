@@ -187,6 +187,10 @@
 
 ![](<../../.gitbook/assets/immagine (5).png>)
 
+### Articles
+
+* [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
+
 ### Books
 
 * [Designing Data-Intensive Applications](https://smile.amazon.co.uk/dp/1449373321/) - Martin Kleppmann ([website](https://dataintensive.net/))

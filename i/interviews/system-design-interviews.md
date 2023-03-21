@@ -9,6 +9,7 @@
 ### Articles
 
 * [Algorithms you should know before you take system designs interview](https://blog.bytebytego.com/p/algorithms-you-should-know-before) - Alex Xu
+* [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
 * [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
 
