@@ -66,10 +66,8 @@
 
 ### Online Tools
 
-* [CyberChef](https://gchq.github.io/CyberChef/)
 * [FastPeopleSearch](https://www.fastpeoplesearch.com/)
 * [HexEd.it](https://hexed.it/)
-* [JSfuck Decoder](https://enkhee-osiris.github.io/Decoder-JSFuck/)
 
 #### Cryptography
 
@@ -82,6 +80,12 @@
 * [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
 * [Vigenère Solver](https://www.guballa.de/vigenere-solver)
+
+#### Encoders / Decoders
+
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [Dencode](https://dencode.com/)
+* [JSfuck Decoder](https://enkhee-osiris.github.io/Decoder-JSFuck/)
 
 #### Forensics
 
