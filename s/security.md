@@ -159,6 +159,7 @@
 * [IppSec](https://www.youtube.com/@ippsec/videos)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
+* [stacksmashing](https://www.youtube.com/@stacksmashing/videos)
 * [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos)
 
 ### YouTube Playlists
