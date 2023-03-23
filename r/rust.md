@@ -8,6 +8,7 @@
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Amos Wenger
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
 * [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust\_concepts\_i\_wish\_i\_learned\_earlier/))
+* [Rust for professionals](https://overexact.com/rust-for-professionals/) - overexact.com
 * [Writing an OS in Rust](https://os.phil-opp.com/) - Philipp Oppermann
 
 ### Books
