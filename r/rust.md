@@ -47,6 +47,10 @@
   * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
   * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
 
+### YouTube channels
+
+* [fasterthanlime](https://www.youtube.com/@fasterthanlime/videos)
+
 ### YouTube playlists
 
 * [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z\_jLr)
