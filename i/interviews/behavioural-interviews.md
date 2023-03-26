@@ -13,6 +13,11 @@
 * [Interview Questions](https://changingminds.org/disciplines/job-finding/interview\_questions/interview\_questions.htm)
 * [The 25 most difficult questions you'll be asked on a job interview](https://www.datsi.fi.upm.es/\~frosal/docs/25mdq.html)
 
+### Books
+
+* [60 Seconds and You're Hired!](https://www.amazon.co.uk/dp/0143128507) - Robin Ryan
+* [The No Asshole Rule](https://www.amazon.co.uk/dp/0446698202) - Robert I Sutton
+
 ### Videos
 
 * [How to Prepare for Technical Interviews, Part 3 - Behavioral](https://www.youtube.com/watch?v=sv-3crA1img) - Engineering with Utsav

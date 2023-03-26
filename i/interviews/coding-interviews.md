@@ -12,6 +12,12 @@
 * [Reddit Interview Problems: The Game of Life](https://alexgolec.dev/reddit-interview-problems-the-game-of-life/) - Alex Golec
 * [Top 30 Apple coding interview questions (with solutions)](https://www.educative.io/blog/apple-coding-interview-questions) - Amanda Fawcett
 
+### Books
+
+* [Cracking the Coding Interview](https://www.amazon.co.uk/dp/0984782850) - Gayla Laakmann McDowell
+* [Elements of Programming Interviews in Python](https://www.amazon.co.uk/dp/1537713949) - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+* [Programming Interviews Exposed](https://www.amazon.co.uk/dp/111941847X) - John Mongan, Noah Suojanen Kindler, Eric Giguère
+
 ### Courses
 
 * [Coderust: Hacking the Coding Interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview) - Educative.io

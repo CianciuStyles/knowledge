@@ -20,6 +20,7 @@
 * [Designing Data-Intensive Applications](https://smile.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) - Martin Kleppmann
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html) - Mikito Takada
 * [Domain-Driven Design](https://smile.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Eric Evans
+* [Hacking the System Design Interview](https://www.amazon.co.uk/dp/B0B7QHRK5Q) - Stanley Chiang
 * [Microservice Patterns and Best Practices](https://smile.amazon.co.uk/Microservice-Patterns-Best-Practices-microservices/dp/1788474031/) - Victor Feitosa Pacheco
 * System Design Interview: An Insider's Guide - Alex Xu
   * [Volume 1](https://smile.amazon.co.uk/dp/B08B35X2ND)
