@@ -20,6 +20,11 @@
 
 * [Facebook Job Openings](https://www.facebookcareers.com/jobs)
 
+### Freetrade
+
+* [Careers](https://freetrade.io/careers)
+* [Staff Software Engineer](https://freetrade.pinpointhq.com/en/postings/a488a7d5-7405-4496-9d16-c1185a3a9b1c)
+
 ### Google
 
 * [jhuangtw](https://github.com/jhuangtw) / [xg2xg](https://github.com/jhuangtw/xg2xg) - A lookup table of similar tech & services
