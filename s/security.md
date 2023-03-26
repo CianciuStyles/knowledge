@@ -110,6 +110,7 @@
 
 ### Videos
 
+* [File Path Race Condition & How To Prevent It](https://www.youtube.com/watch?v=5g137gsB9Wk) - LiveOverflow
 * [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg) - David Brumley
 
 ### Websites
