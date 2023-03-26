@@ -93,3 +93,14 @@
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
 * [Wise Bread](https://www.wisebread.com/)
 * [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
+
+### YouTube Channels
+
+* [All The Honeys](https://www.youtube.com/@Marta-allthehoneys/videos)
+* [Chris Invests](https://www.youtube.com/@ChrisInvests/videos)
+* [Damien Talks Money](https://www.youtube.com/@DamienTalksMoney/videos)
+* [Huw Davies](https://www.youtube.com/@Huwsview/videos)
+* [James Shack](https://www.youtube.com/@JamesShack/videos)
+* [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
+* [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
+* [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
