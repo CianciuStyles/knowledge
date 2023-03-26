@@ -5,6 +5,7 @@
 ### Articles
 
 * [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) - Mary Rose Cook
+* [Elixir for Humans Who Know Python](https://hibox.live/elixir-for-humans-who-know-python) - Rich Jones
 * [What's so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/) - James Sinclair
 
 ### Books
