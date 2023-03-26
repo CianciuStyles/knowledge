@@ -30,4 +30,5 @@
 
 ### Websites
 
+* [CryptoHack](https://cryptohack.org/)
 * [SHA256 Algorithm Explained](https://sha256algorithm.com/)
