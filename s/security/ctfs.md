@@ -13,6 +13,8 @@
 * [CTF Resources](https://ctfs.github.io/resources/)
 * [CTF Wiki](https://ctf-wiki.mahaloz.re/)
 * [HackTricks](https://book.hacktricks.xyz/welcome/readme) - Carlos Polop
+* [Infosec Tools](https://shellsharks.com/infosec-tools)
+* [Online IT/Security Training](https://shellsharks.com/online-training)
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 * [picoCTF Primer](https://primer.picoctf.com/)
 * [The Many Maxims of Maximally Effective CTFs](https://web.archive.org/web/20201124033521/https://captf.com/maxims.html)
@@ -22,6 +24,7 @@
 * [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [CTFs](https://github.com/ctfs)
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
+* [how2heap](https://github.com/shellphish/how2heap/)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
 ### Offline Tools
