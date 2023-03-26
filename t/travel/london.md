@@ -112,10 +112,12 @@
 ### Walks
 
 * [Geocaching](https://www.geocaching.com/play)
+* [Jenny Draper](https://www.jdraper.co.uk/)
 * [London's Prettiest Walks](https://www.timeout.com/london/things-to-do/londons-prettiest-walks) - TimeOut
 * [London Footprints](https://www.london-footprints.co.uk/index.htm)
 * [London Guided Walks](https://londonguidedwalks.uk/)
 * [London Walking Tours](https://lookup.london/walking-tours/)
+* [London Walks](https://www.walks.com/)
 * [LondonRoasts](https://londonroasts.com/)
 * [Rambles from the London Tube](https://www.londontuberambles.co.uk/)
 * [Saturday Walkers Club](https://www.walkingclub.org.uk/)
