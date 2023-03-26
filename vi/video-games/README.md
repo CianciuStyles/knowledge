@@ -300,6 +300,7 @@
 ### YouTube Channels
 
 * [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
+* [Get Off My Lawn](https://www.youtube.com/@getoffmylawn6692/videos)
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
 * [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
 
