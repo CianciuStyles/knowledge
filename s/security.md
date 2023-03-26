@@ -136,6 +136,7 @@
   * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
 * [PentesterLab](https://pentesterlab.com/)
+* [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
