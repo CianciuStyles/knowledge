@@ -212,6 +212,7 @@
 
 ## T
 
+* [Table Tennis](t/table-tennis.md)
 * [Testing](t/testing.md)
 * [Thinking](t/thinking.md)
 * [Touch Typing](t/touch-typing.md)
