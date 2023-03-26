@@ -65,6 +65,7 @@
 
 * [Budget Bytes](https://www.budgetbytes.com/)
 * [Eat This, Not That!](https://www.eatthis.com/)
+* [Examine](https://examine.com/) - Evidence-based Analysis on Supplements & Nutrition
 * [Fit Men Cook](https://fitmencook.com/)
 * [KetoNutrition](https://ketonutrition.org/)
 * [No Meat Athlete](https://www.nomeatathlete.com/)
