@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [Who Becomes an Entrepreneur?](https://www.generalist.com/briefing/who-becomes-an-entrepreneur) - Mario Gabriele, The Generalist
+
 ### Books
 
 * [The $100 Startup](https://smile.amazon.co.uk/dp/0307951529) - Chris Guillebeau
