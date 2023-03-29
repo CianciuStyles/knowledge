@@ -53,6 +53,10 @@
 * [Video Game Music](https://www.youtube.com/playlist?list=PLVmjWk3MuuFrzbK9vZeCvjIxiLUUN\_dEF)
 * [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 
+### Podcast
+
+* [Super Marcato Bros.](http://www.supermarcatobros.com/podcast)
+
 ### Reddit Threads
 
 * [Videogame music that should play when you get home discussion](https://www.reddit.com/r/gamemusic/comments/7wvz0h/videogame\_music\_that\_should\_play\_when\_you\_get/)
