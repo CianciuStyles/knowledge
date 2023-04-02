@@ -113,6 +113,7 @@
 
 * [Geocaching](https://www.geocaching.com/play)
 * [Jenny Draper](https://www.jdraper.co.uk/)
+* [Historic London](https://historiclondontours.com/)
 * [London's Prettiest Walks](https://www.timeout.com/london/things-to-do/londons-prettiest-walks) - TimeOut
 * [London Footprints](https://www.london-footprints.co.uk/index.htm)
 * [London Guided Walks](https://londonguidedwalks.uk/)
