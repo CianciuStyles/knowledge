@@ -26,6 +26,7 @@
 * [What is the best life advice you would give?](https://www.reddit.com/r/productivity/comments/v7odql/what\_is\_the\_best\_life\_advice\_you\_would\_give/)
 * [What life changing purchase can you make with less than $100?](https://www.reddit.com/r/AskReddit/comments/ytlhyl/what\_life\_changing\_purchase\_can\_you\_make\_with/)
 * [What online course actually improved your well-being?](https://www.reddit.com/r/productivity/comments/z8qrr3/what\_online\_course\_actually\_improved\_your/)
+* [What small purchase have you made that has had a significant impact on your life?](https://www.reddit.com/r/LifeProTips/comments/124qbv1/lpt\_request\_what\_small\_purchase\_have\_you\_made/)
 
 ### Websites
 
