@@ -1,11 +1,12 @@
 # C (programming language)
 
-## sResources
+## Resources
 
 ### Articles
 
 * [All about 64-bit programming in one place](https://software.intel.com/content/www/us/en/develop/blogs/all-about-64-bit-programming-in-one-place.html)
 * [Bit Twiddling Hacks](https://graphics.stanford.edu/\~seander/bithacks.html) - Sean Eron Anderson
+* [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) - Andrei Ciobanu
 * [Everything I wish I knew when learning C](https://tmewett.com/c-tips/) - Tom Mewett
 * [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c) - Jakub Łukasiewicz
 * [The Descent to C](https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/) - Simon Tatham ([Hacker News](https://news.ycombinator.com/item?id=7134798), [Reddit](https://www.reddit.com/r/programming/comments/1wcily/the\_descent\_to\_c/))
