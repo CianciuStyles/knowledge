@@ -20,6 +20,7 @@
 * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - HighOn.Coffee
 * [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentest Monkey
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
+* [Smashing The Stack For Fun And Profit](https://inst.eecs.berkeley.edu/\~cs161/fa08/papers/stack\_smashing.pdf) - Aleph One
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
 * [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 * [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - [2](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
