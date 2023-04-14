@@ -46,8 +46,14 @@
 
 ### YouTube Channels
 
+* [Alex Leonidas](https://www.youtube.com/@AlexLeonidas/videos)
+* [ATHLEAN-X](https://www.youtube.com/@athleanx/videos)
 * [Chris Heria](https://www.youtube.com/c/CHRISHERIA/videos)
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
+* [Jeff Nippard](https://www.youtube.com/@JeffNippard/videos)
+* [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
+* [Joe Delaney](https://www.youtube.com/@JoeDelaneyy/videos)
 * [Justin Agustin](https://www.youtube.com/c/JustinAgustin/videos)
 * [Mady Morrison](https://www.youtube.com/c/MadyMorrison/videos)
+* [Millionaire Hoy](https://www.youtube.com/@MillionaireHoyFitness/videos)
 * [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene)
