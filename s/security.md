@@ -48,6 +48,7 @@
 
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 * [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
+* [CompTIA Security+](https://www.comptia.org/certifications/security)
 * [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 
 ### Conferences
