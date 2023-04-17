@@ -73,6 +73,7 @@
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
 * [Hacker News Books](https://hackernewsbooks.com/)
 * [HN Books](https://yahnd.com/books/)
+* [Librarian AI](https://www.librarian-ai.com/)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
 * [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
 * [Reddit Reads](https://www.redditreads.com/)
