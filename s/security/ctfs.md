@@ -21,6 +21,7 @@
 
 ### GitHub repositories
 
+* [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [CTFs](https://github.com/ctfs)
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
