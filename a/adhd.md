@@ -13,6 +13,11 @@
 
 * [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
 
+### Reddit threads
+
+* [ADHD 101](https://www.reddit.com/r/kaidomac/comments/qnqa6p/adhd\_101/)
+* [Mooch Circuit for ADHD](https://www.reddit.com/r/kaidomac/comments/qt1v5o/mooch\_circuit\_for\_adhd/)
+
 ### Subreddits
 
 * [r/ADHD\_Programmers](https://www.reddit.com/r/ADHD\_Programmers/)
