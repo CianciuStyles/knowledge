@@ -190,6 +190,7 @@
 ### Articles
 
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
+* [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 
 ### Books
 
