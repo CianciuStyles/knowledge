@@ -42,6 +42,10 @@
 * [Escape Rooms](https://www.escaperooms.co.uk/)
 * [Sherlock: The Official Live Game](https://www.thegameisnow.com/)
 
+### Maps
+
+* [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR\_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
+
 ### Movies
 
 * [Rooftop Film Club](https://rooftopfilmclub.com/london/)
