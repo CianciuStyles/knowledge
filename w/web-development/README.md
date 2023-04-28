@@ -28,6 +28,8 @@
 
 * [CodeSandbox](https://codesandbox.io/)
 * [CodePen](https://codepen.io/)
+* [Flems](https://flems.io/)
+* [JSFiddle](https://jsfiddle.net/)
 * [Mocky.io](https://designer.mocky.io/) - API mocks
 
 ### Courses
