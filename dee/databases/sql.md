@@ -9,6 +9,10 @@
 
 * [Use The Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com/) - Markus Winand
 
+### Playgrounds
+
+* [SQL Playground](https://sql-playground.wizardzines.com/)
+
 ### Websites
 
 * [Human to SQL Translator](https://www.sqltranslate.app/)

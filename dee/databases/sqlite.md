@@ -9,3 +9,7 @@ description: https://www.sqlite.org/index.html
 ### Articles
 
 * [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/) - Ben Johnson
+
+### Playgrounds
+
+* [Sqlime](https://sqlime.org/)

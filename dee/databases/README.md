@@ -95,6 +95,10 @@
 
 * [Designing Data-Intensive Applications](https://smile.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) (Chapter 5) - Martin Kleppman
 
+### Playgrounds
+
+* [DB Fiddle](https://www.db-fiddle.com/)
+
 ### Videos
 
 * [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw) - Fireship
