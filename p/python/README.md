@@ -88,6 +88,7 @@ description: https://www.python.org/
 
 ### Websites
 
+* [Dis This](https://www.dis-this.com/) - Online Python disassembler
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [futuecoder](https://futurecoder.io/) - learn python from scratch
 * [New Coder](https://newcoder.io/tutorials/)
