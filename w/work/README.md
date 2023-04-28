@@ -38,6 +38,7 @@
 ### Websites
 
 * [50 Ways to Get a Job](https://50waystogetajob.com/)
+* [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
 * [LinkedIn](https://it.linkedin.com/)
