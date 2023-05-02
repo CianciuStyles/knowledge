@@ -16,6 +16,7 @@
 ### Websites
 
 * [Human to SQL Translator](https://www.sqltranslate.app/)
+* [Lost at SQL](https://lost-at-sql.therobinlord.com/) - SQL learning game
 * [Select Star SQL](https://selectstarsql.com/)
 * [SQL for Devs](https://sqlfordevs.com/)
 * [SQLBolt](https://sqlbolt.com/)
