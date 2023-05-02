@@ -21,6 +21,7 @@
 
 #### Models
 
+* [Allbirds Wool Runner Mizzles](https://www.allbirds.co.uk/products/mens-wool-runner-mizzles-natural-black)
 * [New Balance 574](https://www.newbalance.co.uk/pd/574/ML574V2-19566.html)
 
 #### Shops
