@@ -51,6 +51,10 @@
 
 ### Books
 
+* Build Your Own X From Scratch - James Smith
+  * [Build Your Own Database From Scratch](https://build-your-own.org/database/)
+  * [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
+  * [From Source Code To Machine Code - Build Your Own Compiler From Scratch](https://build-your-own.org/compiler/)
 * [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
 * [How To Be A Programmer](https://www.doc.ic.ac.uk/\~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
