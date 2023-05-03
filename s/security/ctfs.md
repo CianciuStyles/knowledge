@@ -15,6 +15,7 @@
 * [Escaping the PyJail](https://lbarman.ch/blog/pyjail/) - Ludovic Barman
 * [HackTricks](https://book.hacktricks.xyz/welcome/readme) - Carlos Polop
 * [Infosec Tools](https://shellsharks.com/infosec-tools)
+* [Offensive Security Cheatsheet](https://cheatsheet.haax.fr/)
 * [Online IT/Security Training](https://shellsharks.com/online-training)
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 * [picoCTF Primer](https://primer.picoctf.com/)
