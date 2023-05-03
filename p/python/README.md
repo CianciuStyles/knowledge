@@ -15,6 +15,7 @@ description: https://www.python.org/
 * [Async Python: The Different Forms of Concurrency](https://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/) - Abu Ashraf Masnun
 * [AsyncIO for the Working Python Developer](https://yeraydiazdiaz.medium.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - Yeray Diaz
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
+* [Escaping the PyJail](https://lbarman.ch/blog/pyjail/) - Ludovic Barman
 * [Grok the GIL: How to write fast and thread-safe Python](https://opensource.com/article/17/4/grok-gil) - A. Jesse Jiryu Davis
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
