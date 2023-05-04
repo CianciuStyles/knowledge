@@ -235,6 +235,7 @@
   * [Mods](vi/video-games/mods.md)
   * [Music](vi/video-games/video-games-music.md)
   * [Speedrunning](vi/video-games/speedrunning.md)
+  * [Warzone](vi/video-games/warzone.md)
 
 ## W
 
