@@ -12,6 +12,7 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
 * [Neural Networks from Scratch in Python](https://nnfs.io/)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Richard S. Sutton, Andrew G. Barto
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret, University of Geneva
 
 ### Courses
 
