@@ -265,6 +265,11 @@ set +x
 
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Mendel Cooper
 
+### GitHub repositories
+
+* [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+* [pure sh bible](https://github.com/dylanaraps/pure-sh-bible)
+
 ### Websites
 
 * [Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Google
