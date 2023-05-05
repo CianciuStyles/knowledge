@@ -5,6 +5,7 @@
 * [Dan Wang](https://danwang.co/)
 * [Emergency and Disaster Information Services](https://rsoe-edis.org/)
 * [Marginal Revolution](https://marginalrevolution.com/)
+* [News Minimalist](https://www.newsminimalist.com/)
 * [Positive News](https://www.positive.news/)
 * [Reuters](https://www.reuters.com/)
 * [The Economist](https://www.economist.com/)
