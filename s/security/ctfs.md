@@ -70,6 +70,11 @@
 * [John the Ripper](https://www.openwall.com/john/)
   * [Johnny](https://github.com/openwall/johnny)
 
+#### Reconnaissance
+
+* [Bluto](https://github.com/darryllane/Bluto)
+* [theHarvester](https://github.com/laramies/theHarvester)
+
 ### Online Tools
 
 * [FastPeopleSearch](https://www.fastpeoplesearch.com/)
