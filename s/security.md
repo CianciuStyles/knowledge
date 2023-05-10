@@ -95,6 +95,10 @@
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
+### Podcasts
+
+* [Darknet Diaries](https://darknetdiaries.com/)
+
 ### Subreddits
 
 * [r/hacking](https://www.reddit.com/r/hacking/) ([wiki](https://www.reddit.com/r/hacking/wiki/index))
