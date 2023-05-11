@@ -160,4 +160,5 @@
 * [Online Video Converter](https://onlinevideoconverter.com/youtube-converter)
 * [TubeRipper](https://tuberipper.com/)
 * [Video Grabber](https://www.videograbber.net/)
+* [you-tldr](https://www.you-tldr.com/) - Get the TLDR of any YouTube Video in seconds
 * [YouTube Transcript](https://youtubetranscript.com/)
