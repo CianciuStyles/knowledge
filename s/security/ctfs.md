@@ -28,6 +28,11 @@
 * [CTFs](https://github.com/ctfs)
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
 * [how2heap](https://github.com/shellphish/how2heap/)
+* [Security Cheat Sheet](https://github.com/security-cheatsheet)
+  * [CMD](https://github.com/security-cheatsheet/cmd-command-cheat-sheet)
+  * [Metasploit](https://github.com/security-cheatsheet/metasploit-cheat-sheet)
+  * [Reverse Shell](https://github.com/security-cheatsheet/reverse-shell-cheatsheet)
+  * [Wireshark](https://github.com/security-cheatsheet/wireshark-cheatsheet)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
 ### Offline Tools
