@@ -1,5 +1,6 @@
 # News
 
+* [Boring Report](https://www.boringreport.org/app)
 * [Breaking News](https://breaking.ai/)
 * [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current\_events)
 * [Dan Wang](https://danwang.co/)
