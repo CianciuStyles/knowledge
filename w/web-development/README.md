@@ -70,4 +70,5 @@
 * [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [The Front-End Checklist](https://frontendchecklist.io/)
 * [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins
+* [Wappalyzer](https://www.wappalyzer.com/) - Find out what websites are built with
 * [web.dev](https://web.dev/)
