@@ -12,6 +12,11 @@
 * [Top 100 Books](https://www.alistofbooks.com/lists/10-top-100-books-by-newsweek) - Newsweek
 * [Top 100 Books](https://www.bbc.co.uk/arts/bigread/top100.shtml) - The Big Read, BBC
 
+### Book Clubs
+
+* [Engineering Book Club](https://www.engineeringbookclub.com/)
+* [Rebel Book Club](https://www.rebelbook.club/)
+
 ### Books
 
 * [How To Read A Book](https://smile.amazon.co.uk/dp/0671212095/) - Mortimer Adler, Charles Van Doren
@@ -137,7 +142,6 @@
 * [Open Library](https://openlibrary.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
-* [Rebel Book Club](https://www.rebelbook.club/)
 * [Standard Ebooks](https://standardebooks.org/)
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
