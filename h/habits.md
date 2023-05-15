@@ -65,7 +65,7 @@
 #### The Role of Family and Friends in Shaping Habits
 
 * Your culture sets your expectation for what is "normal". Surround yourself with people who have the habits you want to have yourself. You’ll rise together.
-* New habits seem achievable when you see others doing them every day. **** If you’re surrounded by readers, you’re more likely to consider reading to be a common habit. If you’re surrounded by people who recycle, you’re more likely to start recycling too.
+* New habits seem achievable when you see others doing them every day. If you’re surrounded by readers, you’re more likely to consider reading to be a common habit. If you’re surrounded by people who recycle, you’re more likely to start recycling too.
 * Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits.
 
 #### Habit Graduation: Moving from Two Minutes to Mastery
@@ -104,6 +104,7 @@
 * [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) - James Clear
 * [The Daffodil Principle: What Happens When You Take Action Every Day](https://www.samuelthomasdavies.com/the-daffodil-principle/) - Samuel Thomas Davies
 * [The Spiral of Successful Habits](https://zenhabits.net/spiral/) - Leo Babauta, Zen Habits
+* [Why 'Atomic Habits' may not be working for you](https://www.krishnabharadwaj.info/why-atomic-habits-may-not-be-working-for-you/) - Krishna Bharadwaj ([Hacker News](https://news.ycombinator.com/item?id=34839197))
 
 ### Books
 

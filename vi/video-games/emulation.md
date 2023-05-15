@@ -1,5 +1,8 @@
 # Emulation
 
+* Archive.org
+  * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
+  * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
 * [Console Living Room](https://archive.org/details/consolelivingroom)
@@ -14,6 +17,7 @@
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
 * [Old Games Download](https://oldgamesdownload.com/)
+* [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
 * [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)

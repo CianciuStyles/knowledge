@@ -2,6 +2,10 @@
 
 ## Resources
 
+{% embed url="http://pages.cpsc.ucalgary.ca/~joel.reardon/mobile/smali-cheat.pdf" %}
+A quick guide to Android app reversing
+{% endembed %}
+
 ### Tools
 
 * [x64dbg](https://x64dbg.com/)
