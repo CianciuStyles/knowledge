@@ -2,9 +2,13 @@
 
 ## Resources
 
-{% embed url="http://pages.cpsc.ucalgary.ca/~joel.reardon/mobile/smali-cheat.pdf" %}
-A quick guide to Android app reversing
-{% endembed %}
+### Books
+
+* [Reverse Engineering for Beginners](https://beginners.re/) - Dennis Yurichev
+
+### Cheat Sheets
+
+* [A quick guide to Android app reversing](http://pages.cpsc.ucalgary.ca/\~joel.reardon/mobile/smali-cheat.pdf)
 
 ### Tools
 
