@@ -19,6 +19,7 @@
 * [Old Games Download](https://oldgamesdownload.com/)
 * [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
+* [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
 * [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)
 * [Vimm's Lair](https://vimm.net/)
