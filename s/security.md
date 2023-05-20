@@ -19,6 +19,7 @@
 * [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) - FalconSpy
 * [Penetration Testing Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - HighOn.Coffee
 * [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/) - Offensive Security
+* [Required Reading for the Discerning Technophile](https://defcon.org/html/links/book-list.html) - DEFCON
 * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - HighOn.Coffee
 * [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentest Monkey
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
