@@ -14,6 +14,7 @@
 * [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
+* [Linux Privilege Escalation Using Capabilities](https://materials.rangeforce.com/tutorial/2020/02/19/Linux-PrivEsc-Capabilities/) - Heino Sass Hallik
 * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) - FalconSpy
 * [Penetration Testing Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - HighOn.Coffee
