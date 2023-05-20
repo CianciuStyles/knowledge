@@ -156,13 +156,16 @@
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
+* [SmashThe Stack Wargaming Network](http://www.smashthestack.org/)
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 * [The Hacker News](https://thehackernews.com/) - #1 Trusted Cybersecurity News Platform
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
+* [US Cyber Challenge](https://uscc.cyberquests.org/)
 * [VulnHub](https://www.vulnhub.com)
 * [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+* [WeChall](http://www.wechall.net/challs/)
 * [XSS Game](https://xss-game.appspot.com/)
 
 ### YouTube Channels
