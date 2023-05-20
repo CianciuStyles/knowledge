@@ -21,5 +21,6 @@
 
 ### Reddit Threads
 
+* [What improved your life so much, you wished you did sooner?](https://www.reddit.com/r/AskMen/comments/13j0xvu/what\_improved\_your\_life\_so\_much\_you\_wished\_you/)
 * [What is a lifehack that seems fake, but is a true lifesaver?](https://www.reddit.com/r/AskReddit/comments/mmaumi/what\_is\_a\_lifehack\_that\_seems\_fake\_but\_is\_a\_true/)
 * [What is something that has drastically helped your mental health that you wish you started doing earlier?](https://www.reddit.com/r/LifeProTips/comments/11rgcc1/lpt\_request\_what\_is\_something\_that\_has/)
