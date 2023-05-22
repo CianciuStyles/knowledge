@@ -129,6 +129,7 @@
 * [Diffchecker](https://www.diffchecker.com/)
 * [Dillinger](https://dillinger.io/) - Online Markdown editor
 * [HexEd.it](https://hexed.it/) -  Online hex editor
+* [OpenCommit](https://github.com/di-sukharev/opencommit) - Auto-generate commit messages
 
 ### Screen Sharing
 
@@ -144,6 +145,10 @@
 ### Speect-to-text
 
 * [dictation.io](https://dictation.io)
+
+### Text
+
+* [Universal Summarizer](https://kagi.com/summarizer/index.html)
 
 ### Text-to-Speech
 
