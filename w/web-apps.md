@@ -138,6 +138,7 @@
 
 ### Search
 
+* [Phind](https://www.phind.com/) - AI search engine for developers
 * [SimilarSiteSearch](https://www.similarsitesearch.com/)
 
 ### Speect-to-text

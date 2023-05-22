@@ -23,6 +23,7 @@
 * [fast.ai](https://www.fast.ai/)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
+* [Phind](https://www.phind.com/) - AI search engine for developers
 
 ### YouTube Videos
 
