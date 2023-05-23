@@ -196,6 +196,7 @@
 
 * [Security](s/security.md)
   * [CTFs](s/security/ctfs.md)
+  * [Web](s/security/web.md)
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)

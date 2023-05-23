@@ -5,8 +5,6 @@
 * [A Complete Penetration Testing & Hacking Tools List for Hackers & Security Professionals](https://gbhackers.com/hacking-tools-list/)
 * [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce) - Positive Security
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tm1k
-* [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
-* [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA
@@ -24,8 +22,8 @@
 * [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentest Monkey
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
 * [Smashing The Stack For Fun And Profit](https://inst.eecs.berkeley.edu/\~cs161/fa08/papers/stack\_smashing.pdf) - Aleph One
-* [Smashing the Stack For Fun and Profit (Today)](https://travisf.net/blog/smashing-the-stack-today/) - Travis Finkenauer
-* [Smashing the Stack for Fun & Profit: Revived](https://avicoder.me/2016/02/01/smashsatck-revived/) - avicoder
+  * [Smashing the Stack For Fun and Profit (Today)](https://travisf.net/blog/smashing-the-stack-today/) - Travis Finkenauer
+  * [Smashing the Stack for Fun & Profit: Revived](https://avicoder.me/2016/02/01/smashsatck-revived/) - avicoder
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
 * [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 * [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - [2](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
@@ -87,7 +85,6 @@
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
-* [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
@@ -133,7 +130,6 @@
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 * [Cybersecurity](https://hero.page/cybersecurity)
 * [Cybrary](https://www.cybrary.it/)
-* [flAWS](http://flaws.cloud/)
 * [Guided Hacking](https://guidedhacking.com/)
 * [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
 * [Hack The Box](https://www.hackthebox.eu/)
@@ -141,17 +137,9 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
 * [HackThisSite](https://www.hackthissite.org/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
-* [How HTTPS works](https://howhttps.works/)
-* [JSFuck](http://www.jsfuck.com/) - Write any JavaScript with 6 Characters: \[]\()!+
 * [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
 * [OpenSecurityTraining2](https://p.ost2.fyi/)
-* [Open Web Application Security Project (OWASP)](https://owasp.org/)
-  * [Cheat Sheets](https://cheatsheetseries.owasp.org/)
-  * [Juice Shop](https://owasp.org/www-project-juice-shop/)
-  * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
-  * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
-* [PentesterLab](https://pentesterlab.com/)
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
@@ -163,13 +151,10 @@
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 * [The Hacker News](https://thehackernews.com/) - #1 Trusted Cybersecurity News Platform
-* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [TryHackMe](https://tryhackme.com)
 * [US Cyber Challenge](https://uscc.cyberquests.org/)
 * [VulnHub](https://www.vulnhub.com)
-* [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [WeChall](http://www.wechall.net/challs/)
-* [XSS Game](https://xss-game.appspot.com/)
 
 ### YouTube Channels
 
