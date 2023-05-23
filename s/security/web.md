@@ -10,6 +10,7 @@
 ### GitHub Repositories
 
 * [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
+* [phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file
 
 ### Websites
 
