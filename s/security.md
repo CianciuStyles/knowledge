@@ -44,6 +44,7 @@
 
 * [HackerOne](https://www.hackerone.com/)
 * [List of Bug Bounty Programs, Reward Systems & Security Acknowledgments](https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php)
+* [Zero Day Initiative](https://www.zerodayinitiative.com/)
 
 ### Certifications
 
