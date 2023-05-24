@@ -123,6 +123,7 @@
 * [Retro Six](https://retrosix.co.uk/)
 * [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/)
 * [The Game Collection](https://www.thegamecollection.net/)
+* [The Emporium Retrogaming Shop](https://www.emporiumretrogamingshop.com/) - Japan
 * [Warners Retro Corner](https://warnersretrocorner.com/)
 
 ### Quizzes
