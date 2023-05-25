@@ -6,11 +6,18 @@
 
 * [Brainfuck beware: JavaScript is after you!](https://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) - Patricio Palladino
 * [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) - Varun Naik
+* [Hacking JWT Tokens: The None Algorithm](https://blog.pentesteracademy.com/hacking-jwt-tokens-the-none-algorithm-67c14bb15771) - Shivam Bathla
 
 ### GitHub Repositories
 
 * [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 * [phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file
+
+### Tools
+
+#### JSON Web Tokens
+
+* [jwt.io](https://jwt.io/)
 
 ### Websites
 
