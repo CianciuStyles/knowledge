@@ -39,6 +39,11 @@
 
 * [The tech resume inside out](https://thetechresume.com/) - Gergely Orosz
 
+### Hacker News threads
+
+* [How does a great resume look like? What are the best tools to make one?](https://news.ycombinator.com/item?id=16659255)
+* [Resumes that look good but professional too](https://news.ycombinator.com/item?id=16479922)
+
 ### Templates
 
 * [Awesome CV](https://github.com/posquit0/Awesome-CV)
