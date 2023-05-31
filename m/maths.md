@@ -26,8 +26,9 @@
 
 
 
+* [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
-* Introduction to Linear Algebra - Gilbert Strang
+* [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
 
 ### Courses
 
@@ -55,6 +56,7 @@
 
 * [Desmos](https://www.desmos.com/calculator)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Math Academy](https://mathacademy.com/)
 * [Setosa](https://setosa.io/#/) - data visualization and visual explanations
 
 ### YouTube Channels
