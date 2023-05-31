@@ -1,5 +1,7 @@
 # Books
 
+##
+
 ## Resources
 
 ### Articles
@@ -43,6 +45,7 @@
 * [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
 * [What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 * [What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
+* [What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
 * What book changed your life?
   * [2022](https://news.ycombinator.com/item?id=30734709)
   * [2020](https://news.ycombinator.com/item?id=25356908)
