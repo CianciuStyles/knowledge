@@ -99,6 +99,11 @@
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
+### Meetups
+
+* [DEF CON Groups](https://forum.defcon.org/social-groups)
+* [OWASP Local Chapters](https://owasp.org/chapters/)
+
 ### Podcasts
 
 * [Darknet Diaries](https://darknetdiaries.com/)
