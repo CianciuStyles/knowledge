@@ -72,6 +72,7 @@
   * [CrackerJack](https://github.com/ctxis/crackerjack)
   * [GovCracker](https://github.com/Are-s-h/GovCracker)
   * [hashcat.launcher](https://github.com/s77rt/hashcat.launcher)
+  * [hate\_crack](https://github.com/trustedsec/hate\_crack)
 * [John the Ripper](https://www.openwall.com/john/)
   * [Johnny](https://github.com/openwall/johnny)
 
