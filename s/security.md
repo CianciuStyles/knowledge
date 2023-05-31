@@ -38,6 +38,7 @@
 ### Blogs
 
 * [Filippo Valsorda](https://filippo.io/)
+* [harmj0y](https://blog.harmj0y.net/)
 * [SkullSecurity](https://www.skullsecurity.org/)
 
 ### Bug Bounty Programs
