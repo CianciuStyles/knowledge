@@ -32,6 +32,10 @@
 
 * [Learn C in 2023?](https://news.ycombinator.com/item?id=34105770)
 
+### Websites
+
+* [Memory Spy](https://memory-spy.wizardzines.com/game.html) - Julia Evans
+
 ### YouTube Videos
 
 * [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM) - Eskil Steenberg
