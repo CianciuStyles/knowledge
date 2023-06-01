@@ -10,6 +10,7 @@
 ### Websites
 
 * [4Anime](https://4anime.to/)
+* [AnimeUnity](https://www.animeunity.tv/)
 * [Crunchyroll](https://www.crunchyroll.com)
 * [MyAnimeList](https://myanimelist.net/) ([MAL Map](https://www.malmap.net))
 * [The Anime Index](https://piracy.moe/)
