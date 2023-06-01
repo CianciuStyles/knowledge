@@ -81,6 +81,17 @@
 * [Bluto](https://github.com/darryllane/Bluto)
 * [theHarvester](https://github.com/laramies/theHarvester)
 
+#### Reverse Engineering
+
+* [BARF ](https://github.com/programa-stic/barf-project)- Binary Analysis and Reverse engineering Framework
+* [Boomerang ](https://github.com/BoomerangDecompiler/boomerang)- x86 to C decompiler
+* [GDB](https://www.sourceware.org/gdb/) - GNU Debugger
+  * [GEF](https://github.com/hugsy/gef) - GDB Enhanced Features
+  * [pwndbg](https://github.com/pwndbg/pwndbg)
+* [Ghidra](https://ghidra-sre.org/) - National Security Agency
+* [IDA Pro](https://www.hex-rays.com/ida-pro/)
+* [PLASMA ](https://github.com/plasma-disassembler/plasma)- x86/ARM/MIPS disassembler
+
 ### Online Tools
 
 * [FastPeopleSearch](https://www.fastpeoplesearch.com/)
@@ -118,12 +129,9 @@
 * [androguard](https://github.com/androguard/androguard) - Android apps
 * [apk2gold](https://github.com/lxdvs/apk2gold) - Android apps
 * [Apktool](https://ibotpeaches.github.io/Apktool/) - Android apps
-* [BARF ](https://github.com/programa-stic/barf-project)- Binary Analysis and Reverse engineering Framework
-* [Boomerang ](https://github.com/BoomerangDecompiler/boomerang)- x86 to C decompiler
-* [IDA Pro](https://www.hex-rays.com/ida-pro/)
 * [Java decompiler online](http://www.javadecompilers.com/)
 * [Online Assembler and Disassembler](https://shell-storm.org/online/Online-Assembler-and-Disassembler/)
-* [PLASMA ](https://github.com/plasma-disassembler/plasma)- x86/ARM/MIPS disassembler
+* [OnlineGDB](https://www.onlinegdb.com/)
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - resource compiler/decompiler for Windows applications
 * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 
