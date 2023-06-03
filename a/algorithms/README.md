@@ -15,6 +15,7 @@
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms](https://smile.amazon.co.uk/Algorithms-Robert-Sedgewick/dp/032157351X/) - Robert Sedgewick, Kevin Wayne
 * [Introduction to Algorithms](https://smile.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein
+* [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0\_Computer%20Science/2\_Algorithms/Introduction%20to%20Algorithms\_%20A%20Creative%20Approach%20\[Manber%201989-01-11].pdf) - Udi Manber
 * [The Algorithm Design Manual](https://smile.amazon.co.uk/Algorithm-Design-Manual-Computer-Science/dp/3030542580/) - Steven Skiena
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
