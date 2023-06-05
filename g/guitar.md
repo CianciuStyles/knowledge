@@ -35,6 +35,7 @@
 * [Eat. Sleep. Guitar!](https://eatsleepguitar.com/)
   * [Learing From Guitar Legends](https://eatsleepguitar.com/guitar-legends/)
 * [FaChords](https://www.fachords.com/start-here/)
+* [Fretboard Fly](https://www.fretboardfly.com/)
 * [GuitarHabits](https://www.guitarhabits.com/)
 * [Guitar Chords](https://www.all-guitar-chords.com/)
 * [Guitar Dashboard](https://guitardashboard.com/)
