@@ -31,3 +31,7 @@
 * [Trascendental Meditation](https://www.tm.org/)
 * [Vipassana Meditation](https://www.dhamma.org/en/about/vipassana)
 
+### YouTube Videos
+
+* [Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=pL02HRFk2vo) - A Science Supported Tool for De-Stress and Relaxation
+
