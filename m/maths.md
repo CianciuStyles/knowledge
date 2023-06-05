@@ -28,6 +28,7 @@
 
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
+* [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/\~jmackey/151\_128/bws\_book.pdf) - Brendan W. Sullivan
 * [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
 
 ### Courses
