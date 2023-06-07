@@ -138,6 +138,7 @@
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
+* [Lagout.org](https://doc.lagout.org/) - Programming books
 * [Monorepo Explained](https://monorepo.tools/)
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [ProgrammerHumor](https://programmerhumor.io/)
