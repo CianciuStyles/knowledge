@@ -122,6 +122,10 @@
 
 * [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ\_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91\_7A/edit#gid=0) - James Clear
 
+### Websites
+
+* [Tiny Habits Recipe Maker](https://recipemaker.tinyhabits.com/tiny-habits)
+
 ### YouTube videos
 
 * [How to break habits](https://www.youtube.com/watch?v=W1eYrhGeffc) - Charles Duhigg
