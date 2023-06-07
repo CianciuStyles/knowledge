@@ -6,6 +6,7 @@
 
 * [Rundown of Netflix's SRE practice](https://five9s.substack.com/p/rundown-of-netflixs-sre-practice) - Ash P.
 * [SRE Case Study: Mysterious Traffic Imbalance](https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/) - Charles Li, eBay
+* [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2\_90P5DDRjqxYyIo/edit) - Murali Suriar, Niall Murphy
 
 ### Books
 
