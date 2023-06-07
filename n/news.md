@@ -10,6 +10,7 @@
 * [Positive News](https://www.positive.news/)
 * [Reuters](https://www.reuters.com/)
 * [The Economist](https://www.economist.com/)
+* [Tildes](https://tildes.net/)
 * [Why You Should Quit The News](https://markmanson.net/why-you-should-quit-the-news) - Mark Manson
 
 ### Technology
