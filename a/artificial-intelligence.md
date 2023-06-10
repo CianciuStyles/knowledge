@@ -21,6 +21,7 @@
 
 ### Websites
 
+* [AI Valley](https://aivalley.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
