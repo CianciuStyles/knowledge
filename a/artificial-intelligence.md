@@ -19,6 +19,11 @@
 
 * [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) - DeepMind
 
+### Tools
+
+* [Bard](https://bard.google.com/) - Google
+* [ChatGPT ](https://chat.openai.com/)- OpenAI
+
 ### Websites
 
 * [AI Valley](https://aivalley.ai/)
