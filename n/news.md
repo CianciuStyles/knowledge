@@ -16,6 +16,9 @@
 ### Technology
 
 * [Ars Technica](https://arstechnica.com/)
+* [BleepingComputer](https://www.bleepingcomputer.com/)
+* [freshnews](https://www.freshnews.org/)
+* [Hackaday](https://hackaday.com/)
 * [Hacker News](https://news.ycombinator.com/)
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
@@ -23,4 +26,5 @@
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
+* [The Brutalist Report](https://brutalist.report/)dd
 * [The Hacker News](https://thehackernews.com/)
