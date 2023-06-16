@@ -23,8 +23,10 @@
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
 * [Lobste.rs](https://lobste.rs/)
+* [Nonio](https://non.io/)
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
+* [Reddit](https://www.reddit.com/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
 * [The Brutalist Report](https://brutalist.report/)dd
 * [The Hacker News](https://thehackernews.com/)
