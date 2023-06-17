@@ -8,6 +8,10 @@
 * [The 36 Questions That Lead to Love](https://www.nytimes.com/2015/01/09/style/no-37-big-wedding-or-small.html) - Daniel Jones, The New York Times
 * [This Is How To Make Friends As An Adult: 5 Secrets Backed By Research](https://www.bakadesuyo.com/2017/02/how-to-make-friends-as-an-adult/?utm\_source=sumome\&utm\_medium=twitter\&utm\_campaign=sumome\_share) - Backed By Science
 
+### Hacker News threads
+
+* [Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
+
 ### Reddit threads
 
 * [What are some 'can't go wrong' gifts for women?](https://www.reddit.com/r/AskUK/comments/zc3wnk/what\_are\_some\_cant\_go\_wrong\_gifts\_for\_women/)
