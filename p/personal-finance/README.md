@@ -106,3 +106,7 @@
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
 * [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
 * [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
+
+### YouTube Playlists
+
+* [Investing Demystified](https://www.youtube.com/playlist?list=PLXy71rkGuCjXLg9N8zowwUpXCYfBcMJFK) - Lars Kroijer
