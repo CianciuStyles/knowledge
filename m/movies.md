@@ -24,6 +24,7 @@
 * [What is a movie that is actually scary (preferably one that doesn't rely solely on jump scares)?](https://www.reddit.com/r/AskReddit/comments/9g5hhy/what\_is\_a\_movie\_that\_is\_actually\_scary\_preferably/)
 * [What is a movie you would legitimatley call a masterpiece?](https://www.reddit.com/r/AskReddit/comments/41gexj/what\_is\_a\_movie\_you\_would\_legitimatley\_call\_a/)
 * [What is the funniest movie you have ever watched?](https://www.reddit.com/r/AskReddit/comments/564tpu/what\_is\_the\_funniest\_movie\_you\_have\_ever\_watched/)
+* [What is the most re-watchable movie?](https://www.reddit.com/r/AskReddit/comments/148nads/what\_is\_the\_most\_rewatchable\_movie/)
 * [What is the scariest film that doesn't resort to cheap jump scares?](https://www.reddit.com/r/AskReddit/comments/55ng8w/what\_is\_the\_scariest\_film\_that\_doesnt\_resort\_to/) - [2](https://www.reddit.com/r/AskReddit/comments/9lcjo3/what\_is\_the\_scariest\_film\_that\_doesnt\_resort\_to/)
 * [What is your 10/10 movie?](https://www.reddit.com/r/AskReddit/comments/4q9b71/what\_is\_your\_1010\_movie/)
 * [What is your favorite animated movie of all time?](https://www.reddit.com/r/AskReddit/comments/43ce8j/what\_is\_your\_favorite\_animated\_movie\_of\_all\_time/)
