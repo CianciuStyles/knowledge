@@ -25,6 +25,7 @@
 ### Fallout: New Vegas
 
 * [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138/)
+* [Tale of Two Wastelands](https://taleoftwowastelands.com/index.php)
 
 ### Half-Life 2
 

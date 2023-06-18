@@ -12,5 +12,6 @@
 
 ### Websites
 
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
