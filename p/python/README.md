@@ -43,6 +43,7 @@ description: https://www.python.org/
 * [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Dane Hillard
 * [Python Distilled](http://www.dabeaz.com/python-distilled/) - David M. Beazley
 * [Serious Python](https://nostarch.com/seriouspython) - Julien Danjou
+* [Slither Into Python](https://www.slitherintopython.com/)
 * [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html) - Allen B. Downey
 
