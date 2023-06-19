@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [A brief introduction to x86 calling conventions](https://codearcana.com/posts/2013/05/21/a-brief-introduction-to-x86-calling-conventions.html) - Alex Reece, Code Arcana
 * [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/) - Tim Misiak
 
 ### GitHub Repositories
