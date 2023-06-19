@@ -61,6 +61,7 @@ description: https://www.python.org/
 * [Python Quick Tips](https://gist.github.com/sreeragh-ar/7facbf6aace844692eb0dd8f32ee5d4c)
 * [Python Tips](https://github.com/smoqadam/python-tips)
 * [Python Wats](https://github.com/cosmologicon/pywat)
+* [Pytudes](https://github.com/norvig/pytudes) - Peter Norvig
 
 ### Hacker News threads
 
