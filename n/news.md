@@ -13,6 +13,19 @@
 * [Tildes](https://tildes.net/)
 * [Why You Should Quit The News](https://markmanson.net/why-you-should-quit-the-news) - Mark Manson
 
+### Fediverse
+
+* [Beehaw](https://beehaw.org/)
+* [FlingUp](https://flingup.com/)
+* [kbin](https://kbin.social/)
+* Lemmy
+  * [lemmy.ml](https://lemmy.ml/)
+  * [lemmy.world](https://lemmy.world/)
+  * [Lemmy Explorer](https://lemmyverse.net/)
+* [programming.dev](https://programming.dev/)
+* [rDrama](https://rdrama.net/)
+* [Spyke](https://spyke.social/)
+
 ### Technology
 
 * [Ars Technica](https://arstechnica.com/)
