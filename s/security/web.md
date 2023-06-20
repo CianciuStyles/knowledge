@@ -32,4 +32,5 @@
 * [PentesterLab](https://pentesterlab.com/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+* [Web Security Academy](https://portswigger.net/web-security) - PortSwigger
 * [XSS Game](https://xss-game.appspot.com/)

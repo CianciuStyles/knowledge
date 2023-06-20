@@ -161,6 +161,7 @@
 * [SmashThe Stack Wargaming Network](http://www.smashthestack.org/)
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [The Cyber Pulse Video Library](https://info.qa.com/thecyberpulse-videos)
 * [The Hacker News](https://thehackernews.com/) - #1 Trusted Cybersecurity News Platform
 * [TryHackMe](https://tryhackme.com)
 * [US Cyber Challenge](https://uscc.cyberquests.org/)
