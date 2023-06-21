@@ -12,6 +12,11 @@
 
 * [Draughts](https://www.draughtslondon.com/)
 
+### Comedy Venues
+
+* [Angel Comedy Club](https://www.angelcomedy.co.uk/) - Angel
+* [The Comedy Store](https://london.thecomedystore.co.uk/) - Leicester Square
+
 ### Days Out
 
 * [Barbican Conservatory](https://www.barbican.org.uk/whats-on/2021/event/visit-the-conservatory)
