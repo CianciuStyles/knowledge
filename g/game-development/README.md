@@ -51,6 +51,7 @@
 * [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
 * [GameDev.net](https://www.gamedev.net/)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
+* [GB Studio](https://www.gbstudio.dev/)
 * [Lazy Foo's Productions](https://lazyfoo.net/)
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
 * [NESFab](https://pubby.games/nesfab.html)
