@@ -40,6 +40,7 @@
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
 * [Reddit](https://www.reddit.com/)
+  * [sub.rehab](https://sub.rehab/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
 * [The Brutalist Report](https://brutalist.report/)
 * [The Hacker News](https://thehackernews.com/)
