@@ -28,6 +28,8 @@
 * [CTFs](https://github.com/ctfs)
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
 * [how2heap](https://github.com/shellphish/how2heap/)
+* [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - retreive private key from weak public key and/or uncipher data
+* [rsatool](https://github.com/ius/rsatool) - rsatool can be used to calculate RSA and RSA-CRT parameters
 * [Security Cheat Sheet](https://github.com/security-cheatsheet)
   * [CMD](https://github.com/security-cheatsheet/cmd-command-cheat-sheet)
   * [Metasploit](https://github.com/security-cheatsheet/metasploit-cheat-sheet)

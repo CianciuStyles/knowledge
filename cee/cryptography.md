@@ -9,6 +9,7 @@
   * [Part 1](https://prezu.ca/post/2021-07-30-totp-1/)
   * [Part 2](https://prezu.ca/post/2021-08-12-totp-2/)
   * [Part 3](https://prezu.ca/post/2021-08-16-totp-3/)
+* [RSA Encryption](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/) - MuirlandOracle
 
 ### Blogs
 
@@ -27,6 +28,10 @@
 ### Hacker News threads
 
 * [Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
+
+### Videos
+
+* [Secret Key Exchange (Diffie-Helman)](https://www.youtube.com/watch?v=NmM9HA2MQGI) - Computerphile
 
 ### Websites
 
