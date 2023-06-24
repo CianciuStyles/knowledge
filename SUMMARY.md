@@ -2,6 +2,10 @@
 
 * [index](README.md)
 
+## # <a href="#numbers" id="numbers"></a>
+
+* [3D Printing](numbers/3d-printing.md)
+
 ## A
 
 * [Abandoned Spaces](a/abandoned-spaces.md)
