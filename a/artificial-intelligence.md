@@ -37,3 +37,4 @@
 ### YouTube Videos
 
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy
+* [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA) - Dale Markowitz
