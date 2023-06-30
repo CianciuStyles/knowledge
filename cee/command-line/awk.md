@@ -22,3 +22,9 @@ printf '1:2:3' | awk -F ":" '{print $1}'
 # sum integers from a file
 printf '1\n2\n3\n' | awk '{sum += 1} END {print sum}'
 ```
+
+## Resources
+
+### Books
+
+* [The AWK Programming Language (Second Edition)](https://awk.dev/)
