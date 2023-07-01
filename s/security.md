@@ -170,6 +170,7 @@
 
 ### YouTube Channels
 
+* [Chris Greer](https://www.youtube.com/@ChrisGreer) - Wireshark training
 * [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
 * [Infosec](https://www.youtube.com/c/InfoSecInstitute/videos)
@@ -184,3 +185,4 @@
 
 * [Buffer Overflows Made Easy](https://www.youtube.com/playlist?list=PLLKT\_\_MCUeix3O0DPbmuaRuR\_4Hxo4m3G) - The Cyber Mentor
 * [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+* [Wireshark Masterclass](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ) - Chris Greer
