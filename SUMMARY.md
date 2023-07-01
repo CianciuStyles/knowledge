@@ -148,6 +148,7 @@
 
 * [Machine Learning](m/machine-learning/README.md)
   * [Deep Learning](m/machine-learning/deep-learning.md)
+* [MacOS](m/macos.md)
 * [Maths](m/maths.md)
 * [Meditation](m/meditation.md)
 * [Movies](m/movies.md)
