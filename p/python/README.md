@@ -14,6 +14,7 @@ description: https://www.python.org/
 * [A practical introduction to Functional Programming for Python coders](https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/) - Sachin Joglekar
 * [Async Python: The Different Forms of Concurrency](https://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/) - Abu Ashraf Masnun
 * [AsyncIO for the Working Python Developer](https://yeraydiazdiaz.medium.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - Yeray Diaz
+* [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) - Simon Willison ([Hacker News thread](https://news.ycombinator.com/item?id=36515531))
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
 * [Escaping the PyJail](https://lbarman.ch/blog/pyjail/) - Ludovic Barman
 * [Grok the GIL: How to write fast and thread-safe Python](https://opensource.com/article/17/4/grok-gil) - A. Jesse Jiryu Davis
