@@ -9,6 +9,7 @@
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA
 * [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/resources/blog/free\_path) - Ellie Gillard
+* [Hack The Box (HTB) OSCP-Like machines List 2022](https://pentestblog.in/oscp/hack-the-box-htb-oscp-like-machines-list-2022/) - PentestBlog
 * [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
