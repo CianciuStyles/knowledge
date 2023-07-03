@@ -22,6 +22,7 @@
 ### Websites
 
 * [flAWS](http://flaws.cloud/)
+* [Hacking-Lab](https://www.hacking-lab.com/)
 * [How HTTPS works](https://howhttps.works/)
 * [JSFuck](http://www.jsfuck.com/) - Write any JavaScript with 6 Characters: \[]\()!+
 * [Open Web Application Security Project (OWASP)](https://owasp.org/)
