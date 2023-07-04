@@ -22,7 +22,7 @@
 
 ### GitHub Repositories
 
-* [Awesome ChatGTP Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ### Tools
 
