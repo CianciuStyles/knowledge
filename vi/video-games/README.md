@@ -123,6 +123,8 @@
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
+* [ShopTo](https://www.shopto.net/)
+* [SimplyGames](https://www.simplygames.com/)
 * [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/)
 * [Steam](https://store.steampowered.com/)
   * [Augmented Steam](https://augmentedsteam.com/)
