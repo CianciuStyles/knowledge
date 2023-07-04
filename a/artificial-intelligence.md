@@ -34,6 +34,7 @@
 * [AI Valley](https://aivalley.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
+* [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
 * [Phind](https://www.phind.com/) - AI search engine for developers
