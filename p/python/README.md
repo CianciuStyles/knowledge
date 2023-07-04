@@ -83,6 +83,7 @@ description: https://www.python.org/
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator
 * [vprof](https://github.com/nvdv/vprof) - visual profiler
+* [Z3](https://github.com/Z3Prover/z3) - theorem prover
 
 ### Videos
 
