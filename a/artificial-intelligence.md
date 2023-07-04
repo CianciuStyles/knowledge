@@ -20,6 +20,10 @@
 
 * [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) - DeepMind
 
+### GitHub Repositories
+
+* [Awesome ChatGTP Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 ### Tools
 
 * [Bard](https://bard.google.com/) - Google

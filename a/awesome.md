@@ -8,6 +8,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome C: [https://notabug.org/koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c)
 * Awesome C++: [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 * Awesome ChatGPT: [https://github.com/sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+* Awesome ChatGPT Prompts: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * Awesome Cheat Sheets: [https://github.com/LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * Awesome Code Reading: [https://github.com/CodeReaderMe/awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading)
 * Awesome CTO: [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
