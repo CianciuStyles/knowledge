@@ -82,7 +82,7 @@
 
 ### Reddit Threads
 
-* [Non-UK born Londoners, what's the best restaurant of your native cousine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
+* [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
 * [Underrated Restaurants in London that aren't Too Expensive!](https://www.reddit.com/r/london/comments/skxwrp/underrated\_restaurants\_in\_london\_that\_arent\_too/)
 * [What restaurant do you know in London where you can get an insane amount of good quality food for a very reasonable price?](https://www.reddit.com/r/london/comments/ofhwz1/what\_restaurant\_do\_you\_know\_in\_london\_where\_you/)
 * [What to do in a rainy day in London?](https://www.reddit.com/r/london/comments/105q51i/what\_to\_do\_in\_a\_rainy\_day\_in\_london/)
@@ -94,6 +94,12 @@
 * [Hawksmoor](https://thehawksmoor.com/)
 * [Mercato Metropolitano](https://www.mercatometropolitano.com/)
 * [Patty & Bun](https://www.pattyandbun.co.uk/)
+
+### Sports
+
+* [Footy Addicts](https://footyaddicts.com/)
+* [GO Mammoth](https://www.gomammoth.co.uk/)
+* [Try Tag Rugby](https://trytagrugby.com/)
 
 ### Theatre
 
