@@ -20,6 +20,7 @@
 * [NifeIsLife](https://www.nifeislife.com/) - Italian Food Home Delivery
 * [OnBuy](https://www.onbuy.com/gb/)
 * [ShopBySub.com](https://www.shopbysub.com/)
+* [SpeedyHen](https://www.speedyhen.com/)
 
 ### Lists
 
