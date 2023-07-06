@@ -202,6 +202,7 @@
 ### Courses
 
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [System Design](https://www.karanpratapsingh.com/courses/system-design) - Karan Pratap Singh
 * [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
 
 ### GitHub repositories
