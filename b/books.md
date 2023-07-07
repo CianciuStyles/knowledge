@@ -141,6 +141,7 @@
 * [Book Depository](https://www.bookdepository.com/)
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
+* [ComproVendoLibri.it](https://comprovendolibri.it/home.asp)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
 * [Find Book](https://www.find-book.co.uk/) - UK prices comparator
 * [Five Books](https://fivebooks.com/) - The best books on everything
@@ -154,4 +155,5 @@
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
 * [The Neglected Books Page](https://neglectedbooks.com/)
+* [Used Book Search.co.uk](https://www.usedbooksearch.co.uk/)
 * [World of Books](https://www.worldofbooks.com/en-gb)
