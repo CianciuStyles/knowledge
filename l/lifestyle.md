@@ -26,6 +26,8 @@
 * [What improved your quality of life so much, you wish you did it sooner?](https://www.reddit.com/r/AskReddit/comments/pbzt5b/what\_improved\_your\_quality\_of\_life\_so\_much\_you/)
 * [What is the best life advice you would give?](https://www.reddit.com/r/productivity/comments/v7odql/what\_is\_the\_best\_life\_advice\_you\_would\_give/)
 * [What life changing purchase can you make with less than $100?](https://www.reddit.com/r/AskReddit/comments/ytlhyl/what\_life\_changing\_purchase\_can\_you\_make\_with/)
+* [What life changing thing can you buy for less than $100?](https://www.reddit.com/r/AskReddit/comments/14pqhwy/what\_life\_changing\_thing\_can\_you\_buy\_for\_less/)
+* [What might I regret in old age not proactively starting when I was younger?](https://www.reddit.com/r/LifeProTips/comments/14r8gxw/lpt\_what\_might\_i\_regret\_in\_old\_age\_not/)
 * [What online course actually improved your well-being?](https://www.reddit.com/r/productivity/comments/z8qrr3/what\_online\_course\_actually\_improved\_your/)
 * [What small purchase have you made that has had a significant impact on your life?](https://www.reddit.com/r/LifeProTips/comments/124qbv1/lpt\_request\_what\_small\_purchase\_have\_you\_made/)
 
