@@ -10,12 +10,18 @@
 * [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) - Steve Yegge
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) - Carlos Bueno
 * [Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) - Steve Yegge
+* [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview) - Coach Erika
 * [How we hire](https://careers.google.com/how-we-hire/) - Google Careers
 * [Insights and My Experience From My Interview at Facebook](https://betterprogramming.pub/facebook-interview-experience-and-insights-51e383f3c70d) - Kriti Joshi
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
 * [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/) - Dave Ceddia
 * [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes-2/) - Joel Spolsky
 * [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
+* The Minimum Viable Interview Prep - Coach Erika
+  * [Crafting a Strategic, Compelling Career Story](https://thecareerwhispers.substack.com/p/001)
+  * [Walking Down Memory Lane](https://thecareerwhispers.substack.com/p/002)
+  * [Mastering Behavioral Questions](https://thecareerwhispers.substack.com/p/003)
+  * [Formulating High-Signal Questions for Interviewers](https://thecareerwhispers.substack.com/p/004)
 * [The Phone Screen](https://www.joelonsoftware.com/2006/10/24/the-phone-screen-2/) - Joel Spolsky
 * [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - Gayle Laakmann McDowell
 * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/) - Jacob Kaplan-Moss
