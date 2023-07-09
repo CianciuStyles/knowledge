@@ -16,6 +16,10 @@
 
 * [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial\_Intelligence:\_A\_Modern\_Approach) - Stuart Russell, Peter Norvig
 
+### Courses
+
+* [Stanford Artificial Intelligence](https://ai.stanford.edu/courses/)
+
 ### Documentaries
 
 * [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) - DeepMind
