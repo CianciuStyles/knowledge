@@ -62,6 +62,7 @@
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman (first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html))
+  * [JavaScript edition](https://sicp.sourceacademy.org/sicpjs.pdf)
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
