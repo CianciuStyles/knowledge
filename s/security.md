@@ -63,6 +63,10 @@
 
 * [RomHack](https://www.romhack.io/)
 
+### Courses
+
+* [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) - OffSec
+
 ### Databases
 
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
