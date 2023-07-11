@@ -12,6 +12,7 @@
 
 ### Tools
 
+* [angr](https://angr.io/)
 * [x64dbg](https://x64dbg.com/)
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
