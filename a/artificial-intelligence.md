@@ -9,6 +9,7 @@
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
 * [The AI Revolution - Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) - Tim Urban, Wait But Why
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
 * [The Man Who Tried to Redeem the World with Logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/) - Amanda Gefter, Nautilus
 * [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) - Jay Alammar
 
