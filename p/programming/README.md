@@ -60,6 +60,7 @@
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
+* [Program = Proof](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Samuel Mimram
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman (first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html))
   * [JavaScript edition](https://sicp.sourceacademy.org/sicpjs.pdf)
