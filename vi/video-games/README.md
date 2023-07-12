@@ -314,6 +314,8 @@
 * [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
 * [Get Off My Lawn](https://www.youtube.com/@getoffmylawn6692/videos)
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
+  * [Archive.org Video Collection](https://archive.org/details/@noclipvideo)
+  * [Noclip Game History Archive](https://www.youtube.com/@NoclipArchive/videos)
 * [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
 
 ### YouTube Playlists
