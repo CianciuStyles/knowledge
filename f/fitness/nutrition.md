@@ -30,6 +30,10 @@
 * [Myprotein Recipe Book: Not Just Chicken & Rice](https://catalogue.thehutgroup.com/myprotein/myprotein-recipe-book-not-just-chicken-and-rice/)
 * [The Art and Science of Low Carbohydrate Performance](https://smile.amazon.co.uk/dp/0983490716) - Jeff S. Volek, Stephen D. Phinney
 
+### Podcasts
+
+* [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz](https://www.youtube.com/watch?v=e2mQOGzHtQc) - Diary Of A CEO
+
 ### Recipes
 
 * [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
