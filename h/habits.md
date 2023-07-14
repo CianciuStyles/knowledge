@@ -100,6 +100,7 @@
 
 ### Articles
 
+* [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/) - Andreas Kling
 * [How to Change Your Life: A User’s Guide](https://zenhabits.net/change/) - Leo Babauta, Zen Habits
 * [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) - James Clear
 * [The Daffodil Principle: What Happens When You Take Action Every Day](https://www.samuelthomasdavies.com/the-daffodil-principle/) - Samuel Thomas Davies
