@@ -25,6 +25,7 @@
 
 * [Ben Eater](https://eater.net/)
 * [Fixing Factory](https://www.fixingfactory.org/)
+* [Learn electronics by practice](https://beletronics.wordpress.com/)
 * [Online Karnaugh Map Solver](http://32x8.com/index.html)
 
 ### YouTube Channels
