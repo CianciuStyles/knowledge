@@ -78,6 +78,7 @@
 * [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
+* [Dividend List](https://thedividendlist.com/) - A list of stocks with monthly and quarterly returns
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
