@@ -47,6 +47,13 @@
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
 
+### SWAT 4: The Stetchkov Syndicate
+
+* [SWAT: Back To Los Angeles](https://www.moddb.com/mods/swat-back-to-los-angeles)
+* [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force)
+* [SWAT: First Responders](https://www.moddb.com/mods/sef-first-responders)
+* [SWAT 4: Graphical Enrichment Mod](https://www.moddb.com/mods/swat-4-graphical-enrichment-mod)
+
 ### The Witcher 2: Assassins of Kings
 
 * [Farewell of the White Wolf](https://www.moddb.com/mods/farewell-of-the-white-wolf)

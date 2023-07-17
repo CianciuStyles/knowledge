@@ -283,6 +283,7 @@
 
 * [How to Resign PS3 Game Saves](https://wonderpierrot.blogspot.com/2013/08/how-to-resign-ps3-game-saves.html)
 * [PC Savegames](https://www.nicouzouf.com/en/?page=home)
+* [PST's Official Locked Saves and Other Info Thread](https://www.playstationtrophies.org/forum/topic/56596-psts-official-locked-saves-and-other-info-thread/)
 * [The Tech Game](https://www.thetechgame.com/Downloads.html)
 * [Xbox 360 Gamesaves](https://www.xpgamesaves.com/forums/xbox-360-gamesaves.90/)
 
