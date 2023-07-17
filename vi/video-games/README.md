@@ -37,6 +37,7 @@
 
 ### Collections
 
+* [Collezione Lucas](http://www.gianlucagallo.com/collezionelucas/collezione) - Gianluca Gallo
 * [Gharlic Heimli](https://www.minah.it/collezione)
 * [Nel Profondo dei Caraibi...](https://nelprofondodeicaraibi.wordpress.com/)
 
