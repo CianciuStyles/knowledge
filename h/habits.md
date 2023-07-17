@@ -119,6 +119,10 @@
 
 * [A Proven System for Building and Breaking Habits](https://www.artofmanliness.com/character/habits/building-breaking-habits) - The Art of Manliness
 
+### Reddit Threads
+
+* [High-yield 2-minute habits?](https://www.reddit.com/r/productivity/comments/14z31a3/highyield\_2minute\_habits/)
+
 ### Spreadsheets
 
 * [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ\_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91\_7A/edit#gid=0) - James Clear
