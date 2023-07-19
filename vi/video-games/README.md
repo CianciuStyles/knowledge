@@ -98,6 +98,7 @@
   * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers\_essential\_games\_list\_wii\_u/)
   * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers\_essential\_games\_list\_xbox\_360/)
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers\_essential\_games\_list\_xbox\_one/)
+* [List of video games considered the best](https://en.wikipedia.org/wiki/List\_of\_video\_games\_considered\_the\_best) - Wikipedia
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
 * [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847) - Kotaku
