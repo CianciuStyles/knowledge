@@ -51,6 +51,7 @@
 * [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards)
 * [Calm Jobs](http://calmjobs.io/)
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
+* [Devjobsscanner](https://www.devjobsscanner.com/)
 * [#epicjobs](https://epicjobs.co/)
 * [hackajob](https://hackajob.co/)
 * [Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) ([GitHub](https://github.com/poteto/hiring-without-whiteboards))
