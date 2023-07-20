@@ -37,6 +37,7 @@
 ### Websites
 
 * [AI Valley](https://aivalley.ai/)
+* [CodePal.ai](https://codepal.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
