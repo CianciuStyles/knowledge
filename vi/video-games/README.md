@@ -57,6 +57,7 @@
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
+* [SCPH @ PlayStation](https://maru-chang.com/hard/scph/index.php/eldest\_son/english/)
 * [Sega Retro](https://segaretro.org/Main\_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [SerialStation](https://serialstation.com/)
