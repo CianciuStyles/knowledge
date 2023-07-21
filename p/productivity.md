@@ -72,6 +72,7 @@
 * [The Getting Things Done (GTD) FAQ](https://zenhabits.net/the-getting-things-done-gtd-faq/) - Leo Babauta, Zen Habits
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
+* [What makes developers productive?](https://jeremymikkola.com/posts/developer\_productivity.html) - Jeremy Mikkola
 * [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
 * [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/) - Tom Lingham
 * [Work Less, Get More Done: Analytics For Maximizing Productivity](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/) - Patrick McKenzie
