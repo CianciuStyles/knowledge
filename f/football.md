@@ -24,6 +24,10 @@
 
 * [Zonal Marking](https://theathletic.com/podcast/145-zonal-marking/) - The Athletic
 
+### Reddit Threads
+
+* [r/soccer's The List](https://www.reddit.com/r/soccer/wiki/thelist)
+
 ### Tactics
 
 * [Tactics Explained: Roma](https://www.youtube.com/watch?v=3FbBFAz696k) - Tifo Football
