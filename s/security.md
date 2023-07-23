@@ -132,6 +132,7 @@
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 * [Security Tools](https://tools.tldr.run/)
 * [ShellPop](https://github.com/0x00-0x00/shellpop)
+* [Unshackle ](https://github.com/Fadi002/unshackle)- Password Bypass Tool
 
 ### Videos
 
