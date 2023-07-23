@@ -48,6 +48,11 @@ description: https://www.python.org/
 * [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html) - Allen B. Downey
 
+### Courses
+
+* [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery) - David Beazley
+* [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
+
 ### GitHub repositories
 
 * [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
