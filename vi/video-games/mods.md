@@ -47,6 +47,10 @@
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
 
+### S.T.A.L.K.E.R.: Shadow of Chernobyl
+
+* [STARTER PACK](https://www.moddb.com/mods/starter-pack)
+
 ### SWAT 4: The Stetchkov Syndicate
 
 * [SWAT: Back To Los Angeles](https://www.moddb.com/mods/swat-back-to-los-angeles)
