@@ -115,6 +115,7 @@
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
 * [Le Cool](https://london.lecool.com/)
+* [Lectures London](https://lectures.london/)
 * [Londonist](https://londonist.com/)
 * [Randomness Guide to London](https://london.randomness.org.uk/wiki.cgi)
 * [SRO audiences](https://www.sroaudiences.com/)
