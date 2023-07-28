@@ -93,6 +93,7 @@ description: https://www.python.org/
 
 ### Tools
 
+* [pyupgrade](https://github.com/asottile/pyupgrade)
 * [Ruff](https://beta.ruff.rs/docs/) - linter
 
 ### Videos
