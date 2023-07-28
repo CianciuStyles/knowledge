@@ -85,11 +85,15 @@ description: https://www.python.org/
 * [Nuitka](https://nuitka.net/) - Python to executable compiler
 * [peewee](https://docs.peewee-orm.com/en/latest/index.html) - simple and small ORM
 * [Poetry](https://python-poetry.org/) - dependency management and packaging
-* [ReactPy ](https://github.com/reactive-python/reactpy)ra- It's React, but in Python
+* [ReactPy ](https://github.com/reactive-python/reactpy)- It's React, but in Python
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator
 * [vprof](https://github.com/nvdv/vprof) - visual profiler
 * [Z3](https://github.com/Z3Prover/z3) - theorem prover
+
+### Tools
+
+* [Ruff](https://beta.ruff.rs/docs/) - linter
 
 ### Videos
 
