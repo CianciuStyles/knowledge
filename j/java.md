@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [A categorized list of all Java and JVM features since JDK 8 to 18](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/) - Dávid Csákvári and Tamás Sallai
 * [Java 8 Tutorial](https://winterbe.com/posts/2014/03/16/java-8-tutorial/) - Benjamin Winterberg
 * [Java 11 Tutorial](https://winterbe.com/posts/2018/09/24/java-11-tutorial/) - Benjamin Winterberg
 * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/)
