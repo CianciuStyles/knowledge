@@ -54,3 +54,4 @@
 
 * [Jobscan](https://www.jobscan.co/) - Check CV against job description
 * [OpenResume](https://www.open-resume.com/)
+* [Resgen](https://resgen.app/) - Custom resumes for every job
