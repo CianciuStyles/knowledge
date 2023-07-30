@@ -16,6 +16,7 @@
 ### Articles
 
 * [Amazing vintage video game ads from the 1980s and 1990s](https://rarehistoricalphotos.com/vintage-video-game-ads-1980s-1990s/)
+* [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/) - Fabien Sanglard
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
 * [Architecture of Consoles](https://www.copetti.org/writings/consoles/) - Rodrigo Copetti
