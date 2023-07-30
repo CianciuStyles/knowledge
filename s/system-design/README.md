@@ -189,6 +189,7 @@
 
 ### Articles
 
+* [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) - High Scalability
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 
