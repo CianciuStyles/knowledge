@@ -102,3 +102,7 @@
 ### Videos
 
 * [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw) - Fireship
+
+### Websites
+
+* [State of Database Survey](https://stateofdb.com/)
