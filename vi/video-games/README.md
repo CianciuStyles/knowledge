@@ -43,6 +43,10 @@
 * [Gharlic Heimli](https://www.minah.it/collezione)
 * [Nel Profondo dei Caraibi...](https://nelprofondodeicaraibi.wordpress.com/)
 
+### Covers and Manuals
+
+* [Kirkland's Manual Labor](http://videogamemanual.com/)
+
 ### Databases
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
