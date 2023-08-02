@@ -35,6 +35,7 @@ description: https://www.python.org/
 * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) - Simeon Franklin
 * [Unicode in Python, Completely Demystified](http://farmdev.com/talks/unicode/) - Kumar McMiIlan
 * [When is Cheryl's Birthday?](https://nbviewer.jupyter.org/url/norvig.com/ipython/Cheryl.ipynb) - Peter Norvig
+* [Writing a 6502 emulator in Python](https://dailystuff.nl/projects/writing-a-6502-emulator-in-python) - Dailystuff on the Internet
 
 ### Books
 
