@@ -51,6 +51,7 @@
 * [myNoise](https://mynoise.net/)
 * [Nature Sounds](http://naturesoundsfor.me/)
 * [Noisli](https://www.noisli.com/)
+* [Rain.today](https://rain.today/)
 * [Rainy Mood](https://www.rainymood.com/)
 * [Soundrown](https://soundrown.com/)
 * [Tabletop Audio](https://tabletopaudio.com/)
