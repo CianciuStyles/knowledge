@@ -69,6 +69,7 @@
 * [If You’re Busy, You’re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers](https://www.calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/) - Cal Newport
 * [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind\_Sweep\_Trigger\_List.pdf) - Getting Things Done
 * ["Productivity" Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me)](https://tim.blog/2013/11/03/productivity-hacks/) - Tim Ferriss
+* [Stopping at 90%](https://austinhenley.com/blog/90percent.html) - Austin Z. Henley
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Getting Things Done (GTD) FAQ](https://zenhabits.net/the-getting-things-done-gtd-faq/) - Leo Babauta, Zen Habits
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
