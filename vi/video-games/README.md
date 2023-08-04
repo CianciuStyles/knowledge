@@ -60,6 +60,7 @@
 * [Nintendo64EVER](https://www.nintendo64ever.com/home.html)
 * [Old Video Game Advertisements](https://retrocgads.tumblr.com/)
 * [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Home)
+* [PriceCharting](https://www.pricecharting.com/)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
 * [SCPH @ PlayStation](https://maru-chang.com/hard/scph/index.php/eldest\_son/english/)
