@@ -100,6 +100,7 @@
 
 * [Footy Addicts](https://footyaddicts.com/)
 * [GO Mammoth](https://www.gomammoth.co.uk/)
+* [Sportas](https://sportas.co.uk/)
 * [Try Tag Rugby](https://trytagrugby.com/)
 
 ### Theatre
