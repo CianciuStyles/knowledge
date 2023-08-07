@@ -118,6 +118,7 @@
 * [What is the most valuable book that changed how you live and gave useful advice?](https://www.reddit.com/r/productivity/comments/14o4gxi/what\_is\_the\_most\_valuable\_book\_that\_changed\_how/)
 * [What is your favorite book?](https://www.reddit.com/r/AskReddit/comments/5l9m02/what\_is\_your\_favorite\_book/)
 * [What is your favourite book, that is at least 100 years old?](https://www.reddit.com/r/books/comments/12kw5x2/what\_is\_your\_favourite\_book\_that\_is\_at\_least\_100/)
+* [What was the last book you rated 5/5 stars?](https://www.reddit.com/r/books/comments/15fgu60/what\_was\_the\_last\_book\_you\_rated\_55\_stars/)
 * [What was your last up-til-2 am book?](https://www.reddit.com/r/books/comments/46n7bb/what\_was\_your\_last\_uptil2\_am\_book/)
 * [What was your most 'can't-put-down' book that you've ever read?](https://www.reddit.com/r/AskReddit/comments/94i67o/what\_was\_your\_most\_cantputdown\_book\_that\_youve/)
 * [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats\_a\_book\_everyone\_should\_read\_at\_least\_once/)
