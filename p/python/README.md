@@ -22,6 +22,7 @@ description: https://www.python.org/
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
+* [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual\_performance\_optimization\_python/) - Nathan Thomas
 * [Profile a section of code with cProfile](https://adamj.eu/tech/2023/07/23/python-profile-section-cprofile/) - Adam Johnson
 * [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) - Mike Driscoll
 * [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - Victor Skvortsov
