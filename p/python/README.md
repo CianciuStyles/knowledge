@@ -76,6 +76,14 @@ description: https://www.python.org/
 
 * [Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
 
+### Interpreters
+
+* [CPython](https://github.com/python/cpython)
+* [Cython](https://cython.org/) - C Extensions for Python
+* [IronPython](https://ironpython.net/) - Python for .NET
+* [Jython](https://www.jython.org/) - Python for the Java Virtual Machine
+* [LPython](https://lpython.org/) - High performance typed Python compiler
+
 ### Libraries
 
 ![](<../../.gitbook/assets/image (3).png>)
