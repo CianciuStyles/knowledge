@@ -20,6 +20,7 @@
 
 ### Articles
 
+* [Decoding C Compilation Process: From Source Code to Binary](https://hackthedeveloper.com/c-program-compilation-process/) - Divyanshu Shekhar
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw
 * [Making a Brainf\*ck to C Compiler in Rust](https://medium.com/@thelukaswils/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d) - Luke I. Wilson
 * [Understanding Compilers - For Humans](https://medium.com/@thelukaswils/understanding-compilers-for-humans-ba970e045877) ([v2](https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd)) - Luke I. Wilson
