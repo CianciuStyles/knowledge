@@ -11,6 +11,10 @@
 
 * [Style Toward Clarity And Grace](https://sites.duke.edu/niou/files/2014/07/WilliamsJosephM1990StyleTowardClarityandGrace.pdf) - Joseph M. Williams
 
+### Tools
+
+* [Vale.sh](https://vale.sh/) - A linter for prose
+
 ### Websites
 
 * [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/) - University of North Carolina
