@@ -18,6 +18,7 @@ description: https://reactjs.org/
 
 ### GitHub repositories
 
+* [Awesome React](https://github.com/enaqx/awesome-react)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 * [React/Redux Links](https://github.com/markerikson/react-redux-links)
 

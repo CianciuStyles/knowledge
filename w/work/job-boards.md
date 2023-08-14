@@ -48,7 +48,7 @@
 * [30 Hour Jobs](https://30hourjobs.com/)
 * [4 Day Work Week Jobs](https://4dayweek.io/)
 * [80,000 Hours](https://80000hours.org/job-board/)
-* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards)
+* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - [2](https://github.com/emredurukn/awesome-job-boards)
 * [Calm Jobs](http://calmjobs.io/)
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
 * [Devjobsscanner](https://www.devjobsscanner.com/)

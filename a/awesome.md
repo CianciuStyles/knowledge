@@ -24,7 +24,9 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome IT films: [https://github.com/greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films)
 * Awesome Java: [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * Awesome JavaScript: [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-* Awesome Job Boards: [https://github.com/tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
+* Awesome Job Boards:
+  * [https://github.com/emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
+  * [https://github.com/tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
 * Awesome Katas: [https://github.com/gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
 * Awesome Kotlin: [https://github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 * Awesome LaTeX: [https://github.com/egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
@@ -38,6 +40,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome OSINT: [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 * Awesome OSS Alternatives: [https://github.com/RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 * Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+* Awesome React: [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * Awesome Reverse Engineering: [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * Awesome Rust: [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
