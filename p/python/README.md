@@ -120,6 +120,7 @@ description: https://www.python.org/
 * [futuecoder](https://futurecoder.io/) - learn python from scratch
 * [New Coder](https://newcoder.io/tutorials/)
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
+* [PyFlo](https://pyflo.net/) - The beginners guide to becoming a Python programmer
 * [Pysheeet](https://www.pythonsheets.com/)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/)
