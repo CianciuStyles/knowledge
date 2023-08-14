@@ -36,6 +36,10 @@
 * [Super Metroid](https://github.com/strager/supermetroid)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 
+### Reddit Threads
+
+* [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i\_am\_making\_a\_list\_of\_source\_ports\_on\_android/)
+
 ### YouTube Channels
 
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
