@@ -16,6 +16,10 @@
   * [Summary by Four Minute Books](https://fourminutebooks.com/so-good-they-cant-ignore-you-summary/)
   * [Summary by Tomas Laurinavicius (Best Writing)](https://bestwriting.com/book-notes/so-good-they-cant-ignore-you)
 
+### Reddit Threads
+
+* [The greatest threat to success is not failure but boredom](https://www.reddit.com/r/productivity/comments/15jt02z/the\_greatest\_threat\_to\_success\_is\_not\_failure\_but/)
+
 ### Videos
 
 * [So Good They Can't Ignore You](https://www.youtube.com/watch?v=qwOdU02SE0w) - Cal Newport
