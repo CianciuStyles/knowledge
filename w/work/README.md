@@ -13,6 +13,7 @@
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
 * [The Ask A Manager guide To Asking For A Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html) - Ask A Manager
 * [The best career advice I’ve received](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/) - Nicholas C. Zakas
+* [The four-hour work day](https://ckarchive.com/b/27u2hohv3m877b3h4) - Oliver Burkeman
 * [The reality of Big Tech's 'fake work' problem](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7?r=US\&IR=T) - Hugh Langley and Grace Key, Business Insider
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans
 * [Up or Out: Solving the IT Turnover Crisis](https://thedailywtf.com/articles/up-or-out-solving-the-it-turnover-crisis) - Alex Papadimoulis
