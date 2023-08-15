@@ -420,6 +420,7 @@
 
 ### Articles
 
+* [10 Postgres tips for beginners](https://postgres.ai/blog/20230722-10-postgres-tips-for-beginners) - Nikolay Samokhvalov, Postgres.ai
 * [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
 
