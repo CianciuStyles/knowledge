@@ -57,6 +57,14 @@
 * [Netlify](https://www.netlify.com/)
 * [tiiny.host](https://tiiny.host/)
 
+### Tools
+
+#### End-to-End Testing
+
+* [Cypress](https://www.cypress.io/)
+* [Playwright](https://playwright.dev/)
+* [Selenium](https://www.selenium.dev/)
+
 ### Websites
 
 * [Code Guide](https://codeguide.co/) - Mark Otto
