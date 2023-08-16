@@ -37,6 +37,7 @@
 ### Product Reviews
 
 * [Looria](https://looria.com/) ([Reddit](https://looria.com/reddit/overview))
+* [Wirecutter](https://www.nytimes.com/wirecutter/)
 
 ### Shipping
 
