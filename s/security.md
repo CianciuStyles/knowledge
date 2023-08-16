@@ -149,6 +149,7 @@
 * [Cybrary](https://www.cybrary.it/)
 * [Guided Hacking](https://guidedhacking.com/)
 * [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
+* [HackMyVM](https://hackmyvm.eu/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
