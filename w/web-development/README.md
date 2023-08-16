@@ -65,6 +65,12 @@
 * [Playwright](https://playwright.dev/)
 * [Selenium](https://www.selenium.dev/)
 
+#### Web Servers
+
+* [Apache](https://httpd.apache.org/)
+* [Caddy](https://caddyserver.com/)
+* [Nginx](https://www.nginx.com/)
+
 ### Websites
 
 * [Code Guide](https://codeguide.co/) - Mark Otto
