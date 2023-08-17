@@ -100,6 +100,12 @@
 
 * [How do I find energy to work on hobbies after the work day ends?](https://news.ycombinator.com/item?id=26500021)
 
+### Infographics
+
+
+
+<figure><img src="https://i.pinimg.com/564x/34/99/bb/3499bb9e801712644440bf08017e373f.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Music For Concentration
 
 * [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/)
