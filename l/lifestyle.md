@@ -21,6 +21,12 @@
 * [What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
 * [What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
 
+### Infographics
+
+
+
+<figure><img src="https://i.pinimg.com/564x/ac/ed/ca/acedca032a2b85983dd77a5a6a08cf02.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Reddit Threads
 
 * [The most important DECISION you made that helped you improve your LIFE?](https://www.reddit.com/r/LifeProTips/comments/12h8tpx/lpt\_the\_most\_important\_decision\_you\_made\_that/)
