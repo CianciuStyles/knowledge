@@ -10,6 +10,8 @@
 
 {% embed url="https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf" %}
 
+<figure><img src="https://i.pinimg.com/564x/c1/71/3b/c1713b0259018afb98bf63b03e1ce5d2.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Articles
 
 * [Going Plant-Based (A Vegan Diet for Fitness)](https://www.nerdfitness.com/blog/how-to-eat-a-plant-based-diet-a-scientific-look-at-going-vegan-safely/) - Nerd Fitness
