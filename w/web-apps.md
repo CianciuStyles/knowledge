@@ -14,6 +14,10 @@
 * [Murf.ai](https://murf.ai/) - AI Voice Generator
 * [Vocal Remover](https://vocalremover.org/)
 
+### Chats
+
+* [Zulip](https://zulip.com/)
+
 ### Collections
 
 * [Uneed](https://www.uneed.best/)
@@ -99,6 +103,7 @@
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [Desmos](https://www.desmos.com/calculator)
 * [Mathway](https://www.mathway.com)
+* [Numbr](https://numbr.dev/)
 * [Symbolab Math Solver](https://www.symbolab.com/)
 * [Wolfram Alpha](https://www.wolframalpha.com/)
 
