@@ -39,6 +39,7 @@
 * [What movie is 10/10 yet hardly anyones heard of it?](https://www.reddit.com/r/AskReddit/comments/150lra2/what\_movie\_is\_1010\_yet\_hardly\_anyones\_heard\_of\_it/)
 * [What movie is a 10/10?](https://www.reddit.com/r/AskReddit/comments/ygv57q/what\_movie\_is\_a\_1010/)
 * [What Movie is a perfect 10/10?](https://www.reddit.com/r/AskReddit/comments/oab3gz/what\_movie\_is\_a\_perfect\_1010/)
+* [What movie is an absolute blast from start to finish?](https://www.reddit.com/r/AskReddit/comments/15txr5g/what\_movie\_is\_an\_absolute\_blast\_from\_start\_to/)
 * [What movie is unexpectedly brilliant?](https://www.reddit.com/r/AskReddit/comments/71aqe6/what\_movie\_is\_unexpectedly\_brilliant/)
 * [What movie will you never get tired of watching?](https://www.reddit.com/r/AskReddit/comments/15ts5qm/what\_movie\_will\_you\_never\_get\_tired\_of\_watching/)
 * [What movies should definitely be watched without knowing anything about them?](https://www.reddit.com/r/AskReddit/comments/48baf5/what\_movies\_should\_definitely\_be\_watched\_without/)
