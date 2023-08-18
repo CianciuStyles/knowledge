@@ -5,6 +5,7 @@
 * [Lessons Learned from the Book 'Effective Remote Work'](https://phauer.com/2022/book-remote-work-lessons-learned/) - Philipp Hauer
 * [The 10 Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext#PageTop) - Vanessa Sochat
 * [The Great Contemplation](https://every.to/p/the-great-contemplation) - Paul Millerd
+* [WFH Policies for Tech Companies (2023)](https://www.teamblind.com/post/\[2023]-WFH-Policies-for-Tech-Companies-ndacb6gu) - Blind
 * [What if Remote Work Didn’t Mean Working from Home?](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) - Cal Newport
 
 ### Awesome
