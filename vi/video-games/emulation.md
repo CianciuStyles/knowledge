@@ -30,11 +30,17 @@
 * [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
 * [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
 
-### Disassemblies
+### Decompilations and Disassemblies
 
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
+* [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
+* [Goldeneye 007](https://github.com/n64decomp/007)
+* [Mario Kart 64](https://github.com/n64decomp/mk64)
+* [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
+* [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Metroid](https://github.com/strager/supermetroid)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
+* [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 
 ### Reddit Threads
 
