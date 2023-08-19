@@ -32,6 +32,10 @@
 
 ### Decompilations and Disassemblies
 
+* [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
+
+
+
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
 * [Goldeneye 007](https://github.com/n64decomp/007)
