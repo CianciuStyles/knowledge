@@ -22,6 +22,7 @@
 ### GitHub Repositories
 
 * [Established Remote Companies](https://github.com/yanirs/established-remote)
+* [European Remote](https://github.com/EuropeanRemote/european-remote-software-companies) - List of the remote software companies hiring in Europe
 
 ### Hacker News Threads
 
