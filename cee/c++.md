@@ -68,6 +68,7 @@ int main() {
 * [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation)
+* [The comprehensive catalog of C++ books](https://github.com/yuchdev/CppBooks)
 
 ### Reddit Threads
 
