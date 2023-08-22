@@ -8,6 +8,7 @@ description: https://www.linux.org/
 
 ### Articles
 
+* [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/) - Julia Evans
 * Linux on the 7th Generation of Consoles - Lily Siwik
   * [Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
   * [Part 2: Playstation 3](https://www.lilysthings.org/blog/linux-on-ps3/)
