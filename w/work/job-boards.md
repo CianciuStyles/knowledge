@@ -39,6 +39,7 @@
 * [Remotive](https://remotive.io/)
 * [Turing Jobs](https://www.turing.com/jobs)
 * [We Work Remotely](https://weworkremotely.com/)
+* [Work From Hut](https://www.workfromhut.com/)
 * [Working Nomads](https://www.workingnomads.co/jobs)
 
 
