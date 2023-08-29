@@ -16,3 +16,4 @@
 * [Startup Launch List](https://startuplaunchlist.com/)
 * [Startup Stash](https://startupstash.com/)
 * [Startup Toolkit](https://startuptoolkit.info)
+* [YC Library](https://www.ycombinator.com/library)
