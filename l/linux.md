@@ -8,6 +8,7 @@ description: https://www.linux.org/
 
 ### Articles
 
+* [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html) - Dmitry Mazin
 * [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/) - Julia Evans
 * [How programs get run: ELF binaries](https://lwn.net/Articles/631631/) - David Drysdale
 * Linux on the 7th Generation of Consoles - Lily Siwik
