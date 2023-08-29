@@ -400,6 +400,10 @@ y.b // ERROR!
 
 * [TypeScript 3 Fundamentals v2](https://frontendmasters.com/courses/typescript-v2/) - Mike North
 
+### GitHub Repositories
+
+* [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript
+
 ### Videos
 
 * [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k\_4tZ16qU) - Orta Therox

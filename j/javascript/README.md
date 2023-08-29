@@ -26,6 +26,7 @@
 * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+* [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript
 
 ### Videos
 
