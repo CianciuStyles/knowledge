@@ -18,6 +18,7 @@
 ### Books
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh, Victor Shoup
+* [Practical Cryptography for Developers](https://cryptobook.nakov.com/) - Svetlin Nakov, PhD
 * [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek
 
 ### Courses
