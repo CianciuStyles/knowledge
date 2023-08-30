@@ -7,6 +7,7 @@
 * [8 Hard Truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) - Steven Buccini
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
+* [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
