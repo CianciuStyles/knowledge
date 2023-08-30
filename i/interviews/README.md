@@ -38,6 +38,10 @@
 * [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to ask a company
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
+### Hacker News threads
+
+* [What's the biggest red flag you've encountered during a hiring process?](https://news.ycombinator.com/item?id=37210581)
+
 ### Videos
 
 * [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) - Moishe Lettvin
