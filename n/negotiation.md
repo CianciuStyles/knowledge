@@ -120,6 +120,7 @@
 ### Articles
 
 * [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
+* [How to sabotage your salary negotiations efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start) - Aline Lerner, interviewing.io
 * [How you can \~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through) - Jordan Cutler
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Patrick McKenzie
 
