@@ -55,6 +55,7 @@
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
 * [Devjobsscanner](https://www.devjobsscanner.com/)
 * [#epicjobs](https://epicjobs.co/)
+* [FossFox](https://fossfox.com/) - Work with open-source and get paid for it
 * [hackajob](https://hackajob.co/)
 * [Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) ([GitHub](https://github.com/poteto/hiring-without-whiteboards))
 * [Honeypot](https://www.honeypot.io/)
