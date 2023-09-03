@@ -1,5 +1,9 @@
 # Music
 
+### Concerts
+
+* [UNDERTALE 5th Anniversary Concert](https://www.youtube.com/watch?v=srZdDAJbHfc)
+
 ### Covers
 
 * [Extra Lives](https://www.youtube.com/c/Extralivesmusic/videos)
@@ -68,27 +72,28 @@
 
 * [Age of Empires 2](https://www.youtube.com/watch?v=jadxTFqyhRM)
 * [Castlevania: Symphony of the Night](https://www.youtube.com/watch?v=0Ghd3tvsNAs)
-* [Chrono Trigger](https://www.youtube.com/watch?v=uBaqb\_rUkN0\&list=PLSHMcAUZYM-7vN5kvYQ\_032Vdp1zRWETw)
-* [Deltarune](https://www.youtube.com/watch?v=orLe7qluemo\&list=PLOM-BnUvRjr9u86OQ0ZniQkrlLTcVHvr4)
-* [DOOM 2016](https://www.youtube.com/watch?v=Q-vsx84hsbs)
-* [Final Fantasy VII](https://www.youtube.com/watch?v=WPx3h5bwXVQ\&list=PL77D98F68F6DBB35D)
-* [Final Fantasy VIII](https://www.youtube.com/watch?v=Zfd9krEsr-k\&list=PLAC6CCD5897973D5D)
-* [Final Fantasy IX](https://www.youtube.com/watch?v=iBGgUtd7EdA\&list=PL9DADCB4F409084A4)
-* [Final Fantaxy XIII](https://www.youtube.com/watch?v=1MkjYDQoAZ8\&list=PL29D37F27E93EF00C)
-* [Final Fantasy XV](https://www.youtube.com/watch?v=5dM0nB68lM8\&list=PLWQEo5aMcuonQg7qdufTDGbqBxJOnrZGT)
+* [Chrono Trigger](https://www.youtube.com/playlist?list=OLAK5uy\_kOFWziQDh7okS3iyuKk4mkFNVdbxmHBqA)
+* [Deltarune](https://www.youtube.com/watch?v=i15tvBmKGoQ)
+* [DOOM 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E)
+* [Final Fantasy VII](https://www.youtube.com/watch?v=-1ZBWUnYPbA)
+* [Final Fantasy VIII](https://www.youtube.com/playlist?list=OLAK5uy\_l8szd2J3qmAUvscgOZOgyE9uV9gkxdw3w)
+* [Final Fantasy IX](https://www.youtube.com/playlist?list=OLAK5uy\_lcCsVT2tRqwUyC6ZdsPi8s6yF\_mQxxPi8)
+* [Final Fantaxy XIII](https://www.youtube.com/playlist?list=OLAK5uy\_nLO-c6V4RwcO9Cv4W0S0ham5qNnoYWj3I)
+* [Final Fantasy XV](https://www.youtube.com/playlist?list=OLAK5uy\_mq0kd5pjQL8FR2rvKOYUhO8eyC0COqWcw)
 * [Grand Theft Auto: Vice City](https://www.youtube.com/playlist?list=PLffQpMcmLcI-3REhsGllOcwoAsYrQ9bra)
 * [Grim Fandango](https://www.youtube.com/watch?v=5-K8R1hDG9E)
 * [Hotline Miami](https://www.youtube.com/watch?v=oKD-MVfC9Ag)
-* [Interstate '76](https://www.youtube.com/watch?v=qXZGQSj8s4A)
+* [Interstate '76](https://www.youtube.com/playlist?list=PL\_txsRvghL9nrVS\_y9uby7EiHA1CtzjLc)
 * [Journey](https://www.youtube.com/watch?v=M3hFN8UrBPw)
 * [Katamari Damacy](https://www.youtube.com/watch?v=QAA6hq9RL-4)
 * [Life Is Strange](https://www.youtube.com/watch?v=\_Df15XQgyq4\&list=PLp3-KQ922RELlU\_q8bmxEMtweK\_b8jo0j)
-* [Mass Effect](https://www.youtube.com/watch?v=FIqHQptIDE4\&list=PLJAXsS8rpwOaXRdBtVVvleIoJfzXYHKAV)
+* [Mass Effect](https://www.youtube.com/watch?v=FobS3w7QX-Y)
 * [No One Lives Forever](https://www.youtube.com/watch?v=2whgu1i\_G3c\&list=PL8B280F55A76A5F5A)
 * [No One Lives Forever 2](https://www.youtube.com/watch?v=tWzNvwuFZ70)
-* [Ori and the Blind Forest](https://www.youtube.com/watch?v=j-Fhx2IEztw\&list=PLTSIqhWP1gKWbtSaAFCz5erPddH--7D6L)
+* [Ori and the Blind Forest](https://www.youtube.com/watch?v=MeVFrt7BUyw)
 * [Rayman Legends](https://www.youtube.com/watch?v=hdGj84cakFQ\&list=PLO4jlmGoc6uB\_EhcOfiJWm-Q\_4R25YNeT)
 * [Rayman Origins](https://www.youtube.com/watch?v=GZbKagLlFQ0\&list=PLO4jlmGoc6uCRbONEtHHNHMLyFa6Mu6\_y)
+* [Resident Evil 2 Remake](https://www.youtube.com/playlist?list=PLpxrJrWZu7vSos\_l2Z5mjcM5oJvuj1XNk)
 * [Ridge Racer Type 4](https://www.youtube.com/watch?v=dBWKwbjj020\&list=PL6PHQCxAqpJTLqJjrDXhr\_rXx0ta5rv4M)
 * [Shadow Of The Colossus](https://www.youtube.com/watch?v=57jIlw6HmCE)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM\&feature=youtu.be)
