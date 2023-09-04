@@ -26,6 +26,7 @@
 * [Emirates Air Line](https://tfl.gov.uk/modes/emirates-air-line/)
 * [Fulham Palace House & Gardens](https://www.fulhampalace.org/)
 * [Go Ape](https://goape.co.uk/locations/alexandra-palace) - Alexandra Palace
+* [Go Karting at TeamSport](https://www.team-sport.co.uk/)
 * [Key bus routes in central London](https://www.mapaplan.com/travel-map/london-top-tourist-attractions-map/high-resolution/london-top-tourist-attractions-map-14-key-bus-routes-by-tourist-attractions-in-central-london-high-resolution.png)
 * [London Waterbus Company](https://www.londonwaterbus.com/)
 * [Mayfield Lavender](https://www.mayfieldlavender.com/)
