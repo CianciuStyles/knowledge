@@ -5,6 +5,7 @@
 * [Free Online Resources to Learn Game Development](https://www.springboard.com/blog/free-online-courses-game-development-gamification/) - Gautam Tambay
 * [Free ebooks about game development](https://gamedev.stackexchange.com/questions/355/free-ebooks-about-game-development)
 * [Game Programming Primer](https://tl.net/forum/general/382368-game-programming-primer)
+* [GB ASM Tutorial](https://gbdev.io/gb-asm-tutorial/) ([GitHub](https://github.com/gbdev/gb-asm-tutorial))
 * [Graphic Courses](https://imsky.co/links/graphics-courses)
 * [I want to be a game developer… now what?](https://gamefromscratch.com/i-want-to-be-a-game-developer-now-what/)
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) - Gustavo Pezzi, Pikuma
