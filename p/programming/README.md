@@ -102,13 +102,13 @@
 * [Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
 * [Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
-* [Challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/challengingprojects.html) - Austin Z. Henley
+* [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=21790779), [Reddit](https://www.reddit.com/r/programming/comments/ean6ch/challenging\_projects\_every\_programmer\_should\_try/))
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
 * [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - Al Sweigart
 * [Kindling projects](https://nedbatchelder.com/text/kindling.html) - Ned Batchelder
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
-* [More challenging projects every programmer should try](https://web.eecs.utk.edu/\~azh/blog/morechallengingprojects.html) - Austin Z. Henley
+* [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=25489879))
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Tu V. Tran
 * [Projectbook](https://projectbook.code.brettchalupa.com/) - Brett Chalupa
 * [Protohackers](https://protohackers.com/)
