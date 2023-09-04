@@ -1,5 +1,11 @@
 # Productivity
 
+## Infographics
+
+
+
+<figure><img src="https://joanneguidoccio.files.wordpress.com/2019/09/gothstevencoveyinfographic.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Notes
 
 * Busy = out of control
