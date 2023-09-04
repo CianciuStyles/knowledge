@@ -24,6 +24,12 @@
 
 * [Zonal Marking](https://theathletic.com/podcast/145-zonal-marking/) - The Athletic
 
+### Radios
+
+* [Radio Romanista](https://radioromanista.it/)
+* [Radio TV Serie A](https://www.legaseriea.it/it/radiotv)
+* [Retesport](https://www.retesport.it/)
+
 ### Reddit Threads
 
 * [r/soccer's The List](https://www.reddit.com/r/soccer/wiki/thelist)
