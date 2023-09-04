@@ -10,6 +10,10 @@
 
 * [How Hydraulics Work](https://gfycat.com/accomplishedpointedbarnacle)
 
+### Websites
+
+* [The Theoretical Minimum](https://theoreticalminimum.com/home)
+
 ### YouTube channels
 
 * [Fermilab](https://www.youtube.com/c/fermilab/videos)
