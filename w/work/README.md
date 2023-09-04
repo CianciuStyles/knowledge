@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [3 key tips for maximum impact, and what do Big Tech engineers even do?](https://newsletter.devmoh.co/p/3-key-tips-for-maximum-impact) - Priyam Mohanty
 * [8 Hard Truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) - Steven Buccini
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
