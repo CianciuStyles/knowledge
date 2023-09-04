@@ -8,6 +8,10 @@
 * [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal\_gear\_solid\_2\_substance\_vs\_fix\_pc/)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 
+### Cave Story
+
+* [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
+
 ### Deus Ex
 
 * [How to run Deus Ex on Windows 7/8](https://www.pcgamer.com/how-to-run-deus-ex-on-windows-78/)
