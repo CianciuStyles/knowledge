@@ -39,6 +39,7 @@
 * [Six Keys to Being Excellent at Anything](https://www.fastcompany.com/1686337/six-keys-being-excellent-anything) - Tony Schwartz, Fast Company
 * [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/) - Julia Evans
 * [The Step-by-Step Guide to Go From Novice to Expert in Any Skill](https://www.nateliason.com/blog/become-expert-dreyfus) - Nat Eliason
+* [Write about what you learn. It pushes you to understand topics better.](https://addyosmani.com/blog/write-learn/) - Addy Osmani
 * [You Can Increase Your Intelligence: 5 Ways to Maximize Your Cognitive Potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/) - Andrea Kuszewski
 
 ### Books
