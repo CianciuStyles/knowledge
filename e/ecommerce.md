@@ -39,6 +39,10 @@
 * [Looria](https://looria.com/) ([Reddit](https://looria.com/reddit/overview))
 * [Wirecutter](https://www.nytimes.com/wirecutter/)
 
+### Product Trackers
+
+* [HotStock](https://www.hotstock.io/uk)
+
 ### Shipping
 
 * [Packlink](https://www.packlink.com/en-GB/)
