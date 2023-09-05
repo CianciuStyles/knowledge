@@ -43,6 +43,8 @@
 
 ### Books
 
+* [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) - Martin Fowler
+  * [Summary by Hugo Mantilla](https://github.com/HugoMatilla/Refactoring-Summary)
 * [The Mikado Method](https://livebook.manning.com/book/the-mikado-method/table-of-contents/) - Daniel Brolund, Ola Ellnestam
 
 ### GitHub repositories
