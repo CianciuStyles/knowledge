@@ -42,7 +42,7 @@
   * [Grep](cee/command-line/grep.md)
   * [Lsof](cee/command-line/lsof.md)
   * [Sed](cee/command-line/sed.md)
-  * [Ssh](cee/command-line/ssh.md)
+  * [SSH](cee/command-line/ssh.md)
 * [Competitive Programming](cee/competitive-programming.md)
 * [Compilers](cee/compilers.md)
 * [Computer Graphics](cee/computer-graphics/README.md)
