@@ -29,6 +29,7 @@
 * [GoWFH](https://gowfh.com/)
 * [Gun.io](https://www.gun.io/)
 * [himalayas](https://himalayas.app/)
+* [Italia Remote](https://italiaremote.com/) ([GitHub](https://github.com/italiaremote/awesome-italia-remote))
 * [Real Work from Anywhere](https://www.realworkfromanywhere.com/)
 * [Remote Hunt](https://remotehunt.com/)
 * [Remote In Tech](https://remoteintech.company/)
