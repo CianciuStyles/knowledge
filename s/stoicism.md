@@ -23,6 +23,14 @@
 
 * [How to Be a Stoic](https://howtobeastoic.wordpress.com/) - Massimo Pigliucci
 
+### Images
+
+<figure><img src="https://i.redd.it/85gfz3cbjhjb1.png" alt=""><figcaption></figcaption></figure>
+
+### Subreddits
+
+* [r/Stoicism](https://www.reddit.com/r/Stoicism/)
+
 ### Videos
 
 * [Marcus Aurelius' Meditations: The Stoic Ideal](https://www.youtube.com/watch?v=Auuk1y4DRgk) - Michael Sugrue
