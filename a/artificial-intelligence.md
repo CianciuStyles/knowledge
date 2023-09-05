@@ -29,6 +29,7 @@
 ### GitHub Repositories
 
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
 
 ### Tools
 
