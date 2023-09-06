@@ -24,6 +24,10 @@
 * [Addy Osmani](https://addyosmani.com/blog/)
 * [Josh W Comeau](https://www.joshwcomeau.com/)
 
+### Books
+
+* [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/) - Eve Andersson, Philip Greenspun, Andrew Grumet
+
 ### Code playgrounds
 
 * [CodeSandbox](https://codesandbox.io/)
@@ -78,12 +82,15 @@
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [HEAD](https://htmlhead.dev/) - A free guide to HTML5 \<head> elements
 * [HTML5 Security Checklist](https://html5sec.org/)
+* [Interneting Is Hard](https://internetingishard.netlify.app/)
 * [Jamstack](https://jamstack.org/) - For fast and secure sites
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - Shay Howe
 * [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator
 * [Performance Tooling Today](https://www.perf-tooling.today/)
 * [Scrimba](https://scrimba.com/allcourses?price=free)
 * [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [The Front-End Checklist](https://frontendchecklist.io/)
+* [The Odin Project](https://www.theodinproject.com/) - Your Career in Web Development Starts Here
 * [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins
 * [Wappalyzer](https://www.wappalyzer.com/) - Find out what websites are built with
 * [web.dev](https://web.dev/)
