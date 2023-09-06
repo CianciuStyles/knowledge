@@ -39,7 +39,7 @@
 ### Websites
 
 * [ECMAScript 6 - New Features: Overview & Comparison](https://es6-features.org/#Constants)
-* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - Dr. Axel Rauschmayer
 * [Simplified JavaScript jargon](https://jargon.js.org/)
+* [The Modern JavaScript Tutorial](https://javascript.info/) - Ilya Kantor
 * [The State of JS Survey](https://stateofjs.com/)
 
