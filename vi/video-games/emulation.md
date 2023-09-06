@@ -3,6 +3,9 @@
 * Archive.org
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
+  * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
+  * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
+  * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
 * [Console Living Room](https://archive.org/details/consolelivingroom)
