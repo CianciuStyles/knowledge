@@ -15,7 +15,11 @@
 ### Books
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke
-* [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/index.html) - Dr. Axel Rauschmayer
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - Dr. Axel Rauschmayer
+  * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html)
+  * [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/index.html)
+  * [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html)
+  * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/index.html)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Professor Frisby
 * [ServiceWorker Cookbook](https://serviceworke.rs/) - Mozilla
