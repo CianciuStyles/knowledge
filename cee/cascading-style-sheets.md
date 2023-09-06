@@ -29,3 +29,7 @@
 * [CSS Triggers](https://csstriggers.com/)
 * [MarkSheet](https://marksheet.io/) - a free HTML and CSS tutorial
 * [Solved by Flebox](https://philipwalton.github.io/solved-by-flexbox/) - Philip Walton
+
+### YouTube Channels
+
+* [Kevin Powell](https://www.youtube.com/@KevinPowell)
