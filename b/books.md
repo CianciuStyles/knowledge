@@ -151,6 +151,7 @@
 * [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
+* [Momox ](https://www.momox.it/)- Vendi libri usati
 * [Open Library](https://openlibrary.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
