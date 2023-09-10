@@ -249,6 +249,7 @@
 * [Web Cams](w/web-cams.md)
 * [Web Development](w/web-development/README.md)
   * [Selenium](w/web-development/selenium.md)
+  * [Web Assembly](w/web-development/web-assembly.md)
 * [Work](w/work/README.md)
   * [Freelancing](w/work/freelancing.md)
   * [Interesting Companies](w/work/interesting-companies.md)
