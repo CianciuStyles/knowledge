@@ -126,6 +126,7 @@
 
 ## K
 
+* [Knots](k/knots.md)
 * [Knowledge Bases](k/knowledge-bases.md)
 * [Kotlin](k/kotlin.md)
 * [Kubernetes](k/kubernetes.md)
