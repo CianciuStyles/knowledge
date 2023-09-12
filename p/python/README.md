@@ -126,4 +126,5 @@ description: https://www.python.org/
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/)
 * [Python Books](https://pythonbooks.org/)
+* [Python Tutor](https://pythontutor.com/) - Visualize code execution
 * [Real Python](https://realpython.com/)
