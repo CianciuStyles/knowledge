@@ -171,6 +171,7 @@
 
 * [Personal Finance](p/personal-finance/README.md)
   * [Pensions](p/personal-finance/pensions.md)
+* [PHP](p/php.md)
 * [Physics](p/physics.md)
 * [Podcasts](p/podcasts.md)
 * [Procrastination](p/procrastination.md)
