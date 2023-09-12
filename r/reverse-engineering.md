@@ -24,6 +24,7 @@
 ### Tutorials
 
 * [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/) - Maddie Stone
+* [Nightmare](https://guyinatuxedo.github.io/)
 
 ### Videos
 
