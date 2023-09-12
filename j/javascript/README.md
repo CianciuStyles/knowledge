@@ -20,6 +20,7 @@
   * [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/index.html)
   * [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html)
   * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/index.html)
+* [Learn JavaScript: Beginners Edition](https://javascript.sumankunwar.com.np/en/) - Suman Kunwar ([GitHub](https://github.com/sumn2u/learn-javascript))
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Professor Frisby
 * [ServiceWorker Cookbook](https://serviceworke.rs/) - Mozilla
