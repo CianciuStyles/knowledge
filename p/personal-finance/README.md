@@ -81,6 +81,7 @@
 * [Dividend List](https://thedividendlist.com/) - A list of stocks with monthly and quarterly returns
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
+* [FIRE countries list](https://firecountrieslist.com/)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Investopedia](https://www.investopedia.com/)
 * [JL Collins](https://jlcollinsnh.com/)
