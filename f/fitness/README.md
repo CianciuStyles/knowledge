@@ -1,5 +1,27 @@
 # Fitness
 
+## Notes
+
+### 7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER) - Dr. Eric Berg DC
+
+1. Exercise less but with more intensity (HIIT)
+   * Fat burning happens when resting, not when exercising
+   * Over-training could block fat loss
+2. Drink one tablespoon of Apple Cider Vinegar (ACV) in water one hour before bed
+   * Slows down glyconeogenesis, which is the ability of the liver to create new sugars
+3. Better sleep
+   * Vitamin D3 and B1 before bed
+   * Taking a 30 minute nap during the day
+4. Lower stress
+   * Stress increases cortisol, cortisol increases insulin, insulin stops fat loss
+   * Get exposure to sun (especially in the morning) increases melatonin, which helps lowering cortisol
+   * Doing physical work in the house/yard helps way more to lower stress than physical exercise
+5. Consistent with low carb
+   * A1C tests check the average of the last 3 months
+6. Intermittent fasting
+   * Consuming more fat at the beginning of a fasting program helps to fast for longer periods of time
+7. Nutrient dense keto foods
+
 ## Resources
 
 ### Articles
@@ -25,3 +47,7 @@
 * [Simple Science Fitness](https://ss.fitness/)
 * [The Fitness Wiki](https://thefitness.wiki/)
 * [The Leangains Guide](https://leangains.com/the-leangains-guide/)
+
+### YouTube Videos
+
+* [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o) - Dr. Eric Berg DC
