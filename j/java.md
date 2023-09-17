@@ -20,6 +20,7 @@
   * [Summary by Hugo Mantilla](https://github.com/HugoMatilla/Effective-JAVA-Summary)
   * [Summary by Michael Parker](https://github.com/mgp/book-notes/blob/master/effective-java-2nd-edition.markdown)
 * [Java Concurrency In Practice](https://smile.amazon.co.uk/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) - Brian Goetz
+  * [Notes by Preslav Mihaylov](https://github.com/preslavmihaylov/booknotes/blob/master/java/java-concurrency-in-practice/README.md)
   * [Summary by Michael Parker](https://github.com/mgp/book-notes/blob/master/java-concurrency-in-practice.markdown)
 * [Java for small teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/)
 

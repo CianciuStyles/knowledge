@@ -27,6 +27,7 @@
 * [Hacking the System Design Interview](https://www.amazon.co.uk/dp/B0B7QHRK5Q) - Stanley Chiang
 * [Microservice Patterns and Best Practices](https://smile.amazon.co.uk/Microservice-Patterns-Best-Practices-microservices/dp/1788474031/) - Victor Feitosa Pacheco
 * System Design Interview: An Insider's Guide - Alex Xu
+  * [Notes by Preslav Mihaylov](https://github.com/preslavmihaylov/booknotes/blob/master/system-design/system-design-interview/README.md)
   * [Volume 1](https://smile.amazon.co.uk/dp/B08B35X2ND)
   * [Volume 2](https://smile.amazon.co.uk/dp/1736049119/)
 * [Web Scalability for Startup Engineers](https://smile.amazon.co.uk/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655/) - Artur Ejsmont

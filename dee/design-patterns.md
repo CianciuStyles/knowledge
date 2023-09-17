@@ -7,6 +7,7 @@
 ### Books
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://smile.amazon.co.uk/dp/0201633612) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+  * [Notes by Preslav Mihaylov](https://github.com/preslavmihaylov/booknotes/blob/master/architecture/design-patterns/README.md)
 * [Head First Design Patterns](https://smile.amazon.co.uk/dp/0596007124) - Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 
 ### GitHub Repositories
