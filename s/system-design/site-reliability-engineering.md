@@ -11,6 +11,7 @@
 ### Books
 
 * [Building Secure & Reliable Systems](https://sre.google/static/pdf/building\_secure\_and\_reliable\_systems.pdf)
+* [School of SRE](https://linkedin.github.io/school-of-sre/) - LinkedIn ([GitHub](https://github.com/linkedin/school-of-sre))
 * [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Engineering Workbook](https://sre.google/workbook/table-of-contents/)
 
