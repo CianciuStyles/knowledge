@@ -34,6 +34,7 @@
 * [freshnews](https://www.freshnews.org/)
 * [Hackaday](https://hackaday.com/)
 * [Hacker News](https://news.ycombinator.com/)
+  * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
 * [Lobste.rs](https://lobste.rs/)
