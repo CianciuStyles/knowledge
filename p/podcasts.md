@@ -1,5 +1,9 @@
 # Podcasts
 
+### GitHub Repositories
+
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+
 ### Reddit threads
 
 * [What's your favorite podcast and why?](https://www.reddit.com/r/AskReddit/comments/63g5mh/whats\_your\_favorite\_podcast\_and\_why/)

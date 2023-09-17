@@ -33,6 +33,8 @@
 
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 * [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 

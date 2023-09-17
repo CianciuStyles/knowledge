@@ -9,6 +9,10 @@
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://smile.amazon.co.uk/dp/0201633612) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 * [Head First Design Patterns](https://smile.amazon.co.uk/dp/0596007124) - Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 
+### GitHub Repositories
+
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
 ### Websites
 
 * [Design Patterns](https://refactoring.guru/design-patterns) - Refactoring Guru

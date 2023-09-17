@@ -21,6 +21,7 @@
 
 ### GitHub Repositories
 
+* [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 * [Competitive Programming](https://github.com/manishbisht/Competitive-Programming)
 
 ### Platforms

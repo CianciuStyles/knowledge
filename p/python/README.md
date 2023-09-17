@@ -65,6 +65,7 @@ description: https://www.python.org/
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [Awesome Python Decorator](https://github.com/Junnplus/awesome-python-books)
+* [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks)
 * [Free Python Books](https://github.com/pamoroso/free-python-books)
 * [PyCrumbs](https://github.com/kirang89/pycrumbs)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)

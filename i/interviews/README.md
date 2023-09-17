@@ -33,6 +33,7 @@
 
 ### GitHub repositories
 
+* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [FAANG](https://github.com/neerazz/FAANG)
 * [Interview Preparation Resources](https://github.com/Nabagata/interview-prep)
 * [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to ask a company
