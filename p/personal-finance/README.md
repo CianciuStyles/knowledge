@@ -85,6 +85,7 @@
 * Gov.uk
   * [Individual Savings Accounts (ISAs)](https://www.gov.uk/individual-savings-accounts)
   * [Lifetime ISA](https://www.gov.uk/lifetime-isa)
+  * [Self Assessment: detailed information](https://www.gov.uk/topic/personal-tax/self-assessment)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Investopedia](https://www.investopedia.com/)
 * [JL Collins](https://jlcollinsnh.com/)
