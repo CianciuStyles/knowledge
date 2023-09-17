@@ -134,6 +134,7 @@
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 * [Security Tools](https://tools.tldr.run/)
 * [ShellPop](https://github.com/0x00-0x00/shellpop)
+* [Tails ](https://tails.net)- Portable operating system that protects against surveillance and censorship
 * [Unshackle ](https://github.com/Fadi002/unshackle)- Password Bypass Tool
 
 ### Videos
