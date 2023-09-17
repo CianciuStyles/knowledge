@@ -42,6 +42,10 @@
 
 * [What's the biggest red flag you've encountered during a hiring process?](https://news.ycombinator.com/item?id=37210581)
 
+### Infographics
+
+<figure><img src="https://substack-post-media.s3.amazonaws.com/public/images/f1e626dc-019b-4015-a45c-75facbc14d82_1280x1664.gif" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) - Moishe Lettvin
