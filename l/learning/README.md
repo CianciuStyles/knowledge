@@ -95,7 +95,9 @@
 * [SkillShare](https://www.skillshare.com/)
 * [Springboard](https://www.springboard.com/)
 * [StackSkills](https://stackskills.com/)
+* [Superprof](https://www.superprof.co.uk/)
 * [TakeLessons](https://takelessons.com/)
+* [TutorChase](https://www.tutorchase.com/)
 * [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
 * [WiseGEEK](https://www.wisegeek.com/) - Clear answers to common questions
 * [Wyzant](https://www.wyzant.com/) - Find private tutors
