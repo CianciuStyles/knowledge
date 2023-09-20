@@ -17,6 +17,15 @@ description: https://www.linux.org/
   * [Part 2: Playstation 3](https://www.lilysthings.org/blog/linux-on-ps3/)
 * [Understanding the /etc/shadow File](https://linuxize.com/post/etc-shadow-file/)
 
+### Books
+
+* [Beyond Linux From Scratch ](https://www.linuxfromscratch.org/blfs/view/stable/)- Gerard Beekmans
+* [Linux From Scratch ](https://www.linuxfromscratch.org/lfs/view/stable/)- Gerard Beekmans
+
+### Websites
+
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
+
 ### YouTube Channels
 
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/videos)
