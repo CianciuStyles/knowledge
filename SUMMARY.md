@@ -117,6 +117,7 @@
 
 * [Java](j/java.md)
 * [JavaScript](j/javascript/README.md)
+  * [Bun](j/javascript/bun.md)
   * [Electron](j/javascript/electron.md)
   * [Jest](j/javascript/jest.md)
   * [React.js](j/javascript/react.js.md)
