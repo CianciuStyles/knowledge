@@ -119,9 +119,10 @@
 
 ### Articles
 
-* [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
+* [Exactly what to say when recruiters ask you to name the first number… and other negotiation word-for-words](https://interviewing.io/blog/negotiate-salary-recruiter) - Aline Lerner, interviewing.io
 * [How to sabotage your salary negotiations efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start) - Aline Lerner, interviewing.io
 * [How you can \~1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through) - Jordan Cutler
+* [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Patrick McKenzie
 
 ### Courses
