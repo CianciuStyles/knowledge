@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [Becoming a contractor](https://ochagavia.nl/blog/becoming-a-contractor/) - Adolfo Ochagavía
 * [Everything I know about freelancing](https://andyadams.org/everything-i-know-about-freelancing/) - Andy Adams
 * [First Times Guides](https://www.contractoruk.com/first\_timers) - ContractorUK
 
