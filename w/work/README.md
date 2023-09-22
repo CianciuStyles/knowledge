@@ -11,8 +11,16 @@
 * [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
+* FAANG Career Ladder - Ryan Peterman
+  * [Junior (L3) to Mid-level (L4)](https://www.developing.dev/p/faang-career-ladder-junior-l3-vs)
+  * [Mid-level (L4) to Senior (L5)](https://www.developing.dev/p/faang-career-ladder-mid-level-l4)
+  * [Senior (L5) vs Staff (L6)](https://www.developing.dev/p/faang-career-ladder-senior-l5-vs)
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
+* Speedrunning Guide - Ryan Peterman
+  * [Junior (L3) -> Mid-level (L4)](https://www.developing.dev/p/speedrunning-guide-l3-l4)
+  * [Mid-level (L4) -> Senior (L5)](https://www.developing.dev/p/speedrunning-guide-mid-level-l4-senior)
+  * [Senior (L5) -> Staff (L6)](https://www.developing.dev/p/speedrunning-guide-senior-l5-staff)
 * [The Ask A Manager guide To Asking For A Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html) - Ask A Manager
 * [The best career advice I’ve received](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/) - Nicholas C. Zakas
 * [The four-hour work day](https://ckarchive.com/b/27u2hohv3m877b3h4) - Oliver Burkeman
