@@ -14,6 +14,7 @@
 
 ### Books
 
+* [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
 * [Game AI Pro](https://www.gameaipro.com/)
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
