@@ -80,5 +80,7 @@
 
 * [Diet Doctor](https://www.youtube.com/c/DietDoctorVideo/videos)
 * [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
+  * [Intermittent Fasting and Fat Burning](https://www.youtube.com/watch?v=vMZfyEy\_jpI)
+  * [Step 2 - What to Eat](https://www.youtube.com/watch?v=mBqpaAKtnXE)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
 * [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)
