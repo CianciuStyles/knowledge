@@ -95,6 +95,10 @@
 
 * [Designing Data-Intensive Applications](https://smile.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) (Chapter 5) - Martin Kleppman
 
+### GitHub Repositories
+
+* [LearnDB ](https://github.com/spandanb/learndb-py)- Learn database internals by implementing it from scratch
+
 ### Playgrounds
 
 * [DB Fiddle](https://www.db-fiddle.com/)
