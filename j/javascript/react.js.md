@@ -12,6 +12,10 @@ description: https://reactjs.org/
 * [React for Python developers](https://www.softwarefactory-project.io/react-for-python-developers.html)
 * [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications) - Ovie Okeh
 
+### Courses
+
+* [The Joy of React](https://www.joyofreact.com/) - Josh W. Comeau
+
 ### Frameworks
 
 * [Gatsby](https://www.gatsbyjs.com/)

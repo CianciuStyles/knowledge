@@ -13,6 +13,7 @@
 
 ### Courses
 
+* [CSS for JavaScript Developers](https://css-for-js.dev/) - Josh W. Comeau
 * [Modern CSS Explained For Dinosaurs](https://actualize.teachable.com/p/modern-css-explained-for-dinosaurs) - Peter Jang
 
 ### Frameworks
