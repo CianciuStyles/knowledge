@@ -328,6 +328,7 @@
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
+* [S.T.A.L.K.E.R. Wiki](https://stalker.fandom.com/wiki/S.T.A.L.K.E.R.\_Wiki)
 
 ### YouTube Channels
 
