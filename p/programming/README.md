@@ -32,6 +32,7 @@
 * [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do) - Andy Hippo
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) - Matt Might
 * [What I learned from Software Engineering at Google ](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)- Swizec Teller
+* [What's the toughest bug you ever found and fixed?](https://stackoverflow.com/questions/169713/whats-the-toughest-bug-you-ever-found-and-fixed)
 * [Why you should learn brainf\*ck (or: learn you a brainf\*ck for great good!)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig
 
