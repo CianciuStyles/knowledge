@@ -141,6 +141,7 @@
     * [Certificate of Proficiency in English](l/learning/language-learning/certificate-of-proficiency-in-english.md)
     * [Japanese](l/learning/language-learning/japanese.md)
 * [Legacy Code](l/legacy-code.md)
+* [LEGO](l/lego.md)
 * [Lifestyle](l/lifestyle.md)
 * [Life Hacks](l/life-hacks.md)
 * [Linux](l/linux.md)
