@@ -30,7 +30,8 @@
 
 ### GitHub repositories
 
-* [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
+* [awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
+* [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev)
 * [Games on GitHub](https://github.com/leereilly/games)
 * [Magic Tools](https://github.com/ellisonleao/magictools)
 * [Wituz](https://github.com/Wituz/wituz-youtube)
