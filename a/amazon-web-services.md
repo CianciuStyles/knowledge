@@ -4,6 +4,20 @@ description: https://aws.amazon.com
 
 # Amazon Web Services
 
+## Notes
+
+### Relational Database Service (RDS)
+
+* It allows you to spin up a relational database and have Amazon take care of the upgrades/patches/backups/etc. (database-as-a-service)
+* RDS instances are approximately double the price of an equivalent EC2 instance where you could self-host your RDBMS, but you'll most likely save money on developer time around managing the database
+* Supported databases are:
+  * MySQL
+  * Postgres
+  * MariaDB
+  * Oracle (more expensive due to licensing fees)
+  * SQL Server (more expensive due to licensing fees)
+  * Amazon Aurora (fully compatible with Postgres and MySQL)
+
 ## Resources
 
 ### Articles
