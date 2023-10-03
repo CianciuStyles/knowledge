@@ -45,6 +45,7 @@ description: https://git-scm.com/
   * [Part III: file history queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
   * [Part IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/)
   * [Part V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/)
+* [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/) - Julia Evans
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
 
