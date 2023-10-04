@@ -132,4 +132,5 @@
 
 ### Videos
 
+* [How To Negotiate Compensation Like A Boss](https://www.youtube.com/watch?v=ciMZ7tylBXs) - A Life Engineered
 * [Salary Negotiation Workshop](https://www.youtube.com/watch?v=sN19aNmjBoU) - Josh Doody
