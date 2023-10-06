@@ -40,6 +40,7 @@
 * [Best books read in 2022?](https://news.ycombinator.com/item?id=33849267)
 * [Books you read in 2022 and recommend for 2023](https://news.ycombinator.com/item?id=34160611)
 * [Do you read books regularly? Fiction or nonfiction?](https://news.ycombinator.com/item?id=26593122)
+* [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting\_hn\_book\_recommendations\_with\_chatgpt\_api/)
 * [Favorite Nonfiction Books of 2021?](https://news.ycombinator.com/item?id=29507085)
 * [Life Changing Books?](https://news.ycombinator.com/item?id=29605394)
 * [What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
