@@ -21,6 +21,7 @@
 ### Collections
 
 * [Inouts](https://www.inouts.com/)
+* [Store.app](https://store.app/)
 * [Uneed](https://www.uneed.best/)
 
 ### Color Schemes
