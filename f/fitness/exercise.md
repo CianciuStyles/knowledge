@@ -6,9 +6,13 @@
 * The #1 Exercise to Lose Belly Fat (Easily) - Dr. Eric Berg DC
   * Walking consumes 200 to 300 calories per hour - it does not sound a lot but walking reduces cortisol and adrenaline, which significantly improves insulin resistance
   * The first 30 minutes will be burning glycogen (sugar stored in the body), after that you will be burning pure fat
-  * So the ideal would be to walk between 1 and 2 hours daily, or 800 to 1000 steps
+  * So the ideal would be to walk between 1 and 2 hours daily, or 8000 to 10000 steps
 
 ## Resources
+
+### Apps
+
+* [Strava](https://play.google.com/store/apps/details?id=com.strava) - Track walking / running with GPS
 
 ### Articles
 
@@ -48,6 +52,7 @@
 * [Physiqonomics](https://physiqonomics.com/)
 * [Stretch 15](https://stretch15.com/) - A free 15 min daily stretch routine to help you avoid aches and pains
 * [StrongLifts](https://stronglifts.com/)
+* [Wandrer](https://wandrer.earth/) - Gamification to encourage walking
 * [Workout.lol ](https://workout.lol/)- The easiest way to create a workout routine
 
 ### YouTube Channels
