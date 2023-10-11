@@ -14,6 +14,7 @@
 ### Books
 
 * [Effective Shell](https://effective-shell.com/)
+* [The Impostor's Guide To The Shell](https://helpthisbook.com/richie/impostors-guide-to-the-shell) - Ritchie Thomas
 
 ### GitHub repositories
 
