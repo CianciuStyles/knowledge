@@ -14,6 +14,17 @@
 * [Tildes](https://tildes.net/)
 * [Why You Should Quit The News](https://markmanson.net/why-you-should-quit-the-news) - Mark Manson
 
+### Browserling
+
+* [DevURLs](https://devurls.com/)
+* [FinURLs](https://finurls.com/)
+* [HwURLs](https://hwurls.com/)
+* [MathURLs](https://mathurls.com/)
+* [PhysURLs](https://physurls.com/)
+* [SciURLs](https://sciurls.com/)
+* [TechURLs](https://techurls.com/)
+* [TuxURLs](https://tuxurls.com/)
+
 ### Fediverse
 
 * [Beehaw](https://beehaw.org/)
