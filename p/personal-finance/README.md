@@ -112,6 +112,7 @@
 * [Damien Talks Money](https://www.youtube.com/@DamienTalksMoney/videos)
 * [Huw Davies](https://www.youtube.com/@Huwsview/videos)
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
+  * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
 * [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
 * [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
