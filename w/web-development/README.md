@@ -65,6 +65,10 @@
 
 ### Tools
 
+#### Deployments
+
+* [Kamal](https://kamal-deploy.org/) - deploy web apps to different cloud computing services
+
 #### End-to-End Testing
 
 * [Cypress](https://www.cypress.io/)
