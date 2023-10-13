@@ -37,6 +37,7 @@
 * [What might I regret in old age not proactively starting when I was younger?](https://www.reddit.com/r/LifeProTips/comments/14r8gxw/lpt\_what\_might\_i\_regret\_in\_old\_age\_not/)
 * [What online course actually improved your well-being?](https://www.reddit.com/r/productivity/comments/z8qrr3/what\_online\_course\_actually\_improved\_your/)
 * [What small purchase have you made that has had a significant impact on your life?](https://www.reddit.com/r/LifeProTips/comments/124qbv1/lpt\_request\_what\_small\_purchase\_have\_you\_made/)
+* [What uncommon items do you recommend having to improve lifestyle?](https://www.reddit.com/r/LifeProTips/comments/16s6skk/lpt\_request\_what\_uncommon\_items\_do\_you\_recommend/)
 
 ### Websites
 
