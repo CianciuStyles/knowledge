@@ -210,7 +210,7 @@
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
-* [Sleep](s/sleep.md)
+* [Sleep](s/sleep-1.md)
 * [Social Skills](s/social-skills.md)
 * [Spring (framework)](s/spring-framework.md)
 * [Stoicism](s/stoicism.md)
