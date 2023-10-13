@@ -31,6 +31,7 @@
 * [What is your favorite animated movie of all time?](https://www.reddit.com/r/AskReddit/comments/43ce8j/what\_is\_your\_favorite\_animated\_movie\_of\_all\_time/)
 * [What movie, in your opinion, is a total masterpiece?](https://www.reddit.com/r/AskReddit/comments/6lxf7n/what\_movie\_in\_your\_opinion\_is\_a\_total\_masterpiece/)
 * [What movie currently on Netflix is a hidden gem?](https://www.reddit.com/r/AskReddit/comments/4kl1y7/what\_movie\_currently\_on\_netflix\_is\_a\_hidden\_gem/)
+* [What movie did you have zero expectations going in that you loved?](https://www.reddit.com/r/AskReddit/comments/16ojyz4/what\_movie\_did\_you\_have\_zero\_expectations\_going/)
 * [What movie do you consider a guilty pleasure?](https://www.reddit.com/r/AskReddit/comments/4o21aj/what\_movie\_do\_you\_consider\_a\_guilty\_pleasure/)
 * [What movie from 2000-present would you consider a modern classic?](https://www.reddit.com/r/AskReddit/comments/8mf39r/what\_movie\_from\_2000present\_would\_you\_consider\_a/)
 * [What movie from the past 10 years is a must-see?](https://www.reddit.com/r/AskReddit/comments/70emha/what\_movie\_from\_the\_past\_10\_years\_is\_a\_mustsee/)
