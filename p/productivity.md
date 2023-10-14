@@ -4,6 +4,8 @@
 
 
 
+<figure><img src="https://media.licdn.com/dms/image/D5622AQGd6NDmq7gQug/feedshare-shrink_800/0/1696617125238?e=1700092800&#x26;v=beta&#x26;t=u7i9jkuX36ZXckqgOASa2i2akoO1sHhmc-72rD-eFuM" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://joanneguidoccio.files.wordpress.com/2019/09/gothstevencoveyinfographic.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Notes
