@@ -2,7 +2,9 @@
 
 ### Software
 
+* [Cardinal](https://cardinal.kx.studio/)
 * [REAPER](https://www.reaper.fm/)
+* [VCV Rack](https://vcvrack.com/)
 
 ### Websites
 
