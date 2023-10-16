@@ -33,6 +33,8 @@
   * [Super Mario World - Overworld Theme](https://www.youtube.com/watch?v=WcmIVho8DNk)
   * [Tetris - Theme 'A'](https://www.youtube.com/watch?v=LkE\_6T2sqgY)
   * [Undertale - Bonetrousle](https://www.youtube.com/watch?v=EU7DXsL3NvQ)
+* [Smooth McGroove](https://www.youtube.com/@SmoothMcGroove/videos)
+  * [Super Mario 64 - Main Theme (Bob-Omb Battlefield)](https://www.youtube.com/watch?v=KvlCsxSRBYU)
 
 ### Databases
 
