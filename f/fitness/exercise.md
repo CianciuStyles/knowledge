@@ -63,6 +63,8 @@
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC)
   * [The #1 Exercise to Lose Belly Fat (Easily)](https://youtube.com/watch?v=iaUspumK5ZU)
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
+* [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
+  * [The mindset that makes "getting fit" MUCH easier](https://www.youtube.com/watch?v=VVyEjBHiZOo)
 * [Jeff Nippard](https://www.youtube.com/@JeffNippard/videos)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
 * [Joe Delaney](https://www.youtube.com/@JoeDelaneyy/videos)
