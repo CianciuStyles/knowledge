@@ -19,6 +19,7 @@
 * [Topcoder](https://www.topcoder.com/)
 * [Toptal](https://www.toptal.com/)
 * [Upwork](https://www.upwork.com/)
+* [Freel](https://freel.ca/) (Canadian Freelancers Marketplaceà
 
 ### Websites
 
