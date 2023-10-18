@@ -19,6 +19,7 @@
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [How Wine works 101](https://werat.dev/blog/how-wine-works-101) - Andy Hippo
 * [I'm an Impostor](https://davidwalsh.name/impostor-syndrome) - David Walsh
+* [It's probably time to stop recommending Clean Code](https://qntm.org/clean) - qntm
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
