@@ -11,6 +11,7 @@
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) - Carlos Bueno
 * [Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) - Steve Yegge
 * [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview) - Coach Erika
+* [How to pass the interview for software engineering roles in Big Tech](https://www.lambrospetrou.com/articles/big-tech-software-interviews/) - Lambros Petrou
 * [How we hire](https://careers.google.com/how-we-hire/) - Google Careers
 * [Insights and My Experience From My Interview at Facebook](https://betterprogramming.pub/facebook-interview-experience-and-insights-51e383f3c70d) - Kriti Joshi
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
