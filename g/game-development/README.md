@@ -62,6 +62,7 @@
 * [Pikuma](https://pikuma.com/) - Gustavo Pezzi
 * [RasterTek](https://www.rastertek.com/tutindex.html)
 * [Red Blob Games](https://www.redblobgames.com/)
+* [ZQuest Classic](https://zquestclassic.com/)
 
 ### YouTube Channels
 
