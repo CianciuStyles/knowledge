@@ -61,3 +61,7 @@
 * [AST Explorer](https://astexplorer.net/)
 * [Compiler Explorer](https://godbolt.org/)
 * [Decompiler Explorer](https://dogbolt.org/)
+
+### YouTube Videos
+
+* [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX\_Rs) - Computerphile
