@@ -137,6 +137,7 @@
 * [Dillinger](https://dillinger.io/) - Online Markdown editor
 * [HexEd.it](https://hexed.it/) -  Online hex editor
 * [OpenCommit](https://github.com/di-sukharev/opencommit) - Auto-generate commit messages
+* [UUIDv7 Generator](https://uuidv7.app/)
 
 ### Screen Sharing
 
