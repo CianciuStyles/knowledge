@@ -6,6 +6,7 @@
 * [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current\_events)
 * [Dan Wang](https://danwang.co/)
 * [Emergency and Disaster Information Services](https://rsoe-edis.org/)
+* [Magazedia ](https://en.magazedia.wiki/)- Magazine Encyclopedia
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [News Minimalist](https://www.newsminimalist.com/)
 * [Positive News](https://www.positive.news/)
