@@ -50,6 +50,7 @@
   * [Super Mario Bros. 3 - Overworld 1](https://www.youtube.com/watch?v=xPncniRuoPs)
   * [Super Mario Land - Birabuto Kingdom](https://www.youtube.com/watch?v=UzoZxu37988)
   * [Super Mario Land - Muda Kingdom](https://www.youtube.com/watch?v=fz\_wYIHA8Qg)
+  * [Tetris - Theme 'A'](https://www.youtube.com/watch?v=PV06M-Gqxgg)
   * [Tetris - Theme 'B'](https://www.youtube.com/watch?v=uFj60cLeGJI)
   * [UNDERTALE - Hopes and Dreams](https://www.youtube.com/watch?v=mTzzet5RQG4)
 
