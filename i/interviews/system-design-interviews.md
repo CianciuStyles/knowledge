@@ -39,6 +39,7 @@
 
 ### GitHub Repositories
 
+* [Byte-sized System Design Concepts](https://github.com/ByteByteGoHq/system-design-101) - ByteByteGo
 * [FAANG System Design](https://github.com/neerazz/faang-system-design)
 * [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
