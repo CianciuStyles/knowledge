@@ -28,6 +28,7 @@
 * [QR codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi) - Dan Hollick
 * [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
+* [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) - Nikita Prokopov
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
 * [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do) - Andy Hippo
