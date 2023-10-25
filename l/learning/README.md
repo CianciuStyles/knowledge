@@ -86,6 +86,7 @@
 * [Limnology](https://limnology.co/) - Top 70,000 Educational YouTube channels organized by category
 * [Lynda](https://www.lynda.com/)
 * [MasterClass](https://www.masterclass.com/)
+* [Mind Luster](https://www.mindluster.com/)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [OpenCourser](https://opencourser.com/)
 * [OpenLearn](https://www.open.edu/openlearn/)
