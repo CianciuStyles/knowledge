@@ -136,6 +136,10 @@
 * [Unreal Tournament](https://www.youtube.com/watch?v=qR9kvbXt4tk\&list=PLED07D7ADEF957788)
 * [Xenoblade Chronicles](https://www.youtube.com/playlist?list=PLWXWbr9ex3iVqtmHSJ0OIeEnD2hOZnp2Q)
 
+### Tools
+
+* [jPSXdec](https://github.com/m35/jpsxdec) - PlayStation 1 audio and video converter
+
 ### Websites
 
 * [Video Game Music Preservation Foundation Wiki](https://vgmpf.com/Wiki/index.php?title=Main\_Page)
