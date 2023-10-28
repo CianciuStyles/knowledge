@@ -34,3 +34,4 @@
 * [Command Line Interface Guidelines](https://clig.dev/)
 * [Crontool](https://tool.crontap.com/cronjob-debugger) - crontab expressions editor online
 * [Explain Shell](https://explainshell.com)
+* [The Unix Game](https://unixgame.io/unix50)
