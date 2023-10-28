@@ -42,6 +42,7 @@
 
 ### Websites
 
+* [Almanack of Naval Ravikant](https://www.navalmanack.com/) - Eric Jorgenson
 * [Online Clean Sweep Assessment](https://www.thebigbiggoalsclub.com/assessments/cleansweep.php)
   * [Alternative](https://www.thebigbiggoalsclub.com/assessments/cleansweep.html)
 * [The Art of Manliness](https://www.artofmanliness.com/)
