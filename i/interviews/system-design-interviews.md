@@ -75,3 +75,7 @@
 * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
 * [System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA) - ByteByteGo
 * [System Design Interview](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8) - ByteByteGo
+
+### YouTube videos
+
+* [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco) - Sahn Lam, ByteByteGo
