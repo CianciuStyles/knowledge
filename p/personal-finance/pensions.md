@@ -15,3 +15,7 @@
 ### YouTube Channels
 
 * [PensionCraft](https://www.youtube.com/@Pensioncraft/videos)
+
+### YouTube Videos
+
+* [Why the 5 Years Before Retirement Are So Important (You’re closer than you think!)](https://www.youtube.com/watch?v=ECOCa6FS8C8) - James Shack
