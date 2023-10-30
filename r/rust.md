@@ -11,6 +11,7 @@
 * [Rust for professionals](https://overexact.com/rust-for-professionals/) - overexact.com
 * [Writing a JVM in Rust ](https://andreabergia.com/series/writing-a-jvm-in-rust/)- Andrea Bergia
   * [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
+  * [A JVM in Rust part 2 - The class files format](https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-2-the-class-files-format/)
 * [Writing an OS in Rust](https://os.phil-opp.com/) - Philipp Oppermann
 
 ### Books
