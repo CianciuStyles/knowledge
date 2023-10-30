@@ -13,6 +13,7 @@
   * [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
   * [A JVM in Rust part 2 - The class files format](https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-2-the-class-files-format/)
   * [A JVM in Rust part 3 - Parsing class files](https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-3-parsing-class-files/)
+  * [A JVM in Rust part 4 - The Java bytecode](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-4-the-java-bytecode/)
 * [Writing an OS in Rust](https://os.phil-opp.com/) - Philipp Oppermann
 
 ### Books
