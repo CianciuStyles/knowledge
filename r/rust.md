@@ -16,6 +16,7 @@
   * [A JVM in Rust part 4 - The Java bytecode](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-4-the-java-bytecode/)
   * [A JVM in Rust part 5 - Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
   * [A JVM in Rust part 6 - Methods and exceptions](https://andreabergia.com/blog/2023/09/a-jvm-in-rust-part-6-methods-and-exceptions/)
+  * [A JVM in Rust part 7 - Objects and GC](https://andreabergia.com/blog/2023/10/a-jvm-in-rust-part-7-objects-and-gc/)
 * [Writing an OS in Rust](https://os.phil-opp.com/) - Philipp Oppermann
 
 ### Books
