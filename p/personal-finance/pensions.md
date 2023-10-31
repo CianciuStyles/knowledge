@@ -14,8 +14,7 @@
 
 ### YouTube Channels
 
+* [James Shack](https://www.youtube.com/@JamesShack)
+  * [The 2023 Pension Crash Explained (Why and what you need to do)](https://www.youtube.com/watch?v=7ITch9bW3cA)
+  * [Why the 5 Years Before Retirement Are So Important (You’re closer than you think!)](https://www.youtube.com/watch?v=ECOCa6FS8C8)
 * [PensionCraft](https://www.youtube.com/@Pensioncraft/videos)
-
-### YouTube Videos
-
-* [Why the 5 Years Before Retirement Are So Important (You’re closer than you think!)](https://www.youtube.com/watch?v=ECOCa6FS8C8) - James Shack
