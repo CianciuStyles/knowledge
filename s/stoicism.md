@@ -23,6 +23,11 @@
 
 * [How to Be a Stoic](https://howtobeastoic.wordpress.com/) - Massimo Pigliucci
 
+### Books
+
+* [Meditations](https://en.wikipedia.org/wiki/Meditations) - Marcus Aurelius
+  * [Online version](https://meditations.mx/)
+
 ### Images
 
 <figure><img src="https://i.redd.it/85gfz3cbjhjb1.png" alt=""><figcaption></figcaption></figure>
