@@ -32,6 +32,7 @@
 * [How To Solve It ](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)- George Polya
   * [Summary by Peter Alfeld](https://www.math.utah.edu/\~alfeld/math/polya.html)
 * [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
+* [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
 
 ### Courses
 
