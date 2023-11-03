@@ -59,6 +59,7 @@
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
 * [LeetCode](https://leetcode.com/)
+  * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
   * [LeetCode Explore](https://leetcode.com/)
 * [NeetCode](https://neetcode.io/)
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
