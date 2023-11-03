@@ -19,6 +19,7 @@
 * [Cockney Rhyming Slang](https://cockneyrhymingslang.co.uk/)
 * [Pronunciation Guide - Oxford's Learner Dictionaries](https://www.oxfordlearnersdictionaries.com/about/pronunciation\_english)
 * [Rachel's English](https://rachelsenglish.com/)
+* [YouGlish](https://youglish.com/) - Improve your English pronunciation using YouTube
 
 ### YouTube Channels
 
