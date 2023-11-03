@@ -72,8 +72,10 @@
 
 ### Online Stores
 
+* [Axel Books](https://www.axelbooks.com/)
 * [Blackwell's](https://blackwells.co.uk/bookshop/home)
 * [Books etc.](https://www.booksetc.co.uk/)
+* [Books4People](https://www.books4people.co.uk/)
 * [Bookshop](https://uk.bookshop.org/)
 * [Foyles](https://www.foyles.co.uk/)
 * [Hive.co.uk](https://www.hive.co.uk/)
