@@ -32,6 +32,10 @@
 * [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138/)
 * [Tale of Two Wastelands](https://taleoftwowastelands.com/index.php)
 
+### Grand Theft Auto III
+
+* [OpenRW ](https://openrw.org/)- A Grand Theft Auto III re-implementation ([GitHub](https://github.com/rwengine/openrw))
+
 ### Half-Life 2
 
 * [NeoTokyo](https://neotokyohq.com/)
