@@ -67,6 +67,10 @@
 * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0) - What I've Learned
 * [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8) - What I've Learned
 
+### Webinars
+
+* [Understanding & Addressing Emotional Eating](https://www.crowdcast.io/c/bmgccwlpz37p) - Nerd Fitness
+
 ### Websites
 
 * [Budget Bytes](https://www.budgetbytes.com/)
