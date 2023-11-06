@@ -22,6 +22,14 @@
    * Consuming more fat at the beginning of a fasting program helps to fast for longer periods of time
 7. Nutrient dense keto foods
 
+### How to ACTUALLY Lose Belly Fat (Based On Science) - Jeremy Ethier
+
+* The key to losing belly fat is getting into a caloric deficit consistently and doing it for long enough
+* You should be eating the 20 foods you like the most, because that would help you stick with the diet, but those 20 foods need to be drawn from the main six groups (high protein, fats, vegetable, starch, milk, fruits) - usually 3 from each group, with two wild cards
+* Protein has the highest energetic cost of processing within the body
+* Non-Exercise Activity Thermogenesis (NEAT) is the second largest contributor to daily energy expenditure
+* Sleep is also important when it comes to losing weight - studies have shown that people that sleep at least 7 hours per night lose more belly fat and less muscle than people sleeping 5 hours per night
+
 ## Resources
 
 ### Articles
@@ -50,6 +58,9 @@
 * [The Fitness Wiki](https://thefitness.wiki/)
 * [The Leangains Guide](https://leangains.com/the-leangains-guide/)
 
-### YouTube Videos
+### YouTube Channels
 
-* [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o) - Dr. Eric Berg DC
+* [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC/videos)
+  * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
+* [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
+  * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)
