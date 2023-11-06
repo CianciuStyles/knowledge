@@ -161,3 +161,7 @@
 * [StackShare](https://stackshare.io/)
 * [StaffEng](https://staffeng.com/)
 * [What does this code do?](https://whatdoesthiscodedo.com/)
+
+### YouTube Channels
+
+* [TIna Huang](https://www.youtube.com/@TinaHuang1/videos)
