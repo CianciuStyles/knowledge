@@ -58,6 +58,7 @@
 * [Codility](https://app.codility.com/programmers/lessons)
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
+* [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) ([GitHub](https://github.com/yangshun/front-end-interview-handbook))
 * [LeetCode](https://leetcode.com/)
   * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
   * [LeetCode Explore](https://leetcode.com/)
@@ -65,3 +66,4 @@
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
 * [pgrammer](https://www.pgrammer.com/)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
+* [The Daily Byte](https://thedailybyte.dev/)
