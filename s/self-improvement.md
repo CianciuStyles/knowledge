@@ -17,6 +17,10 @@
   * [Book summary by One Percent Better](https://www.youtube.com/watch?v=Z4OFjFq-Xis)
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/the-subtle-art-of-not-giving-a-fuck/)
 
+### Podcasts
+
+* [Jocko Podcast](https://www.youtube.com/@JockoPodcastOfficial/videos)
+
 ### Websites
 
 * [Self Improvement Book Summaries](https://docs.google.com/document/d/12WYdDDt72jZCCgZvG\_EcoS5ZieG\_gF8\_ULVOYskZtjg/edit) - Aaron Brown
