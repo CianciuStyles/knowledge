@@ -24,4 +24,8 @@
 
 ### YouTube Channels
 
+* [Better Ideas](https://www.youtube.com/@betterideas/videos)
+* [Better Than Yesterday](https://www.youtube.com/@BetterThanYesterday/videos)
+* [Matt D'Avella](https://www.youtube.com/@mattdavella/videos)
 * [One Percent Better](https://www.youtube.com/c/OnePercentBetter/videos)
+* [struthless](https://www.youtube.com/@struthless/videos)
