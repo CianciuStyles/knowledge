@@ -126,3 +126,10 @@
 ### Reddit Threads
 
 * [How can I reward myself without spending money?](https://www.reddit.com/r/productivity/comments/yts7cw/how\_can\_i\_reward\_myself\_without\_spending\_money/)
+
+### YouTube Channels
+
+* [Ali Abdaal](https://www.youtube.com/@aliabdaal/videos)
+* [Productivity Game](https://www.youtube.com/@ProductivityGame/videos)
+* [Shu Omi](https://www.youtube.com/@ShuOmi\_Official/videos)
+* [Simpletivity](https://www.youtube.com/@Simpletivity/videos)
