@@ -88,6 +88,7 @@
   * [Sega Saturn Games are running on the Nintendo Switch...](https://www.youtube.com/watch?v=YiKBw2RGcow)
   * [The Current State of Original Xbox Emulation on the PC](https://www.youtube.com/watch?v=aiWH4TcFCAY)
   * [The Current State of PlayStation 4 Emulation on the PC](https://www.youtube.com/watch?v=012PptHgl3s)
+  * [The Original Xbox is still awesome - Softmod, BIOS Flash, Compact Flash HDD, Games, Emulators](https://www.youtube.com/watch?v=otysqrBT7ko)
   * [The Original XBOX is still AWESOME in 2021](https://www.youtube.com/watch?v=lFpdJFr3vi0)
   * [The Nintendo GameCube is still awesome - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=up6Rm1Sw1ps)
   * [The Nintendo WiiU is awesome in 2018 - Homebrew, Hacks and More](https://www.youtube.com/watch?v=YyB9E2zEFBA)
