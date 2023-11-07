@@ -16,6 +16,7 @@
   * [Mid-level (L4) to Senior (L5)](https://www.developing.dev/p/faang-career-ladder-mid-level-l4)
   * [Senior (L5) vs Staff (L6)](https://www.developing.dev/p/faang-career-ladder-senior-l5-vs)
   * [Staff (L6) vs Senior Staff (L7)](https://www.developing.dev/p/faang-career-ladder-staff-l6-vs-senior)
+* [Going from Developer to CEO: Chronosphere](https://blog.pragmaticengineer.com/chronosphere/) - Gergely Orosz, The Pragmatic Engineer
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
 * Speedrunning Guide - Ryan Peterman
