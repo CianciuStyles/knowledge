@@ -9,15 +9,14 @@
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
 * [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
-* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
-* [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * FAANG Career Ladder - Ryan Peterman
   * [Junior (L3) to Mid-level (L4)](https://www.developing.dev/p/faang-career-ladder-junior-l3-vs)
   * [Mid-level (L4) to Senior (L5)](https://www.developing.dev/p/faang-career-ladder-mid-level-l4)
   * [Senior (L5) vs Staff (L6)](https://www.developing.dev/p/faang-career-ladder-senior-l5-vs)
   * [Staff (L6) vs Senior Staff (L7)](https://www.developing.dev/p/faang-career-ladder-staff-l6-vs-senior)
-* [Going from Developer to CEO: Chronosphere](https://blog.pragmaticengineer.com/chronosphere/) - Gergely Orosz, The Pragmatic Engineer
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
+* [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
 * Speedrunning Guide - Ryan Peterman
   * [Junior (L3) -> Mid-level (L4)](https://www.developing.dev/p/speedrunning-guide-l3-l4)

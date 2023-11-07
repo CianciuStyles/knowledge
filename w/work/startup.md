@@ -3,6 +3,7 @@
 ### Articles
 
 * [10 lessons from successful one-person startups](https://engineercodex.substack.com/p/10-lessons-from-software-side-ventures) - Leonardo Creed, Engineer's Codex
+* [Going from Developer to CEO: Chronosphere](https://blog.pragmaticengineer.com/chronosphere/) - Gergely Orosz, The Pragmatic Engineer
 * [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) - Tony Dinh
 * The Company Man’s Guide to Starting a Side Hustle - Tyler Tervooren, The Art of Manliness
   * [Part I: Confronting Your Objections](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-i-confronting-your-objections/)
