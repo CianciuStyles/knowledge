@@ -115,6 +115,27 @@
 * Maximise you base salary rather than stocks and equities
 * [Glassdoor](https://www.glassdoor.co.uk/index.htm) / [Salary.com](https://www.salary.com/) to gain information about the company and salary
 
+### Successful Negotiation: Essential Strategies and Skills - George Siedel
+
+#### Week 3
+
+* Your BATNA (Best Alternative to a Negotiated Agreement) is your source of power during a negotiation. Your BATNA gives you leverage to walk away if the other side doesn't give you a better deal than your best alternative
+* In some cultures, spending some time to getting to know the other side before even starting the negotiation can yield a much better outcome than diving straight into the deal
+* The main sources of power in a negotiation are **information** (learned by asking many questions and listening carefully to the answers) and **the other side's BATNA** (which you should try to find out early on in the negotiation)
+* You should disclose your BATNA only if it is strong (as it signals to the other side that you have more power in the negotiation) and try to hide it if it is weak
+* As soon as you find out the other's side BATNA, you should try to weaken it to diminish their negotiating power
+* **Mythical Fixed Pie Assumption:** our interests are in direct conflict with the interests of the other side - not always true!
+* Reactive devaluation: immediately dismissing or not considering the other side's proposal, even if it could be a good deal if listened to carefully
+* Anchoring: when estimating an object of unknown value, we tend to "anchor" on an initial value
+* Conventional wisdom says the other side should be the first one to throw out a number, but anchoring says it would be better for you to throw out a number and get the other side close to that
+* **Overconfidence:** we are overconfident that our judgements are correct
+* **Framing:** the way the options are framed cause us to be risk averse (if positive frame) or risk seeking (if negative frame)
+* **Availability:** we are influenced by information that is most easily available
+* **Escalation:** the most successful negotiators are able to look at negotiations from the perspective of the other side
+* **Reciprocation:** we feel the need to repay what someone has given us
+* **Contrast principle:** things look different in sequence than when taken in isolation
+* **Big-Picture Perspective:** do not get lost in details
+
 ## Resources
 
 ### Articles
