@@ -125,8 +125,8 @@
 * You should disclose your BATNA only if it is strong (as it signals to the other side that you have more power in the negotiation) and try to hide it if it is weak
 * As soon as you find out the other's side BATNA, you should try to weaken it to diminish their negotiating power
 * **Mythical Fixed Pie Assumption:** our interests are in direct conflict with the interests of the other side - not always true!
-* Reactive devaluation: immediately dismissing or not considering the other side's proposal, even if it could be a good deal if listened to carefully
-* Anchoring: when estimating an object of unknown value, we tend to "anchor" on an initial value
+* **Reactive devaluation:** immediately dismissing or not considering the other side's proposal, even if it could be a good deal if listened to carefully
+* **Anchoring:** when estimating an object of unknown value, we tend to "anchor" on an initial value
 * Conventional wisdom says the other side should be the first one to throw out a number, but anchoring says it would be better for you to throw out a number and get the other side close to that
 * **Overconfidence:** we are overconfident that our judgements are correct
 * **Framing:** the way the options are framed cause us to be risk averse (if positive frame) or risk seeking (if negative frame)
@@ -135,6 +135,19 @@
 * **Reciprocation:** we feel the need to repay what someone has given us
 * **Contrast principle:** things look different in sequence than when taken in isolation
 * **Big-Picture Perspective:** do not get lost in details
+
+Week 4
+
+* A contract is an agreement enforceable by law
+* One main variable in contracts is whether we are dealing with **common law,** which looks at precedent cases, or **civil law**, which is based on deduction starting from a code of laws
+* Another main variable is what type of contract we have: contracts for real property and services are again divided into common law and civil law, while contracts for "goods" are usually within a uniform law framework
+* The first question to ask when forming a contract is: **do we have an agreement?**
+* If a party makes an offer, and you reply with acceptance but with additional terms, this is not acceptance, and the original offer is gone
+* The second question to ask when forming a contract is: **is there consideration?**
+* Consideration means that, for a deal to be binding, both parties have to give up something
+* The third question to ask when forming a contract is: **is the agreement legal?**
+* The fourth question to ask when forming a contract is: **must the agreement be written?**
+* **Parol Evidence Rule:** once you reduce your agreement into writing, then the agreement is limited by the four corners of that writing - a court will not try to unravel what has been discussed or decided during the negotiation
 
 ## Resources
 
