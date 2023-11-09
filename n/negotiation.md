@@ -136,7 +136,7 @@
 * **Contrast principle:** things look different in sequence than when taken in isolation
 * **Big-Picture Perspective:** do not get lost in details
 
-Week 4
+#### Week 4
 
 * A contract is an agreement enforceable by law
 * One main variable in contracts is whether we are dealing with **common law,** which looks at precedent cases, or **civil law**, which is based on deduction starting from a code of laws
@@ -148,6 +148,18 @@ Week 4
 * The third question to ask when forming a contract is: **is the agreement legal?**
 * The fourth question to ask when forming a contract is: **must the agreement be written?**
 * **Parol Evidence Rule:** once you reduce your agreement into writing, then the agreement is limited by the four corners of that writing - a court will not try to unravel what has been discussed or decided during the negotiation
+
+Week 5
+
+* ADR is alternative dispute resolution
+* Dispute prevention is about understanding what people would do in case of a dispute, and not what a court would do
+* Even if you win a lawsuit, that could have unexpected consequences in terms of business relationships
+* The corporate pledge is a policy that a company can choose to use such that, if there is a business dispute with another company which has made a similar pledge, both parties will try to explore negotiation or ADR techniques before resorting to full-scale litigation
+* A screen is a series of questions for business people (non-lawyer) such that, depending on the answers given, it will advise you whether to go for a binding or non-binding ADR process
+* Usually an arbitration outcome is final, and cannot be appealed even in case of an evident injustice
+* Litigation and arbitration have similar costs, and sometimes arbitration can be more expensive because of arbitrator's fees and courtroom fees, which you get for free with public litigation
+* There are three main types of mediation: transformative, evaluative and facilitative - facilitative means trying to facilitate the conversation between two parties, evaluative means that the mediator is going to provide some expertise, and trasformative seeks to change the relationship between the two parties, especially when one has less power than the other
+* The main difference between a negotiation and a mediation is that the mediator meets individually with each of the parties and request information, effectively creating a Zone of Possible Agreement (if it's possible to create one)
 
 ## Resources
 
