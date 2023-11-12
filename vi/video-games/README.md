@@ -96,6 +96,13 @@
 ### Lists
 
 * [/v/'s Recommended Games Wiki](https://vsrecommendedgames.fandom.com)
+  * [Arcade games](https://vsrecommendedgames.fandom.com/wiki/Arcade\_games)
+  * [Definitive Versions](https://vsrecommendedgames.fandom.com/wiki/Definitive\_Versions)
+  * [Freeware Games](https://vsrecommendedgames.fandom.com/wiki/Freeware\_Games)
+  * [Japanese Role Playing Games](https://vsrecommendedgames.fandom.com/wiki/Japanese\_Role\_Playing\_Games)
+  * [Low end computer games](https://vsrecommendedgames.fandom.com/wiki/Low\_end\_computer\_games)
+  * [Puzzle Games](https://vsrecommendedgames.fandom.com/wiki/Puzzle\_Games)
+  * [Recommended Controllers](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Controllers)
 * r/PatientGamers Essential Games Lists ([2017](https://www.reddit.com/r/patientgamers/comments/6onkey/rpatientgamers\_essential\_games\_list\_2017/))
   * [3DS](https://www.reddit.com/r/patientgamers/comments/6fgh8o/rpatientgamers\_essential\_games\_list\_nintendo\_3ds/)
   * [PC](https://www.reddit.com/r/patientgamers/comments/6mefap/rpatientgamers\_essential\_games\_list\_pc/)
