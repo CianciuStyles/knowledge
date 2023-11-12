@@ -65,5 +65,6 @@
 * [BoardGameArena](https://boardgamearena.com/)
 * [BoardGameGeek](https://boardgamegeek.com/)
 * [netgames.io](https://netgames.io/games/) - Social games for your phone
+* [Scorecard.gg](https://scorecard.gg/) - free scorecards for you fave board games
 * [Tabletopia](https://tabletopia.com/)
 
