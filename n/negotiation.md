@@ -117,6 +117,29 @@
 
 ### Successful Negotiation: Essential Strategies and Skills - George Siedel
 
+#### Week 2
+
+* The first question you should be asking yourself is: **should I even start a negotiation?** Sometimes the opportunity cost for a proper negotiation is higher than the value being negotiated in the first place
+* The second question you should be asking yourself is: **is this a position-based or interest-based negotiation?** Position-based is when the two agents take opposite stances (e.g., high price vs low price) and they fight for something in the middle; interest-based is when the two agents seek why the other party wants to make a deal such that they can try to have a win-win situation
+* The third question you should be asking yourself is: **is this a dispute resolution or deal-making kind of negotiation?**
+* There are six main processes for resolving disputes:
+  * avoidance: give the other party what they want without negotiation
+  * negotiation: try to strike a deal with the other party
+  * mediation: a negotiation assisted by a third party
+  * arbitration: bring in a third party, which has the right to decide the dispute
+  * litigation: a public form of arbitration, with judges and courtrooms supplied by the State
+  * power: one party uses their party on the other to win the dispute
+* Arbitration, mediation and negotiation fall under the umbrella term of **Alternative Dispute Resolution (ADR)**
+* Litigation, arbitration and mediation are all examples of third party processes
+* Litigation and arbitration are rights-oriented, while mediation and negotiation are interests-oriented
+* While analysing a negotiation, there are a few importang things to keep in mind:
+  * what is your **Best Alternative To a Negotiated Agreement (BATNA)**?
+  * what is your **reservation price** (the lowest/highest prices that you will accept)?
+  * what is your **stretch goal**?
+* The **Zone of Potential Agreement (ZOPA)** is contained between the two reservation prices
+* A **decision tree** is a very useful tool to do the BATNA analysis - whenever you a decision you split the current branch of the tree in two halves, each with a corresponding probability, and after adding numbers you calculate the weighted average going back to the root of the tree
+* An agent can have three possible types of authority: **express** when the principal says to the agent "you have authority to negotiate this deal"; **implied** when the principal hires the agent for a particular position in the company; and **apparent** when the principal does something to indicate to you that the agent has authority when in fact there is no authority
+
 #### Week 3
 
 * Your BATNA (Best Alternative to a Negotiated Agreement) is your source of power during a negotiation. Your BATNA gives you leverage to walk away if the other side doesn't give you a better deal than your best alternative
