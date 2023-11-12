@@ -55,6 +55,7 @@
 * [GameDev.net](https://www.gamedev.net/)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
 * [GB Studio](https://www.gbstudio.dev/)
+* [Jason Thor Hall](https://www.develop.games/)
 * [Lazy Foo's Productions](https://lazyfoo.net/)
 * [MakeCode Arcade](https://arcade.makecode.com/) - Microsoft
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
@@ -67,4 +68,5 @@
 ### YouTube Channels
 
 * [Freya Holmér](https://www.youtube.com/c/Acegikmo/videos)
+* [Pirate Software](https://www.youtube.com/@PirateSoftware) (Jason Thor Hall, [Twitch](https://www.twitch.tv/piratesoftware))
 * [Randall Thomas](https://www.youtube.com/c/RandallThomas/videos) - [The Sequel](https://www.youtube.com/c/RandytheSequel/videos)
