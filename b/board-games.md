@@ -37,6 +37,7 @@
 
 ### Lists
 
+* [Board Games](https://vsrecommendedgames.fandom.com/wiki/Board\_Games) - /v/'s Recommended Games Wiki
 * [Spiel des Jahres Awards](https://www.wikiwand.com/en/Spiel\_des\_Jahres)
 
 ### Reddit
