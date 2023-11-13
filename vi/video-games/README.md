@@ -148,6 +148,7 @@
   * [Augmented Steam](https://augmentedsteam.com/)
   * [List of DRM-free games](https://steam.fandom.com/wiki/List\_of\_DRM-free\_games)
   * [SteamDB](https://steamdb.info/)
+* [The Console Cove](https://theconsolecove.co.uk/)
 * [The Game Collection](https://www.thegamecollection.net/)
 * [The Emporium Retrogaming Shop](https://www.emporiumretrogamingshop.com/) - Japan
 * [Warners Retro Corner](https://warnersretrocorner.com/)
