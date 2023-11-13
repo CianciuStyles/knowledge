@@ -114,6 +114,9 @@
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
   * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
+* [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
+  * [Educati e Finanziati](https://www.youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h)
+  * [Risparmioforo: se risparmio e investo 1000 euro al mese a che capitale reale arrivo?](https://www.youtube.com/watch?v=LPb\_h-lPqUs)
 * [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
 * [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
 
