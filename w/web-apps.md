@@ -1,5 +1,7 @@
 # Web Apps
 
+<figure><img src="https://img-9gag-fun.9cache.com/photo/aZDv8Q9_700bwp.webp" alt=""><figcaption></figcaption></figure>
+
 ### Alternative Frontends
 
 * [Imginn](https://imginn.com/) - Instagram
