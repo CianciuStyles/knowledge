@@ -6,6 +6,8 @@
 
 ### Covers
 
+* [DSC](https://www.youtube.com/@DSC24)
+  * [Sonic The Hedgehog 2 - Chemical Plant Zone](https://www.youtube.com/watch?v=rfiGIv6yf60)
 * [Extra Lives](https://www.youtube.com/c/Extralivesmusic/videos)
   * [Castlevania - Vampire Killer](https://www.youtube.com/watch?v=EXtTRoiXPR4)
   * [Castlevania II: Simon's Quest - Bloody Tears](https://www.youtube.com/watch?v=bGv7e3cewQw)
