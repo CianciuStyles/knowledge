@@ -52,6 +52,7 @@
 
 * [Budget Brews](https://budgetbrews.netlify.app/)
 * [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR\_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
+* [r/London Food](https://www.google.com/maps/d/u/0/viewer?mid=1hvE-Owf4cRfPxofAtK-vMKASCWZpj-k\&ll=51.536716756666415%2C-0.1571249449310308\&z=11)
 
 ### Movies
 
@@ -139,6 +140,7 @@
 * [London's Prettiest Walks](https://www.timeout.com/london/things-to-do/londons-prettiest-walks) - TimeOut
 * [London Footprints](https://www.london-footprints.co.uk/index.htm)
 * [London Guided Walks](https://londonguidedwalks.uk/)
+* [London Tube Memory Game](https://metro-memory.com/london)
 * [London Walking Tours](https://lookup.london/walking-tours/)
 * [London Walks](https://www.walks.com/)
 * [LondonRoasts](https://londonroasts.com/)
