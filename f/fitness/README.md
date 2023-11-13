@@ -61,6 +61,9 @@
 ### YouTube Channels
 
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC/videos)
+  * [12 Extreme Belly Fat Weight Loss Tips](https://www.youtube.com/watch?v=waau5CqXguQ)
   * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
+  * [How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS](https://www.youtube.com/watch?v=SzQX-3tEDQU)
+  * [The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione](https://www.youtube.com/watch?v=sNklS0lzlgA)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
   * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)

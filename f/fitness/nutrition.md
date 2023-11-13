@@ -54,6 +54,7 @@
 * [What are the cheapest low-calorie, high-volume foods?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5gcxr5/what\_are\_the\_cheapest\_lowcalorie\_highvolume\_foods/)
 * [What are your fastest sources of getting protein?](https://www.reddit.com/r/EatCheapAndHealthy/comments/5u79i9/what\_are\_your\_fastest\_sources\_of\_getting\_protein/)
 * [What is healthy but actually tastes good?](https://www.reddit.com/r/AskReddit/comments/55tij9/what\_is\_healthy\_but\_actually\_tastes\_good/)
+* [What tastes so good you can't believe it's healthy?](https://www.reddit.com/r/AskReddit/comments/16z8bjo/what\_tastes\_so\_good\_you\_cant\_believe\_its\_healthy/)
 * [What would be a good way to go about a high fat/protein low carb (the cheap and healthy way)?](https://www.reddit.com/r/EatCheapAndHealthy/comments/8mbpl8/what\_would\_be\_a\_good\_way\_to\_go\_about\_a\_high/)
 
 ### Subreddits
