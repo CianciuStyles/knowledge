@@ -203,14 +203,14 @@
 
 ## S
 
-* [Security](s/security.md)
+* [Security](s/security/README.md)
   * [CTFs](s/security/ctfs.md)
   * [Web](s/security/web.md)
   * [Windows](s/security/windows.md)
 * [Self Improvement](s/self-improvement.md)
 * [Shaving](s/shaving.md)
 * [Sitting](s/sitting.md)
-* [Sleep](s/sleep-1.md)
+* [Sleep](s/sleep.md)
 * [Social Skills](s/social-skills.md)
 * [Spring (framework)](s/spring-framework.md)
 * [Stoicism](s/stoicism.md)

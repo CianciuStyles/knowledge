@@ -25,6 +25,7 @@ description: https://www.linux.org/
 ### Websites
 
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
+* [SadServers](https://sadservers.com/scenarios) - Troubleshooting Linux Servers
 
 ### YouTube Channels
 

@@ -185,7 +185,7 @@
 
 ## Resources
 
-![](<../../.gitbook/assets/immagine (5).png>)
+![](<../../.gitbook/assets/immagine (1).png>)
 
 ### Articles
 

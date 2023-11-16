@@ -57,7 +57,7 @@
 
 ### Infographics
 
-![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (4).png>)
+![r/UKPersonalFinance flowchart](<../../.gitbook/assets/image (2).png>)
 
 ![](https://flowchart.ukpersonal.finance/)
 

@@ -4,7 +4,7 @@
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fdbcc119-8f5d-4d27-9a4b-2c8bde82b537\_4026x8030.jpeg)
 
-![](../../.gitbook/assets/immagine.png)
+![](<../../.gitbook/assets/immagine (5).png>)
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d7ba1c-b55d-4307-baee-03f05c376f4b_3888x4096.jpeg" alt=""><figcaption></figcaption></figure>
 

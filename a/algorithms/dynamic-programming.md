@@ -31,7 +31,7 @@
       }
       ```
 
-![](<../../.gitbook/assets/immagine (1).png>)
+![](<../../.gitbook/assets/immagine (4).png>)
 
 ### How do I recognise a Dynamic Programming problem?
 
