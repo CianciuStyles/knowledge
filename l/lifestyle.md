@@ -8,6 +8,7 @@
 * [20 Things I Should Have Known at 20](https://julien.medium.com/20-things-i-should-have-known-at-20-9fd22ea8ebd7) - Julien Smith
 * [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) - Kevin Kelly
 * [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) - Kevin Kelly
+* [How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work) - Anne Helen Petersen
 * [In Defense of Being Average](https://markmanson.net/being-average) - Mark Manson
 * [The Evolution of Anxiety: Why We Worry and What to Do About It](https://jamesclear.com/evolution-of-anxiety) - James Clear
 * [To Anyone Who Thinks They’re Falling Behind](https://medium.com/@jamievaron/to-anyone-who-thinks-they-re-falling-behind-f194afde9148) - Jamie Varon
