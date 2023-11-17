@@ -129,6 +129,8 @@
 
 ### Online Stores
 
+* [Attic Discovery Shop](https://atticdiscoveryshop.co.uk/)
+  * [Disc Repair Service](https://atticdiscoveryshop.co.uk/products/disc-repair-service)
 * [Be More Geek](https://www.bemoregeek.co.uk/)
 * [Chillout Games](https://www.chilloutgames.co.uk/)
 * [ConsoleMAD](https://www.consolemad.co.uk/)
