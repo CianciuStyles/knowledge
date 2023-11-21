@@ -93,6 +93,7 @@
 ### GitHub Repositories
 
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome Resources For Learning Ethical Hacking & Pentesting](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 * [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
