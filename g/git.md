@@ -48,6 +48,7 @@ description: https://git-scm.com/
 * [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/) - Julia Evans
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
+* [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/) - Abin Simon
 
 ### Books
 
