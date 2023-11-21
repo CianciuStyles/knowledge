@@ -29,3 +29,7 @@
 ### Videos
 
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
+
+### Websites
+
+* [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
