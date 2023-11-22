@@ -184,6 +184,7 @@
 
 * [Chris Greer](https://www.youtube.com/@ChrisGreer) - Wireshark training
 * [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
+* [Cyberkraft](https://www.youtube.com/@cyberkraft539/videos)
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
 * [Infosec](https://www.youtube.com/c/InfoSecInstitute/videos)
 * [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos)
