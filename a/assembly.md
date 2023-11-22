@@ -10,6 +10,7 @@
 ### GitHub Repositories
 
 * [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm\_book)
+* [Introduction to x86-64 assembly](https://github.com/luamfb/intro\_x86-64)
 * [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 
 ### Websites
