@@ -165,10 +165,12 @@
 
 ### Websites
 
+* [316ctf](https://play.316ctf.com/) - Anderson University
 * [CTFtime.org](https://ctftime.org/)
 * [CTF Sites](https://ctfsites.github.io/)
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
+* [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
 * [KITCTF](https://kitctf.de/)
 * [picoCTF](https://picoctf.org/)
