@@ -54,6 +54,10 @@
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
 * [Machine Learning Research Papers](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers)
 
+### Websites
+
+* [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) - Microsoft ([GitHub](https://github.com/microsoft/ML-For-Beginners))
+
 ### YouTube playlists
 
 * [Machine Learning](https://www.youtube.com/playlist?list=PLLssT5z\_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
