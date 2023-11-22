@@ -113,6 +113,7 @@
 * [Damien Talks Money](https://www.youtube.com/@DamienTalksMoney/videos)
 * [Huw Davies](https://www.youtube.com/@Huwsview/videos)
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
+  * [5 Strategies to Avoid Capital Gains Tax](https://www.youtube.com/watch?v=Nwua80BJY6I)
   * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
 * [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
