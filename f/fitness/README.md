@@ -50,6 +50,10 @@
 * [r/Ketogains](https://www.reddit.com/r/ketogains/)
 * [r/Leangains](https://www.reddit.com/r/leangains/)
 
+### Webinars
+
+* [Are You Doing It Wrong?​ Misconceptions About Workout & Nutrition Consistency](https://www.crowdcast.io/c/pqznyais8ha6) - Nerd Fitness
+
 ### Websites
 
 * [Bishoi Khella](https://www.bishoikhella.com/) - Your Fitness Journey Starts Here
