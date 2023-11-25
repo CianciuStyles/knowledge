@@ -44,6 +44,10 @@
 * [harmj0y](https://blog.harmj0y.net/)
 * [SkullSecurity](https://www.skullsecurity.org/)
 
+### Books
+
+* [Security Engineering](https://www.cl.cam.ac.uk/\~rja14/book.html) - Ross Anderson
+
 ### Bug Bounty Programs
 
 * [HackerOne](https://www.hackerone.com/)
