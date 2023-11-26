@@ -133,6 +133,7 @@
   * [Disc Repair Service](https://atticdiscoveryshop.co.uk/products/disc-repair-service)
 * [Be More Geek](https://www.bemoregeek.co.uk/)
 * [Chillout Games](https://www.chilloutgames.co.uk/)
+* [Console Passion](https://consolepassion.co.uk/)
 * [ConsoleMAD](https://www.consolemad.co.uk/)
 * [Doorway To Dorkness](https://doorwaytodorkness.co.uk/)
 * [Epic Games Launcher](https://www.epicgames.com/store/it)
