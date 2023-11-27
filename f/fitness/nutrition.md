@@ -35,6 +35,7 @@
 ### Podcasts
 
 * [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz](https://www.youtube.com/watch?v=e2mQOGzHtQc) - Diary Of A CEO
+* [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](https://www.youtube.com/watch?v=Gy\_vcL1cpP8) - Diary Of A CEO
 
 ### Recipes
 
@@ -81,7 +82,7 @@
 * [KetoNutrition](https://ketonutrition.org/)
 * [No Meat Athlete](https://www.nomeatathlete.com/)
 
-### YouTube channels
+### YouTube Channels
 
 * [Diet Doctor](https://www.youtube.com/c/DietDoctorVideo/videos)
 * [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
