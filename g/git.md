@@ -38,6 +38,7 @@ description: https://git-scm.com/
 
 * [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) - Tobias Günther
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
+* [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) - Julia Evans
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
 * Git's database internals - Derrick Stolee
   * [Part I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
