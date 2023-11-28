@@ -7,6 +7,7 @@
 * [20 Life Lessons A Wise Man Would Share](https://thebeardedphilosopher.wordpress.com/2015/07/25/20-life-lessons-a-wise-man-would-share/) - The Bearded Philosopher
 * [20 Things I Should Have Known at 20](https://julien.medium.com/20-things-i-should-have-known-at-20-9fd22ea8ebd7) - Julien Smith
 * [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) - Kevin Kelly
+* [75+ Hobby Ideas For Men](https://www.artofmanliness.com/living/leisure/hobbies-for-men/) - The Art of Manliness
 * [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) - Kevin Kelly
 * [How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work) - Anne Helen Petersen
 * [In Defense of Being Average](https://markmanson.net/being-average) - Mark Manson
