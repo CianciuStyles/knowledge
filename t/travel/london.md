@@ -40,6 +40,7 @@
 * [The Castle Climbing Centre](https://www.castle-climbing.co.uk/)
 * [The Dare Skywalk](https://experience.tottenhamhotspur.com/spurs-sky-walk.htm) - Tottenham Hotspur Stadium
 * [The View from The Shard](https://www.theviewfromtheshard.com/)
+* [Uber Boat](https://www.thamesclippers.com/)
 * [Up at The O2](https://www.theo2.co.uk/m/news/detail/up-at-the-o2)
 
 ### Escape Rooms
