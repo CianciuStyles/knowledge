@@ -36,6 +36,10 @@
 * [Why The Status Quo Is So Hard To Change In Engineering Teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) - Antoine Boulanger
 * [Working at a Startup vs in Big Tech](https://blog.pragmaticengineer.com/working-at-a-startup-vs-in-big-tech/) - Gergely Orosz
 
+### GitHub Repositories
+
+* [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - Jordan Cutler
+
 ### Hacker News Threads
 
 * [Ask HN: Are you a “lifer”? If so why?](https://news.ycombinator.com/item?id=33794293)
