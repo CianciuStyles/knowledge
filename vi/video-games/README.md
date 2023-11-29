@@ -129,6 +129,7 @@
 
 ### Online Stores
 
+* [8BitMods](https://8bitmods.com/) - Retro and modern console games and accessories
 * [Attic Discovery Shop](https://atticdiscoveryshop.co.uk/)
   * [Disc Repair Service](https://atticdiscoveryshop.co.uk/products/disc-repair-service)
 * [Be More Geek](https://www.bemoregeek.co.uk/)
@@ -139,10 +140,12 @@
 * [Epic Games Launcher](https://www.epicgames.com/store/it)
   * [Heroic Games Launcher](https://heroicgameslauncher.com/)
 * [GameXchange](https://www.gamexchange.co.uk/)
+* [Genki](https://www.genkivideogames.com/) - Imported Japanese Video Games & Hardware
 * [GOG.com](https://www.gog.com/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
+* [Omega's Emporium](https://omegasemporium.com/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
 * [ShopTo](https://www.shopto.net/)
