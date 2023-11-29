@@ -22,6 +22,7 @@
 
 * [London & Country](https://www.landc.co.uk/) - Fee-Free Mortgage Broker and Advisor
 * [Mortgage Chain](https://www.mortgagechain.co.uk) - Mortgage Brokers for First Time Buyers
+* [Mortgagekey](https://mortgagekey.co.uk/) - Mortgage Broker
 
 #### Properties
 
@@ -37,4 +38,5 @@
 
 #### Surveyors
 
+* [Juno](https://client.juno.legal/quote/7jjxrb)
 * [London Property Surveyors](https://www.londonpropertysurveyors.co.uk/)
