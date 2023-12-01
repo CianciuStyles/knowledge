@@ -114,13 +114,18 @@
   * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers\_essential\_games\_list\_wii\_u/)
   * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers\_essential\_games\_list\_xbox\_360/)
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers\_essential\_games\_list\_xbox\_one/)
+* [Kotaku](https://kotaku.com/)
+  * [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847)
+  * [The 14 Best Games For The Xbox One](https://kotaku.com/the-12-best-games-for-the-xbox-one-1500422046)
+  * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643)
+  * [The Bests](https://kotaku.com/tag/the-bests)
 * [List of video games considered the best](https://en.wikipedia.org/wiki/List\_of\_video\_games\_considered\_the\_best) - Wikipedia
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
+* [Polygon](https://www.polygon.com/)
+  * [The 22 best Xbox One games](https://www.polygon.com/xbox-one/2018/10/5/17548210/best-xbox-one-games)
+  * [The 28 best PlayStation 4 games](https://www.polygon.com/what-to-play/23203968/best-ps4-games-playstation-4)
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
-* [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847) - Kotaku
-* [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643) - Kotaku
 * [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
-* [The Bests](https://kotaku.com/tag/the-bests) - Kotaku
 * [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)
 
 ### Movies
