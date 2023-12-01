@@ -82,6 +82,7 @@
 
 * [Coin Up Italia](https://www.coinupitalia.it/)
 * [London Gaming Market](https://www.londongamingmarket.com/)
+* [Retro Events](https://retroevents.co.uk/)
 
 ### Forums
 
