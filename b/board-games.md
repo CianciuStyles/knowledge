@@ -52,6 +52,7 @@
   * [What’s the best board game to play with GF, who’s never played board games before?](https://www.reddit.com/r/boardgames/comments/q9azxj/whats\_the\_best\_board\_game\_to\_play\_with\_gf\_whos/)
   * [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats\_the\_best\_game\_you\_added\_to\_your\_collection/)
   * [What's the best two player board games in your opinion?](https://www.reddit.com/r/boardgames/comments/16nh9s3/whats\_the\_best\_two\_player\_board\_games\_in\_your/)
+  * [What's your favorite short game?](https://www.reddit.com/r/boardgames/comments/1799k33/whats\_your\_favorite\_short\_game/)
   * [What game do you consider to be “flawless”?](https://www.reddit.com/r/boardgames/comments/16s6mvo/what\_game\_do\_you\_consider\_to\_be\_flawless/)
   * [What is your all time favourite board game?](https://www.reddit.com/r/AskUK/comments/15fo71f/what\_is\_your\_all\_time\_favourite\_board\_game/)
   * [What is your forever game?](https://www.reddit.com/r/boardgames/comments/1796o3i/what\_is\_your\_forever\_game/)
