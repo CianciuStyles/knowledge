@@ -38,8 +38,9 @@
 
 ### Websites
 
-* [AI Valley](https://aivalley.ai/)
-* [CodePal.ai](https://codepal.ai/)
+* [AI Valley](https://aivalley.ai/) - The Latest Source of AI Tools & Prompts
+* [Blackbox AI](https://www.blackbox.ai/) - The Best Model for Code
+* [CodePal.ai](https://codepal.ai/) - Generate Code Online with AI
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
