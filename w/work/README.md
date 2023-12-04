@@ -39,6 +39,7 @@
 ### GitHub Repositories
 
 * [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - Jordan Cutler
+* [The 500 Highest Paying Companies (for Software Engineers)](https://github.com/miketromba/highest-paying-software-companies) - Mike Tromba
 
 ### Hacker News Threads
 
