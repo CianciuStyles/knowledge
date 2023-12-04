@@ -57,6 +57,7 @@
 ### Videos
 
 * [Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST](https://www.youtube.com/watch?v=3\_Ue0tweDkE)
+* [Speedrun Your Tech Promotion](https://www.youtube.com/watch?v=k65UW0gjsgU) - A Life Engineered
 
 ### Websites
 
