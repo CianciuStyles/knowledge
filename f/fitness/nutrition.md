@@ -66,8 +66,7 @@
 
 ### Videos
 
-* [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0) - What I've Learned
-* [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8) - What I've Learned
+* [How to Avoid Blood Sugar Spikes (Without Reducing Carb Intake) ](https://www.youtube.com/watch?v=yg0Y3eNSANg)- Nourished by Science
 
 ### Webinars
 
@@ -88,5 +87,8 @@
 * [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
   * [Intermittent Fasting and Fat Burning](https://www.youtube.com/watch?v=vMZfyEy\_jpI)
   * [Step 2 - What to Eat](https://www.youtube.com/watch?v=mBqpaAKtnXE)
+  * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
 * [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)
+  * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)
+  * [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)&#x20;
