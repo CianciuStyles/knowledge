@@ -36,6 +36,12 @@
 * [Trovit](https://homes.trovit.co.uk/)
 * [Zoopla](https://www.zoopla.co.uk/for-sale/)
 
+#### Solicitors
+
+* [Bishopsgate Law](https://www.bishopsgatelaw.com/)
+* [Freedman Green Dhokia](http://fgdlaw.co.uk/)
+* [Posada & Co](https://www.posadalaw.co.uk/)
+
 #### Surveyors
 
 * [Juno](https://client.juno.legal/quote/7jjxrb)
