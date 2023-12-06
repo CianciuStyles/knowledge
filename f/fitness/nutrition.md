@@ -87,6 +87,7 @@
 * [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
   * [Intermittent Fasting and Fat Burning](https://www.youtube.com/watch?v=vMZfyEy\_jpI)
   * [Step 2 - What to Eat](https://www.youtube.com/watch?v=mBqpaAKtnXE)
+  * [The #1 Thing that STOPS You From Losing Belly Fat: Not Sugar or Carbs](https://www.youtube.com/watch?v=xxzjDAPBIOc)
   * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
 * [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)
