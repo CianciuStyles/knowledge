@@ -70,6 +70,7 @@
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman (first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html))
   * [JavaScript edition](https://sicp.sourceacademy.org/sicpjs.pdf)
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
+  * [YouTube playlist with lectures](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ### Cheat Sheets
