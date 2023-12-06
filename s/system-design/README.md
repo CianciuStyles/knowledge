@@ -226,6 +226,7 @@
   * [Google's architecture (2008)](http://highscalability.com/google-architecture)
   * [YouTube's architecture (2008)](http://highscalability.com/youtube-architecture)
 * [HowVideo.works](https://howvideo.works/)
+* [System Design](https://systemdesign.one/)
 
 ### YouTube playlists
 
