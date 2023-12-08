@@ -8,6 +8,7 @@
 * [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html) - Parand Tony Darugar
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
+* [LLM Visualization](https://bbycroft.net/llm) - Brendan Bycroft
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
 * [The AI Revolution - Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) - Tim Urban, Wait But Why
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
