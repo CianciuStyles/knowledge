@@ -347,6 +347,7 @@
 
 ### Wikis
 
+* [Bandipedia](https://crashbandicoot.fandom.com/wiki/Bandipedia:Main\_Page) - Crash Bandicoot Wiki
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
