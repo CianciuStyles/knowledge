@@ -6,6 +6,7 @@
 
 * [Another coding interview preparation guide](https://www.facebook.com/notes/sergey-makagonov/another-coding-interview-preparation-guide/10210834096793375/) - Sergey Makagonov
 * [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/) - Milad Naseri
+* [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling) - Dave Anderson
 * [Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d) - David Qorashi
 * [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) - Steve Yegge
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) - Carlos Bueno
@@ -62,6 +63,7 @@
 * [InterviewGuide.dev](https://interviewguide.dev/)
 * [interviewing.io](https://interviewing.io/)
 * [Meet a Pro](https://www.meetapro.com/) - Mock interviews with professionals
+* [Onsites.fyi](https://www.onsites.fyi/)
 * [Pramp](https://www.pramp.com/#/) - Practice mock interviews
 
 ### YouTube Playlists
