@@ -53,6 +53,7 @@
 
 ### GitHub Repositories
 
+* [Books](https://github.com/learn-anything/books) - Learn Anything
 * [YouTube Channels & Other Resources](https://github.com/PrejudiceNeutrino/YouTube\_Channels)
 
 ### Hacker News Threads
