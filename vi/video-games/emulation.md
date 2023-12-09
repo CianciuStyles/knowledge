@@ -90,6 +90,7 @@
   * [RPCS3 PlayStation 3 emulation on the PC is seriously impressive](https://www.youtube.com/watch?v=ljJ8DKEy69c)
   * [RPCS3 PS3 emulator just got updated... and its awesome!](https://www.youtube.com/watch?v=X-qxSyBr6cs)
   * [Sega Saturn Games are running on the Nintendo Switch...](https://www.youtube.com/watch?v=YiKBw2RGcow)
+  * [The BEST Emulators of 2023](https://www.youtube.com/watch?v=sVPot6-YbsM)
   * [The Current State of Original Xbox Emulation on the PC](https://www.youtube.com/watch?v=aiWH4TcFCAY)
   * [The Current State of PlayStation 4 Emulation on the PC](https://www.youtube.com/watch?v=012PptHgl3s)
   * [The Original Xbox is still awesome - Softmod, BIOS Flash, Compact Flash HDD, Games, Emulators](https://www.youtube.com/watch?v=otysqrBT7ko)
