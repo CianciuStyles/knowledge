@@ -26,6 +26,8 @@
 
 
 
+* [Algebraic Topology](https://pi.math.cornell.edu/\~hatcher/AT/ATpage.html) - Allen Hatcher
+  * [YouTube playlist](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/\~jmackey/151\_128/bws\_book.pdf) - Brendan W. Sullivan
@@ -33,6 +35,9 @@
   * [Summary by Peter Alfeld](https://www.math.utah.edu/\~alfeld/math/polya.html)
 * [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
 * [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
+  * [YouTube playlist](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+* [Topics in Algebra](https://marinazahara22.files.wordpress.com/2013/10/i-n-herstein-topics-in-algebra-2nd-edition-1975-wiley-international-editions-john-wiley-and-sons-wie-1975.pdf) - I. N. Herstein
+* [Understanding Analysis](https://homel.vsb.cz/\~ulc0011/Abbott%20-%20Understanding%20Analysis.pdf) - Stephen Abbott
 
 ### Courses
 
@@ -42,6 +47,8 @@
   * [Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus)
   * [Part 3 - Integration](https://www.coursera.org/learn/integration-calculus)
   * [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
+* [Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis) - Petra Bonfert-Taylor
+  * [YouTube playlist](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n\_nJdQ)
 * [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
 * [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) - Gilbert Strang
 * [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects) - Diego Vera
@@ -77,6 +84,8 @@
 
 ### YouTube Playlists
 
+* [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - Harvard
 * [Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A) - MIT
 * [Coding the Matrix - Linear Algebra through Computer Science Applications](https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0)
+* [Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - Francis Su, Harvey Mudd College
 
