@@ -30,6 +30,7 @@
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
+* [Complex Analysis](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/8538/Complex%20Analysis%20-%20Lang.pdf?sequence=1\&isAllowed=y) - Serge Lang
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/\~jmackey/151\_128/bws\_book.pdf) - Brendan W. Sullivan
 * [How To Solve It ](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)- George Polya
   * [Summary by Peter Alfeld](https://www.math.utah.edu/\~alfeld/math/polya.html)
