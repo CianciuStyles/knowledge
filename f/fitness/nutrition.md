@@ -91,6 +91,7 @@
   * [The Dark Side of Fasting (and Intermittent Fasting)](https://www.youtube.com/watch?v=DtAyymK81o0)
   * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
+  * [Top 100+ Healthy Foods You Must Eat!](https://www.youtube.com/watch?v=N0DtAx-tugc)
   * [What Happens If You Don't Eat For 3 Days?](https://www.youtube.com/watch?v=WOxgJE6QR2o)
 * [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)
   * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)
