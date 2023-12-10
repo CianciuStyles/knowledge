@@ -115,6 +115,7 @@
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
   * [5 Strategies to Avoid Capital Gains Tax](https://www.youtube.com/watch?v=Nwua80BJY6I)
   * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
+  * [Why Holding Cash Now is a Terrible Idea (if you ever want to retire)](https://www.youtube.com/watch?v=oeob9z27-gA)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
 * [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
   * [Educati e Finanziati](https://www.youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h)
