@@ -31,6 +31,7 @@
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
 * [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) - Nikita Prokopov
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
+* [Things Every Hacker Once Knew](http://www.catb.org/\~esr/faqs/things-every-hacker-once-knew/) - Eric Steven Raymond
 * [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
 * [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do) - Andy Hippo
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) - Matt Might
