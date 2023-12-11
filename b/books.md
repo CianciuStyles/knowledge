@@ -1,7 +1,5 @@
 # Books
 
-##
-
 ## Resources
 
 ### Articles
@@ -34,6 +32,7 @@
 * [Mind Expanding Books](https://books.vishnuks.com/) ([GitHub](https://github.com/hackerkid/Mind-Expanding-Books))
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
 * [Rebel Book Club](https://rebelbook.club/library/)
+* [The Kurzweil Library](https://www.thekurzweillibrary.com/good-books)
 
 ### Hacker News Threads
 
