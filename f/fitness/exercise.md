@@ -61,6 +61,7 @@
 * [ATHLEAN-X](https://www.youtube.com/@athleanx/videos)
 * [Chris Heria](https://www.youtube.com/c/CHRISHERIA/videos)
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC)
+  * [5 Minutes Of This Burns Belly Fat Fast](https://www.youtube.com/watch?v=EJ7yzFjZOFU)
   * [The #1 Exercise to Lose Belly Fat (Easily)](https://youtube.com/watch?v=iaUspumK5ZU)
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
 * [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
