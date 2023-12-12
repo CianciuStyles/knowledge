@@ -92,6 +92,7 @@
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 * [Software Papers](https://github.com/facundoolano/software-papers)
+* [Today I Learned](https://github.com/jbranchaud/til) - Josh Branchaud
 
 ### Hacker News Threads
 
