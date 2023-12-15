@@ -1,6 +1,22 @@
 ---
-description: 'https://godotengine.org/'
+description: https://godotengine.org/
 ---
 
 # Godot
 
+## Resources
+
+### Courses
+
+* [Godot Tutorial for Unity Developers (and other beginners)](https://www.youtube.com/watch?v=1EFKe24X8vI)
+* [The ultimate introduction to Godot 4](https://www.youtube.com/watch?v=nAh\_Kx5Zh5Q)
+
+### GitHub Repositories
+
+* [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)
+* [Godot Engine](https://github.com/godotengine/godot)
+
+### Websites
+
+* [Godot Docs](https://docs.godotengine.org/en/stable/index.html)
+* [Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/)
