@@ -127,6 +127,10 @@
 
 * [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ\_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91\_7A/edit#gid=0) - James Clear
 
+### Webinars
+
+* [3 Methods to Avoid the Most Common Pitfalls of Habit-Building](https://www.crowdcast.io/c/et9khm63w5nu) - Nerd Fitness
+
 ### Websites
 
 * [Tiny Habits Recipe Maker](https://recipemaker.tinyhabits.com/tiny-habits)
