@@ -13,6 +13,10 @@ description: https://godotengine.org/
 
 ### GitHub Repositories
 
+* Awesome Godot
+  * [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
+  * [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
+  * [hto/awesome-godot](https://github.com/hto/awesome-godot)
 * [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)
 * [Godot Engine](https://github.com/godotengine/godot)
 

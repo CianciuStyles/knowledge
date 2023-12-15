@@ -24,6 +24,10 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome GameDev:
   * [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
   * [https://github.com/mbrukman/awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
+* Awesome Godot:
+  * [https://github.com/Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
+  * [https://github.com/godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
+  * [https://github.com/hto/awesome-godot](https://github.com/hto/awesome-godot)
 * Awesome Hacking: [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * Awesome Indie: [https://github.com/mezod/awesome-indie](https://github.com/mezod/awesome-indie)
 * Awesome Interview Questions: [https://github.com/DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
