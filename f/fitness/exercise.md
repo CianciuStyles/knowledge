@@ -63,6 +63,13 @@
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC)
   * [5 Minutes Of This Burns Belly Fat Fast](https://www.youtube.com/watch?v=EJ7yzFjZOFU)
   * [The #1 Exercise to Lose Belly Fat (Easily)](https://youtube.com/watch?v=iaUspumK5ZU)
+* [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
+  * [Top 5 Exercises To Lose Belly Fat Naturally At Home](https://www.youtube.com/watch?v=JBqALVXaIl4)
+    * Walking (aerobic exercise)
+    * Home Equipment (treadmill, elliptical, stationary bike)
+    * Crunches, Planks, Pilates, Core Strength
+    * HIIT (burpees, bike, stairs)
+    * Weight Lifting
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
 * [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
   * [The mindset that makes "getting fit" MUCH easier](https://www.youtube.com/watch?v=VVyEjBHiZOo)
