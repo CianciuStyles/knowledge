@@ -43,6 +43,7 @@
 
 ### Reddit threads
 
+* [Men in their late 30s who lost belly fat, HOW?!](https://www.reddit.com/r/AskReddit/comments/1871gs7/men\_in\_their\_late\_30s\_who\_lost\_belly\_fat\_how/)
 * [People who've lost a lot of weight, how did you do it?](https://www.reddit.com/r/AskReddit/comments/15obv3n/people\_whove\_lost\_a\_lot\_of\_weight\_how\_did\_you\_do/)
 
 ### Subreddits
