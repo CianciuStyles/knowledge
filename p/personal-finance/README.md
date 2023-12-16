@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [10 Personal Finance Lessons for Technology Professionals](https://www.troyhunt.com/10-personal-finance-lessons-for-technology-professionals/) - Troy Hunt
 * [Best Saving Accounts](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/) - MoneySavingExpert
 * [Broker comparison: cheap investment platforms UK](https://monevator.com/compare-uk-cheapest-online-brokers/) - Monevator
 * [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/) - Gergely Orosz
