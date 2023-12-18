@@ -28,6 +28,18 @@
 
 ![](../../.gitbook/assets/anxiety.png)
 
+* The foundation for effective learning is _practice_, and good practice has three components:
+  * **See**: look for an example of how to solve a problem - people don't solve problems by building general-purpose problem-solving skills, but by acquiring a ton of specific patterns of knowledge;
+  * **Do**: solve the problem yourself - acquiring patterns is not enough, the knowledge needs to become an automatic skill in order to be useful;
+  * **Feedback**: check whether you got the right answer - feedback is vital because it can correct for errors, can train your unconscious learning system, and can direct your future learning (to fix areas of weakness)
+
+<figure><img src="../../.gitbook/assets/unnamed.jpg" alt=""><figcaption></figcaption></figure>
+
+* How to take better notes:
+  * Paraphrase, Don't Transcribe: frame the lecturer's words in your own words - this will force you to focus on understanding the meaning of what is being said;
+  * Note Misunderstandings: take a note of all the concepts and questions that you don't immediately understand (write down timestamps, if you are watching a video) so you can follow up later;
+  * Ask Questions: reframe the content presented in terms of the questions that might be asked about it - this is effective to identify the main principles
+
 ## Resources
 
 ### Articles
