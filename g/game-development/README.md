@@ -25,7 +25,9 @@
 ### Courses
 
 * [Computer Game Engineering](https://research.ncl.ac.uk/game/mastersdegree/) - Newcastle University
-* [Intro to Game Programming ](https://www.youtube.com/playlist?list=PL\_xRyXins848nDj2v-TJYahzvs-XW9sVV)- Dave Churchill, Memorial University
+* Intro to Game Programming - Dave Churchill, Memorial University
+  * [Fall 2022](https://www.youtube.com/watch?v=S7lXSihz0ac\&list=PL\_xRyXins848nDj2v-TJYahzvs-XW9sVV\&pp=iAQB)
+  * [Fall 2023](https://www.youtube.com/watch?v=s99UDGdYIUE\&list=PL\_xRyXins84\_Jf-aCh7chj47HR4oZLPwK\&pp=iAQB)
 * [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) - David J. Malan, Colton Odgen
 
 ### GitHub repositories
