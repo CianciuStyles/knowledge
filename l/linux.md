@@ -24,8 +24,10 @@ description: https://www.linux.org/
 
 ### Websites
 
+* [Darling ](https://www.darlinghq.org/)- Run macOS software on Linux
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
 * [SadServers](https://sadservers.com/scenarios) - Troubleshooting Linux Servers
+* [WineHQ ](https://www.winehq.org/)- Run Windows applications on Linux
 
 ### YouTube Channels
 
