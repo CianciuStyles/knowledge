@@ -40,6 +40,7 @@ description: https://git-scm.com/
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
 * [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) - Julia Evans
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
+* [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/) - Julia Evans
 * Git's database internals - Derrick Stolee
   * [Part I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
   * [Part II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
