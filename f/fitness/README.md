@@ -34,6 +34,7 @@
 
 ### Articles
 
+* [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html) - Liam Rosen
 * [The Complete Guide to Weight Loss for Men](https://www.artofmanliness.com/health-fitness/health/how-to-lose-weight-for-men/) - The Art of Manliness
 * [Why Can't I Lose Weight? (What No One Else Will Tell You)](https://www.nerdfitness.com/blog/why-cant-i-lose-weight-heres-the-truth) - Nerd Fitness
 
