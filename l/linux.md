@@ -32,3 +32,5 @@ description: https://www.linux.org/
 ### YouTube Channels
 
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/videos)
+* [Low Byte Productions](https://www.youtube.com/@LowByteProductions)
+  * [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
