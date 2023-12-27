@@ -96,6 +96,7 @@
   * [Unity](g/game-development/unity.md)
   * [Unreal Engine](g/game-development/unreal-engine.md)
 * [Git](g/git.md)
+* [Goals](g/goals.md)
 * [Guitar](g/guitar.md)
 
 ## H
