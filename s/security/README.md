@@ -26,6 +26,11 @@
   * [Smashing the Stack For Fun and Profit (Today)](https://travisf.net/blog/smashing-the-stack-today/) - Travis Finkenauer
   * [Smashing the Stack for Fun & Profit: Revived](https://avicoder.me/2016/02/01/smashsatck-revived/) - avicoder
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
+* Starting an InfoSec Career - Lesley Carhart, tisiphone.net
+  * [Chapters 1-3](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
+  * [Chapters 4-5](https://tisiphone.net/2015/11/08/starting-an-infosec-career-the-megamix-chapters-4-5/)
+  * [Chapter 6](https://tisiphone.net/2016/02/10/starting-an-infosec-career-the-megamix-chapter-6/)
+  * [Chapter 7](https://tisiphone.net/2016/08/26/starting-an-infosec-career-the-megamix-chapter-7/)
 * [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 * [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - [2](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 
