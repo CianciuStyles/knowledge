@@ -32,6 +32,7 @@
 * [Rom Hustler](https://romhustler.org/)
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
+* [Wii Guide](https://wii.guide/)
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
 
