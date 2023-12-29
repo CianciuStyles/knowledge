@@ -4,6 +4,7 @@
   * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
   * [Nintendo Wii Europe 2/3 L-R](https://archive.org/details/rr-nintendo-wii-e2)
   * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
+  * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
   * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
