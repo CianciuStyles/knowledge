@@ -288,6 +288,7 @@
 * [What are the must have basic titles for PS3?](https://www.reddit.com/r/patientgamers/comments/4m9soq/what\_are\_the\_must\_have\_basic\_titles\_for\_ps3/)
 * [What are your favorite, casual play, underrated games of the PS3?](https://www.reddit.com/r/patientgamers/comments/63aa29/what\_are\_your\_favorite\_casual\_play\_underrated/)
 * [What are your favorite NES/SNES/Sega games?](https://www.reddit.com/r/patientgamers/comments/5yafgf/what\_are\_your\_favorite\_nessnessega\_games/)
+* [What are your MUST PLAY single player games? To play at least once in your lifetime](https://www.reddit.com/r/gaming/comments/18qn910/what\_are\_your\_must\_play\_single\_player\_games\_to/)
 * [What game is proof that video games can be art?](https://www.reddit.com/r/patientgamers/comments/6jlzuj/what\_game\_is\_proof\_that\_video\_games\_can\_be\_art/)
 * [What games hooked you instantly?](https://www.reddit.com/r/patientgamers/comments/6lkmgd/branching\_off\_the\_last\_thread\_what\_games\_hooked/)
 * [What games would you guys consider to be masterpieces?](https://www.reddit.com/r/patientgamers/comments/6jiv9e/what\_games\_would\_you\_guys\_consider\_to\_be/)
