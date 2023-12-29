@@ -16,7 +16,9 @@
 ### Articles
 
 * [10 best two-player board games](https://www.dicebreaker.com/categories/board-game/best-games/best-two-player-board-games-2023) - Alex Meehan, Dicebreaker
-* [18 Best Two-Player Board Games 2021](https://www.thestrategist.co.uk/article/best-two-player-board-games.html) - The Strategist
+* [11 Best Board Games of 2023](https://www.nytimes.com/wirecutter/reviews/board-games-we-love/) - Wirecutter
+* [18 Best Two-Player Board Games 2021](https://www.thestrategist.co.uk/article/best-two-player-board-games.html) - Dominique Pariso and Rachael Griffiths, The Strategist
+* [24 Best Board Games for Adults 2023](https://nymag.com/strategist/article/best-board-games-for-adults.html) - Dominique Pariso, The Strategist
 * [Best Board Games For Adults: Top 5 Titles Most Recommended Across Expert Reviews](https://studyfinds.org/best-board-games-for-adults/) - Saloni Ordia
 * [How to play board games online with your friends](https://masilotti.com/play-board-games-online/) - Joe Masilotti ([HN thread](https://news.ycombinator.com/item?id=22967716))
 * Top 50 Board Games of All Time (2022 Edition) - Nick Murray, Bitewing Games
