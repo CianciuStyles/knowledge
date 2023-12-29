@@ -78,6 +78,10 @@
 * [VGComplete](https://www.vgcomplete.com/)
 * [Video Game Preservation](https://github.com/videogamepreservation)
 
+### Documentaries
+
+* [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
+
 ### Events
 
 * [Coin Up Italia](https://www.coinupitalia.it/)
