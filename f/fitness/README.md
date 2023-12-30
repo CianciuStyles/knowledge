@@ -71,5 +71,17 @@
   * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
   * [How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS](https://www.youtube.com/watch?v=SzQX-3tEDQU)
   * [The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione](https://www.youtube.com/watch?v=sNklS0lzlgA)
+* [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
+  * [Top 10 Things You Must NEVER Do To Lose BELLY FAT](https://www.youtube.com/watch?v=sJ143BaE7EA)
+    * Ignore Gut Health
+    * Be Sedentary
+    * Miss Sleep
+    * Ignore Chronic Stress
+    * Ignore Obesogens
+    * Excess Vegetable Oil
+    * Artificial Sweeteners
+    * Eat All Day
+    * Excess Alcohol
+    * High Sugar Diet
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
   * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)
