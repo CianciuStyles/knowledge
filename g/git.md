@@ -34,6 +34,10 @@ description: https://git-scm.com/
 
 ## Resources
 
+### Alternatives
+
+* [Pijul](https://pijul.org/)
+
 ### Articles
 
 * [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) - Tobias Günther
