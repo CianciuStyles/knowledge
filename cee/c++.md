@@ -59,6 +59,10 @@ int main() {
 
 * [Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) - Changkun Ou ([GitHub](https://github.com/changkun/modern-cpp-tutorial))
 
+### Frameworks
+
+* [U++](https://www.ultimatepp.org/index.html) - Cross-Platform App Development Framework
+
 ### GitHub repositories
 
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
