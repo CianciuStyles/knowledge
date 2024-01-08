@@ -37,6 +37,7 @@ description: https://git-scm.com/
 ### Alternatives
 
 * [Pijul](https://pijul.org/)
+* [Sapling](https://sapling-scm.com/) - Meta
 
 ### Articles
 
