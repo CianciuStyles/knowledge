@@ -17,4 +17,5 @@
 ### Websites
 
 * [Procrastination](http://www.procrastination.ca/) - Tim Pychyl
+* [Procrastination Self-Help Resources](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Procrastination) - Centre for Clinical Interventions, Government of Western Australia
 
