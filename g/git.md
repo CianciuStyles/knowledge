@@ -36,6 +36,7 @@ description: https://git-scm.com/
 
 ### Alternatives
 
+* [Fossil](https://www.fossil-scm.org/home/doc/trunk/www/index.wiki)
 * [Pijul](https://pijul.org/)
 * [Sapling](https://sapling-scm.com/) - Meta
 
