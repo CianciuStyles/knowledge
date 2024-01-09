@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - t0st ([HN thread](https://news.ycombinator.com/item?id=26296339))
+
 ### Books
 
 * [Reverse Engineering for Beginners](https://beginners.re/) - Dennis Yurichev
