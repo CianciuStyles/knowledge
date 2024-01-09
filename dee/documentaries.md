@@ -19,6 +19,7 @@
 
 ### Websites
 
+* [Curiosity Stream](https://curiositystream.com/)
 * [Documentary Addict](https://documentaryaddict.com/)
 * [Documentary Mania](https://www.documentarymania.com/home.php)
 * [DocumentaryHeaven](https://documentaryheaven.com/)
