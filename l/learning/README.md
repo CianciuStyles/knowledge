@@ -112,6 +112,7 @@
 * [StackSkills](https://stackskills.com/)
 * [Superprof](https://www.superprof.co.uk/)
 * [TakeLessons](https://takelessons.com/)
+* [The Great Courses](https://www.thegreatcourses.com/)
 * [TutorChase](https://www.tutorchase.com/)
 * [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
 * [WiseGEEK](https://www.wisegeek.com/) - Clear answers to common questions
