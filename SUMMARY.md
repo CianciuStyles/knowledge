@@ -36,6 +36,7 @@
 * [C++](cee/c++.md)
 * [Cars](cee/cars.md)
 * [Cascading Style Sheets](cee/cascading-style-sheets.md)
+* [Chess](cee/chess.md)
 * [Command Line](cee/command-line/README.md)
   * [Awk](cee/command-line/awk.md)
   * [Bash scripting](cee/command-line/bash-scripting.md)
