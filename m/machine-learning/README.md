@@ -47,6 +47,10 @@
 
 * [Learning From Data](https://work.caltech.edu/telecourse) - California Institute of Technology
 
+### Hacker News threads
+
+* [Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
+
 ### GitHub repositories
 
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
