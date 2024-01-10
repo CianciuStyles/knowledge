@@ -13,6 +13,10 @@
 
 * [The Startup's CTO Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - Zach Goldberg
 
+### Hacker News threads
+
+* [What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)
+
 ### Websites
 
 * [Bizplan](https://www.bizplan.com/)
