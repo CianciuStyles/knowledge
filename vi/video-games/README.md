@@ -52,6 +52,7 @@
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
 * [Co-Optimus](https://www.co-optimus.com/)
+* [Game Boy Database](https://www.game-boy-database.com/index.php)
 * [Glitchwave](https://glitchwave.com/)
 * [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
@@ -72,6 +73,7 @@
 * [SteamDB](https://steamdb.info/)
 * [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
   * [Games with anti-piracy methods](https://tcrf.net/Category:Games\_with\_anti-piracy\_methods)
+* [The Game Boy Database](http://gbdb.org/)
 * [The PlayStation Datacenter](https://psxdatacenter.com/)
 * [Universal Hint System](https://www.uhs-hints.com/)
 * [Unseen64](https://www.unseen64.net/)
