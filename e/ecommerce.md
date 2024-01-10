@@ -15,6 +15,7 @@
   * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour
   * [No Bids](https://nobids.net/) - find items with no bids
   * [PicClick](https://picclick.co.uk/)
+  * [Typofindr](https://typofindr.com/) - search for typos and misspellings
   * [WatchCount](http://www.watchcount.com/)
 * [E5P - Everything 5 Pounds](https://www.everything5pounds.com/en/)
 * [John Pye Auctions](https://www.johnpye.co.uk/)
