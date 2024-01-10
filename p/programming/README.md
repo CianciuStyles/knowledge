@@ -73,6 +73,7 @@
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
   * [YouTube playlist with lectures](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+* [The Art of HPC](https://theartofhpc.com/) - Victor Eijkhout, Texas Advanced Computing Center
 
 ### Cheat Sheets
 
