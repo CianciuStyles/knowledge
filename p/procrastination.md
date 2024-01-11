@@ -18,4 +18,6 @@
 
 * [Procrastination](http://www.procrastination.ca/) - Tim Pychyl
 * [Procrastination Self-Help Resources](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Procrastination) - Centre for Clinical Interventions, Government of Western Australia
+* [Solving Procrastination](https://solvingprocrastination.com/)
+  * [Perfectionism and Procrastination: How They’re Connected and What to Do About It](https://solvingprocrastination.com/perfectionism/)
 
