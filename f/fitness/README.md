@@ -72,6 +72,17 @@
   * [How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS](https://www.youtube.com/watch?v=SzQX-3tEDQU)
   * [The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione](https://www.youtube.com/watch?v=sNklS0lzlgA)
 * [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
+  * [10 Warning Signs Your CORTISOL Is Way Too High!](https://www.youtube.com/watch?v=2VAxkXP\_9c0)
+    * Weight Gain
+    * Blood Sugar
+    * Appetite & Cravings
+    * Frequent Infections
+    * Menstrual Period
+    * Osteoporosis
+    * Muscle Weakness
+    * Easy Bruising
+    * Slow Healing
+    * Insomnia
   * [Top 10 Things You Must NEVER Do To Lose BELLY FAT](https://www.youtube.com/watch?v=sJ143BaE7EA)
     * Ignore Gut Health
     * Be Sedentary
