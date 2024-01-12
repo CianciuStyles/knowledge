@@ -20,9 +20,19 @@
 
 #### Mortgages
 
+* [Broadland Consultants](http://www.broadlandconsultants.com/)
+  * Chris Spinks
+* [Limitless Finance](https://limitlessfinance.co.uk/)
+  * Laurie Hayden
+  * Melvin Parker
 * [London & Country](https://www.landc.co.uk/) - Fee-Free Mortgage Broker and Advisor
 * [Mortgage Chain](https://www.mortgagechain.co.uk) - Mortgage Brokers for First Time Buyers
 * [Mortgagekey](https://mortgagekey.co.uk/) - Mortgage Broker
+* [Network Mortgages](https://www.networkmortgages.biz/)
+  * Natalie Cheesman
+* [Riverside Financial Consultants](https://www.riverside-consultants.com/)
+  * Ben Austin
+* [SPF](https://www.spf.co.uk/)
 
 #### Properties
 
@@ -41,6 +51,8 @@
 * [Bishopsgate Law](https://www.bishopsgatelaw.com/)
 * [Freedman Green Dhokia](http://fgdlaw.co.uk/)
 * [Posada & Co](https://www.posadalaw.co.uk/)
+* [William Heath & Co.](https://www.williamheath.co.uk/)
+  * Justin Sidnick
 
 #### Surveyors
 
