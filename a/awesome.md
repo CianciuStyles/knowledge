@@ -12,6 +12,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome ChatGPT: [https://github.com/sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 * Awesome ChatGPT Prompts: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * Awesome Cheat Sheets: [https://github.com/LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+* Awesome Chess: [https://github.com/hkirat/awesome-chess](https://github.com/hkirat/awesome-chess)
 * Awesome Code Reading: [https://github.com/CodeReaderMe/awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading)
 * Awesome Competitive Programming: [https://github.com/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 * Awesome CTF: [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
