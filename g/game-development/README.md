@@ -37,6 +37,7 @@
 * [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev)
 * [Games on GitHub](https://github.com/leereilly/games)
 * [Magic Tools](https://github.com/ellisonleao/magictools)
+* [SGDK ](https://github.com/Stephane-D/SGDK)- A free and open development kit for the Sega Mega Drive
 * [Wituz](https://github.com/Wituz/wituz-youtube)
 
 ### Reddit Threads
@@ -60,6 +61,7 @@
 * [GB Studio](https://www.gbstudio.dev/)
 * [Jason Thor Hall](https://www.develop.games/)
 * [Lazy Foo's Productions](https://lazyfoo.net/)
+* [libdragon ](https://libdragon.dev/)- Open source library for N64 development
 * [MakeCode Arcade](https://arcade.makecode.com/) - Microsoft
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
 * [NESFab](https://pubby.games/nesfab.html)
