@@ -27,6 +27,7 @@
 
 * [Meditations](https://en.wikipedia.org/wiki/Meditations) - Marcus Aurelius
   * [Online version](https://meditations.mx/)
+  * [The Complete 12 Books on Stoicism in Today's Language](https://www.youtube.com/watch?v=f3hLZCuh8yM)
 
 ### Images
 
