@@ -24,6 +24,8 @@
 * [OnBuy](https://www.onbuy.com/gb/)
 * [ShopBySub.com](https://www.shopbysub.com/)
 * [SpeedyHen](https://www.speedyhen.com/)
+* [Subito.it](https://www.subito.it/)
+  * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 
 ### Lists
 
