@@ -71,6 +71,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Unity: [https://github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity)
 * Awesome Web Apps (that work without login): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 * Awesome Web Development Resources: [https://github.com/markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+* Awesome Web Hacking: [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * Awesome Windows: [https://github.com/Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 * Awesome YouTubers: [https://github.com/JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)

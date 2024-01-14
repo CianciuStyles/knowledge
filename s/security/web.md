@@ -10,6 +10,7 @@
 
 ### GitHub Repositories
 
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 * [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 * [phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file
 
