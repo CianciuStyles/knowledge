@@ -173,5 +173,6 @@
 * [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
 * [KITCTF](https://kitctf.de/)
+* [MetaCTF](https://metactf.com/)
 * [picoCTF](https://picoctf.org/)
 

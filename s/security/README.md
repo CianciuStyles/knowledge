@@ -169,8 +169,10 @@
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
 * [HackThisSite](https://www.hackthissite.org/)
+* [HackMyVM](https://hackmyvm.eu/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
 * [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
+* [KC7](https://kc7cyber.com) - A Cybersecurity Game
 * [OpenSecurityTraining2](https://p.ost2.fyi/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
 * [Privacy Tools](https://www.privacytools.io/)
