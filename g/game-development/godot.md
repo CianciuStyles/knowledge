@@ -23,4 +23,5 @@ description: https://godotengine.org/
 ### Websites
 
 * [Godot Docs](https://docs.godotengine.org/en/stable/index.html)
+* [Godot Recipes](https://kidscancode.org/godot\_recipes/4.x/) - KidsCanCode
 * [Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/)
