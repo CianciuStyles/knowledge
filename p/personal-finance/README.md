@@ -68,6 +68,11 @@
 * [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
 * [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways\_to\_supplement\_your\_income\_here\_in\_the\_uk/)
 
+### Software
+
+* [GnuCash](https://www.gnucash.org/)
+* [KMyMoney](https://kmymoney.org/)
+
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
