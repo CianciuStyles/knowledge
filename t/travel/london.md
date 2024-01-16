@@ -89,6 +89,7 @@
 * [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun\_inexpensive\_things\_to\_do\_while\_living\_in/)
 * [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
 * [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places\_in\_london\_that\_you\_take\_your\_friends\_to)
+* [Pubs with cracking customer service](https://www.reddit.com/r/london/comments/1940fcq/pubs\_with\_cracking\_customer\_service/)
 * [Underrated Restaurants in London that aren't Too Expensive!](https://www.reddit.com/r/london/comments/skxwrp/underrated\_restaurants\_in\_london\_that\_arent\_too/)
 * [What are your favourite London cheap eats?](https://www.reddit.com/r/london/comments/185b1of/what\_are\_your\_favourite\_london\_cheap\_eats)
 * [What is the most underrated sight or attraction in London?](https://www.reddit.com/r/london/comments/17k6ijn/what\_is\_the\_most\_underrated\_sight\_or\_attraction/)
