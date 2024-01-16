@@ -66,6 +66,14 @@
 
 ### YouTube Channels
 
+* [Andrew Huberman](https://www.youtube.com/@hubermanlab)
+  * [The Most EFFICIENT Way To LOSE FAT](https://www.youtube.com/watch?v=gQF09f-cZ-E)
+    * It's very clear from both animal and human studies that time-restricted feeding can have a very powerful and positive impact
+    * When you eat is _as important as_ what you eat
+    * It's very important that the feeding window happens during the more active phase of the day - eating during the nocturnal phase of the 24-hour cycle is detrimental
+    * Don't have food for the first hour after you wake up, and the two/three hours before bedtime
+    * It's best to extend the sleep related fast either into the morning or start it in the evening
+    * Alternate day fasting (eating one day, fasting the following day) seems to be the most effective for weight loss and blood glucose regulation
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC/videos)
   * [12 Extreme Belly Fat Weight Loss Tips](https://www.youtube.com/watch?v=waau5CqXguQ)
   * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
