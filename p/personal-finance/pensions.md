@@ -15,6 +15,7 @@
 ### YouTube Channels
 
 * [James Shack](https://www.youtube.com/@JamesShack)
+  * [Starting to plan for retirement? The 3 Tasks I Would Do Today (including 3 free tools)](https://www.youtube.com/watch?v=Ssi1U6aMCdU)
   * [The 2023 Pension Crash Explained (Why and what you need to do)](https://www.youtube.com/watch?v=7ITch9bW3cA)
   * [Use Your Pension to Pay Off Your Mortgage](https://www.youtube.com/watch?v=MWadHLKMgB4)
   * [Why the 5 Years Before Retirement Are So Important (You’re closer than you think!)](https://www.youtube.com/watch?v=ECOCa6FS8C8)
