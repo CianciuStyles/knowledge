@@ -49,6 +49,7 @@
 * [Computer Graphics](cee/computer-graphics/README.md)
   * [OpenGL](cee/computer-graphics/opengl.md)
   * [Vulkan](cee/computer-graphics/vulkan.md)
+* [Computer Networks](cee/computer-networks.md)
 * [Computer Science](cee/computer-science.md)
 * [Concurrency](cee/concurrency.md)
 * [Continuous Integration / Delivery](cee/continuous-integration-delivery.md)
