@@ -44,6 +44,7 @@
     * Don't have food for the first hour after you wake up, and the two/three hours before bedtime
     * It's best to extend the sleep related fast either into the morning or start it in the evening
     * Alternate day fasting (eating one day, fasting the following day) seems to be the most effective for weight loss and blood glucose regulation
+  * [This how easy it can be to Lose Fat](https://www.youtube.com/watch?v=-fx0IdjjYgQ)
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC/videos)
   * [12 Extreme Belly Fat Weight Loss Tips](https://www.youtube.com/watch?v=waau5CqXguQ)
   * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
@@ -78,6 +79,7 @@
     * Easy Bruising
     * Slow Healing
     * Insomnia
+  * [Top 10: How To Lose Weight Fast, Naturally And Permanently (Ultimate Guide To Burning Fat)](https://www.youtube.com/watch?v=J9a6Zdti3uY)
   * [Top 10 Things You Must NEVER Do To Lose BELLY FAT](https://www.youtube.com/watch?v=sJ143BaE7EA)
     * Ignore Gut Health
     * Be Sedentary
@@ -89,6 +91,7 @@
     * Eat All Day
     * Excess Alcohol
     * High Sugar Diet
+  * [When To Drink Apple Cider Vinegar: Best Science-Backed Benefits](https://www.youtube.com/watch?v=CA8kys\_DPds)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
   * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)
     * The key to losing belly fat is getting into a caloric deficit consistently and doing it for long enough
@@ -96,3 +99,4 @@
     * Protein has the highest energetic cost of processing within the body
     * Non-Exercise Activity Thermogenesis (NEAT) is the second largest contributor to daily energy expenditure
     * Sleep is also important when it comes to losing weight - studies have shown that people that sleep at least 7 hours per night lose more belly fat and less muscle than people sleeping 5 hours per night
+  * [What Happens To Your Body After Taking Creatine For 30 Days?](https://www.youtube.com/watch?v=-mmpvk3VLkc)
