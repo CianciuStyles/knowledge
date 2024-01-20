@@ -33,3 +33,9 @@
   Whenever you successfully accomplish a task, then rewarding yourself in some small way can help motivate you to continue. However, you should set these rewards to be random.\
   \
   Every time you complete a 5 mile run, you might reward yourself with an oreo. Rather than giving yourself the oreo every time, flip a coin after each successful run. If the coin is heads, then you can take the oreo. If tails, then you don’t reward yourself.
+
+## Resources
+
+### YouTube Videos
+
+* [How I changed my life in 334 days with Reverse Goal Setting](https://www.youtube.com/watch?v=bq1x659j8mA) - Justin Sung
