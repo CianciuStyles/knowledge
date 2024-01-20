@@ -99,6 +99,7 @@
 
 * [Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
 * [Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
+* [Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
 * [Programs that saved you 100 hours? (2022 edition)](https://news.ycombinator.com/item?id=34069106)
 * [Reading material on how to be a better software engineer?](https://news.ycombinator.com/item?id=33854815)
 * [Those making $0/month or less on side projects](https://news.ycombinator.com/item?id=34547265)
