@@ -26,6 +26,21 @@
   * [Part 2](https://www.techofnote.com/witness-part-2)
 * [Triangoli colorati sulle confezioni dei giochi Nintendo](https://giocatorinintendo.com/2014/08/21/triangoli-colorati-sulle-confezioni-dei-giochi-nintendo/)
 
+### Awards
+
+* The Game Awards
+  * [2024](https://www.wikiwand.com/en/The\_Game\_Awards\_2024)
+  * [2023](https://www.wikiwand.com/en/The\_Game\_Awards\_2023)
+  * [2022](https://www.wikiwand.com/en/The\_Game\_Awards\_2022)
+  * [2021](https://www.wikiwand.com/en/The\_Game\_Awards\_2021)
+  * [2020](https://www.wikiwand.com/en/The\_Game\_Awards\_2020)
+  * [2019](https://www.wikiwand.com/en/The\_Game\_Awards\_2019)
+  * [2018](https://www.wikiwand.com/en/The\_Game\_Awards\_2018)
+  * [2017](https://www.wikiwand.com/en/The\_Game\_Awards\_2017)
+  * [2016](https://www.wikiwand.com/en/The\_Game\_Awards\_2016)
+  * [2015](https://www.wikiwand.com/en/The\_Game\_Awards\_2015)
+  * [2014](https://www.wikiwand.com/en/The\_Game\_Awards\_2014)
+
 ### Books
 
 * [Boss Fight Books](https://bossfightbooks.com/)
