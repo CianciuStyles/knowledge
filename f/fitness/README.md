@@ -100,3 +100,5 @@
     * Non-Exercise Activity Thermogenesis (NEAT) is the second largest contributor to daily energy expenditure
     * Sleep is also important when it comes to losing weight - studies have shown that people that sleep at least 7 hours per night lose more belly fat and less muscle than people sleeping 5 hours per night
   * [What Happens To Your Body After Taking Creatine For 30 Days?](https://www.youtube.com/watch?v=-mmpvk3VLkc)
+* [Project inVictus](https://www.youtube.com/@project\_invictus)
+  * [Grasso addominale e grasso ostinato: come eliminarlo?](https://www.youtube.com/watch?v=tl\_eSe0qW10)
