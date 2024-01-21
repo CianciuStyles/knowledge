@@ -34,6 +34,7 @@
 
 ### Podcasts
 
+* [Protein - Everything You Need to Know](https://www.artofmanliness.com/health-fitness/health/podcast-937-protein-everything-you-need-to-know/) - The Art of Manliness
 * [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz](https://www.youtube.com/watch?v=e2mQOGzHtQc) - Diary Of A CEO
 * [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](https://www.youtube.com/watch?v=Gy\_vcL1cpP8) - Diary Of A CEO
 
