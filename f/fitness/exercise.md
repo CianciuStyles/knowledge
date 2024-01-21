@@ -64,6 +64,11 @@
   * [5 Minutes Of This Burns Belly Fat Fast](https://www.youtube.com/watch?v=EJ7yzFjZOFU)
   * [The #1 Exercise to Lose Belly Fat (Easily)](https://youtube.com/watch?v=iaUspumK5ZU)
 * [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
+  * [Is It Safe To Workout While Fasting?](https://www.youtube.com/watch?v=HWSI3xXV3fc)
+    * Energy does not come from the food you just ate but from nutrient pools: glycogen (that can last for 12-24 hours), fat (1-12 months), vitamins B1/D (years), protein (weeks)
+    * For aerobic exercise (low intensity), it is absolutely safe
+    * For anaerobic exercise (higher intensity), it is safe if you're fat adapted but you might feel weak if you are carb dependent
+    * For weight lifting, you might want to eat after the workout ends because the body will try to rebuild the muscle after the breakdown that happens in the workout but won't have the necessary resources
   * [Top 5 Exercises To Lose Belly Fat Naturally At Home](https://www.youtube.com/watch?v=JBqALVXaIl4)
     * Walking (aerobic exercise)
     * Home Equipment (treadmill, elliptical, stationary bike)
