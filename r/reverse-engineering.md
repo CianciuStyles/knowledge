@@ -15,6 +15,10 @@
 
 * [A quick guide to Android app reversing](http://pages.cpsc.ucalgary.ca/\~joel.reardon/mobile/smali-cheat.pdf)
 
+### GitHub Repositories
+
+* [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+
 ### Tools
 
 * [angr](https://angr.io/)
