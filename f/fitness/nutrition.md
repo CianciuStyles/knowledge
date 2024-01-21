@@ -88,6 +88,14 @@
   * [Intermittent Fasting and Fat Burning](https://www.youtube.com/watch?v=vMZfyEy\_jpI)
   * [Step 2 - What to Eat](https://www.youtube.com/watch?v=mBqpaAKtnXE)
   * [The #1 Thing that STOPS You From Losing Belly Fat: Not Sugar or Carbs](https://www.youtube.com/watch?v=xxzjDAPBIOc)
+  * [The 7 Intermittent Fasting Mistakes that Most People Make](https://www.youtube.com/watch?v=CJ8XnQW4SIk)
+    * Eating too much of a food when they come off their fasting routine (e.g., peanut butter)
+    * Not doing keto and intermittent fasting together - doing them together will make fasting easier and boost results
+    * Doing low-result patterns of fasting - choose a pattern that includes one/two meals a day with no snacks in between
+    * Stuffing yourself
+    * Not taking B vitamins and electrolytes
+    * Not doing the healthy version of the keto diet
+    * Stopping when they plateau
   * [The Dark Side of Fasting (and Intermittent Fasting)](https://www.youtube.com/watch?v=DtAyymK81o0)
   * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
