@@ -117,3 +117,11 @@
 * [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
 * [WiseGEEK](https://www.wisegeek.com/) - Clear answers to common questions
 * [Wyzant](https://www.wyzant.com/) - Find private tutors
+
+### YouTube Channels
+
+* Andrew Huberman
+  * [NEUROSCIENTIST: How To ACTUALLY LEARN](https://www.youtube.com/watch?v=sW0iNSrmcDQ)
+    * Deliberate learning is a two-step process: engagement and focus, and deep rest
+    * The best cycle for learning is a 90-minute session of deep focus, followed by a 20- or 30-minute naps within the following four hours, as this speeds up the brain rewiring by a factor of 10x to 20x
+    * Gap learning effect: if you stop for about 10 seconds randomly during the 90-minute deep focus cycle, neurons will "replay" the new connection more often, leading to better learning
