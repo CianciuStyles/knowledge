@@ -66,6 +66,7 @@
 * [HNHIRING](https://hnhiring.com/)
 * [Just Join IT](https://justjoin.it/)
 * [Lemon.io](https://lemon.io/)
+* [Notify](https://notify.careers/postings)
 * [Otta](https://otta.com/)
 * [People-First Job](https://peoplefirstjobs.com/)
 * [Polyfill](https://polyfill.work/)
