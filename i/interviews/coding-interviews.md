@@ -43,6 +43,7 @@
 * [Master the Coding Interview: Data Structures + Algorithms](https://github.com/chesterheng/master-coding-interview)
 * [SDE Interview Questions](https://github.com/twowaits/SDE-Interview-Questions/)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python
+* [TheAlgorithms/Rust ](https://github.com/TheAlgorithms/Rust)- All Algorithms implemented in Rust
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Tech Interview Preparation](https://github.com/sastava007/Tech-Interview-Preparation)
 

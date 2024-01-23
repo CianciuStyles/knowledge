@@ -44,6 +44,7 @@
 * [From JavaScript to Rust eBook](https://github.com/vinodotdev/node-to-rust)
 * [py2rs - From Python into Rust](https://github.com/rochacbruno/py2rs)
 * [Rust Learning](https://github.com/ctjhoa/rust-learning)
+* [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 
 ### Libraries
 
