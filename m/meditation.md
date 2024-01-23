@@ -33,5 +33,6 @@
 
 ### YouTube Videos
 
+* [Neuroscientist: You Will NEVER Feel Stressed Again](https://www.youtube.com/watch?v=u0OBgihk2f8) - Andrew Huberman
 * [Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=pL02HRFk2vo) - A Science Supported Tool for De-Stress and Relaxation
 
