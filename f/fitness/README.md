@@ -80,6 +80,17 @@
     * Slow Healing
     * Insomnia
   * [Top 10: How To Lose Weight Fast, Naturally And Permanently (Ultimate Guide To Burning Fat)](https://www.youtube.com/watch?v=J9a6Zdti3uY)
+  * [Top 10 Things You Must Do To Lose Belly Fat Fast](https://www.youtube.com/watch?v=Ax-WEtLBUd4)
+    * Reduce insulin by reducing carbs consumption
+    * Reduce hunger by eating fat and protein
+    * Check proper functioning of thyroid
+    * Rule out anemia
+    * Consume MCTs (medium-chain triglycerides) for quick energy
+    * Consume apple cider vinegar (ACV) daily
+    * Get better nutries by eating healthy whole foods
+    * Do intense and short periods of exercise, fast, and get good sleep
+    * Walking
+    * Reduce stress with meditation&#x20;
   * [Top 10 Things You Must NEVER Do To Lose BELLY FAT](https://www.youtube.com/watch?v=sJ143BaE7EA)
     * Ignore Gut Health
     * Be Sedentary
