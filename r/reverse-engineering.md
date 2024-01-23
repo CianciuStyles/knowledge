@@ -17,6 +17,7 @@
 
 ### GitHub Repositories
 
+* [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 
 ### Tools
@@ -28,6 +29,7 @@
 * [Ghidra](https://ghidra-sre.org/)
 * [IDA Freeware](https://hex-rays.com/ida-free/)
 * [IDA Pro](https://hex-rays.com/ida-pro/)
+* [ImHex](https://imhex.werwolv.net/) - Free and Open Source Hex Editor
 * [OllyDbg](https://www.ollydbg.de/)
 
 ### Tutorials
