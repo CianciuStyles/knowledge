@@ -37,9 +37,15 @@
 * [JUnit](https://junit.org/junit5/)
   * [Cheat sheet](https://files.jrebel.com/pdf/zt\_junit\_cheat\_sheet.pdf)
 
+### Tools
+
+* [JD-GUI](https://java-decompiler.github.io/) - Java Decompiler
+* [Recaf](https://www.coley.software/Recaf/) - modern bytecode editor
+
 ### Websites
 
 * [Baeldung](https://www.baeldung.com/)
+* [Java decompiler online](http://www.javadecompilers.com/)
 * [Java Design Patterns](https://java-design-patterns.com/)
 * [London Java Community](https://londonjavacommunity.co.uk/)
 * [Marco Behler](https://www.marcobehler.com/)
