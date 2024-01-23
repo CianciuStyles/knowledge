@@ -37,6 +37,7 @@
 ### YouTube Channels
 
 * [Andrew Huberman](https://www.youtube.com/@hubermanlab)
+  * [4 FAT LOSS Methods For INSANE Results](https://www.youtube.com/watch?v=eA0P27QxDAc)
   * [The Most EFFICIENT Way To LOSE FAT](https://www.youtube.com/watch?v=gQF09f-cZ-E)
     * It's very clear from both animal and human studies that time-restricted feeding can have a very powerful and positive impact
     * When you eat is _as important as_ what you eat

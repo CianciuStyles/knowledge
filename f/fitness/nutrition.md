@@ -100,6 +100,12 @@
   * [The Dark Side of Fasting (and Intermittent Fasting)](https://www.youtube.com/watch?v=DtAyymK81o0)
   * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
+  * [5 INTERMITTENT FASTING Tips For Your Ravenous Hunger](https://www.youtube.com/watch?v=VgZ9jSw8lrE)
+    * Understand hunger - it's not a linear function but comes and goes in waves
+    * Add minerals - this helps to regulate hunger
+    * Get fluids - water, herbal tea, green tea, coffee
+    * Bulletproof coffee (coffee + butter) - only to extend a fasting period that you would otherwise end, as it provides you a little bit of satiety with a negiglible effect on insuline
+    * Combine intermittent fasting with low-carb diet - this puts you in a position to burn fat
   * [Top 100+ Healthy Foods You Must Eat!](https://www.youtube.com/watch?v=N0DtAx-tugc)
   * [What Happens If You Don't Eat For 3 Days?](https://www.youtube.com/watch?v=WOxgJE6QR2o)
   * [What If You Start Eating OATS Every Day For 30 Days?](https://www.youtube.com/watch?v=9t38GRin1cg)
