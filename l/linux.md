@@ -10,6 +10,7 @@ description: https://www.linux.org/
 
 * [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html) - Dmitry Mazin
 * [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/) - Julia Evans
+* [Classic SysAdmin: The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) - Paul Brown, The Linux Foundation
 * [How programs get run: ELF binaries](https://lwn.net/Articles/631631/) - David Drysdale
 * [LD\_PRELOAD is super fun. And easy!](https://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/) - Julia Evans
 * Linux on the 7th Generation of Consoles - Lily Siwik
