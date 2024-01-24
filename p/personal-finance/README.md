@@ -88,6 +88,7 @@
 * [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
 * [BoringCashCow ](https://boringcashcow.com/)- Discover Boring Businesses that Quietly Rake in the Cash
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
+* [CompiledSanity](https://cspersonalfinance.io/) - Personal Finance Spreadsheets
 * [Dividend List](https://thedividendlist.com/) - A list of stocks with monthly and quarterly returns
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
