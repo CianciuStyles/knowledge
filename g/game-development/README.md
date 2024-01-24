@@ -41,6 +41,10 @@
 * [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 * [Wituz](https://github.com/Wituz/wituz-youtube)
 
+### Hacker News Threads
+
+* [9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
+
 ### Reddit Threads
 
 * [Tips and Lessons learned from 7500+ hours of solo game development. PART 1: Prototyping](https://www.reddit.com/r/gamedev/comments/426148/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
