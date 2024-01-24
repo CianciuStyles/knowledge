@@ -18,6 +18,10 @@
 * [60 Seconds and You're Hired!](https://www.amazon.co.uk/dp/0143128507) - Robin Ryan
 * [The No Asshole Rule](https://www.amazon.co.uk/dp/0446698202) - Robert I Sutton
 
+### GitHub Repositories
+
+* [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+
 ### Videos
 
 * [How to Prepare for Technical Interviews, Part 3 - Behavioral](https://www.youtube.com/watch?v=sv-3crA1img) - Engineering with Utsav
