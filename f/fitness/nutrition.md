@@ -81,6 +81,7 @@
 * [Fit Men Cook](https://fitmencook.com/)
 * [KetoNutrition](https://ketonutrition.org/)
 * [No Meat Athlete](https://www.nomeatathlete.com/)
+* [NutritionFacts.org](https://nutritionfacts.org/)
 
 ### YouTube Channels
 
