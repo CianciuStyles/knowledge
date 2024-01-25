@@ -13,6 +13,10 @@
 * [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/) - Miłosz Smółka
 * [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/) - Grant Handy
 
+### Assets
+
+* [Kenney](https://kenney.nl/)
+
 ### Books
 
 * [Books for Game Developers](https://mrelusive.com/books/books.html)
@@ -39,7 +43,7 @@
 * [GDevelop](https://gdevelop.io/)
 * [microStudio](https://microstudio.dev/)
 
-### GitHub repositories
+### GitHub Repositories
 
 * [awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
 * [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev)
