@@ -88,3 +88,5 @@
 * [Freya Holmér](https://www.youtube.com/c/Acegikmo/videos)
 * [Pirate Software](https://www.youtube.com/@PirateSoftware) (Jason Thor Hall, [Twitch](https://www.twitch.tv/piratesoftware))
 * [Randall Thomas](https://www.youtube.com/c/RandallThomas/videos) - [The Sequel](https://www.youtube.com/c/RandytheSequel/videos)
+* [SimonDev](https://www.youtube.com/@simondev758)
+  * [Three.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PLRL3Z3lpLmH0aqLDbfh0ZmnDkpXPDnTau)
