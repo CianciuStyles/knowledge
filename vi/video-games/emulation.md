@@ -34,7 +34,6 @@
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
 * [Wii Guide](https://wii.guide/)
-* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
 
 
@@ -63,8 +62,10 @@
 
 ### Ports and Replacements
 
+* [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx)
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine))
+* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
 ### Reddit Threads
 
