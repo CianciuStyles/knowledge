@@ -129,4 +129,5 @@ description: https://www.python.org/
 * [Python API Checklist](https://devchecklists.com/python-api-checklist/)
 * [Python Books](https://pythonbooks.org/)
 * [Python Tutor](https://pythontutor.com/) - Visualize code execution
+* [Python Type Challenges](https://python-type-challenges.zeabur.app/) ([GitHub](https://github.com/laike9m/Python-Type-Challenges))
 * [Real Python](https://realpython.com/)
