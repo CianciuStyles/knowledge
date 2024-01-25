@@ -22,6 +22,7 @@
 * [I'm an Impostor](https://davidwalsh.name/impostor-syndrome) - David Walsh
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean) - qntm
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
+* [Pair Programming Guide](https://tuple.app/pair-programming-guide/) - Tuple
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
