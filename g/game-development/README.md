@@ -42,6 +42,9 @@
 * [GameMaker](https://gamemaker.io/)
 * [GDevelop](https://gdevelop.io/)
 * [microStudio](https://microstudio.dev/)
+* [RPG Maker](https://www.rpgmakerweb.com/)
+  * [RPG Maker 2003](https://www.rpgmakerweb.com/products/rpg-maker-2003)
+  * [RPG Maker MZ](https://www.rpgmakerweb.com/products/rpg-maker-mz)
 
 ### GitHub Repositories
 
