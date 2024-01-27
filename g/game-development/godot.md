@@ -6,6 +6,10 @@ description: https://godotengine.org/
 
 ## Resources
 
+### Articles
+
+* [Ten great Godot games + source code from Game Off 2023 ](https://dev.to/github/top-godot-games-from-game-off-2023-5f3k)- Lee Reilly, GitHub
+
 ### Courses
 
 * [Godot Tutorial for Unity Developers (and other beginners)](https://www.youtube.com/watch?v=1EFKe24X8vI)
