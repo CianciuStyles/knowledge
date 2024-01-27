@@ -43,6 +43,8 @@
 * [GDevelop](https://gdevelop.io/)
 * [microStudio](https://microstudio.dev/)
 * [Pulp](https://play.date/pulp/)
+* [QuickGame](https://quickgameworld.com/)
+* [Roblox](https://create.roblox.com/landing)
 * [RPG in a Box](https://rpginabox.com/)
 * [RPG Maker](https://www.rpgmakerweb.com/)
   * [RPG Maker 2003](https://www.rpgmakerweb.com/products/rpg-maker-2003)
