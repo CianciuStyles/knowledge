@@ -27,6 +27,8 @@
 * [Alex Vermeer](https://alexvermeer.com/bookshelf/)
 * [Bill Gates](https://www.gatesnotes.com/Books)
 * [Derek Sivers](https://sive.rs/book)
+* [HN Reads](https://hnreads.com/)
+  * [Top 40 books of 2023](https://hnreads.com/post/top40\_2023/)
 * [Jordan Peterson](https://www.jordanbpeterson.com/great-books/)
 * [Mark Manson](https://markmanson.net/best-books)
 * [Mind Expanding Books](https://books.vishnuks.com/) ([GitHub](https://github.com/hackerkid/Mind-Expanding-Books))
