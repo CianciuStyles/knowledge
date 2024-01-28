@@ -92,10 +92,13 @@
 * [libdragon ](https://libdragon.dev/)- Open source library for N64 development
 * [MakeCode Arcade](https://arcade.makecode.com/) - Microsoft
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
+* [Nerdy Teachers](https://nerdyteachers.com/)
+  * [PICO-8 Bitesize Games](https://nerdyteachers.com/PICO-8/Bitesize\_Games/)
 * [NESFab](https://pubby.games/nesfab.html)
 * [Pikuma](https://pikuma.com/) - Gustavo Pezzi
 * [RasterTek](https://www.rastertek.com/tutindex.html)
 * [Red Blob Games](https://www.redblobgames.com/)
+* [TIC-80 tiny computer](https://tic80.com/)
 * [ZQuest Classic](https://zquestclassic.com/)
 
 ### YouTube Channels
