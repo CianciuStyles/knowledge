@@ -47,6 +47,7 @@
 * [Musicroamer](https://www.musicroamer.com/)
 * [Neverending Playlist](https://neverendingplaylist.com/)
 * [Spotibot](https://www.spotibot.com/)
+* [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform ([GitHub](https://github.com/KRTirtho/spotube))
 * [The Nostalgia Machine](https://thenostalgiamachine.com/)
 * [Top 40 Charts](https://top40-charts.com/)
 * [Tunefind](https://top40-charts.com/)
