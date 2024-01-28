@@ -17,6 +17,21 @@
 
 * [What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)
 
+### Legal Documents
+
+* [Avodocs](https://www.avodocs.com/) - Free legal documents for startups
+* [Common Paper](https://commonpaper.com/standards/) - Standard Contracts
+* [Cooley GO](https://www.cooleygo.com/documents/) - Generate and Download Legal Documents
+* [K. E. Mitchell](https://projects.kemitchell.com/)
+* [Nolo](https://store.nolo.com/products/online-legal-forms) - Online Legal Forms
+* [SeedLegals](https://seedlegals.com/)
+* [SeedLegals Termometer](https://seedlegals.com/termometer/)
+* [Simply Docs](https://simply-docs.co.uk/) - Legal Documents & Contract Templates
+* [Square One](https://squareoneforms.com/)
+* [Tech Contracts Academy](https://www.techcontracts.com/contracts/)
+* [Termly](https://termly.io/)
+* [TermsFeed](https://www.termsfeed.com/)
+
 ### Websites
 
 * [Bizplan](https://www.bizplan.com/)
