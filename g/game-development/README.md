@@ -86,6 +86,9 @@
 * [GB Studio](https://www.gbstudio.dev/)
 * [Jason Thor Hall](https://www.develop.games/)
 * [Lazy Foo's Productions](https://lazyfoo.net/)
+* [Lexaloffle Games](https://www.lexaloffle.com/)
+  * [PICO-8](https://www.lexaloffle.com/pico-8.php)
+  * [Voxatron](https://www.lexaloffle.com/voxatron.php)
 * [libdragon ](https://libdragon.dev/)- Open source library for N64 development
 * [MakeCode Arcade](https://arcade.makecode.com/) - Microsoft
 * [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
