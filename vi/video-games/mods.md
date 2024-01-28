@@ -47,6 +47,10 @@
 
 * [For the most immersive Resident Evil experience in Left 4 Dead, download these mods (direct links inside)!](https://www.reddit.com/r/l4d2/comments/7wqwhb/for\_the\_most\_immersive\_resident\_evil\_experience/)
 
+### Kingdom Hearts
+
+* [OpenKh](https://openkh.dev/) - centralized place for the documentation and other discoveries about the internal working of Kingdom Hearts games
+
 ### Portal
 
 * [Blue Portals](https://www.moddb.com/mods/blue-portals)
