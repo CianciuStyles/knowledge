@@ -18,6 +18,7 @@
 * [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) - Zain Rizvi
 * [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/) - Dave Ceddia
 * [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes-2/) - Joel Spolsky
+* [Technical Skills Are Overrated. Focus on Your Attitude.](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude) - Dave Anderson, Scarlet Ink
 * [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky
 * The Minimum Viable Interview Prep - Coach Erika
   * [Crafting a Strategic, Compelling Career Story](https://thecareerwhispers.substack.com/p/001)
