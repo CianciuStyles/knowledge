@@ -28,6 +28,7 @@
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
 * [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) - Oleksii Holub
 * [QR codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi) - Dan Hollick
+* [Reading QR codes without a computer!](https://qr.blinry.org/) - blinry
 * [Software Development Then and Now: Steep Decline Into Mediocrity](https://levelup.gitconnected.com/software-development-then-and-now-steep-decline-into-mediocrity-5d02cb5248ff) - Christopher Fox
 * [Software Engineering - The Soft Parts ](https://addyosmani.com/blog/software-engineering-soft-parts/)- Addy Osmani
 * [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) - Nikita Prokopov
