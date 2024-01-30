@@ -103,6 +103,7 @@
     * Eat All Day
     * Excess Alcohol
     * High Sugar Diet
+  * [Top Reasons Apple Cider Vinegar Works With Fasting For Weight Loss & Health](https://www.youtube.com/watch?v=US9oBCoKdpw)
   * [When To Drink Apple Cider Vinegar: Best Science-Backed Benefits](https://www.youtube.com/watch?v=CA8kys\_DPds)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
   * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)
