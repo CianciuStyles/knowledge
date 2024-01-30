@@ -33,6 +33,7 @@
 
 ### YouTube Videos
 
+* [5-Minute Breathing Exercise / Meditation for Improving HRV ](https://www.youtube.com/watch?v=Vi0\_7idqcFI)- Rick Rubin and Dr. Andrew Huberman
 * [Neuroscientist: You Will NEVER Feel Stressed Again](https://www.youtube.com/watch?v=u0OBgihk2f8) - Andrew Huberman
 * [Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=pL02HRFk2vo) - A Science Supported Tool for De-Stress and Relaxation
 
