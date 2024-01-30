@@ -9,3 +9,7 @@
 ### GitHub Repositories
 
 * [Awesome Chess](https://github.com/hkirat/awesome-chess)
+
+### Websites
+
+* [CheckmateChamp.net](https://www.checkmatechamp.net/)
