@@ -125,3 +125,5 @@
     * Deliberate learning is a two-step process: engagement and focus, and deep rest
     * The best cycle for learning is a 90-minute session of deep focus, followed by a 20- or 30-minute naps within the following four hours, as this speeds up the brain rewiring by a factor of 10x to 20x
     * Gap learning effect: if you stop for about 10 seconds randomly during the 90-minute deep focus cycle, neurons will "replay" the new connection more often, leading to better learning
+* [Tim Ferriss](https://www.youtube.com/@timferriss)
+  * [The Tim Ferriss Experiment](https://www.youtube.com/playlist?list=PLuu6fDad2eJwnly\_hEdir9biYcpG\_MKMd)
