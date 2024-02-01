@@ -69,6 +69,7 @@
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
 * [Co-Optimus](https://www.co-optimus.com/)
+* [DoesItPlay?](https://www.doesitplay.org/)
 * [Game Boy Database](https://www.game-boy-database.com/index.php)
 * [Glitchwave](https://glitchwave.com/)
 * [How Long To Beat](https://howlongtobeat.com/)
