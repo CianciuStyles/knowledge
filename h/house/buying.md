@@ -50,6 +50,8 @@
 
 * [Bishopsgate Law](https://www.bishopsgatelaw.com/)
 * [Freedman Green Dhokia](http://fgdlaw.co.uk/)
+* [Healys](https://healys.com/)
+* [Oliver & Co](https://www.oliverandco.co.uk/)
 * [Posada & Co](https://www.posadalaw.co.uk/)
 * [William Heath & Co.](https://www.williamheath.co.uk/)
   * Justin Sidnick
