@@ -23,6 +23,7 @@
 * [What show has never had a bad season?](https://www.reddit.com/r/AskReddit/comments/zlywi9/what\_show\_has\_never\_had\_a\_bad\_season/)
 * [What show stayed good from start to finish?](https://www.reddit.com/r/AskReddit/comments/12emr13/what\_show\_stayed\_good\_from\_start\_to\_finish/)
 * [What show will you never get tired of rewatching?](https://www.reddit.com/r/AskReddit/comments/y6wlhi/what\_show\_will\_you\_never\_get\_tired\_of\_rewatching/)
+* [What tv show is 10/10 with less than 40 episodes?](https://www.reddit.com/r/AskReddit/comments/1agrty8/what\_tv\_show\_is\_1010\_with\_less\_than\_40\_episodes/)
 * [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)
 * [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
 
