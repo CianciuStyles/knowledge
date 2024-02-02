@@ -21,6 +21,10 @@
 * [Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
 * [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 
+### Infographics
+
+<figure><img src="https://i.redd.it/ra8upq7bxnfc1.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### Tools
 
 * [LibrePCB](https://librepcb.org/)
