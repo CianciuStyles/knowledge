@@ -109,6 +109,7 @@
     * Get fluids - water, herbal tea, green tea, coffee
     * Bulletproof coffee (coffee + butter) - only to extend a fasting period that you would otherwise end, as it provides you a little bit of satiety with a negiglible effect on insuline
     * Combine intermittent fasting with low-carb diet - this puts you in a position to burn fat
+  * [Top 10 Foods High In Protein That You Should Eat](https://www.youtube.com/watch?v=YHNHpPGlvSY)
   * [Top 100+ Healthy Foods You Must Eat!](https://www.youtube.com/watch?v=N0DtAx-tugc)
   * [What Happens If You Don't Eat For 3 Days?](https://www.youtube.com/watch?v=WOxgJE6QR2o)
   * [What If You Start Eating OATS Every Day For 30 Days?](https://www.youtube.com/watch?v=9t38GRin1cg)
