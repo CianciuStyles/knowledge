@@ -101,6 +101,8 @@
   * [The Dark Side of Fasting (and Intermittent Fasting)](https://www.youtube.com/watch?v=DtAyymK81o0)
   * [What Happens to Your Body When You Quit Sugar for 14 Days](https://www.youtube.com/watch?v=cPyFIvCvh8U)
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
+  * [#1 Absolute Best Diet To Lose Belly Fat For Good](https://www.youtube.com/watch?v=aACFi0ZIO8w)
+  * [#1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO\_6kkQodY)
   * [5 INTERMITTENT FASTING Tips For Your Ravenous Hunger](https://www.youtube.com/watch?v=VgZ9jSw8lrE)
     * Understand hunger - it's not a linear function but comes and goes in waves
     * Add minerals - this helps to regulate hunger
