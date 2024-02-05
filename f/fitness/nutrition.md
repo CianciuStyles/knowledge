@@ -103,6 +103,17 @@
 * [Dr. Sten Ekberg](https://www.youtube.com/c/drekberg/videos)
   * [#1 Absolute Best Diet To Lose Belly Fat For Good](https://www.youtube.com/watch?v=aACFi0ZIO8w)
   * [#1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO\_6kkQodY)
+  * [10 Intermittent Fasting Mistakes That Stop Weight Loss](https://www.youtube.com/watch?v=FbFj3uE8Va8)
+    * Making changes too quickly
+    * Thinking about intermittent fasting as a quick fix
+    * Not eating enough food
+    * Eating too much carbs
+    * Eating too much protein
+    * Eating too much fat
+    * Eating too many calories
+    * Having high cortisol due to stress or poor sleep
+    * Not eating enough salt
+    * Overcompensating - eating 3 meals in 1 sitting
   * [5 INTERMITTENT FASTING Tips For Your Ravenous Hunger](https://www.youtube.com/watch?v=VgZ9jSw8lrE)
     * Understand hunger - it's not a linear function but comes and goes in waves
     * Add minerals - this helps to regulate hunger
