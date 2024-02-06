@@ -69,6 +69,7 @@
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE&#x20;
+* [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine)) - Modern "Jedi Engine" replacement
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
