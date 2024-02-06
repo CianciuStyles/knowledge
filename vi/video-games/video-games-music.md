@@ -144,6 +144,7 @@
 
 ### Websites
 
+* [VGMHub](https://vgmhub.com/)
 * [Video Game Music Preservation Foundation Wiki](https://vgmpf.com/Wiki/index.php?title=Main\_Page)
 * [Videogame Soundtracks](https://vsrecommendedgames.fandom.com/wiki/Videogame\_Soundtracks) - /v/'s Recommended Games Wiki
 
