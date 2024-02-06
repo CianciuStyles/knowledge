@@ -17,6 +17,7 @@
   * [Staff (L6) vs Senior Staff (L7)](https://www.developing.dev/p/faang-career-ladder-staff-l6-vs-senior)
 * [From Microsoft Intern to Meta Staff Engineer: Raviraj Achar](https://www.developing.dev/p/from-microsoft-intern-to-meta-staff) - Ryan Peterman, The Developing Dev
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
+* [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) - Adaobi Adibe
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
