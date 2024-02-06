@@ -14,7 +14,6 @@
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [Linux Privilege Escalation Using Capabilities](https://materials.rangeforce.com/tutorial/2020/02/19/Linux-PrivEsc-Capabilities/) - Heino Sass Hallik
-* [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) - FalconSpy
 * [Penetration Testing Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - HighOn.Coffee
 * [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/) - Offensive Security
@@ -175,6 +174,9 @@
 * [KC7](https://kc7cyber.com) - A Cybersecurity Game
 * [OpenSecurityTraining2](https://p.ost2.fyi/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
+* [OWASP](https://owasp.org/) - Open Worldwide Application Security Project
+  * [DSOMM](https://dsomm.owasp.org/) - DevSecOps Maturity Model
+  * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
