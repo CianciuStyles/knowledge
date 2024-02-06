@@ -128,7 +128,7 @@
 * [Surviving Mars](https://www.youtube.com/playlist?list=PLM6Huo32vF1QdhEYGVAOsc8T-BhxACUiU)
 * [System Shock 2](https://www.youtube.com/watch?v=H392MiLaTm8\&list=PLMSvN3D-9Rq3TYZdo\_CNuWdKClB10ZGH7)
 * [The Last of Us](https://www.youtube.com/playlist?list=PL8ewBDH5ZkrUqmzDJvyIPoUcM8qLsJ2bZ)
-* [The Legeng of Zelda: Ocarina of Time](https://www.youtube.com/watch?v=N22STVAxL5M\&list=PLAs1Kha\_R9dLUSxTSb4wLHen4MAQDRIZ\_)
+* [The Legend of Zelda: Ocarina of Time](https://www.youtube.com/watch?v=N22STVAxL5M\&list=PLAs1Kha\_R9dLUSxTSb4wLHen4MAQDRIZ\_)
 * [To The Moon](https://www.youtube.com/playlist?list=PLC1FA1F106FB20846)
 * [Uncharted: Drake's Fortune](https://www.youtube.com/watch?v=1OEyASR5C5U\&list=PL8KyWN8ADp2hHsLBJ4WGrDv3vcsXx8JCr)
 * [Uncharted 2: Among Thieves](https://www.youtube.com/playlist?list=PL1bsBsntnAmaErpCmbtlkZb1CxR0896\_m)
