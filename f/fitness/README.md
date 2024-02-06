@@ -48,6 +48,7 @@
   * [This how easy it can be to Lose Fat](https://www.youtube.com/watch?v=-fx0IdjjYgQ)
 * [Dr. Eric Berg DC](https://www.youtube.com/@DrEricBergDC/videos)
   * [12 Extreme Belly Fat Weight Loss Tips](https://www.youtube.com/watch?v=waau5CqXguQ)
+  * [23 Signs Your Body Needs More Nutrients: How to Address the Deficiencies](https://www.youtube.com/watch?v=UqLuyop6Xtc)
   * [7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)](https://www.youtube.com/watch?v=yKx8GaMWX9o)
     1. Exercise less but with more intensity (HIIT)
        * Fat burning happens when resting, not when exercising
