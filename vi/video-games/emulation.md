@@ -55,6 +55,7 @@
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
 * [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
+* [Sonic 2](https://github.com/sonicretro/s2disasm)
 * [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Metroid](https://github.com/strager/supermetroid)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
