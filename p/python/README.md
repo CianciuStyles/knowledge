@@ -28,6 +28,7 @@ description: https://www.python.org/
 * [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - Victor Skvortsov
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
 * [Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) - Glyph Lefkowitz ([Reddit thread](https://www.reddit.com/r/Python/comments/4xnip4/python\_packaging\_is\_good\_now/))
+* [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/) - Nicholas Hairs
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Meaning of Underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) - Dan Bader
