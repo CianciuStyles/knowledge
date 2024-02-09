@@ -86,6 +86,7 @@
 
 ### Reddit Threads
 
+* [Favourite London walks?](https://www.reddit.com/r/london/comments/1aixwhw/favourite\_london\_walks/)
 * [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun\_inexpensive\_things\_to\_do\_while\_living\_in/)
 * [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
 * [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places\_in\_london\_that\_you\_take\_your\_friends\_to)
