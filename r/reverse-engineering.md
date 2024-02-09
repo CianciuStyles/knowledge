@@ -39,6 +39,7 @@
 
 ### Videos
 
+* [Reverse Engineering a Classic Video Game (BioForge)](https://www.youtube.com/watch?v=fKb\_0BfKtsA) - Tim Comport
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
 
 ### Websites
