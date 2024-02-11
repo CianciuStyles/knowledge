@@ -31,6 +31,7 @@
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
 * [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)
+* [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
 * [Wii Guide](https://wii.guide/)
