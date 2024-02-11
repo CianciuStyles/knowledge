@@ -41,8 +41,6 @@
 * [Adrian's Digital Basement](https://www.youtube.com/@adriansdigitalbasement/videos)
 * [Ben Eater](https://www.youtube.com/c/BenEater/videos)
 * [Branchus Creations](https://www.youtube.com/@BranchusCreations)
-  * [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)
-  * [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
 * [Necroware](https://www.youtube.com/@necro\_ware/videos)
@@ -51,3 +49,10 @@
 * [TronicsFix](https://www.youtube.com/c/Tronicsfix/videos)
 * [vswitchzero](https://www.youtube.com/@vswitchzero/videos)
 * [Zack Freedman](https://www.youtube.com/c/ZackFreedman/videos)
+
+### YouTube Playlists
+
+* [Learn to solder](https://www.youtube.com/playlist?list=PLxfPY-Ebzlk1sb7PFoh4DS7f7tuWc4PuN) - Branchus Creations
+  * [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)
+  * [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
+  * [Beginner's Guide to Soldering Electronics Part 3: Surface Mount Soldering](https://www.youtube.com/watch?v=o8UmA6oC\_tU)
