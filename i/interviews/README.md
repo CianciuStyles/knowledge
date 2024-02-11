@@ -26,6 +26,7 @@
   * [Mastering Behavioral Questions](https://thecareerwhispers.substack.com/p/003)
   * [Formulating High-Signal Questions for Interviewers](https://thecareerwhispers.substack.com/p/004)
 * [The Phone Screen](https://www.joelonsoftware.com/2006/10/24/the-phone-screen-2/) - Joel Spolsky
+* [Tips to Help Yourself Stand Out During a Tech Job Search](https://seankilleen.com/2024/01/tips-to-help-yourself-stand-out-during-a-tech-job-search/) - Sean Killeen
 * [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - Gayle Laakmann McDowell
 * [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/) - Jacob Kaplan-Moss
 * [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) - Adilet Zhaxybay
