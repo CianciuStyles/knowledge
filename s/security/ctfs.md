@@ -168,6 +168,7 @@
 * [316ctf](https://play.316ctf.com/) - Anderson University
 * [CTFtime.org](https://ctftime.org/)
 * [CTF Sites](https://ctfsites.github.io/)
+* [Exploit Education](http://exploit.education/)
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
