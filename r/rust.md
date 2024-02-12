@@ -50,12 +50,12 @@
 
 * [CXX](https://cxx.rs/) - safe interop between Rust and C++
 
-### Videos
+### Websites
 
-* Rust for Java Developers - Jeremy Chone
-  * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
-  * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
-  * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
+* [Are we game yet?](https://arewegameyet.rs/)
+* [Are we GUI yet?](https://areweguiyet.com/)
+* [Are we learning yet?](https://www.arewelearningyet.com/)
+* [Are we web yet?](https://www.arewewebyet.org/)
 
 ### YouTube channels
 
@@ -64,3 +64,7 @@
 ### YouTube playlists
 
 * [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z\_jLr)
+* Rust for Java Developers - Jeremy Chone
+  * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
+  * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
+  * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
