@@ -69,6 +69,14 @@
     * For aerobic exercise (low intensity), it is absolutely safe
     * For anaerobic exercise (higher intensity), it is safe if you're fat adapted but you might feel weak if you are carb dependent
     * For weight lifting, you might want to eat after the workout ends because the body will try to rebuild the muscle after the breakdown that happens in the workout but won't have the necessary resources
+  * [Lose Belly Fat But Don't Do These Common Exercises! (5 Minute 10 Day Challenge)](https://www.youtube.com/watch?v=0GgqQBoe5ts)
+    * Plank
+    * Abdominal Brace
+    * Hand Slide
+    * Diagonal Crunch
+    * Lateral Flexion
+    * Lower Abdominal Isolation Exercise
+    * The Game Changer - HIIT!
   * [Top 5 Exercises To Lose Belly Fat Naturally At Home](https://www.youtube.com/watch?v=JBqALVXaIl4)
     * Walking (aerobic exercise)
     * Home Equipment (treadmill, elliptical, stationary bike)
