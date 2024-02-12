@@ -64,6 +64,7 @@
 
 ### Ports and Replacements
 
+* [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
