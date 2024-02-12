@@ -32,3 +32,4 @@
 ### Websites
 
 * [Poised](https://www.poised.com/) - AI-Powered Communication Coach
+* [Speaking for Hackers](https://sfhbook.netlify.app/) - Ben Orenstein

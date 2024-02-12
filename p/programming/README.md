@@ -168,6 +168,7 @@
 * [Radical Simplicity in Technology](http://www.radicalsimpli.city/)
 * [Software Engineering Books](https://software-engineering-books.com/)
 * [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
+* [Speaking for Hackers](https://sfhbook.netlify.app/) - Ben Orenstein
 * [Stack Overflow](https://stackoverflow.com/)
 * [StackShare](https://stackshare.io/)
 * [StaffEng](https://staffeng.com/)
