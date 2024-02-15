@@ -31,7 +31,6 @@
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
 * [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)
-* [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
 * [Wii Guide](https://wii.guide/)
@@ -81,6 +80,11 @@
 ### Reddit Threads
 
 * [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i\_am\_making\_a\_list\_of\_source\_ports\_on\_android/)
+
+### Sony PlayStation 2
+
+* [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
+* [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
 ### YouTube Channels
 
