@@ -25,6 +25,7 @@
 
 * [angr](https://angr.io/)
 * [x64dbg](https://x64dbg.com/)
+* [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
@@ -40,6 +41,7 @@
 
 ### Videos
 
+* [Cicoparser: Full game reverse engineering ](https://www.youtube.com/watch?v=4fAeUx8A-OE)- Gabriel Archandel
 * [Reverse Engineering a Classic Video Game (BioForge)](https://www.youtube.com/watch?v=fKb\_0BfKtsA) - Tim Comport
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
 * [Self-Learning Reverse Engineering in 2022](https://www.youtube.com/watch?v=gPsYkV7-yJk) - LiveOverflow
