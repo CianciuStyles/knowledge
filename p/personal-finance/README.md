@@ -122,6 +122,7 @@
 * [Huw Davies](https://www.youtube.com/@Huwsview/videos)
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
   * [5 Strategies to Avoid Capital Gains Tax](https://www.youtube.com/watch?v=Nwua80BJY6I)
+  * [Should You Pay Off Your Mortgage or Invest? (A 50-year historical backtest)](https://www.youtube.com/watch?v=9MfCVkRvjQs)
   * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
   * [Vanguard Lifestrategy Funds Explained | The only fund you will ever need? (Investing for beginners)](https://www.youtube.com/watch?v=lGQ9KyQq8Jw)
   * [Why Holding Cash Now is a Terrible Idea (if you ever want to retire)](https://www.youtube.com/watch?v=oeob9z27-gA)
