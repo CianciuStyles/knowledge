@@ -84,6 +84,7 @@
 ### Sony PlayStation 2
 
 * [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
+* [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
 ### YouTube Channels
