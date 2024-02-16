@@ -63,6 +63,10 @@
 
 ![](https://flowchart.ukpersonal.finance/)
 
+### Podcasts
+
+* [Look for Financial Big Wins](https://www.artofmanliness.com/career-wealth/wealth/look-for-financial-big-wins) - The Art of Manliness
+
 ### Reddit Threads
 
 * [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
