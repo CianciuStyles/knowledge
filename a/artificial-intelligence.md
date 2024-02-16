@@ -47,6 +47,7 @@
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
+* [OpenAI Sora](https://openai.com/sora)
 * [Phind](https://www.phind.com/) - AI search engine for developers
 
 ### YouTube Videos
