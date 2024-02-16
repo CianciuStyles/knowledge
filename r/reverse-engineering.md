@@ -49,3 +49,4 @@
 ### Websites
 
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
+  * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
