@@ -88,6 +88,7 @@
 
 * [Favourite London walks?](https://www.reddit.com/r/london/comments/1aixwhw/favourite\_london\_walks/)
 * [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun\_inexpensive\_things\_to\_do\_while\_living\_in/)
+* [Less know gems in London worth visiting](https://www.reddit.com/r/london/comments/1abi16y/less\_know\_gems\_in\_london\_worth\_visiting/)
 * [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
 * [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places\_in\_london\_that\_you\_take\_your\_friends\_to)
 * [Pubs with cracking customer service](https://www.reddit.com/r/london/comments/1940fcq/pubs\_with\_cracking\_customer\_service/)
@@ -98,6 +99,7 @@
 * [What restaurant do you know in London where you can get an insane amount of good quality food for a very reasonable price?](https://www.reddit.com/r/london/comments/ofhwz1/what\_restaurant\_do\_you\_know\_in\_london\_where\_you/)
 * [What third places exist in London?](https://www.reddit.com/r/london/comments/18xncrt/what\_third\_places\_exist\_in\_london/)
 * [What to do in a rainy day in London?](https://www.reddit.com/r/london/comments/105q51i/what\_to\_do\_in\_a\_rainy\_day\_in\_london/)
+* [Where is your favourite place to visit in the UK?](https://www.reddit.com/r/AskUK/comments/1aml2tm/where\_is\_your\_favourite\_place\_to\_visit\_in\_the\_uk/)
 * [Which pub would you take a tourist for their first time in London?](https://www.reddit.com/r/london/comments/14qexum/which\_pub\_would\_you\_take\_a\_tourist\_to\_for\_their/)
 * [Which restaurant of that lesser known or more surprising nationality would you go to or recommend going to?](https://www.reddit.com/r/london/comments/17qy4qb/in\_london\_there\_are\_hundreds\_of\_restaurants\_of/)
 
