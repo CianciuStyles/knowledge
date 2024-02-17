@@ -53,6 +53,10 @@ description: https://git-scm.com/
   * [Part III: file history queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
   * [Part IV: distributed synchronization](https://github.blog/2022-09-01-gits-database-internals-iv-distributed-synchronization/)
   * [Part V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/)
+* [Git Tips and Tricks](https://blog.gitbutler.com/git-tips-and-tricks/) - Scott Chacon
+  * [Git Tips 1: Oldies but Goodies](https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/)
+  * [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/)
+  * [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/) - Julia Evans
 * [Inside .git ](https://jvns.ca/blog/2024/01/26/inside-git/)- Julia Evans
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
@@ -67,6 +71,7 @@ description: https://git-scm.com/
 ### Videos
 
 * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - Michael Schwern
+* [So You Think You Know Git](https://www.youtube.com/watch?v=aolI\_Rz0ZqY) - Scott Chacon
 
 ### Websites
 
