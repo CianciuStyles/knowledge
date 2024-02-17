@@ -21,6 +21,7 @@
 * [How Wine works 101](https://werat.dev/blog/how-wine-works-101) - Andy Hippo
 * [I'm an Impostor](https://davidwalsh.name/impostor-syndrome) - David Walsh
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean) - qntm
+* [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) - Kent Beck
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
 * [Pair Programming Guide](https://tuple.app/pair-programming-guide/) - Tuple
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
@@ -76,6 +77,7 @@
   * [YouTube playlist with lectures](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [The Art of HPC](https://theartofhpc.com/) - Victor Eijkhout, Texas Advanced Computing Center
+* [Usborne 1980s Computer Books](https://usborne.com/gb/books/computer-and-coding-books)
 
 ### Cheat Sheets
 
