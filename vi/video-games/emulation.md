@@ -1,15 +1,9 @@
 # Emulation
 
 * Archive.org
-  * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
-  * [Nintendo Wii Europe 2/3 L-R](https://archive.org/details/rr-nintendo-wii-e2)
-  * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
   * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
-  * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
-  * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
-  * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
 * [Awesome Emulator Development Resources](https://github.com/marethyu/awesome-emu-resources)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
@@ -33,7 +27,6 @@
 * [Rom Hustler](https://romhustler.org/)
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
-* [Wii Guide](https://wii.guide/)
 
 
 
@@ -61,6 +54,16 @@
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 
+### Nintendo Wii
+
+* Archive.org
+  * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
+  * [Nintendo Wii Europe 2/3 L-R](https://archive.org/details/rr-nintendo-wii-e2)
+  * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
+* [LetterBomb](https://please.hackmii.com/)
+* [ModMii for Windows](https://modmii.github.io/)
+* [Wii Guide](https://wii.guide/)
+
 ### Ports and Replacements
 
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
@@ -83,6 +86,10 @@
 
 ### Sony PlayStation 2
 
+* Archive.org
+  * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
+  * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
+  * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
 * [Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
 * [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
