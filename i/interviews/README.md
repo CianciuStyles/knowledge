@@ -53,6 +53,7 @@
 
 ### Videos
 
+* [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw\_m5zNCs) - Gergely Orosz, Pragmatic Engineer
 * [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) - Moishe Lettvin
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/talks/what-i-learned-doing-250-interviews-at-google/)
 
