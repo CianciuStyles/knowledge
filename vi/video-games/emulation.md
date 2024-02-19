@@ -136,6 +136,7 @@
   * [The Original XBOX is still AWESOME in 2021](https://www.youtube.com/watch?v=lFpdJFr3vi0)
   * [The Nintendo GameCube is still awesome - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=up6Rm1Sw1ps)
   * [The Nintendo WiiU is awesome in 2018 - Homebrew, Hacks and More](https://www.youtube.com/watch?v=YyB9E2zEFBA)
+  * [The Nintendo Wii U is a homebrew beast. Here's why](https://www.youtube.com/watch?v=\_tbtH3mNNuY)
   * [The Xbox 360 is still awesome in 2019 - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=zFGz4aT1cgo)
   * [Turning a $10 Original Xbox into an awesome Emulation device](https://www.youtube.com/watch?v=oTpleBjELZg)
   * [Why a Hacked Xbox 360 is STILL awesome in 2023.](https://www.youtube.com/watch?v=NfdVtJmeXfY)
