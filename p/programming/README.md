@@ -53,6 +53,8 @@
 * [Jeff Atwood](https://blog.codinghorror.com/)
 * [Jess Frazelle](https://blog.jessfraz.com/)
 * [Julia Evans](https://jvns.ca/)
+* [Lambros Petrou](https://www.lambrospetrou.com/)
+  * [Read-Watch-Listen](https://www.lambrospetrou.com/read-watch-listen/)
 * [Martin Kleppmann](https://martin.kleppmann.com/archive.html)
 * [Matthieu Cneude](https://thevaluable.dev/)
 * [Patrick McKenzie](https://kalzumeus.com/)
