@@ -70,6 +70,7 @@
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
+* [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - About An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
