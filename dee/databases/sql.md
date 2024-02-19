@@ -5,6 +5,7 @@
 * [10 Easy Steps to a Complete Understanding of SQL](https://blog.jooq.org/2016/03/17/10-easy-steps-to-a-complete-understanding-of-sql/) - Lukas Eder
 * [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices) - Metabase
 * [Creating Histograms in SQL](https://popsql.com/sql-templates/analytics/how-to-create-histograms-in-sql) - PopSQL
+* [Improve your SQL skills X2 in 5 minutes](https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for) - Anton Zaides
 * [SQL Cheat Sheet](https://antonz.org/sql-cheatsheet/) - Anton Zhiyanov
 * [SQL join flavors](https://antonz.org/sql-join/) - Anton Zhiyanov
 
