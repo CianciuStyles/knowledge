@@ -15,6 +15,7 @@
   * [Mid-level (L4) to Senior (L5)](https://www.developing.dev/p/faang-career-ladder-mid-level-l4)
   * [Senior (L5) vs Staff (L6)](https://www.developing.dev/p/faang-career-ladder-senior-l5-vs)
   * [Staff (L6) vs Senior Staff (L7)](https://www.developing.dev/p/faang-career-ladder-staff-l6-vs-senior)
+* [Finding a New Software Developer Job ](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)- Henrik Warne
 * [From Microsoft Intern to Meta Staff Engineer: Raviraj Achar](https://www.developing.dev/p/from-microsoft-intern-to-meta-staff) - Ryan Peterman, The Developing Dev
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) - Adaobi Adibe
