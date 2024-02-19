@@ -9,6 +9,7 @@
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) - Andrei Ciobanu
 * [Everything I wish I knew when learning C](https://tmewett.com/c-tips/) - Tom Mewett
 * [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c) - Jakub Łukasiewicz
+* [How to C in 2016](https://matt.sh/howto-c) - Matt Stancliff
 * [Memory Allocation](https://samwho.dev/memory-allocation/) - Sam Rose
 * [The Descent to C](https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/) - Simon Tatham ([Hacker News](https://news.ycombinator.com/item?id=7134798), [Reddit](https://www.reddit.com/r/programming/comments/1wcily/the\_descent\_to\_c/))
 * [The Lost Art of Structure Packing](https://www.catb.org/esr/structure-packing/) - Eric S. Raymond
