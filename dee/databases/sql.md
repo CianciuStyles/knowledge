@@ -15,6 +15,7 @@
 
 ### Playgrounds
 
+* [SQL OnLine IDE](https://sqliteonline.com/)
 * [SQL Playground](https://sql-playground.wizardzines.com/)
 
 ### Websites
