@@ -77,6 +77,7 @@
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive\_reversing)) - Abe's Oddysee / Exoddus for modern platforms
 * [Severed Chains](https://legendofdragoon.org/projects/severed-chains/) ([GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)) - Legend of Dragoon decompiled, reverse engineered, and ported to Java
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
+* [Syndicate Wars](https://github.com/swfans/swars) - Alternative binary for the classic Bullfrog game
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine)) - Modern "Jedi Engine" replacement
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
