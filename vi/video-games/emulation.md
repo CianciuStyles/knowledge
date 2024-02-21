@@ -80,6 +80,7 @@
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * [Syndicate Wars](https://github.com/swfans/swars) - Alternative binary for the classic Bullfrog game
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine)) - Modern "Jedi Engine" replacement
+* [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996)
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
 ### Reddit Threads
