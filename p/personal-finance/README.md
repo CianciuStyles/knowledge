@@ -103,6 +103,7 @@
   * [Self Assessment: detailed information](https://www.gov.uk/topic/personal-tax/self-assessment)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Investopedia](https://www.investopedia.com/)
+* [Italia Personal Finance](https://www.italiapersonalfinance.it/)
 * [JL Collins](https://jlcollinsnh.com/)
   * [Stock Series](https://jlcollinsnh.com/stock-series/)
 * [Love Your Money](https://www.loveyourmoney.org/)
