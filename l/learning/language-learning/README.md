@@ -32,6 +32,11 @@
 
 ## Reources
 
+### Apps
+
+* [Anki](https://apps.ankiweb.net/)
+* [Vokabeln](https://vokabeln.io/)
+
 ### Articles
 
 * [12 Rules for Learning Foreign Languages in Record Time](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - Tim Ferriss
