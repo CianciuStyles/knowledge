@@ -10,6 +10,10 @@
 
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 
+### Crash Bandicoot
+
+* [CrashUtils](https://github.com/wurlyfox/crashutils) - Utilities for viewing and modifying the game contents of Crash Bandicoot (PSX)
+
 ### Deus Ex
 
 * [How to run Deus Ex on Windows 7/8](https://www.pcgamer.com/how-to-run-deus-ex-on-windows-78/)
