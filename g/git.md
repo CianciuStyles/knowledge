@@ -61,6 +61,7 @@ description: https://git-scm.com/
 * [Inside .git ](https://jvns.ca/blog/2024/01/26/inside-git/)- Julia Evans
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
+* [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) - Julia Evans
 * [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/) - Abin Simon
 
 ### Books
