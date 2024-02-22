@@ -59,6 +59,7 @@
 * [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) - C compiler, assembler, linker and set of libraries for the Nintendo Gameboy, Nintendo Entertainment System, Sega Master System, Sega Game Gear
 * [Magic Tools](https://github.com/ellisonleao/magictools)
 * [SGDK ](https://github.com/Stephane-D/SGDK)- A free and open development kit for the Sega Mega Drive
+* [Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG
 * [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 * [Wituz](https://github.com/Wituz/wituz-youtube)
 
