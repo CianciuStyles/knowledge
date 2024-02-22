@@ -171,6 +171,7 @@
 * [HackThisSite](https://www.hackthissite.org/)
 * [HackMyVM](https://hackmyvm.eu/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
+* [John Hammond](https://j-h.io/)
 * [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
 * [KC7](https://kc7cyber.com) - A Cybersecurity Game
 * [OpenSecurityTraining2](https://p.ost2.fyi/)
