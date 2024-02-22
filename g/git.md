@@ -43,6 +43,7 @@ description: https://git-scm.com/
 ### Articles
 
 * [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) - Tobias Günther
+* [Better Git Conflicts with zdiff3](https://ductile.systems/zdiff3/) - Michael Gattozzi
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
 * [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) - Julia Evans
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
@@ -63,6 +64,7 @@ description: https://git-scm.com/
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
 * [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) - Julia Evans
 * [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/) - Abin Simon
+* [When to Use Each of the Git Diff Algorithms](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/) - Lup Peng
 
 ### Books
 
