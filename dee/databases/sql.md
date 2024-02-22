@@ -26,3 +26,4 @@
 * [SQL for Devs](https://sqlfordevs.com/)
 * [SQLBolt](https://sqlbolt.com/)
 * [SQLZOO](https://sqlzoo.net/wiki/SQL\_Tutorial)
+* [The Querynomicon](https://gvwilson.github.io/sql-tutorial/) - An Introduction to SQL for Weary Data Scientists
