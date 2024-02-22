@@ -55,7 +55,9 @@
 
 * [awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
 * [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev)
+* [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the Game Boy Advance
 * [Games on GitHub](https://github.com/leereilly/games)
+* [gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
 * [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) - C compiler, assembler, linker and set of libraries for the Nintendo Gameboy, Nintendo Entertainment System, Sega Master System, Sega Game Gear
 * [Magic Tools](https://github.com/ellisonleao/magictools)
 * [SGDK ](https://github.com/Stephane-D/SGDK)- A free and open development kit for the Sega Mega Drive
