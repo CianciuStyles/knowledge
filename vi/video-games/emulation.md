@@ -54,6 +54,10 @@
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 
+### Microsoft Xbox
+
+* [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
+
 ### Nintendo Wii
 
 * Archive.org
