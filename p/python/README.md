@@ -111,6 +111,7 @@ description: https://www.python.org/
 
 * [pyupgrade](https://github.com/asottile/pyupgrade)
 * [Ruff](https://beta.ruff.rs/docs/) - linter
+* [uv](https://github.com/astral-sh/uv) - package installer and resolver
 
 ### Videos
 
