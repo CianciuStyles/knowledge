@@ -174,6 +174,7 @@
 * [John Hammond](https://j-h.io/)
 * [Kali Training](https://kali.training/) - Mastering the Pentest Distribution
 * [KC7](https://kc7cyber.com) - A Cybersecurity Game
+* [OffSec Proving Grounds](https://www.offsec.com/labs/individual/)
 * [OpenSecurityTraining2](https://p.ost2.fyi/)
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
 * [OWASP](https://owasp.org/) - Open Worldwide Application Security Project
@@ -183,6 +184,7 @@
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
 * [Reversing.kr](http://reversing.kr/)
+* [SANS](https://www.sans.org/uk\_en/) - UK Cybersecurity Courses & Training
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
