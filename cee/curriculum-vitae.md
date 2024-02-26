@@ -30,6 +30,7 @@
 ### Articles
 
 * [A Better Resume for Developers](https://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php) - Ben Northrop
+* [Guida Galattica per il CV](https://guidopenta.github.io/galactic-CV-guide/) ([English version](https://guidopenta.github.io/galactic-CV-guide/docs/english.html)) - Guido Penta
 * [How to write an effective developer resume: Advice from an hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager) - Gergely Orosz
 * [I Rewrote my CV in Typst and I'll Never Look Back](https://mattrighetti.com/2023/10/25/i-rewrote-my-cv-in-typst) - Mattia Righetti
 * [My Personal Formula for a Winning Resume](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) - Laszlo Bock
