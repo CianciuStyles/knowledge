@@ -57,3 +57,4 @@
   * [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
   * [Beginner's Guide to Soldering Electronics Part 3: Surface Mount Soldering](https://www.youtube.com/watch?v=o8UmA6oC\_tU)
   * [Repairing damaged or lifted pads on a circuit board](https://www.youtube.com/watch?v=xty1G5UBYb0)
+  * [Repairing broken traces on a circuit board](https://www.youtube.com/watch?v=ref9JHUf-uw)
