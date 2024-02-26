@@ -14,6 +14,7 @@
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
+* [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Internet Arcade](https://archive.org/details/internetarcade)
 * [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
 * [My Abandonware](https://www.myabandonware.com/)
@@ -74,7 +75,7 @@
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
-* [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - About An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
+* [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
