@@ -172,6 +172,7 @@
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
+  * [Archived Challenges](https://imaginaryctf.org/ArchivedChallenges)
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
 * [KITCTF](https://kitctf.de/)
 * [MetaCTF](https://metactf.com/)
