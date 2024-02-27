@@ -110,6 +110,7 @@
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+* [Hacking Books](https://github.com/tanc7/hacking-books)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
