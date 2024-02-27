@@ -5,6 +5,7 @@
 * 7 Wonders Duel
 * Lost Cities
 * Patchwork
+* Sagrada
 * Spirit Island
 * Splendor Duel
 * Targi
