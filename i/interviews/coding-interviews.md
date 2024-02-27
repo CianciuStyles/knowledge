@@ -57,6 +57,7 @@
 
 * [CodeSignal](https://app.codesignal.com/)
 * [Codility](https://app.codility.com/programmers/lessons)
+* [comp.lol](https://comp.lol/) - Practice coding interviews with AI
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
 * [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) ([GitHub](https://github.com/yangshun/front-end-interview-handbook))
