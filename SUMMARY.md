@@ -143,6 +143,7 @@
   * [Languages](l/learning/language-learning/README.md)
     * [Certificate of Proficiency in English](l/learning/language-learning/certificate-of-proficiency-in-english.md)
     * [Japanese](l/learning/language-learning/japanese.md)
+  * [Piano](l/learning/piano.md)
 * [Legacy Code](l/legacy-code.md)
 * [LEGO](l/lego.md)
 * [Lifestyle](l/lifestyle.md)
