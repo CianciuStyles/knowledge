@@ -73,6 +73,7 @@ description: https://www.python.org/
 * [Free Python Books](https://github.com/pamoroso/free-python-books)
 * [PyCrumbs](https://github.com/kirang89/pycrumbs)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
+* [Python Koans](https://github.com/gregmalcolm/python\_koans) - Learn Python through TDD
 * [Python Quick Tips](https://gist.github.com/sreeragh-ar/7facbf6aace844692eb0dd8f32ee5d4c)
 * [Python Tips](https://github.com/smoqadam/python-tips)
 * [Python Wats](https://github.com/cosmologicon/pywat)
