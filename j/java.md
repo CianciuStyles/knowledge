@@ -47,6 +47,7 @@
 * [Baeldung](https://www.baeldung.com/)
 * [Java decompiler online](http://www.javadecompilers.com/)
 * [Java Design Patterns](https://java-design-patterns.com/)
+* [Java Developer Tutorials and Training](https://www.oracle.com/java/technologies/jdtt-jsp.html) - Oracle
 * [London Java Community](https://londonjavacommunity.co.uk/)
 * [Marco Behler](https://www.marcobehler.com/)
 * [The Java Version Almanac](https://javaalmanac.io/)
