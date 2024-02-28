@@ -209,6 +209,7 @@
 
 * [Security](s/security/README.md)
   * [CTFs](s/security/ctfs.md)
+  * [Forensics](s/security/forensics.md)
   * [Web](s/security/web.md)
   * [Windows](s/security/windows.md)
 * [Self Improvement](s/self-improvement.md)
