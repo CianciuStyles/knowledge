@@ -21,6 +21,7 @@
 
 ### GitHub repositories
 
+* [Awesome Networking](https://github.com/facyber/awesome-networking)
 * [Computer Networking Self-Study](https://github.com/aos/computer-networking-study)
 
 ### Hacker News threads
