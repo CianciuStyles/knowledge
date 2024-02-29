@@ -5,6 +5,7 @@
 ### Articles
 
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/) - Dan Cresswell
+* [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html) - Fred Hebert
 * [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) - Andy Warfield
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Martin Fowler
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Microsoft Docs
