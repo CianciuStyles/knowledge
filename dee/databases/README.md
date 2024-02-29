@@ -93,6 +93,7 @@
 
 ### Books
 
+* [Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf) - Manos Athanassoulis, Stratos Idreos, Dennis Shasha
 * [Designing Data-Intensive Applications](https://smile.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) (Chapter 5) - Martin Kleppman
 
 ### GitHub Repositories
