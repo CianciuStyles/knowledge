@@ -40,6 +40,7 @@
 * [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) - Samuel Taylor
 * [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) - Herb Caudill
 * [The key points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/) - Nicolas Carlo
+* [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you\_inherited\_a\_legacy\_cpp\_codebase\_now\_what.html) - Philippe Gaultier
 
 ### Books
 
