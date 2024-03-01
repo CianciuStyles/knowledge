@@ -94,7 +94,7 @@
 * Have a "start again" meditation
 * Do less than you think you can handle - you can always add more later
 
-![](https://charlesduhigg.com/wp-content/uploads/2012/04/How-to-Change-a-Habit.jpg)
+![](https://i.pinimg.com/originals/e2/b7/3d/e2b73d33dce6fed8edb5a67d1e302fa3.jpg)
 
 ## Resources
 
