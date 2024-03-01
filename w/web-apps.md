@@ -172,11 +172,9 @@
 
 ### YouTube Downloaders
 
-* [2cool4Youtube](https://2cool4youtube.com/)
 * [ClipConverter](https://www.clipconverter.cc)
 * [Converto.io](https://www.converto.io)
-* [Online Video Converter](https://onlinevideoconverter.com/youtube-converter)
 * [TubeRipper](https://tuberipper.com/)
-* [Video Grabber](https://www.videograbber.net/)
+* [Y2mate](https://www.y2mate.com)
 * [you-tldr](https://www.you-tldr.com/) - Get the TLDR of any YouTube Video in seconds
 * [YouTube Transcript](https://youtubetranscript.com/)
