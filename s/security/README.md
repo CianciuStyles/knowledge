@@ -160,11 +160,13 @@
 ### Websites
 
 * [ANY.RUN](https://any.run/) - Interactive Online Malware Sandbox
+* [Blue Team Labs Online](https://blueteamlabs.online/)
 * [Compiler Explorer](https://godbolt.org/)
 * [crt.sh](https://crt.sh/) - Certificate Search
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 * [Cybersecurity](https://hero.page/cybersecurity)
 * [Cybrary](https://www.cybrary.it/)
+* [CySec Careers](https://cysec.careers/)
 * [Guided Hacking](https://guidedhacking.com/)
 * [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
 * [HackMyVM](https://hackmyvm.eu/)
