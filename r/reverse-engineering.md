@@ -43,6 +43,7 @@
 
 * [Cicoparser: Full game reverse engineering ](https://www.youtube.com/watch?v=4fAeUx8A-OE)- Gabriel Archandel
 * [Reverse Engineering, but it's 100 Math Problems.](https://www.youtube.com/watch?v=VLd9GZg8ALs) - Low Level Learning
+* [Reverse Engineering 101: How to Dissect and Master Any Platform ](https://www.youtube.com/watch?v=RnL5HQfq4Ik)- LaurieWired
 * [Reverse Engineering a Classic Video Game (BioForge)](https://www.youtube.com/watch?v=fKb\_0BfKtsA) - Tim Comport
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
 * [Self-Learning Reverse Engineering in 2022](https://www.youtube.com/watch?v=gPsYkV7-yJk) - LiveOverflow
