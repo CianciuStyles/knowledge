@@ -3,6 +3,7 @@
 ## 2-players board games to try
 
 * 7 Wonders Duel
+* [Décorum](https://boardgamegeek.com/boardgame/344554/decorum)
 * Lost Cities
 * Patchwork
 * Sagrada
