@@ -227,6 +227,7 @@
   * [YouTube's architecture (2008)](http://highscalability.com/youtube-architecture)
 * [HowVideo.works](https://howvideo.works/)
 * [System Design](https://systemdesign.one/)
+* [System Design Bytes for Enthusiasts](https://codersguild.github.io/System-Design/) ([GitHub](https://github.com/codersguild/System-Design))
 
 ### YouTube playlists
 
