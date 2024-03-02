@@ -22,3 +22,7 @@
 * [Ask HN: Best books on modern distributed systems](https://news.ycombinator.com/item?id=28391738)
 * [Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
 
+### YouTube Videos
+
+* [The CAP Theorem ](https://www.youtube.com/watch?v=k-Yaq8AHlFA)- Distributed System Course
+
