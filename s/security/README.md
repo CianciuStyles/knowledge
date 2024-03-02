@@ -6,6 +6,7 @@
 * [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce) - Positive Security
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tm1k
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
+* [Dynamic linker tricks: Using LD\_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld\_preload-to-cheat-inject-features-and-investigate-programs/) - Rafał Cieślak
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA
 * [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/resources/blog/free\_path) - Ellie Gillard
