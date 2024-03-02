@@ -142,3 +142,7 @@
 ### YouTube Playlists
 
 * [Investing Demystified](https://www.youtube.com/playlist?list=PLXy71rkGuCjXLg9N8zowwUpXCYfBcMJFK) - Lars Kroijer
+
+### YouTube Videos
+
+* [The Simple Path To Wealth](https://www.youtube.com/watch?v=T71ibcZAX3I) - JL Collins, Talks at Google
