@@ -131,6 +131,9 @@
   * [Low end computer games](https://vsrecommendedgames.fandom.com/wiki/Low\_end\_computer\_games)
   * [Puzzle Games](https://vsrecommendedgames.fandom.com/wiki/Puzzle\_Games)
   * [Recommended Controllers](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Controllers)
+* 1001 Video Games to Play Before You Die
+  * [UK site](https://web.archive.org/web/20140713145009/http://1001beforeyoudie.com/1001\_video\_games\_uk.html)
+  * [US site](https://web.archive.org/web/20130715140635/http://www.1001beforeyoudie.com/qssUS/1001\_video\_games\_us.html)
 * r/PatientGamers Essential Games Lists ([2017](https://www.reddit.com/r/patientgamers/comments/6onkey/rpatientgamers\_essential\_games\_list\_2017/))
   * [3DS](https://www.reddit.com/r/patientgamers/comments/6fgh8o/rpatientgamers\_essential\_games\_list\_nintendo\_3ds/)
   * [PC](https://www.reddit.com/r/patientgamers/comments/6mefap/rpatientgamers\_essential\_games\_list\_pc/)
