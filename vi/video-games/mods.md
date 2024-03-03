@@ -15,6 +15,7 @@
 ### Crash Bandicoot
 
 * [CrashUtils](https://github.com/wurlyfox/crashutils) - Utilities for viewing and modifying the game contents of Crash Bandicoot (PSX)
+* [Reverse engineering the Crash Bandicoot password generation algorithm](https://github.com/dezgeg/crash-bandicoot-password-cracking)
 
 ### Deus Ex
 
