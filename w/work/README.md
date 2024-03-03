@@ -44,6 +44,7 @@
 
 ### GitHub Repositories
 
+* [100+ Resources to become a great engineering leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
 * [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - Jordan Cutler
 * [The 500 Highest Paying Companies (for Software Engineers)](https://github.com/miketromba/highest-paying-software-companies) - Mike Tromba
 * [The Eng Team Handbook](https://github.com/raylene/eng-handbook)
