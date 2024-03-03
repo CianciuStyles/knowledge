@@ -103,6 +103,7 @@
   * [Lifetime ISA](https://www.gov.uk/lifetime-isa)
   * [Self Assessment: detailed information](https://www.gov.uk/topic/personal-tax/self-assessment)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
+* [Interactive Investor](https://www.ii.co.uk/) - The UK's number one flat-fee investment platform
 * [Investopedia](https://www.investopedia.com/)
 * [Italia Personal Finance](https://www.italiapersonalfinance.it/)
 * [JL Collins](https://jlcollinsnh.com/)
