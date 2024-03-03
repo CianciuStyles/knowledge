@@ -63,6 +63,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 * Awesome Security Gists: [https://github.com/Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 * Awesome Shell: [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+* Awesome Site Reliability Engineering: [https://github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
 * Awesome Social Engineering: [https://github.com/giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * Awesome Software and Architectural Design Patterns: [https://github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 * Awesome Software Craftmanship: [https://github.com/benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship)

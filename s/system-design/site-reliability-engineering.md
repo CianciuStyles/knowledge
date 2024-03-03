@@ -17,4 +17,5 @@
 
 ### GitHub repositories
 
+* [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 * [How they SRE](https://github.com/upgundecha/howtheysre)
