@@ -110,6 +110,7 @@
 * [Love Your Money](https://www.loveyourmoney.org/)
 * [Money Saving Expert](https://www.moneysavingexpert.com/)
 * [Money To The Masses](https://moneytothemasses.com/)
+* [Nectarine ](https://hellonectarine.com/)- Fiduciary Advice-Only Financial Advisors (US only)
 * [Passive Income](https://my-passive-income.eu/)
 * [Plain English Finance](https://plainenglishfinance.co.uk/)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
