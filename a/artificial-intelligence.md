@@ -50,6 +50,7 @@
 * [OpenAI Gym](https://gym.openai.com/)
 * [OpenAI Sora](https://openai.com/sora)
 * [Phind](https://www.phind.com/) - AI search engine for developers
+* [Prompt Engineering Guide ](https://www.promptingguide.ai/)([GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide))
 
 ### YouTube Videos
 
