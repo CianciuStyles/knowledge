@@ -18,4 +18,5 @@
 ### GitHub repositories
 
 * [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 * [How they SRE](https://github.com/upgundecha/howtheysre)
