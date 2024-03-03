@@ -1,5 +1,6 @@
 # Mods
 
+* [A Definitive Guide to N64 Modding](https://vimeo.com/853440902) - Kaze Emanuar
 * [Game Hacking Academy](https://gamehacking.academy)
 * [Metal Gear Solid 1 Integral PC \[1080p/Xinput Controller Support/DX10.1\]](https://www.reddit.com/r/metalgearsolid/comments/4qlv1c/final\_full\_release\_metal\_gear\_solid\_1\_integral\_pc/)
 * [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal\_gear\_solid\_2\_substance\_vs\_fix\_pc/)
