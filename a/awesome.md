@@ -70,6 +70,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Software Quality: [https://github.com/ligurio/awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 * Awesome Subreddits: [https://github.com/iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 * Awesome System Design: [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
+* Awesome System Design Resources: [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 * Awesome Talks: [https://github.com/JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * Awesome Unity: [https://github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity)
 * Awesome Web Apps (that work without login): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
