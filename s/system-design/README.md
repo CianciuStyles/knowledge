@@ -208,6 +208,7 @@
 
 ### GitHub repositories
 
+* [Awesome System Design](https://github.com/madd86/awesome-system-design)
 * [Byte-sized System Design Concepts](https://github.com/ByteByteGoHq/system-design-101) - ByteByteGo
 * [CDN Up and Running](https://github.com/leandromoreira/cdn-up-and-running) - Leandro Moreira
 * [grokking-system-design](https://github.com/lei-hsia/grokking-system-design)
