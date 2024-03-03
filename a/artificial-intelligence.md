@@ -31,11 +31,12 @@
 
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
+* [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ### Tools
 
-* [Bard](https://bard.google.com/) - Google
 * [ChatGPT ](https://chat.openai.com/)- OpenAI
+* [Gemini ](https://gemini.google.com)- Google
 
 ### Websites
 
