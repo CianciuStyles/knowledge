@@ -208,6 +208,7 @@
 
 ### GitHub repositories
 
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [Awesome System Design](https://github.com/madd86/awesome-system-design)
 * [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
 * [Byte-sized System Design Concepts](https://github.com/ByteByteGoHq/system-design-101) - ByteByteGo

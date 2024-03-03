@@ -60,6 +60,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Resources For Learning Ethical Hacking & Pentesting: [https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 * Awesome Reverse Engineering: [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * Awesome Rust: [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+* Awesome Scalability: [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * Awesome Sci-Fi: [https://github.com/sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 * Awesome Security Gists: [https://github.com/Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 * Awesome Shell: [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
