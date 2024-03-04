@@ -229,6 +229,7 @@
   * [Google's architecture (2008)](http://highscalability.com/google-architecture)
   * [YouTube's architecture (2008)](http://highscalability.com/youtube-architecture)
 * [HowVideo.works](https://howvideo.works/)
+* [Low Level Design (LLD) Coding](https://lldcoding.com/)
 * [System Design](https://systemdesign.one/)
 * [System Design Bytes for Enthusiasts](https://codersguild.github.io/System-Design/) ([GitHub](https://github.com/codersguild/System-Design))
 
