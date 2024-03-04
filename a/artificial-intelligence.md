@@ -6,6 +6,8 @@
 
 * [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) - Parand Tony Darugar
 * [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html) - Parand Tony Darugar
+* [Building an LLM from Scratch](https://bclarkson-code.com/) - Benedict Clarkson
+  * [Automatic Differentiation](https://bclarkson-code.com/posts/llm-from-scratch-scalar-autograd/post.html)
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
 * [LLM Visualization](https://bbycroft.net/llm) - Brendan Bycroft
