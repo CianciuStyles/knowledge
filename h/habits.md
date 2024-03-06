@@ -122,6 +122,7 @@
 
 ### Reddit Threads
 
+* [Atomic habit that changed your life?](https://old.reddit.com/r/selfimprovement/comments/1avm4nq/atomic\_habit\_that\_changed\_your\_life/)
 * [High-yield 2-minute habits?](https://www.reddit.com/r/productivity/comments/14z31a3/highyield\_2minute\_habits/)
 
 ### Spreadsheets
