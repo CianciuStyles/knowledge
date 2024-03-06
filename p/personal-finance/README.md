@@ -13,8 +13,9 @@
 * [How to invest spare lockdown cash in the stock market… safely](https://www.theguardian.com/money/2021/jan/31/how-to-invest-spare-lockdown-cash-in-the-stock-market-safely) - Shane Hickey, The Guardian
 * [Simple and Low-cost Investing guide (for the UK)](https://www.lambrospetrou.com/articles/simple-low-cost-investing-in-uk/) - Lambros Petrou
 * [Tax efficiency for high earners](https://ukpersonal.finance/tax-efficiency-for-high-earners/) - UKPersonalFinance wiki
-* [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 * [Ten Steps To Financial Freedom](https://www.fool.co.uk/ten-steps-to-financial-freedom/) - The Motley Fool UK
+* [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
+* [The (more realistic) ISA millionaire](https://freetrade.io/learn/the-more-realistic-isa-millionaire) - Dan Lane, Freetrade
 * [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Mr. Money Mustache
 * [Warren Buffett Reveals the Biggest Mistake We Make When It Comes to Money](https://www.fool.com/investing/general/2014/02/08/warren-buffett-reveals-the-biggest-mistake-we-make.aspx) - Patrick Morris, The Motley Fool
 
