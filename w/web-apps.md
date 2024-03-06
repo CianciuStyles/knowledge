@@ -115,10 +115,12 @@
 ### Meetings
 
 * [Jitsi Meet](https://meet.jit.si/)
+* [Otter.ai](https://otter.ai/) - AI Meeting Note Taker & Real-Time AI Transcription
 
 ### PDF Tools
 
 * [iLovePDF](https://www.ilovepdf.com/)
+* [PDF24 Tools](https://tools.pdf24.org/en/)
 * [PDFescape](https://www.pdfescape.com/windows/)
 * [Sejda](https://www.sejda.com/)
 
@@ -160,6 +162,7 @@
 
 ### Text
 
+* [QuillBot](https://quillbot.com/) - Paraphrasing Tool
 * [Universal Summarizer](https://kagi.com/summarizer/index.html)
 
 ### Text-to-Speech
