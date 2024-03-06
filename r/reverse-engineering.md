@@ -10,6 +10,7 @@
 
 ### Books
 
+* [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf) - Michael Sikorski and Andrew Honig
 * [Reverse Engineering for Beginners](https://beginners.re/) - Dennis Yurichev
 
 ### Cheat Sheets
