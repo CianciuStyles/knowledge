@@ -189,6 +189,7 @@
 
 ### Articles
 
+* [5 Caching Mechanisms to Speed Up Your Application](https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application) - Pragati Verma
 * [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) - High Scalability
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
