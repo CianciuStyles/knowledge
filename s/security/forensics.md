@@ -17,7 +17,9 @@
 
 ### GitHub Repositories
 
+* [Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
 * [MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
+* [WinPmem](https://github.com/Velocidex/WinPmem) - The multi-platform memory acquisition tool.
 
 ### YouTube Videos
 
