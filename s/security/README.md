@@ -110,6 +110,7 @@
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
+* [Cybersecurity Educational Resources](https://github.com/CSIRT-MU/edu-resources)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [Hacking Books](https://github.com/tanc7/hacking-books)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
