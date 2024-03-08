@@ -120,6 +120,7 @@
 
 * [Java](j/java.md)
 * [JavaScript](j/javascript/README.md)
+  * [Astro](j/javascript/astro.md)
   * [Bun](j/javascript/bun.md)
   * [Electron](j/javascript/electron.md)
   * [Jest](j/javascript/jest.md)
