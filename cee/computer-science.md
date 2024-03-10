@@ -7,6 +7,7 @@
 
 ### GitHub Repositories
 
+* [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
 
