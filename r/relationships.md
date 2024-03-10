@@ -12,6 +12,10 @@
 
 * [Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 
+### Podcasts
+
+* [The No.1 Sex Expert: How To Have Great Sex EVERY Time! (And Fix Bad Sex)](https://www.youtube.com/watch?v=2Ait0WaCNCw) - Tracey Cox, Diary Of A CEO
+
 ### Reddit threads
 
 * [Men of reddit, what’s the biggest green flag in a woman?](https://www.reddit.com/r/AskReddit/comments/15oczn3/men\_of\_reddit\_whats\_the\_biggest\_green\_flag\_in\_a/)
