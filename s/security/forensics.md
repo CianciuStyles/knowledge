@@ -17,9 +17,17 @@
 
 ### GitHub Repositories
 
+* [Digital Forensics Framework](https://github.com/arxsys/dff)
 * [Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
 * [MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
 * [WinPmem](https://github.com/Velocidex/WinPmem) - The multi-platform memory acquisition tool.
+
+### Tools
+
+* [CAINE](https://www.caine-live.net/) - GNU/Linux live distribution
+* [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager)
+* [PALADIN](https://sumuri.com/software/paladin/) - The World's Most Popular Linux Forensic Suite
+* [X-Ways Forensics](https://www.x-ways.net/forensics/) - Integrated Computer Forensics Software
 
 ### YouTube Videos
 
