@@ -17,10 +17,18 @@
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html) - Mikito Takada
 * [Understanding Distributed Systems](https://www.amazon.co.uk/dp/1838430210) - Roberto Vitillo
 
+### Courses
+
+* [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf) - Martin Kleppmann, University of Cambridge
+
 ### Hacker News threads
 
 * [Ask HN: Best books on modern distributed systems](https://news.ycombinator.com/item?id=28391738)
 * [Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
+
+### YouTube Playlists
+
+* [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv\_ohr\_HdUFe97RItdiB) - Martin Kleppmann
 
 ### YouTube Videos
 
