@@ -63,6 +63,14 @@
 * [Netlify](https://www.netlify.com/)
 * [tiiny.host](https://tiiny.host/)
 
+### Static Site Generators
+
+* [Eleventy](https://www.11ty.dev/)
+* [Hexo](https://hexo.io/)
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
+* [Pelican](https://getpelican.com/)
+
 ### Tools
 
 #### Deployments
