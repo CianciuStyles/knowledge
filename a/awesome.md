@@ -69,6 +69,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Software and Architectural Design Patterns: [https://github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 * Awesome Software Craftmanship: [https://github.com/benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship)
 * Awesome Software Quality: [https://github.com/ligurio/awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
+* Awesome Static Web Site Generators: [https://github.com/myles/awesome-static-generators](https://github.com/myles/awesome-static-generators)
 * Awesome Subreddits: [https://github.com/iCHAIT/awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 * Awesome System Design: [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
 * Awesome System Design Resources: [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
