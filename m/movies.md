@@ -22,6 +22,7 @@
 * [What are the best 'mind fuck' films to watch?](https://www.reddit.com/r/AskReddit/comments/5hzurh/what\_are\_the\_best\_mind\_fuck\_films\_to\_watch/) - [2](https://www.reddit.com/r/AskReddit/comments/5kg7xg/what\_are\_the\_best\_mind\_fuck\_films\_to\_watch/)
 * [What foreign language movie would you recommend?](https://www.reddit.com/r/AskReddit/comments/42kt0a/what\_foreign\_language\_movie\_would\_you\_recommend/)
 * [What horror movie is a 10/10?](https://www.reddit.com/r/AskReddit/comments/17iqp74/what\_horror\_movie\_is\_a\_1010/)
+* [What is a 10/10 great movie that originally came out 20+ years ago?](https://www.reddit.com/r/AskReddit/comments/1bbcpkz/what\_is\_a\_1010\_great\_movie\_that\_originally\_came/)
 * [What is a lesser-known but good movie?](https://www.reddit.com/r/AskReddit/comments/tnnjy1/what\_is\_a\_lesserknown\_but\_good\_movie/)
 * [What is a movie that is actually scary (preferably one that doesn't rely solely on jump scares)?](https://www.reddit.com/r/AskReddit/comments/9g5hhy/what\_is\_a\_movie\_that\_is\_actually\_scary\_preferably/)
 * [What is a movie you would legitimatley call a masterpiece?](https://www.reddit.com/r/AskReddit/comments/41gexj/what\_is\_a\_movie\_you\_would\_legitimatley\_call\_a/)
