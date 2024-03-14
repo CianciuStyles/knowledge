@@ -26,6 +26,14 @@
 * [Awesome OS](https://github.com/jubalh/awesome-os)
 * [Write your own OS](https://github.com/o-oconnell/writeyourownos) - Oisin O'Connell
 
+### Virtual Machine Software
+
+* [Parallels](https://www.parallels.com/products/desktop/) - macOS
+* [QEMU](https://www.qemu.org/) - Linux, macOS, Windows
+  * [Quickemu](https://github.com/quickemu-project/quickemu)
+* [VirtualBox](https://www.virtualbox.org/) - Linux, macOS, Windows
+* [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html.html) - Linux, Windows
+
 ### Websites
 
 * [netboot.xyz](https://netboot.xyz/)
