@@ -2,11 +2,6 @@
 
 ## Resources
 
-### Articles
-
-* Writing your own operating system - Oisin O'Connell
-  * [Part 1](https://o-oconnell.github.io/2023/01/12/p1os.html)
-
 ### Books
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com/) - Mohammed Q. Hussain
@@ -30,7 +25,9 @@
 
 * [Parallels](https://www.parallels.com/products/desktop/) - macOS
 * [QEMU](https://www.qemu.org/) - Linux, macOS, Windows
+  * [QtEmu](https://gitlab.com/qtemu/gui)
   * [Quickemu](https://github.com/quickemu-project/quickemu)
+  * [Quickgui](https://github.com/quickemu-project/quickgui)
 * [VirtualBox](https://www.virtualbox.org/) - Linux, macOS, Windows
 * [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html.html) - Linux, Windows
 
