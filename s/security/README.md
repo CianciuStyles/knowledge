@@ -70,6 +70,7 @@
 
 
 * [A Guide to Information Security Certifications (2020 Update)](https://danielmiessler.com/blog/infoseccerts/) - Daniel Miessler
+* [Cyber Security Certificate Tier List – UPDATED (2023) ](https://www.youtube.com/watch?v=NU9LNS3-rmo)- UnixGuy | Cyber Security
 
 ### Conferences
 
