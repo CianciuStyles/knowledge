@@ -50,8 +50,10 @@
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
 * [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
+* [Starfox 64](https://github.com/sonicdcer/sf64)
 * [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Metroid](https://github.com/strager/supermetroid)
+* [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 
