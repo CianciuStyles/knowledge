@@ -75,6 +75,7 @@
 * [SideQuest](https://sidequestjobs.com/?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=working)
 * [Slashscore](https://app.slashscore.ai/)
 * [Social Coder](https://socialcoder.org/Home/Index) - Software Development for Good Causes
+* [Tech Job Alerts](https://gettjalerts.com/)
 * [Tech Jobs for Good](https://www.techjobsforgood.com/)
 * [The Pragmatic Engineer Job Board](https://pragmatic-engineer.pallet.com/jobs)
 * [underdog.io](https://underdog.io/)
