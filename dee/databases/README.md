@@ -100,6 +100,10 @@
 
 * [LearnDB ](https://github.com/spandanb/learndb-py)- Learn database internals by implementing it from scratch
 
+### Images
+
+<figure><img src="../../.gitbook/assets/Top 6 Database Models.gif" alt=""><figcaption></figcaption></figure>
+
 ### Playgrounds
 
 * [DB Fiddle](https://www.db-fiddle.com/)
