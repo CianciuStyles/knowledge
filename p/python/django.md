@@ -24,6 +24,7 @@ description: https://www.djangoproject.com/
 * [Awesome Django Admin](https://github.com/originalankur/awesome-django-admin)
 * [Become A Job Ready Django Developer](https://github.com/flashohq/open-source-Django-courses)
 * [Django Ansible Setup](https://github.com/myarik/django-ansible-setup)
+* [Django Books](https://github.com/YeasirArafatRatul/DjangoBooks)
 * [Django Performance Testing](https://github.com/PaesslerAG/django-performance-testing)
 * [DjangoHero](https://github.com/gutfeeling/djangohero)
 * [django-perf-rec](https://github.com/adamchainz/django-perf-rec)
