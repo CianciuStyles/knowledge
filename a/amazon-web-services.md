@@ -35,6 +35,10 @@ description: https://aws.amazon.com
 * [AWS Online Courses](https://www.amazon.com/b/?ie=UTF8\&node=14297978011)
 * [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 
+### Images
+
+<figure><img src="../.gitbook/assets/Typical AWS Network Architecture.gif" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [Your First Week on Amazon Web Services](https://www.youtube.com/watch?v=7CiHBcqw6zc) - Miles Ward
