@@ -25,8 +25,8 @@
 ### Tools
 
 * [angr](https://angr.io/)
-* [x64dbg](https://x64dbg.com/)
 * [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
+* [Cutter](https://cutter.re/)
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
@@ -34,6 +34,8 @@
 * [IDA Pro](https://hex-rays.com/ida-pro/)
 * [ImHex](https://imhex.werwolv.net/) - Free and Open Source Hex Editor
 * [OllyDbg](https://www.ollydbg.de/)
+* [radare](https://rada.re/n/)
+* [x64dbg](https://x64dbg.com/)
 
 ### Tutorials
 
