@@ -42,6 +42,8 @@
 
 
 
+* [Animal Crossing](https://github.com/Prakxo/ac-decomp)
+* [Animal Forest](https://github.com/zeldaret/af)
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
@@ -56,6 +58,7 @@
 * [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 
 ### Microsoft Xbox
 
