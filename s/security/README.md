@@ -111,6 +111,7 @@
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings
 * [Crypton](https://github.com/ashutosh1206/Crypton)
+* [Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
 * [Cybersecurity Educational Resources](https://github.com/CSIRT-MU/edu-resources)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [Hacking Books](https://github.com/tanc7/hacking-books)
