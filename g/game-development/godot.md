@@ -24,6 +24,10 @@ description: https://godotengine.org/
 * [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)
 * [Godot Engine](https://github.com/godotengine/godot)
 
+### YouTube Playlists
+
+* [Remaking Super Mario World in Godot](https://www.youtube.com/playlist?list=PLKCF1pHYsbiHNKGBoHrIM2l19tlN5GdVK) - Eric Kaiser
+
 ### Websites
 
 * [Godot Docs](https://docs.godotengine.org/en/stable/index.html)
