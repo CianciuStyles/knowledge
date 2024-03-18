@@ -87,7 +87,7 @@
 
 * [Apache](https://httpd.apache.org/)
 * [Caddy](https://caddyserver.com/)
-* [Nginx](https://www.nginx.com/)
+* [Nginx](https://www.nginx.com/) ([Freenginx](https://freenginx.org/))
 
 ### Websites
 
