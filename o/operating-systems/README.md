@@ -24,6 +24,7 @@
 ### Virtual Machine Software
 
 * [Parallels](https://www.parallels.com/products/desktop/) - macOS
+* [PearPC](https://pearpc.sourceforge.net/) ([GitHub](https://github.com/sebastianbiallas/pearpc))
 * [QEMU](https://www.qemu.org/) - Linux, macOS, Windows
   * [QtEmu](https://gitlab.com/qtemu/gui)
   * [Quickemu](https://github.com/quickemu-project/quickemu)
