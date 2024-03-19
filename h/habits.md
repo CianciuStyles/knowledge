@@ -119,6 +119,7 @@
 ### Podcasts
 
 * [A Proven System for Building and Breaking Habits](https://www.artofmanliness.com/character/habits/building-breaking-habits) - The Art of Manliness
+* [No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!](https://www.youtube.com/watch?v=rDdoUbCFn24) - The Diary Of A CEO
 
 ### Reddit Threads
 
