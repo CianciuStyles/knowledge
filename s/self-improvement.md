@@ -33,3 +33,7 @@
 * [Matt D'Avella](https://www.youtube.com/@mattdavella/videos)
 * [One Percent Better](https://www.youtube.com/c/OnePercentBetter/videos)
 * [struthless](https://www.youtube.com/@struthless/videos)
+
+### YouTube Videos
+
+* [33 Life-Changing Books Summarized in 20 Minutes](https://www.youtube.com/watch?v=7kwqWgXzHvc) - Mark Manson
