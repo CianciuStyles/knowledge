@@ -42,7 +42,16 @@
 * [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/) - Maddie Stone
 * [Nightmare](https://guyinatuxedo.github.io/)
 
-### Videos
+### Websites
+
+* [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
+  * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
+
+### YouTube Playlists
+
+* [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL\_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi) - HackadayU
+
+### YouTube Videos
 
 * [An introduction to hacking video games with Ghidra](https://www.youtube.com/watch?v=qCEZC3cPc1s) - Hilltop
 * [Cicoparser: Full game reverse engineering ](https://www.youtube.com/watch?v=4fAeUx8A-OE)- Gabriel Archandel
@@ -56,7 +65,4 @@
 * [Self-Learning Reverse Engineering in 2022](https://www.youtube.com/watch?v=gPsYkV7-yJk) - LiveOverflow
 * [x64dbg Demo | CrackMe Challenges](https://www.youtube.com/watch?v=fBPj5yEJgck) - stryker2k2
 
-### Websites
-
-* [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
-  * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
+###
