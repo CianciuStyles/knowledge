@@ -33,6 +33,7 @@
 * [The four-hour work day](https://ckarchive.com/b/27u2hohv3m877b3h4) - Oliver Burkeman
 * [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/) - Andrew Chen
 * [The reality of Big Tech's 'fake work' problem](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7?r=US\&IR=T) - Hugh Langley and Grace Key, Business Insider
+* [The senior engineer plateau](https://yolken.net/blog/senior-engineer-plateau) - Benjamin Yolken
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans
 * [Up or Out: Solving the IT Turnover Crisis](https://thedailywtf.com/articles/up-or-out-solving-the-it-turnover-crisis) - Alex Papadimoulis
 * [What does a CTO actually do?](https://vadimkravcenko.com/shorts/what-cto-does/) - Vadim Kravcenko
