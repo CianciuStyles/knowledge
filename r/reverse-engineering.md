@@ -7,6 +7,7 @@
 * [Exploring Tokimeki Memorial](https://tetracorp.github.io/tokimeki-memorial/) - Tetracorp
 * [Hacking AirPlay into Sonos](https://medium.com/@stephencwan/hacking-airplay-into-sonos-93a41a1fcfbb) - Stephen Wan
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - t0st ([HN thread](https://news.ycombinator.com/item?id=26296339))
+* [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/) - Andy Hippo
 
 ### Books
 
