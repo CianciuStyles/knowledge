@@ -193,6 +193,7 @@
 * [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) - High Scalability
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Database Sharding: Concepts and Examples](https://www.mongodb.com/features/database-sharding-explained) - MongoDB
+* [Hashing](https://samwho.dev/hashing/) - Sam Rose
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 * [What is a content delivery network (CDN)?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/) - CloudFlare
 
