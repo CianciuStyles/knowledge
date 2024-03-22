@@ -195,6 +195,7 @@
 * [Database Sharding: Concepts and Examples](https://www.mongodb.com/features/database-sharding-explained) - MongoDB
 * [Hashing](https://samwho.dev/hashing/) - Sam Rose
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
+* [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/) - Craig Buckler, SitePoint
 * [What is a content delivery network (CDN)?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/) - CloudFlare
 
 ### Books
