@@ -9,6 +9,7 @@
 * [PSNProfiles](https://psnprofiles.com/)
 * [RetroAchievements](https://retroachievements.org/)
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
+  * [How to Use Steam Achievement Manager to Unlock Any Achievement](https://www.makeuseof.com/how-to-use-steam-achievement-manager/) - Jason Currie, MakeUseOf
 * [That One Achievement](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatOneAchievement) - TV Tropes
 * [TrueAchievements](https://www.trueachievements.com/)
 * [TrueSteamAchievements](https://truesteamachievements.com/)
