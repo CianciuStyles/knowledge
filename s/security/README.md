@@ -116,6 +116,7 @@
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [Hacking Books](https://github.com/tanc7/hacking-books)
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
+* [Offensive Reverse Shell (Cheat Sheet)](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet)
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
