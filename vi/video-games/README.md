@@ -8,6 +8,7 @@
 
 * [PSNProfiles](https://psnprofiles.com/)
 * [RetroAchievements](https://retroachievements.org/)
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
 * [That One Achievement](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThatOneAchievement) - TV Tropes
 * [TrueAchievements](https://www.trueachievements.com/)
 * [TrueSteamAchievements](https://truesteamachievements.com/)
