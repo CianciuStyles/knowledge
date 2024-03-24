@@ -3,11 +3,13 @@
 ### Marketplaces
 
 * [Affetto Italiano](https://www.affettoitaliano.co.uk/) - Italian Food Shopping Online
+* [AliExpress](https://www.aliexpress.com/)
 * [Amazon UK](https://smile.amazon.co.uk/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
   * [ShitYouCanAfford](https://shityoucanafford.com/) - The Best Products on Amazon Under $20
 * [Bonanza](https://www.bonanza.com/) - Find everything but the ordinary
 * [Delcampe](https://www.delcampe.net/it/collezionismo/)
+* [DHgate ](https://www.dhgate.com/)- China Wholesale Products
 * [eBay UK](https://www.ebay.co.uk/)
   * [99pbids](https://99pbids.co.uk/)
   * [BayCrazy](https://www.baycrazy.com/)
@@ -26,6 +28,7 @@
 * [SpeedyHen](https://www.speedyhen.com/)
 * [Subito.it](https://www.subito.it/)
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
+* [Temu](https://www.temu.com)
 
 ### Lists
 
