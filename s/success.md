@@ -22,6 +22,8 @@
 
 <figure><img src="../.gitbook/assets/7 Rare Traits I See In Every High Performer.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/9 Rare Traits In Eery High Performer.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Reddit Threads
 
 * [The greatest threat to success is not failure but boredom](https://www.reddit.com/r/productivity/comments/15jt02z/the\_greatest\_threat\_to\_success\_is\_not\_failure\_but/)
