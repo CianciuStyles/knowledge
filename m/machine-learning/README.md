@@ -47,16 +47,17 @@
 
 * [Learning From Data](https://work.caltech.edu/telecourse) - California Institute of Technology
 
-### Hacker News threads
-
-* [Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
-
 ### GitHub repositories
 
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
+* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) - Stas Bekman
 * [Machine Learning Research Papers](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers)
+
+### Hacker News threads
+
+* [Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 
 ### Websites
 
