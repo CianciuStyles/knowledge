@@ -6,6 +6,10 @@
 
 ## Resources
 
+### Articles
+
+* [Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/) - Farnam Street
+
 ### Books
 
 * [How to Stop Worrying and Start Living](https://smile.amazon.co.uk/Worrying-Start-Living-Personal-Development/dp/0749307234/) - Dale Carnegie
