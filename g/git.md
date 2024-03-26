@@ -75,6 +75,7 @@ description: https://git-scm.com/
 
 * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - Michael Schwern
 * [So You Think You Know Git](https://www.youtube.com/watch?v=aolI\_Rz0ZqY) - Scott Chacon
+* [So You Think You Know Git Part 2 ](https://www.youtube.com/watch?v=Md44rcw13k4)- Scott Chacon
 
 ### Websites
 
