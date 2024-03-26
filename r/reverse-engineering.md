@@ -54,6 +54,7 @@
 
 ### YouTube Videos
 
+* [An exhaustive look at extracting graphics from PS1 and PS2 games](https://www.youtube.com/watch?v=lePKUCYakqM) - Hilltop
 * [An introduction to hacking video games with Ghidra](https://www.youtube.com/watch?v=qCEZC3cPc1s) - Hilltop
 * [Cicoparser: Full game reverse engineering ](https://www.youtube.com/watch?v=4fAeUx8A-OE)- Gabriel Archandel
 * [Reverse Engineering, but it's 100 Math Problems.](https://www.youtube.com/watch?v=VLd9GZg8ALs) - Low Level Learning
