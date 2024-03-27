@@ -75,6 +75,7 @@
 * [Co-Optimus](https://www.co-optimus.com/)
 * [DoesItPlay?](https://www.doesitplay.org/)
 * [Game Boy Database](https://www.game-boy-database.com/index.php)
+* [Game Boy hardware database](https://gbhwdb.gekkio.fi/)
 * [Glitchwave](https://glitchwave.com/)
 * [How Long To Beat](https://howlongtobeat.com/)
 * [IGDB.com](https://www.igdb.com/discover)
