@@ -65,6 +65,7 @@ description: https://git-scm.com/
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
 * [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) - Julia Evans
+* [The "current branch" in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/) - Julia Evans
 * [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/) - Abin Simon
 * [When to Use Each of the Git Diff Algorithms](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/) - Lup Peng
 
