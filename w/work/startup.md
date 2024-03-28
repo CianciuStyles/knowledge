@@ -35,6 +35,7 @@
 ### Websites
 
 * [Bizplan](https://www.bizplan.com/)
+* [Discuss @ Bootstrapped.fm](https://discuss.bootstrapped.fm/)
 * [Free Stuff for Startups](https://www.producthunt.com/@hnshah/collections/free-stuff-for-startups)
 * [MicroAcquire](https://microacquire.com/)
 * [Startup Directory](https://www.eggradients.com/startup-directory)
