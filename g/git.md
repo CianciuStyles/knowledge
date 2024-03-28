@@ -58,6 +58,7 @@ description: https://git-scm.com/
   * [Git Tips 1: Oldies but Goodies](https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/)
   * [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/)
   * [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+* [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/) - Julia Evans
 * [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/) - Julia Evans
 * [Inside .git ](https://jvns.ca/blog/2024/01/26/inside-git/)- Julia Evans
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
