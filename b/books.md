@@ -150,6 +150,7 @@
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
 * [BookPecker.com](https://www.bookpecker.com/) - 14509 books summarized in 5 bullet points
+* [BooksMyMood](https://booksbymood.com) - Find Books Based on Your Mood
 * [ComproVendoLibri.it](https://comprovendolibri.it/home.asp)
 * [Feedbooks](https://it.feedbooks.com/publicdomain)
 * [Find Book](https://www.find-book.co.uk/) - UK prices comparator
