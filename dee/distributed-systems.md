@@ -9,6 +9,7 @@
 * [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) - Andy Warfield
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Martin Fowler
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Microsoft Docs
+* [Consistency Models](https://jepsen.io/consistency) - Jepsen
 * [How Complex Systems Fail](https://how.complexsystems.fail/) - Richard Cook
 
 ### Books
