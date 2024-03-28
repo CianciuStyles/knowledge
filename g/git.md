@@ -61,6 +61,7 @@ description: https://git-scm.com/
 * [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/) - Julia Evans
 * [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/) - Julia Evans
 * [Inside .git ](https://jvns.ca/blog/2024/01/26/inside-git/)- Julia Evans
+* [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109) - Martin Heinz
 * [Most common git screwups/questions and solutions](https://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) - Matt Neuburg
 * [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) - Julia Evans
