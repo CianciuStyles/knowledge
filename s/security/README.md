@@ -45,6 +45,7 @@
 
 ### Blogs
 
+* [Embee Research](https://embee-research.ghost.io/)
 * [Filippo Valsorda](https://filippo.io/)
 * [harmj0y](https://blog.harmj0y.net/)
 * [SkullSecurity](https://www.skullsecurity.org/)
@@ -168,6 +169,7 @@
 * [Compiler Explorer](https://godbolt.org/)
 * [crt.sh](https://crt.sh/) - Certificate Search
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
+* [CyberDefenders](https://cyberdefenders.org/) - Online Cyber Security Blue Team Training
 * [Cybersecurity](https://hero.page/cybersecurity)
 * [Cybrary](https://www.cybrary.it/)
 * [CySec Careers](https://cysec.careers/)
