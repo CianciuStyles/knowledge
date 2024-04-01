@@ -121,6 +121,7 @@
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Julio Cesar Fort
+* [sec-tools](https://github.com/eugenekolo/sec-tools)
 * [SecLists](https://github.com/danielmiessler/SecLists)
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)

@@ -17,6 +17,7 @@
 
 ### GitHub Repositories
 
+* [DFIR](https://github.com/dbissell6/DFIR)
 * [Digital Forensics Framework](https://github.com/arxsys/dff)
 * [Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
 * [MemLabs](https://github.com/stuxnet999/MemLabs) - Educational, CTF-styled labs for individuals interested in Memory Forensics
