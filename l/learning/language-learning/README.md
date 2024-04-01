@@ -35,6 +35,7 @@
 ### Apps
 
 * [Anki](https://apps.ankiweb.net/)
+* [Glossarie](https://glossarie.app/)
 * [Vokabeln](https://vokabeln.io/)
 
 ### Articles
