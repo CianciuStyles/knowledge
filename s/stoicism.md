@@ -33,6 +33,10 @@
 
 <figure><img src="https://i.redd.it/85gfz3cbjhjb1.png" alt=""><figcaption></figcaption></figure>
 
+### Podcasts
+
+* [The Discipline Expert: 2,000 Years Of Research PROVES Successful People Do One Thing! - Ryan Holiday](https://www.youtube.com/watch?v=PafvhTSC4yE) - The Diary Of A CEO
+
 ### Subreddits
 
 * [r/Stoicism](https://www.reddit.com/r/Stoicism/)
