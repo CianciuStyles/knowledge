@@ -126,6 +126,12 @@
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
+### Images
+
+
+
+<figure><img src="../../.gitbook/assets/Roadmap for Learning Cyber Security.gif" alt=""><figcaption></figcaption></figure>
+
 ### Meetups
 
 * [DEF CON Groups](https://forum.defcon.org/social-groups)
