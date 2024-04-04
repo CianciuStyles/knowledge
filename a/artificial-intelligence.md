@@ -11,6 +11,7 @@
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
 * [LLM Visualization](https://bbycroft.net/llm) - Brendan Bycroft
+* [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) - Noah Smith
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
 * [The AI Revolution - Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) - Tim Urban, Wait But Why
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
