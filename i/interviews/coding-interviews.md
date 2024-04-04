@@ -65,6 +65,7 @@
 * [LeetCode](https://leetcode.com/)
   * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
   * [LeetCode Explore](https://leetcode.com/)
+  * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new\_grokking\_to\_leetcode/) ([GitHub](https://github.com/navidre/new\_grokking\_to\_leetcode))
 * [NeetCode](https://neetcode.io/)
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
 * [pgrammer](https://www.pgrammer.com/)
