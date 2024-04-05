@@ -161,3 +161,7 @@
   * [Xenia Xbox 360 Emulation on Steam Deck is impressive](https://www.youtube.com/watch?v=qVDCPUczUiM)
   * [XBSX2 PS2 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=85\_yRd492lQ)
   * [You should hack your PS Vita...](https://www.youtube.com/watch?v=ar1\_BJIjQsQ)
+
+YouTube Videos
+
+* [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
