@@ -1,9 +1,5 @@
 # Self Improvement
 
-
-
-<figure><img src="https://i.redd.it/ygk8kq4xlqaa1.png" alt=""><figcaption></figcaption></figure>
-
 ## Resources
 
 ### Articles
@@ -20,6 +16,12 @@
 * [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://smile.amazon.co.uk/dp/0062457721) - Mark Manson
   * [Book summary by One Percent Better](https://www.youtube.com/watch?v=Z4OFjFq-Xis)
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/the-subtle-art-of-not-giving-a-fuck/)
+
+### Images
+
+<figure><img src="https://i.redd.it/ygk8kq4xlqaa1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/If This Then That.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Podcasts
 
