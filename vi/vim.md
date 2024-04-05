@@ -6,6 +6,7 @@
 * [The minimum vi(m) you need to know](https://archive.is/XMUFD) - Tiger Asks...
 * [Vim Commands Cheat Sheet](https://www.fprintf.net/vimCheatSheet.html)
 * [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) - Matthieu Cneude
+* [Vim help files](https://vimhelp.org/)
 * [Vim Videos](https://derekwyatt.org/vim/tutorials/index.html)
 * [Vimified](https://www.vimified.com/)
 * [Vimwiki](https://vimwiki.github.io/)
