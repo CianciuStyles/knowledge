@@ -8,5 +8,6 @@
 * [Vim Commands: A Beginner Guide with Examples](https://thevaluable.dev/vim-commands-beginner/) - Matthieu Cneude
 * [Vim help files](https://vimhelp.org/)
 * [Vim Videos](https://derekwyatt.org/vim/tutorials/index.html)
+* [Vim Visual Cheat Sheet](https://hamwaves.com/vim.tutorial/en/index.html)
 * [Vimified](https://www.vimified.com/)
 * [Vimwiki](https://vimwiki.github.io/)
