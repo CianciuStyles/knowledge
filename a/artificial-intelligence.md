@@ -36,6 +36,12 @@
 * [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
 * [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
+### Images
+
+
+
+<figure><img src="../.gitbook/assets/ChatGPT Cheat Sheet.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### Tools
 
 * [ChatGPT ](https://chat.openai.com/)- OpenAI
