@@ -24,6 +24,7 @@
 
 * [Addy Osmani](https://addyosmani.com/blog/)
 * [Josh W Comeau](https://www.joshwcomeau.com/)
+* [Steve Souders](https://stevesouders.com/)
 
 ### Books
 
