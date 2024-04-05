@@ -63,6 +63,7 @@
 ### Microsoft Xbox
 
 * [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
+* [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
 
 ### Nintendo Wii
 
