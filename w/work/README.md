@@ -32,6 +32,7 @@
   * [Senior (L5) -> Staff (L6)](https://www.developing.dev/p/speedrunning-guide-senior-l5-staff)
 * [The Ask A Manager guide To Asking For A Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html) - Ask A Manager
 * [The best career advice I’ve received](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/) - Nicholas C. Zakas
+* [The Curse of the Senior Software Engineer](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/) - Dmitry Kudryavtsev
 * [The four-hour work day](https://ckarchive.com/b/27u2hohv3m877b3h4) - Oliver Burkeman
 * [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/) - Andrew Chen
 * [The reality of Big Tech's 'fake work' problem](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7?r=US\&IR=T) - Hugh Langley and Grace Key, Business Insider
