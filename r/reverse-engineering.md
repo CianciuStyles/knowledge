@@ -17,6 +17,7 @@
 ### Cheat Sheets
 
 * [A quick guide to Android app reversing](http://pages.cpsc.ucalgary.ca/\~joel.reardon/mobile/smali-cheat.pdf)
+* [GDB personal cheatsheet](https://liodeus.github.io/2020/11/13/GDB.html) - Liodeus
 
 ### GitHub Repositories
 
