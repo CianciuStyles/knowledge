@@ -26,6 +26,7 @@
 * [AngelList](https://angel.co/)
 * [Arc.dev](https://arc.dev/)
 * [Based Remote](https://basedremote.com/)
+* [bloomberry](https://bloomberry.com/remote-jobs/)
 * [FlexJobs](https://www.flexjobs.com/)
 * [GoWFH](https://gowfh.com/)
 * [Gun.io](https://www.gun.io/)
