@@ -24,6 +24,7 @@
 * [Guida Galattica al profilo LinkedIn](https://guidopenta.github.io/galactic-linkedin-profile-guide/) ([English version](https://guidopenta.github.io/galactic-linkedin-profile-guide/english.html)) - Guido Penta
 * [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) - Adaobi Adibe
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
+* [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) - Apoorva Govind, Valley Girl Newsletter
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
 * Speedrunning Guide - Ryan Peterman
@@ -43,6 +44,7 @@
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - Charles Duhigg
 * [What makes a strategy great](https://longform.asmartbear.com/great-strategy/) - Jason Cohen, A Smart Bear
 * [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - Gergely Orosz
+* [Why software projects fail](https://vadimkravcenko.com/shorts/why-software-projects-fail/) - Vadim Kravchenko
 * [Why The Status Quo Is So Hard To Change In Engineering Teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) - Antoine Boulanger
 * [Working at a Startup vs in Big Tech](https://blog.pragmaticengineer.com/working-at-a-startup-vs-in-big-tech/) - Gergely Orosz
 
