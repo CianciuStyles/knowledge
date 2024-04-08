@@ -93,6 +93,7 @@
 ### GitHub Repositories
 
 * [Amazing Developer On YouTube](https://github.com/ErikCH/DevYouTubeList)
+* [Debugging Stories](https://github.com/danluu/debugging-stories) - Dan Luu
 * [Developer Newsletters](https://github.com/jackbridger/developer-newsletters)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
