@@ -132,6 +132,11 @@
 
 <figure><img src="../../.gitbook/assets/Roadmap for Learning Cyber Security.gif" alt=""><figcaption></figcaption></figure>
 
+### Linux Distributions
+
+* [Kali Linux](https://www.kali.org/) - OffSec
+* [Parrot OS](https://www.parrotsec.org/) - Parrot Security
+
 ### Meetups
 
 * [DEF CON Groups](https://forum.defcon.org/social-groups)
