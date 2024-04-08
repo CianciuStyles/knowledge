@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/) - Morgan Housel
 * [Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/) - Farnam Street
 
 ### Books
