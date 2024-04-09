@@ -74,6 +74,7 @@
 * [LetterBomb](https://please.hackmii.com/)
 * [ModMii for Windows](https://modmii.github.io/)
 * [Wii Guide](https://wii.guide/)
+* [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
 ### Ports and Replacements
 
