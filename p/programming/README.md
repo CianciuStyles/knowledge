@@ -136,6 +136,7 @@
 * [Kindling projects](https://nedbatchelder.com/text/kindling.html) - Ned Batchelder
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
 * [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=25489879))
+* [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas) - Andrei Ciobanu
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Tu V. Tran
 * [Projectbook](https://projectbook.code.brettchalupa.com/) - Brett Chalupa
 * [Protohackers](https://protohackers.com/)
