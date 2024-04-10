@@ -36,6 +36,40 @@
 * [Super Mario 64 on the Web!](https://28klotlucas2.github.io/Mario64webgl/)
 * [wipEout](https://phoboslab.org/wipegame/) - Dominic Szablewski ([Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout))
 
+### Consoles
+
+#### Microsoft Xbox
+
+* [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
+* [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
+
+#### Nintendo 3DS
+
+* [3DS Hacks Guide](https://3ds.hacks.guide/)
+* [Pretendo Network](https://pretendo.network/) - open source replacement for Nintendo servers
+
+#### Nintendo Wii
+
+* Archive.org
+  * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
+  * [Nintendo Wii Europe 2/3 L-R](https://archive.org/details/rr-nintendo-wii-e2)
+  * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
+* [LetterBomb](https://please.hackmii.com/)
+* [ModMii for Windows](https://modmii.github.io/)
+* [Wii Guide](https://wii.guide/)
+* [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
+
+#### Sony PlayStation 2
+
+* Archive.org
+  * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
+  * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
+  * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
+* [Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+* [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
+* [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
+* [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
+
 ### Decompilations and Disassemblies
 
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
@@ -59,22 +93,6 @@
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 * [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
-
-### Microsoft Xbox
-
-* [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
-* [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
-
-### Nintendo Wii
-
-* Archive.org
-  * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
-  * [Nintendo Wii Europe 2/3 L-R](https://archive.org/details/rr-nintendo-wii-e2)
-  * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
-* [LetterBomb](https://please.hackmii.com/)
-* [ModMii for Windows](https://modmii.github.io/)
-* [Wii Guide](https://wii.guide/)
-* [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
 ### Ports and Replacements
 
@@ -101,17 +119,6 @@
 ### Reddit Threads
 
 * [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i\_am\_making\_a\_list\_of\_source\_ports\_on\_android/)
-
-### Sony PlayStation 2
-
-* Archive.org
-  * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
-  * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
-  * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
-* [Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
-* [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
-* [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
-* [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
 ### YouTube Channels
 
