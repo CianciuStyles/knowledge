@@ -88,6 +88,7 @@ int main() {
 * [Awesome Modern C++](https://awesomecpp.com/)
 * [C++ By Example](https://cppbyexample.com/)
 * [C++ Developer Guide](https://abseil.io/docs/cpp/) - abseil
+* [C++ Tips of the Week](https://abseil.io/tips/) - abseil
 * [Modern C++ Tutorial](https://changkun.de/modern-cpp/en-us/00-preface/)
 
 ### YouTube playlists
