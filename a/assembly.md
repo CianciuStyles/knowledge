@@ -19,3 +19,7 @@
 * [Assembly x86 Emulator](https://carlosrafaelgn.com.br/Asm86/)
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 * [Putting the "You" in CPU](https://cpu.land/) - Lexi Mattick
+
+### YouTube Videos
+
+* [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8) - HackUCF
