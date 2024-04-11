@@ -42,6 +42,7 @@
 
 * [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
+  * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
 #### Nintendo 3DS
 
