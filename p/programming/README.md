@@ -103,6 +103,7 @@
 * [Professional Programming](https://github.com/charlax/professional-programming)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [Software Papers](https://github.com/facundoolano/software-papers)
+* [The Art of Debugging](https://github.com/stas00/the-art-of-debugging)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Today I Learned](https://github.com/jbranchaud/til) - Josh Branchaud
 
