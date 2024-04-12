@@ -45,6 +45,7 @@
 
 ### Blogs
 
+* [Corelan Cybersecurity Research](https://www.corelan.be/)
 * [Embee Research](https://embee-research.ghost.io/)
 * [Filippo Valsorda](https://filippo.io/)
 * [harmj0y](https://blog.harmj0y.net/)
