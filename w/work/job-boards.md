@@ -81,5 +81,6 @@
 * [The Pragmatic Engineer Job Board](https://pragmatic-engineer.pallet.com/jobs)
 * [underdog.io](https://underdog.io/)
 * [Unicorn Hunt](https://unicornhunt.io/)
+* [Who Is Hiring Software Engineers and EMs? In 2022](https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi\_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374)
 * [whoishiring.io](https://whoishiring.io/)
 
