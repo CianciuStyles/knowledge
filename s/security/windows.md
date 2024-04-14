@@ -10,3 +10,7 @@
 ### Websites
 
 * [Active Directory Security](https://adsecurity.org/)
+* Windows Virtual Machines
+  * [Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
+  * [Windows 11 developer environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+  * [Windows 11 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise)
