@@ -70,6 +70,7 @@ description: https://www.python.org/
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [Awesome Python Decorator](https://github.com/Junnplus/awesome-python-books)
 * [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks)
+* [decompyle3](https://github.com/rocky/python-decompile3) - Python decompiler
 * [Free Python Books](https://github.com/pamoroso/free-python-books)
 * [PyCrumbs](https://github.com/kirang89/pycrumbs)
 * [Python Education](https://github.com/charlax/python-education)
@@ -79,6 +80,7 @@ description: https://www.python.org/
 * [Python Tips](https://github.com/smoqadam/python-tips)
 * [Python Wats](https://github.com/cosmologicon/pywat)
 * [Pytudes](https://github.com/norvig/pytudes) - Peter Norvig
+* [uncompyle6 ](https://github.com/rocky/python-uncompyle6/)- Python decompiler
 
 ### Hacker News threads
 
