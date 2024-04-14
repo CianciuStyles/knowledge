@@ -180,6 +180,7 @@
 * [Paged Out!](https://pagedout.institute/)
 * [ProgrammerHumor](https://programmerhumor.io/)
 * [Programming Idioms](https://www.programming-idioms.org/)
+* [punks.org](https://punkx.org/) - Games and puzzles to teach children programming
 * [Radical Simplicity in Technology](http://www.radicalsimpli.city/)
 * [Software Engineering Books](https://software-engineering-books.com/)
 * [Software Folklore](https://beza1e1.tuxen.de/lore/index.html)
