@@ -34,13 +34,18 @@
 * [angr](https://angr.io/)
 * [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
 * [Cutter](https://cutter.re/)
+* [dnSpy ](https://github.com/dnSpy/dnSpy)- .NET debugger and assembly editor
+* [Frida ](https://frida.re/)- A world-class dynamic instrumentation toolkit
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
 * [IDA Freeware](https://hex-rays.com/ida-free/)
 * [IDA Pro](https://hex-rays.com/ida-pro/)
+* [ILSpy ](https://github.com/icsharpcode/ILSpy)- .NET decompiler
 * [ImHex](https://imhex.werwolv.net/) - Free and Open Source Hex Editor
 * [OllyDbg](https://www.ollydbg.de/)
+* [ProcDOT](https://www.procdot.com/index.htm)
+* [Process Hacker](https://processhacker.sourceforge.io/)
 * [radare](https://rada.re/n/)
 * [x64dbg](https://x64dbg.com/)
 
