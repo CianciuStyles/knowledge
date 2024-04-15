@@ -17,6 +17,7 @@
 ### Articles
 
 * [5 Simple Exercises That Blasted Away My Lock-down Weight](https://medium.com/in-fitness-and-in-health/5-simple-exercises-that-blasted-away-my-lock-down-weight-ce5e9978f3c) - Scott Hughey
+* [5BX: The Cold War Military Workout for Getting Fit in 11 Minutes a Day](https://www.artofmanliness.com/health-fitness/5bx-the-cold-war-military-workout-for-getting-fit-in-11-minutes-a-day/) - The Art of Manliness
 * [A Beginner's Guide to Hiking](https://www.nerdfitness.com/blog/hiking/) - Nerd Fitness
 * [Ab exercises you should be doing](https://imgur.com/a/Fkql2)
 * [Body Recomposition: How to Lose Fat and Gain Muscle at the Same Time](https://physiqonomics.com/body-recomposition/) - Physiqonomics
