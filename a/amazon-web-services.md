@@ -37,6 +37,8 @@ description: https://aws.amazon.com
 
 ### Images
 
+<figure><img src="../.gitbook/assets/Most Important AWS Services To Learn.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Typical AWS Network Architecture.gif" alt=""><figcaption></figcaption></figure>
 
 ### Videos
