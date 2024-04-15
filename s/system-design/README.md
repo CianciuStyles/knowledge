@@ -190,6 +190,7 @@
 ### Articles
 
 * [5 Caching Mechanisms to Speed Up Your Application](https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application) - Pragati Verma
+* [Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e) - Mario Bittencourt
 * [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) - High Scalability
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Database Sharding: Concepts and Examples](https://www.mongodb.com/features/database-sharding-explained) - MongoDB
