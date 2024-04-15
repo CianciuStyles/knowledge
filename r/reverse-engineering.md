@@ -24,6 +24,7 @@
 
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+* [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
 
 ### Linux Distributions
 
