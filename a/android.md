@@ -10,6 +10,10 @@ description: https://www.android.com/
 
 * [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
+### GitHub Repositories
+
+* [Better `adb shell`](https://github.com/matan-h/adb-shell)
+
 ### Websites
 
 * [Android](https://www.android.com/)
