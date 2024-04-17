@@ -4,6 +4,7 @@
 
 * [10 lessons from successful one-person startups](https://engineercodex.substack.com/p/10-lessons-from-software-side-ventures) - Leonardo Creed, Engineer's Codex
 * [50 Big Companies that Started with Little or No Money](https://foundercollective.medium.com/50-big-companies-that-started-with-little-or-no-money-4ef1b68aac25) - Founder Collective
+* [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/) - Jason Cohen
 * [Going from Developer to CEO: Chronosphere](https://blog.pragmaticengineer.com/chronosphere/) - Gergely Orosz, The Pragmatic Engineer
 * [How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c) - Courtland Allen, Indie Hackers
 * [How to Start Google](https://paulgraham.com/google.html) - Paul Graham
