@@ -22,6 +22,7 @@
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [Great management and leadership books for the technical track ](https://ntietz.com/blog/great-management-and-leadership-books-for-the-technical-track/)- Nicole Tietz
 * [Guida Galattica al profilo LinkedIn](https://guidopenta.github.io/galactic-linkedin-profile-guide/) ([English version](https://guidopenta.github.io/galactic-linkedin-profile-guide/english.html)) - Guido Penta
+* [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/) - Vadim Kravcenko
 * [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) - Adaobi Adibe
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) - Apoorva Govind, Valley Girl Newsletter
