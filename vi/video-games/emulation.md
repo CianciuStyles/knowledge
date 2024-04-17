@@ -82,6 +82,7 @@
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
+* [Descent 3](https://github.com/kevinbentley/Descent3)
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
