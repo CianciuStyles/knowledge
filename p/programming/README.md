@@ -101,6 +101,7 @@
 * [Influential CS Books](https://github.com/cs-books/influential-cs-books)
 * [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [Professional Programming](https://github.com/charlax/professional-programming)
+* [Programming Best Practices In 2024](https://github.com/dereknguyen269/programing-best-practices-in-2024)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [Software Papers](https://github.com/facundoolano/software-papers)
 * [The Art of Debugging](https://github.com/stas00/the-art-of-debugging)
