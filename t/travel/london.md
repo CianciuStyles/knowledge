@@ -14,8 +14,13 @@
 
 ### Comedy Venues
 
+* [2Northdown](https://www.2northdown.com/home) - King's Cross
+* [99 Comedy Club](https://www.99clubcomedy.com/) - Covent Garden and Leicester Square
 * [Angel Comedy Club](https://www.angelcomedy.co.uk/) - Angel
+* [Backyard Comedy Club](https://backyardcomedyclub.co.uk/) - Bethnal Green
+* [Downstairs at the King's Head](http://www.downstairsatthekingshead.com/default.aspx) - Crouch End
 * [The Comedy Store](https://london.thecomedystore.co.uk/) - Leicester Square
+* [The Top Secret Comedy Club](https://thetopsecretcomedyclub.co.uk/) - Covent Garden
 
 ### Days Out
 
