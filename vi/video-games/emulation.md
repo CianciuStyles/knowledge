@@ -85,6 +85,7 @@
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
 * [Descent 3](https://github.com/kevinbentley/Descent3)
 * [Goldeneye 007](https://github.com/n64decomp/007)
+* [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
 * [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
