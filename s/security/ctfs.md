@@ -27,6 +27,7 @@
 * [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [CTFs](https://github.com/ctfs)
 * [devploit/ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources)
+* [Hacking Lab](https://github.com/onealmond/hacking-lab)
 * [how2heap](https://github.com/shellphish/how2heap/)
 * [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - retreive private key from weak public key and/or uncipher data
 * [rsatool](https://github.com/ius/rsatool) - rsatool can be used to calculate RSA and RSA-CRT parameters
