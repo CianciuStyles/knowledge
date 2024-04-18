@@ -187,6 +187,7 @@
 * [Genki](https://www.genkivideogames.com/) - Imported Japanese Video Games & Hardware
 * [GOG.com](https://www.gog.com/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
+* [Kingdom](https://kingdomstore.it/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Omega's Emporium](https://omegasemporium.com/)
