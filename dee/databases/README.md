@@ -108,10 +108,11 @@
 
 * [DB Fiddle](https://www.db-fiddle.com/)
 
-### Videos
-
-* [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw) - Fireship
-
 ### Websites
 
 * [State of Database Survey](https://stateofdb.com/)
+
+### YouTube Videos
+
+* [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw) - Fireship
+* [ACID Properties in Databases With Examples](https://www.youtube.com/watch?v=GAe5oB742dw) - ByteByteGo
