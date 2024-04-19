@@ -54,6 +54,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome OSS Alternatives: [https://github.com/RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 * Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * Awesome Podcasts: [https://github.com/rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
+* Awesome Postgres: [https://github.com/dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * Awesome Python Books: [https://github.com/junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books)
 * Awesome React: [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * Awesome Remote Companies: [https://github.com/fireball787b/awesome-remote-companies](https://github.com/fireball787b/awesome-remote-companies)

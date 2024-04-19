@@ -428,6 +428,10 @@
 
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - Hironobu Suzuki
 
+### GitHub Repositories
+
+* [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres)
+
 ### Websites
 
 * [Crunchy Data](https://www.crunchydata.com/developers/tutorials) - Postgres Tutorials
