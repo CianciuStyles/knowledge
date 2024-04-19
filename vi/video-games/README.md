@@ -383,6 +383,7 @@
 * [Abandonware Games](https://abandonwaregames.net/)
 * [DOS Game Club](https://www.dosgameclub.com/)
 * [Gamepad Tester](https://gamepad-tester.com/)
+* [Global Network Gaming](https://www.teamxlink.co.uk/) - Team XLink
 * [iFixit - Game Consoles](https://it.ifixit.com/Device/Game\_Console)
 * [KeyShare.link](https://keyshare.link/) - Platform for sharing unused game keys on Reddit
 * [Logical Increments](https://www.logicalincrements.com/)
