@@ -128,6 +128,7 @@
 * [All The Honeys](https://www.youtube.com/@Marta-allthehoneys/videos)
 * [Chris Invests](https://www.youtube.com/@ChrisInvests/videos)
 * [Damien Talks Money](https://www.youtube.com/@DamienTalksMoney/videos)
+  * [The Best Stocks & Shares ISA (2024 Rankings)](https://www.youtube.com/watch?v=p044Zyccjs8)
 * [Huw Davies](https://www.youtube.com/@Huwsview/videos)
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
   * [5 Strategies to Avoid Capital Gains Tax](https://www.youtube.com/watch?v=Nwua80BJY6I)
