@@ -10,6 +10,9 @@
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA
 * [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/resources/blog/free\_path) - Ellie Gillard
+* [From CTFs to The Real-World: Overview (Part 1)](https://dayzerosec.com/blog/2021/05/20/from-ctfs-to-the-real-world-an-overview.html) - Day\[0]
+* [From CTFs to Real-Vulnerabilities (Part 2)](https://dayzerosec.com/blog/2021/05/21/from-ctfs-to-real-vulnerabilities-part-2.html) - Day\[0]
+* [From CTFs to Real-Exploitation (Part 3)](https://dayzerosec.com/blog/2021/05/22/from-ctfs-to-real-exploitation-part-3.html) - Day\[0]
 * [Hack The Box (HTB) OSCP-Like machines List 2022](https://pentestblog.in/oscp/hack-the-box-htb-oscp-like-machines-list-2022/) - PentestBlog
 * [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
