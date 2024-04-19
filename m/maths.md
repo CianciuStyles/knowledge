@@ -30,6 +30,7 @@
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
+* [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson
 * [Complex Analysis](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/8538/Complex%20Analysis%20-%20Lang.pdf?sequence=1\&isAllowed=y) - Serge Lang
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/\~jmackey/151\_128/bws\_book.pdf) - Brendan W. Sullivan
 * [How To Solve It ](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)- George Polya
@@ -37,6 +38,7 @@
 * [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
 * [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+* [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up) - M. Vygodsky
 * [Topics in Algebra](https://marinazahara22.files.wordpress.com/2013/10/i-n-herstein-topics-in-algebra-2nd-edition-1975-wiley-international-editions-john-wiley-and-sons-wie-1975.pdf) - I. N. Herstein
 * [Understanding Analysis](https://homel.vsb.cz/\~ulc0011/Abbott%20-%20Understanding%20Analysis.pdf) - Stephen Abbott
 
