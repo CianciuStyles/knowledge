@@ -49,6 +49,10 @@
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
 * [Pretendo Network](https://pretendo.network/) - open source replacement for Nintendo servers
 
+#### Nintendo 64
+
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+
 #### Nintendo Wii
 
 * Archive.org
