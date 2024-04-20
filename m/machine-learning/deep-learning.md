@@ -26,6 +26,7 @@
 
 * [DeepLearning.AI](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
+* [NVIDIA Deep Learning Institute](https://learn.nvidia.com/)
 
 ### YouTube Playlists
 
