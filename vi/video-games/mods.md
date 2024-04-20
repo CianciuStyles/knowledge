@@ -85,6 +85,14 @@
 * [SWAT: First Responders](https://www.moddb.com/mods/sef-first-responders)
 * [SWAT 4: Graphical Enrichment Mod](https://www.moddb.com/mods/swat-4-graphical-enrichment-mod)
 
+### The Legend of Zelda: Majora's Mask
+
+* [4K Texture Pack by Henriko Magnifico](https://www.henrikomagnifico.com/zelda-majoras-mask-3d-4k)
+
+### The Legend of Zelda: Ocarina of Time
+
+* [4K Texture Pack by Henriko Magnifico](https://www.henrikomagnifico.com/zelda-ocarina-of-time-3d-4k)
+
 ### The Witcher 2: Assassins of Kings
 
 * [Farewell of the White Wolf](https://www.moddb.com/mods/farewell-of-the-white-wolf)
