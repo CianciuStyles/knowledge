@@ -63,6 +63,8 @@
 ### Subreddits
 
 * [r/EatCheapAndVegan](https://www.reddit.com/r/EatCheapAndVegan/)
+* [r/intermittentfasting](https://www.reddit.com/r/intermittentfasting/)
+  * [Intermittent Fasting Wiki](https://www.reddit.com/r/intermittentfasting/wiki/index)
 * [r/Keto](https://www.reddit.com/r/keto/)
 * [r/Volumeeating](https://www.reddit.com/r/Volumeeating/)
 
