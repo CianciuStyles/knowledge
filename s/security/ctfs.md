@@ -73,12 +73,13 @@
 
 * [BruteX](https://github.com/1N3/BruteX)
 * [hashcat](https://hashcat.net/hashcat/)
-  * [CrackerJack](https://github.com/ctxis/crackerjack)
+  * [CrackerJack](https://github.com/ctxis/crackerjack) - Web GUI
   * [GovCracker](https://github.com/Are-s-h/GovCracker)
-  * [hashcat.launcher](https://github.com/s77rt/hashcat.launcher)
+  * [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - cross-platform app that runs and controls hashcat
   * [hate\_crack](https://github.com/trustedsec/hate\_crack)
 * [John the Ripper](https://www.openwall.com/john/)
-  * [Johnny](https://github.com/openwall/johnny)
+  * [Johnny](https://github.com/openwall/johnny) - GUI frontend
+* [Ophcrack ](https://ophcrack.sourceforge.io/)- Windows password cracker
 
 #### Reconnaissance
 
