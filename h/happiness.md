@@ -6,6 +6,10 @@
 
 ## Resources
 
+### Articles
+
+* [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) - Adam Mastroianni
+
 ### Courses
 
 * [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - Laurie Santos, Yale
