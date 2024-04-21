@@ -87,6 +87,7 @@
 * [LinkedIn](https://it.linkedin.com/)
 * [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 * [promotions.fyi](https://www.promotions.fyi/)
+* [TechPays Europe](https://techpays.com/)
 * [We've all faced rejection](https://rejected.us/)
 * [You Got This!](https://yougotthis.io/)
 
