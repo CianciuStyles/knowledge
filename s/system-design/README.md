@@ -185,8 +185,6 @@
 
 ## Resources
 
-![](<../../.gitbook/assets/immagine (1).png>)
-
 ### Articles
 
 * [5 Caching Mechanisms to Speed Up Your Application](https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application) - Pragati Verma
@@ -225,9 +223,15 @@
 * [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+### Images
+
+![](<../../.gitbook/assets/immagine (1).png>)
+
+<figure><img src="../../.gitbook/assets/The Fantastic Four of System Design.gif" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
-* [Scalability](https://www.youtube.com/watch?v=-W9F\_\_D3oY4) - David Malan
+* [Scalability](https://www.youtube.com/watch?v=-W9F\_\_D3oY4) - David Malan, Harvard University
 
 ### Websites
 
