@@ -64,6 +64,7 @@
 * [HackerEarth](https://www.hackerearth.com/)
 * [LeetCode](https://leetcode.com/)
   * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+  * [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
   * [LeetCode Explore](https://leetcode.com/)
   * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new\_grokking\_to\_leetcode/) ([GitHub](https://github.com/navidre/new\_grokking\_to\_leetcode))
 * [NeetCode](https://neetcode.io/)

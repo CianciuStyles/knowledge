@@ -23,7 +23,6 @@
 
 ### Remote Jobs
 
-* [AngelList](https://angel.co/)
 * [Arc.dev](https://arc.dev/)
 * [Based Remote](https://basedremote.com/)
 * [bloomberry](https://bloomberry.com/remote-jobs/)
@@ -44,6 +43,7 @@
 * [Remotive](https://remotive.io/)
 * [Turing Jobs](https://www.turing.com/jobs)
 * [We Work Remotely](https://weworkremotely.com/)
+* [Wellfound](https://wellfound.com/)
 * [Work From Hut](https://www.workfromhut.com/)
 * [Working Nomads](https://www.workingnomads.co/jobs)
 
@@ -59,6 +59,7 @@
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
 * [Devjobsscanner](https://www.devjobsscanner.com/)
 * [#epicjobs](https://epicjobs.co/)
+* [Fifth Wall](https://jobs.fifthwall.vc/jobs)
 * [FossFox](https://fossfox.com/) - Work with open-source and get paid for it
 * [hackajob](https://hackajob.co/)
 * [Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) ([GitHub](https://github.com/poteto/hiring-without-whiteboards))
@@ -67,6 +68,8 @@
 * [HNHIRING](https://hnhiring.com/)
 * [Just Join IT](https://justjoin.it/)
 * [Lemon.io](https://lemon.io/)
+* [Lenny's Talent Team](https://lennys-jobs.pallet.com/)
+* [Mind The Product](https://jobs.mindtheproduct.com/)
 * [Notify](https://notify.careers/postings)
 * [Otta](https://otta.com/)
 * [People-First Job](https://peoplefirstjobs.com/)
@@ -79,8 +82,12 @@
 * [Tech Job Alerts](https://gettjalerts.com/)
 * [Tech Jobs for Good](https://www.techjobsforgood.com/)
 * [The Pragmatic Engineer Job Board](https://pragmatic-engineer.pallet.com/jobs)
+* [The Muse](https://www.themuse.com/)
+* [Top Startups](https://www.topstartups.io/)
+* [TrueUp](https://www.trueup.io/)
 * [underdog.io](https://underdog.io/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [Who Is Hiring Software Engineers and EMs? In 2022](https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi\_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374)
 * [whoishiring.io](https://whoishiring.io/)
+* [Work at a Startup](https://www.workatastartup.com/)
 

@@ -9,6 +9,7 @@
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
 * [A Technology Leader's Non-Technical Reading List](https://staysaasy.com/leadership/2024/03/04/Leadership-Reading-List.html) - Stay SaaSy
+* [An Engineering Leader's Job Search Algorithm](https://docs.google.com/document/d/19fr\_36WOzKlq\_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Kevin Conroy
 * [Becoming a go-to person gets you promoted. Here's how to do it as a software engineer.](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) - Jordan Cutler
 * [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/) - Jacob Kaplan-Moss
 * [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
@@ -79,6 +80,7 @@
 ### Websites
 
 * [50 Ways to Get a Job](https://50waystogetajob.com/)
+* [High Paying Tech Companies](https://docs.google.com/document/d/1CeWvwkSCJtQW-\_w\_2VCxpEstldO1VqBCVXBzTfxE5pY/edit#heading=h.2qw50kdhocd2)
 * [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
