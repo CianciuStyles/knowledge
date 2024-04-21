@@ -11,3 +11,10 @@
 * [MyMiniFactory](https://www.myminifactory.com/)
 * [Printables](https://www.printables.com/it)
 * [Thingiverse](https://www.thingiverse.com/)
+
+### Sellers
+
+#### eBay
+
+* [3D Print Pros](https://www.ebay.co.uk/usr/3dprint.pros)
+* [Retro Gaming Lab](https://www.ebay.co.uk/usr/retro\_gaming\_lab)
