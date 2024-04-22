@@ -70,6 +70,10 @@
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
 * [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
 
+### Resident Evil
+
+* [Resident Evil Seamless HD Project](https://www.reshdp.com/re1/)
+
 ### Sanitarium
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
