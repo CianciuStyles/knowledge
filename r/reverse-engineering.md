@@ -22,6 +22,7 @@
 
 ### GitHub Repositories
 
+* [Ghidra Emotion Engine: Reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) - An extension for Ghidra that adds support for the PlayStation 2
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
