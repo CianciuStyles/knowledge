@@ -53,6 +53,10 @@
 
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 
+#### Nintendo GameCube
+
+* [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
+
 #### Nintendo Wii
 
 * Archive.org
