@@ -67,6 +67,7 @@
 * [LetterBomb](https://please.hackmii.com/)
 * [ModMii for Windows](https://modmii.github.io/)
 * [Wii Guide](https://wii.guide/)
+* [WiiBrew](https://wiibrew.org/wiki/Main\_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
 #### Sony PlayStation 2
