@@ -55,6 +55,7 @@
 
 #### Nintendo GameCube
 
+* [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main\_Page)
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
 #### Nintendo Wii
