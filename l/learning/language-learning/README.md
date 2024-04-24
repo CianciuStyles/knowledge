@@ -79,6 +79,7 @@
 * [LingQ](https://www.lingq.com/en/)
 * [Memrise](https://www.memrise.com/)
 * [Open Culture](https://www.openculture.com/freelanguagelessons) - Free Language Lessons
+* [Readlang](https://readlang.com/) - Read, translate and supercharge your vocabulary
 * [RhinoSpike](https://rhinospike.com/)
 * [Rype](https://www.rypeapp.com/)
 * [The Mimic Method](https://www.mimicmethod.com/)
