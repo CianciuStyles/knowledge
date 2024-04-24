@@ -1,5 +1,9 @@
 # Computer Science
 
+### Articles
+
+* [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - Daniel Hooper
+
 ### Courses
 
 * [Computer Science Academy](https://academy.cs.cmu.edu) - Carnegie Mellon University
