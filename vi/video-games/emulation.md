@@ -1,5 +1,6 @@
 # Emulation
 
+* [86Box](https://86box.net/) - Emulator of retro x86-based machines
 * Archive.org
   * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
@@ -10,6 +11,7 @@
 * [Console Living Room](https://archive.org/details/consolelivingroom)
 * [CoolROM](https://coolrom.com.au/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
+* [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
 * [EmuBrowser](https://emubrowser.com/)
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
