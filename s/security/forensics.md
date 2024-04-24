@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [A tcpdump Tutorial with Examples](https://danielmiessler.com/p/tcpdump/) - Daniel Miessler, Unsupervised Learning
 * [Volatility Cheat Sheet](https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet) - Carlos Polop, HackTricks
 * Volatility, my own cheatsheet - Andrea Fortuna
   * [Part 1: Image Identification](https://andreafortuna.org/2017/06/25/volatility-my-own-cheatsheet-part-1-image-identification/)
