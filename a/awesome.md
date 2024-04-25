@@ -52,6 +52,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome OS: [https://github.com/jubalh/awesome-os](https://github.com/jubalh/awesome-os)
 * Awesome OSINT: [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 * Awesome OSS Alternatives: [https://github.com/RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+* Awesome Penetration Testing: [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * Awesome Piracy: [https://github.com/Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * Awesome Podcasts: [https://github.com/rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 * Awesome Postgres: [https://github.com/dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)

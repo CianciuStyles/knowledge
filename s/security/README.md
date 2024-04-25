@@ -110,6 +110,7 @@
 
 * [100 Red Team Projects for Pentesters and Network Managers](https://github.com/kurogai/100-redteam-projects)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome Resources For Learning Ethical Hacking & Pentesting](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 * [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
