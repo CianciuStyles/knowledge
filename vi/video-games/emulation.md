@@ -118,6 +118,7 @@
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
+* [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
