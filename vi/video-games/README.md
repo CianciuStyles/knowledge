@@ -382,6 +382,7 @@
 
 * [Abandonware Games](https://abandonwaregames.net/)
 * [DOS Game Club](https://www.dosgameclub.com/)
+* [DualShock Calibration GUI](https://dualshock-tools.github.io/)
 * [Gamepad Tester](https://gamepad-tester.com/)
 * [Global Network Gaming](https://www.teamxlink.co.uk/) - Team XLink
 * [iFixit - Game Consoles](https://it.ifixit.com/Device/Game\_Console)
