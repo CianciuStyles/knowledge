@@ -157,11 +157,15 @@
   * [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847)
   * [The 14 Best Games For The Xbox One](https://kotaku.com/the-12-best-games-for-the-xbox-one-1500422046)
   * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643)
+  * [The 20 Best Games For Sony's PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
   * [The Bests](https://kotaku.com/tag/the-bests)
+* [IGN](https://www.ign.com/)
+  * [The Best PS5 Games](https://www.ign.com/articles/the-best-ps5-games)
 * [List of video games considered the best](https://en.wikipedia.org/wiki/List\_of\_video\_games\_considered\_the\_best) - Wikipedia
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
 * [Polygon](https://www.polygon.com/)
   * [The 22 best Xbox One games](https://www.polygon.com/xbox-one/2018/10/5/17548210/best-xbox-one-games)
+  * [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
   * [The 28 best PlayStation 4 games](https://www.polygon.com/what-to-play/23203968/best-ps4-games-playstation-4)
 * [RPG Codes Top 70 PC RPGs](https://rpgcodex.net/content.php?id=9453)
 * [The Best Detective Games On PC](https://www.pcgamer.com/the-best-detective-games-on-pc/) - Andy Kelly
