@@ -52,6 +52,7 @@
 * [Embee Research](https://embee-research.ghost.io/)
 * [Filippo Valsorda](https://filippo.io/)
 * [harmj0y](https://blog.harmj0y.net/)
+* [Krebs on Security](https://krebsonsecurity.com/)
 * [SkullSecurity](https://www.skullsecurity.org/)
 
 ### Books
@@ -160,6 +161,7 @@
 ### Tools
 
 * [Dradis](https://dradisframework.com/ce/) - Reporting and collaboration tool
+* [Ettercap ](https://www.ettercap-project.org/)- comprehensive suite for man in the middle attacks
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
 * [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
@@ -185,11 +187,13 @@
 * [Blue Team Labs Online](https://blueteamlabs.online/)
 * [Compiler Explorer](https://godbolt.org/)
 * [crt.sh](https://crt.sh/) - Certificate Search
+* [CSO Online](https://www.csoonline.com)
 * [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 * [CyberDefenders](https://cyberdefenders.org/) - Online Cyber Security Blue Team Training
 * [Cybersecurity](https://hero.page/cybersecurity)
 * [Cybrary](https://www.cybrary.it/)
 * [CySec Careers](https://cysec.careers/)
+* [Dark Reading](https://www.darkreading.com/)
 * [Guided Hacking](https://guidedhacking.com/)
 * [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
 * [HackMyVM](https://hackmyvm.eu/)
