@@ -47,6 +47,7 @@
 * [Startup Directory](https://www.eggradients.com/startup-directory)
 * [Startup Ideas powered by OpenAI](https://ideasai.com/)
 * [Startup Launch List](https://startuplaunchlist.com/)
+* [Startup School](https://www.startupschool.org)
 * [Startup Stash](https://startupstash.com/)
 * [Startup Toolkit](https://startuptoolkit.info)
 * [YC Library](https://www.ycombinator.com/library)
