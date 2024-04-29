@@ -20,4 +20,5 @@
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
 * [Historical Computer Science articles](https://francoatmega.github.io/historical-computer-science-articles/) ([GitHub](https://github.com/francoatmega/historical-computer-science-articles))
+* [Papers We Love](https://paperswelove.org/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
