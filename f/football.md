@@ -49,6 +49,7 @@
   * [Arsenal](https://www.arsenal.com/tickets)
   * [Chelsea](https://www.chelseafc.com/en/tickets/mens-tickets)
   * [Fulham](https://tickets.fulhamfc.com/content)
+* [Seat Unique](https://www.seatunique.com/) - VIP Tickets & Hospitality Packages
 
 ### Twitter
 
