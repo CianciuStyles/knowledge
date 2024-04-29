@@ -127,6 +127,7 @@
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive\_reversing)) - Abe's Oddysee / Exoddus for modern platforms
 * [ReBandicoot ](https://github.com/2010kohtep/ReBandicoot)- Attempts to reverse engineer the Crash Bandicoot N. Sane Trilogy game
+* [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 * [Severed Chains](https://legendofdragoon.org/projects/severed-chains/) ([GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)) - Legend of Dragoon decompiled, reverse engineered, and ported to Java
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * [Syndicate Wars](https://github.com/swfans/swars) - Alternative binary for the classic Bullfrog game
