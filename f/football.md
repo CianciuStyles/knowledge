@@ -28,6 +28,7 @@
 ### Podcasts
 
 * [Zonal Marking](https://theathletic.com/podcast/145-zonal-marking/) - The Athletic
+* [Thierry Henry: I Was Depressed, Crying & Dealing With Trauma!](https://www.youtube.com/watch?v=aivpDPCP7Q8) - The Diary Of A CEO
 
 ### Radios
 
