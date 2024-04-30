@@ -78,6 +78,7 @@
 * Reverse engineering an old DOS game - Fabrice Lété
   * [Part 1 of N](https://www.youtube.com/watch?v=KdIpuCznir4)
   * [Part 2 of N](https://www.youtube.com/watch?v=OPTcCnUj\_5A)
+* [Reverse Engineering fine details of Game Boy hardware](https://www.youtube.com/watch?v=GBYwjch6oEE) - Joonas Javanainen
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
 * [Self-Learning Reverse Engineering in 2022](https://www.youtube.com/watch?v=gPsYkV7-yJk) - LiveOverflow
 * [x64dbg Demo | CrackMe Challenges](https://www.youtube.com/watch?v=fBPj5yEJgck) - stryker2k2
