@@ -8,6 +8,7 @@
 * [Going from Developer to CEO: Chronosphere](https://blog.pragmaticengineer.com/chronosphere/) - Gergely Orosz, The Pragmatic Engineer
 * [How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c) - Courtland Allen, Indie Hackers
 * [How to Start Google](https://paulgraham.com/google.html) - Paul Graham
+* [How to Start a Startup](https://paulgraham.com/start.html) - Paul Graham
 * [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) - Tony Dinh
 * [Starting](https://successfulsoftware.net/starting-a-microisv/) - Andy Brice, Successful Software
 * The Company Man’s Guide to Starting a Side Hustle - Tyler Tervooren, The Art of Manliness
