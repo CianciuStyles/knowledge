@@ -270,6 +270,7 @@
 * [Must have 3DS games?](https://www.reddit.com/r/patientgamers/comments/5aq7xu/must\_have\_3ds\_games/)
 * [Must play AAA games in the last 5 years ?](https://www.reddit.com/r/patientgamers/comments/8l8c62/must\_play\_aaa\_games\_in\_the\_last\_5\_years/)
 * [Must play Nintendo DS games?](https://www.reddit.com/r/patientgamers/comments/56yytf/must\_play\_nintendo\_ds\_games/)
+* [Ordered a PS3 never had one during it's generation looking for 'must haves' and 'hidden gems'](https://www.reddit.com/r/gaming/comments/1cbcsz1/ordered\_a\_ps3\_never\_had\_one\_during\_its\_generation/)
 * [Patient gamers, what are you favourite DOS games?](https://www.reddit.com/r/patientgamers/comments/46dw0o/patient\_gamerswhat\_are\_you\_favourite\_dos\_games/)
 * [Patient Mobile Gaming?](https://www.reddit.com/r/patientgamers/comments/55wvnk/patient\_mobile\_gaming/)
 * [PC Gamer who just got a ps4 controller. What are some must have games for PC that work really well with a controller?](https://www.reddit.com/r/patientgamers/comments/45zwng/pc\_gamer\_who\_just\_got\_a\_ps4\_controller\_what\_are/)
