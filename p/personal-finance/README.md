@@ -78,6 +78,13 @@
 * [GnuCash](https://www.gnucash.org/)
 * [KMyMoney](https://kmymoney.org/)
 
+### Subreddits
+
+* [r/FIREUK](https://www.reddit.com/r/FIREUK/)
+* [r/HENRYUK](https://www.reddit.com/r/HENRYUK/)
+* [r/ItaliaPersonalFinance](https://www.reddit.com/r/ItaliaPersonalFinance/)
+* [r/UKPersonalFinance](https://www.reddit.com/r/UKPersonalFinance/)
+
 ### Videos
 
 * [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
