@@ -64,6 +64,7 @@
 * [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
 * [Netlify](https://www.netlify.com/)
 * [tiiny.host](https://tiiny.host/)
+* [Vercel](https://vercel.com/)
 
 ### Static Site Generators
 
