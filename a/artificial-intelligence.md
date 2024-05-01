@@ -61,6 +61,7 @@
 * [OpenAI Sora](https://openai.com/sora)
 * [Phind](https://www.phind.com/) - AI search engine for developers
 * [Prompt Engineering Guide ](https://www.promptingguide.ai/)([GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide))
+* [Prompt library](https://docs.anthropic.com/claude/prompt-library) - Anthropic
 
 ### YouTube Videos
 
