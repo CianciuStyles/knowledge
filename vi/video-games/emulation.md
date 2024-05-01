@@ -58,6 +58,7 @@
 #### Nintendo GameCube
 
 * [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main\_Page)
+* [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
 #### Nintendo Wii
