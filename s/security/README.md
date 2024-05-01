@@ -145,6 +145,7 @@
 
 ### Meetups
 
+* [BSides London](https://www.securitybsides.org.uk/)
 * [DEF CON Groups](https://forum.defcon.org/social-groups)
 * [OWASP Local Chapters](https://owasp.org/chapters/)
 
