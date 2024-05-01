@@ -12,6 +12,9 @@ description: https://www.linux.org/
 * [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/) - Julia Evans
 * [Classic SysAdmin: The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) - Paul Brown, The Linux Foundation
 * [How programs get run: ELF binaries](https://lwn.net/Articles/631631/) - David Drysdale
+* Inter-Process Communication (IPC) - Goodness Duru
+  * [Introduction](https://goodyduru.github.io/os/2023/09/08/ipc-introduction.html)
+  * [Named pipes](https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html)
 * [LD\_PRELOAD is super fun. And easy!](https://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/) - Julia Evans
 * Linux on the 7th Generation of Consoles - Lily Siwik
   * [Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
