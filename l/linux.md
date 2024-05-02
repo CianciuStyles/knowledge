@@ -16,6 +16,7 @@ description: https://www.linux.org/
   * [Introduction](https://goodyduru.github.io/os/2023/09/08/ipc-introduction.html)
   * [Named pipes](https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html)
   * [Unix Domain Sockets](https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html)
+  * [Unix Signals](https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html)
 * [LD\_PRELOAD is super fun. And easy!](https://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/) - Julia Evans
 * Linux on the 7th Generation of Consoles - Lily Siwik
   * [Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
