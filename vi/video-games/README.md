@@ -6,6 +6,7 @@
 
 ### Achievements
 
+* [List of PlayStation 3 games without Trophy support](https://playstation.fandom.com/wiki/List\_of\_PlayStation\_3\_games\_without\_Trophy\_support) - PlayStation Wiki
 * [PSNProfiles](https://psnprofiles.com/)
 * [RetroAchievements](https://retroachievements.org/)
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
@@ -401,6 +402,7 @@
 * [Bandipedia](https://crashbandicoot.fandom.com/wiki/Bandipedia:Main\_Page) - Crash Bandicoot Wiki
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
+* [PlayStation Wiki](https://playstation.fandom.com/wiki/Main\_Page)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 * [S.T.A.L.K.E.R. Wiki](https://stalker.fandom.com/wiki/S.T.A.L.K.E.R.\_Wiki)
 
