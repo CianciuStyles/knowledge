@@ -14,6 +14,7 @@
 
 * [Assembly Language Step-by-Step: Programming with Linux](https://jagdishkapadnis.wordpress.com/wp-content/uploads/2015/05/assembly-language-step-by-step-programming-with-linux-3rd-edition.pdf) - Jeff Duntemann
 * [Assembly Programming and Computer Architecture for Software Engineers](https://github.com/brianrhall/Assembly) - Brian R. Hall, Kevin J. Slonka
+* [Introduction to 64 Bit Assembly Programming for Linux and OS X](https://www.amazon.co.uk/Introduction-Bit-Assembly-Programming-Linux/dp/1484921909) - Ray Seyfarth
 * [Learn to Program with Assembly](https://www.amazon.co.uk/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369) - Jonathan Bartlett ([GitHub](https://github.com/Apress/learn-to-program-w-assembly))
 
 ### Courses
@@ -36,6 +37,7 @@
 * [Apple Silicon CPU Optimization Guide](https://developer.apple.com/documentation/apple-silicon/cpu-optimization-guide)
 * [Assembly x86 Emulator](https://carlosrafaelgn.com.br/Asm86/)
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+* [OFRAK Tetris](https://ofrak.com/tetris/)
 * [Putting the "You" in CPU](https://cpu.land/) - Lexi Mattick
 * [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
 * [x86 Instruction Set Reference](http://x86.dapsen.com/)
