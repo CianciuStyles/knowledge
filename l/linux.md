@@ -14,7 +14,10 @@ description: https://www.linux.org/
 * [How programs get run: ELF binaries](https://lwn.net/Articles/631631/) - David Drysdale
 * Inter-Process Communication (IPC) - Goodness Duru
   * [Introduction](https://goodyduru.github.io/os/2023/09/08/ipc-introduction.html)
+  * [Memory Mapped Files](https://goodyduru.github.io/os/2024/03/18/ipc-mmap.html)
+  * [Message Queues](https://goodyduru.github.io/os/2023/11/13/ipc-message-queues.html)
   * [Named pipes](https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html)
+  * [Shared Memory](https://goodyduru.github.io/os/2024/01/31/ipc-shared-memory.html)
   * [Unix Domain Sockets](https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html)
   * [Unix Signals](https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html)
 * [LD\_PRELOAD is super fun. And easy!](https://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/) - Julia Evans
