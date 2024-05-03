@@ -62,6 +62,7 @@
 * [Compiler Explorer](https://godbolt.org/)
 * [Decompiler Explorer](https://dogbolt.org/)
 * [The LLVM Compiler Infrastructure Project](https://llvm.org/)
+  * [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453) - John Regehr
 
 ### YouTube Videos
 
