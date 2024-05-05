@@ -6,6 +6,7 @@
 
 * [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html) - Liam Rosen
 * [The Complete Guide to Weight Loss for Men](https://www.artofmanliness.com/health-fitness/health/how-to-lose-weight-for-men/) - The Art of Manliness
+* [The Ultimate Guide to Losing Fat and Gaining Muscle (At the Exact Same Time)](https://www.nerdfitness.com/blog/lose-weight-and-build-muscle-or-do-one-then-the-other/) - Nerd Fitness
 * [Why Can't I Lose Weight? (What No One Else Will Tell You)](https://www.nerdfitness.com/blog/why-cant-i-lose-weight-heres-the-truth) - Nerd Fitness
 * [You Don’t Need More How-To Advice — You Need a Beautiful and Painful Reckoning](https://tim.blog/2024/02/09/harajuku-moment/) - Tim Ferriss
 
