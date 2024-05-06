@@ -199,7 +199,11 @@
 * [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator ](https://www.coursera.org/learn/negotiation)- Barry Nalebuff
 * [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills) - George Siedel
 
-### Videos
+### Websites
+
+* [Fearless ](https://fearlesssalarynegotiation.com/)- Salary Negotiation for High Earners
+
+### YouTube Videos
 
 * [How To Negotiate Compensation Like A Boss](https://www.youtube.com/watch?v=ciMZ7tylBXs) - A Life Engineered
 * [Salary Negotiation Workshop](https://www.youtube.com/watch?v=sN19aNmjBoU) - Josh Doody
