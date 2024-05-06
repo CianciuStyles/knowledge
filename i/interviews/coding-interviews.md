@@ -65,6 +65,7 @@
 * [LeetCode](https://leetcode.com/)
   * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
   * [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+  * [Lanki ](https://www.lanki.xyz/)- Spaced Repetition for Leetcode
   * [LeetCode Explore](https://leetcode.com/)
   * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
   * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new\_grokking\_to\_leetcode/) ([GitHub](https://github.com/navidre/new\_grokking\_to\_leetcode))
