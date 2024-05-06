@@ -32,6 +32,7 @@
 * [himalayas](https://himalayas.app/)
 * [Italia Remote](https://italiaremote.com/) ([GitHub](https://github.com/italiaremote/awesome-italia-remote))
 * [JustRemote](https://justremote.co/remote-jobs)
+* [OpenToWorkRemote ](https://www.opentoworkremote.com/)([GitHub](https://github.com/maurobonfietti/remote-jobs))
 * [Outsourcely](https://www.outsourcely.com/remote-workers)
 * [Real Work from Anywhere](https://www.realworkfromanywhere.com/)
 * [Remote In Tech](https://remoteintech.company/)
