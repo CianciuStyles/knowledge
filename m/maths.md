@@ -26,6 +26,7 @@
 
 
 
+* [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/) - Joe Fields, Southern Connecticut State University
 * [Algebraic Topology](https://pi.math.cornell.edu/\~hatcher/AT/ATpage.html) - Allen Hatcher
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/) - Clive Newstead
