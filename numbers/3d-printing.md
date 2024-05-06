@@ -17,4 +17,5 @@
 #### eBay
 
 * [3D Print Pros](https://www.ebay.co.uk/usr/3dprint.pros)
+* [Polymer 3D Prints](https://www.ebay.co.uk/usr/poly3d1)
 * [Retro Gaming Lab](https://www.ebay.co.uk/usr/retro\_gaming\_lab)
