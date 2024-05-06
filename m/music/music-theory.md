@@ -12,6 +12,7 @@
 * [Lightnote](https://www.lightnote.co/) - Interactive Music Theory Sessions
 * [musictheory.net](https://www.musictheory.net/)
 * [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby W. Rush
+* [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) - Robert Hutchinson
 * [muted.io](https://muted.io/)
 * [Teoria](https://www.teoria.com/)
 
