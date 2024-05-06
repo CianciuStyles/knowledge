@@ -9,6 +9,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome C++
   * [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
   * [https://github.com/rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+* Awesome Certificates: [https://github.com/PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates)
 * Awesome ChatGPT: [https://github.com/sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 * Awesome ChatGPT Prompts: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * Awesome Cheat Sheets: [https://github.com/LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
