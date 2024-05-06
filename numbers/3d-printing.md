@@ -17,5 +17,14 @@
 #### eBay
 
 * [3D Print Pros](https://www.ebay.co.uk/usr/3dprint.pros)
+* [Cybermonkey1010](https://www.ebay.co.uk/usr/cybermonkey1010)
 * [Polymer 3D Prints](https://www.ebay.co.uk/usr/poly3d1)
 * [Retro Gaming Lab](https://www.ebay.co.uk/usr/retro\_gaming\_lab)
+
+#### Etsy
+
+* [Adam3DUK](https://www.etsy.com/uk/shop/Adam3DUK)
+* [R2D3Productions](https://www.etsy.com/uk/shop/R2D3Productions)
+* [RetroCyberMonkey](https://www.etsy.com/uk/shop/RetroCyberMonkey)
+* [Steve's 3D Solutions](https://www.etsy.com/uk/shop/Steves3DSolutions)
+* [SyncoplayRetroGaming](https://www.etsy.com/uk/shop/SyncoplayRetroGaming)
