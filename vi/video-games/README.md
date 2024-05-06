@@ -388,6 +388,7 @@
 ### Websites
 
 * [Abandonware Games](https://abandonwaregames.net/)
+* [Balamb Garden](https://balambgdn.neocities.org/)
 * [DOS Game Club](https://www.dosgameclub.com/)
 * [DualShock Calibration GUI](https://dualshock-tools.github.io/)
 * [Gamepad Tester](https://gamepad-tester.com/)
