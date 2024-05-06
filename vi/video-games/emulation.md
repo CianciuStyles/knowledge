@@ -120,6 +120,7 @@
 
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
+* [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
@@ -129,6 +130,7 @@
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE
+* [RBDoom-3-BFG ](https://github.com/RobertBeckebans/RBDOOM-3-BFG/)- modernization effort of DOOM-3-BFG
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive\_reversing)) - Abe's Oddysee / Exoddus for modern platforms
 * [ReBandicoot ](https://github.com/2010kohtep/ReBandicoot)- Attempts to reverse engineer the Crash Bandicoot N. Sane Trilogy game
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
