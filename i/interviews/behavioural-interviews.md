@@ -9,6 +9,7 @@
 
 ### Articles
 
+* [An Engineering Leader’s Behavioral Interview Template](https://docs.google.com/document/d/1nHh6Ucb1G3ub1wWMSmbl-IDfWRreVKVfPJnIEQDhyuE/edit#heading=h.xg3o3psx1mah) - Kevin Conroy
 * [Common Questions](https://techinterviewhandbook.org/behavioral-questions/) - Tech Interview Handbook
 * [Interview Questions](https://changingminds.org/disciplines/job-finding/interview\_questions/interview\_questions.htm)
 * [The 25 most difficult questions you'll be asked on a job interview](https://www.datsi.fi.upm.es/\~frosal/docs/25mdq.html)
