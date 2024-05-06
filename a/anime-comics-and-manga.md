@@ -2,6 +2,10 @@
 
 ## Anime
 
+### Images
+
+<figure><img src="../.gitbook/assets/Anime Recommendation Chart for Beginners.png" alt=""><figcaption></figcaption></figure>
+
 ### Reddit threads
 
 * [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats\_the\_best\_anime\_youve\_ever\_seen/)
