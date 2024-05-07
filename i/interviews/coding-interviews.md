@@ -69,6 +69,7 @@
   * [LeetCode Explore](https://leetcode.com/)
   * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
   * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new\_grokking\_to\_leetcode/) ([GitHub](https://github.com/navidre/new\_grokking\_to\_leetcode))
+  * [Marble](https://withmarble.io/) - Leetcode tutor ([Chrome extension](https://chromewebstore.google.com/detail/marble-leetcode-tutor/mpjcipoidkmiiebdbdfknmpncmnpoboe))
 * [NeetCode](https://neetcode.io/)
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
 * [pgrammer](https://www.pgrammer.com/)
