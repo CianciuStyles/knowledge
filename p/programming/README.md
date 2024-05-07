@@ -11,6 +11,7 @@
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
 * [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
+* [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Malte Ubl
 * [Do you know how much your computer can do in a second?](https://computers-are-fast.github.io/) - Julia Evans, Kamal Marhubi
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/) - Bartosz Ciechanowski
