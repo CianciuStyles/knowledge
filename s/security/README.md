@@ -85,6 +85,7 @@
 ### Courses
 
 * [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) - OffSec
+* [Systems and Network Hacking](https://lettieri.iet.unipi.it/hacking/) - Giuseppe Lettieri, Università di Pisa
 
 ### Databases
 
