@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [Bloom Filters](https://samwho.dev/bloom-filters/) - Sam Rose
 * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) - Austin Z. Henley
   * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging\_algorithms\_and\_data\_structures\_every/)
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Mike Bostocks
