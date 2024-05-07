@@ -22,6 +22,10 @@
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Andrej Karpathy
 * [Practical Deep Learning](https://course.fast.ai/)
 
+### GitHub Repositories
+
+* [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
+
 ### Websites
 
 * [DeepLearning.AI](https://www.deeplearning.ai/)
