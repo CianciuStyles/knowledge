@@ -24,6 +24,7 @@
 #### Etsy
 
 * [Adam3DUK](https://www.etsy.com/uk/shop/Adam3DUK)
+* [MintPrintUK](https://www.etsy.com/uk/shop/MintPrintUK)
 * [R2D3Productions](https://www.etsy.com/uk/shop/R2D3Productions)
 * [RetroCyberMonkey](https://www.etsy.com/uk/shop/RetroCyberMonkey)
 * [Steve's 3D Solutions](https://www.etsy.com/uk/shop/Steves3DSolutions)
