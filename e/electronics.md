@@ -32,6 +32,7 @@
 ### Websites
 
 * [Ben Eater](https://eater.net/)
+  * [Build an 8-bit computer](https://eater.net/8bit)
 * [Fixing Factory](https://www.fixingfactory.org/)
 * [Learn electronics by practice](https://beletronics.wordpress.com/)
 * [NAND](https://nand.arhan.sh/) - logic simulator suite made entirely from NAND gates ([GitHub](https://github.com/ArhanChaudhary/NAND))
