@@ -235,6 +235,8 @@
 
 ### YouTube Channels
 
+* [0xdf](https://www.youtube.com/@0xdf)
+* [Abricto Security](https://www.youtube.com/@abrictosecurity)
 * [Chris Greer](https://www.youtube.com/@ChrisGreer) - Wireshark training
 * [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
 * [Cyberkraft](https://www.youtube.com/@cyberkraft539/videos)
