@@ -39,6 +39,7 @@ description: https://www.linux.org/
 
 * [Darling ](https://www.darlinghq.org/)- Run macOS software on Linux
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - University Politehnica of Bucharest
 * [SadServers](https://sadservers.com/scenarios) - Troubleshooting Linux Servers
 * [WineHQ ](https://www.winehq.org/)- Run Windows applications on Linux
 
