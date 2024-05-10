@@ -63,6 +63,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Productivity: [https://github.com/jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 * Awesome Python Books: [https://github.com/junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books)
 * Awesome React: [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+* Awesome Regex: [https://github.com/slevithan/awesome-regex](https://github.com/slevithan/awesome-regex)
 * Awesome Remote Companies: [https://github.com/fireball787b/awesome-remote-companies](https://github.com/fireball787b/awesome-remote-companies)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * Awesome Resources For Learning Ethical Hacking & Pentesting: [https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
