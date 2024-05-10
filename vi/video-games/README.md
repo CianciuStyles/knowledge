@@ -315,6 +315,7 @@
 * [What's a game that's worth every penny?](https://www.reddit.com/r/AskReddit/comments/s0b8sh/whats\_a\_game\_thats\_worth\_every\_penny/)
 * [What's a video game that you loved that most people never heard of?](https://www.reddit.com/r/AskReddit/comments/160mjym/whats\_a\_video\_game\_that\_you\_loved\_that\_most/)
 * [What's an unknown masterpiece you want everyone to play, no questions asked, completely blind?](https://www.reddit.com/r/patientgamers/comments/y55gc3/whats\_an\_unknown\_masterpiece\_you\_want\_everyone\_to/)
+* [What's one game you would give a 10/10?](https://www.reddit.com/r/gaming/comments/1clpx10/whats\_one\_game\_you\_would\_give\_a\_1010/)
 * [What's the best 2 player games to play with a significant other?](https://www.reddit.com/r/AskReddit/comments/8adw0f/whats\_the\_best\_2\_player\_games\_to\_play\_with\_a/)
 * [What's the most replayable single-player game you've ever seen?](https://www.reddit.com/r/patientgamers/comments/149ntnm/whats\_the\_most\_replayable\_singleplayer\_game\_youve/)
 * [What's the game you can complete again and again without ever getting tired of?](https://www.reddit.com/r/patientgamers/comments/6vuqez/whats\_the\_game\_you\_can\_complete\_again\_and\_again/)
