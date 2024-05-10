@@ -48,11 +48,15 @@
 
 #### Solicitors
 
+* [Bishop & Sewell](https://www.bishopandsewell.co.uk/)
+  * Charlotte Archer
 * [Bishopsgate Law](https://www.bishopsgatelaw.com/)
 * [Freedman Green Dhokia](http://fgdlaw.co.uk/)
+  * Gary Green
 * [Healys](https://healys.com/)
 * [Oliver & Co](https://www.oliverandco.co.uk/)
 * [Posada & Co](https://www.posadalaw.co.uk/)
+* [Taylor Rose](https://www.taylor-rose.co.uk/)
 * [William Heath & Co.](https://www.williamheath.co.uk/)
   * Justin Sidnick
 
