@@ -18,6 +18,10 @@
 * [SQL OnLine IDE](https://sqliteonline.com/)
 * [SQL Playground](https://sql-playground.wizardzines.com/)
 
+### Tools
+
+* [Harlequin](https://harlequin.sh/) - the SQL IDE for your terminal
+
 ### Websites
 
 * [Human to SQL Translator](https://www.sqltranslate.app/)
