@@ -36,6 +36,7 @@
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/\~jmackey/151\_128/bws\_book.pdf) - Brendan W. Sullivan
 * [How To Solve It ](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)- George Polya
   * [Summary by Peter Alfeld](https://www.math.utah.edu/\~alfeld/math/polya.html)
+* [Immersive Linear Algebra](https://immersivemath.com/ila/index.html) - Jacob Ström, Kalle Åström, and Tomas Akenine-Möller
 * [Introduction to Linear Algebra](https://www.amazon.co.uk/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679/) - Gilbert Strang
 * [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
