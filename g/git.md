@@ -74,6 +74,10 @@ description: https://git-scm.com/
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
 * [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon, Ben Straub
 
+### GitHub Repositories
+
+* [lazygit](https://github.com/jesseduffield/lazygit)
+
 ### Images
 
 <figure><img src="../.gitbook/assets/Git Commands Cheatsheet.jpg" alt=""><figcaption></figcaption></figure>
