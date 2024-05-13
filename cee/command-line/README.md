@@ -23,6 +23,10 @@
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Unix Toolbox](https://github.com/hukl/Unix-Toolbox)
 
+### Hacker News threads
+
+* [Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
+
 ### Tools
 
 * [autojump](https://github.com/wting/autojump)
