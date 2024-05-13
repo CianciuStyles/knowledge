@@ -8,6 +8,7 @@
 * [Awesome Emulator Development Resources](https://github.com/marethyu/awesome-emu-resources)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
+* [Compile Like It's 1992](https://fabiensanglard.net/Compile\_Like\_Its\_1992/) - Fabien Sanglard
 * [Console Living Room](https://archive.org/details/consolelivingroom)
 * [CoolROM](https://coolrom.com.au/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
