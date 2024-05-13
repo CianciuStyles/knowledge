@@ -85,6 +85,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome System Design: [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
 * Awesome System Design Resources: [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 * Awesome Talks: [https://github.com/JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* Awesome TUI: [https://github.com/rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
 * Awesome Unity: [https://github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity)
 * Awesome Web Apps (that work without login): [https://github.com/aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 * Awesome Web Development Resources: [https://github.com/markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
