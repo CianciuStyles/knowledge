@@ -54,6 +54,7 @@
 * [Nonio](https://non.io/)
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
+* [Project Random](https://0xbeef.co.uk/random)
 * [Reddit](https://www.reddit.com/)
   * [sub.rehab](https://sub.rehab/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
