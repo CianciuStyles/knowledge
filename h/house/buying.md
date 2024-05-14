@@ -54,6 +54,7 @@
 * [Freedman Green Dhokia](http://fgdlaw.co.uk/)
   * Gary Green
 * [Healys](https://healys.com/)
+* [Juno Legal](https://www.juno.legal/)
 * [Oliver & Co](https://www.oliverandco.co.uk/)
 * [Posada & Co](https://www.posadalaw.co.uk/)
 * [Taylor Rose](https://www.taylor-rose.co.uk/)
