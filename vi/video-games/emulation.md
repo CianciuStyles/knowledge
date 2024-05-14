@@ -13,6 +13,7 @@
 * [CoolROM](https://coolrom.com.au/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
+* [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
 * [EmuBrowser](https://emubrowser.com/)
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
