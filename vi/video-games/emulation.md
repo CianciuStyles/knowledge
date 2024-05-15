@@ -14,6 +14,7 @@
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
 * [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
+* [Dosemu2](https://dosemu2.github.io/dosemu2/) - Run DOS programs under linux
 * [EmuBrowser](https://emubrowser.com/)
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
