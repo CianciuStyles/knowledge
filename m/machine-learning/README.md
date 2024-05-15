@@ -54,6 +54,7 @@
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
 * [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) - Stas Bekman
 * [Machine Learning Research Papers](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers)
+* [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
 ### Hacker News threads
 
