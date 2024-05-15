@@ -129,6 +129,7 @@
 
 ### Ports and Replacements
 
+* [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
 * [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))

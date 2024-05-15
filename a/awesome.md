@@ -25,6 +25,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Diagramming: [https://github.com/shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming)
 * Awesome ELI5: [https://github.com/swapagarwal/awesome-eli5](https://github.com/swapagarwal/awesome-eli5)
 * Awesome Engineering Games: [https://github.com/arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games)
+* Awesome Game Remakes: [https://github.com/radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * Awesome GameDev:
   * [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
   * [https://github.com/mbrukman/awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
