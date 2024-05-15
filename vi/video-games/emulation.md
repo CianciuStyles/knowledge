@@ -18,8 +18,6 @@
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
-* [Gearsystem ](https://github.com/drhelius/Gearsystem)- Sega Master System / Game Gear / SG-1000 emulator for macOS, Windows, Linux, BSD and RetroArch
-* [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Internet Arcade](https://archive.org/details/internetarcade)
 * [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
 * [My Abandonware](https://www.myabandonware.com/)
@@ -75,6 +73,15 @@
 * [Wii Guide](https://wii.guide/)
 * [WiiBrew](https://wiibrew.org/wiki/Main\_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
+
+#### Sega Master System
+
+* [Gearsystem ](https://github.com/drhelius/Gearsystem)- Sega Master System / Game Gear / SG-1000 emulator for macOS, Windows, Linux, BSD and RetroArch
+
+#### Sega Mega Drive
+
+* [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
+* [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
 #### Sony PlayStation 2
 
