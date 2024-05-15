@@ -25,6 +25,7 @@
 ### GitHub Repositories
 
 * [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm\_book)
+* [armips](https://github.com/Kingcom/armips) - An assembler for various ARM and MIPS platforms
 * [Introduction to x86-64 assembly](https://github.com/luamfb/intro\_x86-64)
 * [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 
@@ -37,6 +38,7 @@
 * [Apple Silicon CPU Optimization Guide](https://developer.apple.com/documentation/apple-silicon/cpu-optimization-guide)
 * [Assembly x86 Emulator](https://carlosrafaelgn.com.br/Asm86/)
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+* [NASM](https://www.nasm.us/)
 * [OFRAK Tetris](https://ofrak.com/tetris/)
 * [Putting the "You" in CPU](https://cpu.land/) - Lexi Mattick
 * [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
