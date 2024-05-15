@@ -60,6 +60,7 @@
   * [2011](https://news.ycombinator.com/item?id=2147034)
 * [What are the best books for professional effectiveness?](https://news.ycombinator.com/item?id=29602228)
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
+* [What nonfiction books do you keep rereading?](https://news.ycombinator.com/item?id=40277933)
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
 * [Which book has had the most meaningful contribution in your life?](https://news.ycombinator.com/item?id=36428036)
 * [Which books do you consider real gems in your field of work/study?](https://news.ycombinator.com/item?id=32790064)
