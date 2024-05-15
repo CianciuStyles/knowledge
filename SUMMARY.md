@@ -67,6 +67,7 @@
 * [Design Patterns](dee/design-patterns.md)
 * [Digital Minimalism](dee/digital-minimalism.md)
 * [Distributed Systems](dee/distributed-systems.md)
+* [Docker](dee/docker.md)
 * [Documentaries](dee/documentaries.md)
 * [Documentation](dee/documentation.md)
 * [Dopamine](dee/dopamine.md)
