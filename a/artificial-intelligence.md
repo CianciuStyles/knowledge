@@ -57,6 +57,7 @@
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
+* [List of papers given to John Carmack by Ilya Sutskever](https://punkx.org/jackdoe/30.html) - [2](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
 * [OpenAI Sora](https://openai.com/sora)
