@@ -137,6 +137,7 @@
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro) ([Shared Solutions](https://github.com/CodingChallegesFYI/SharedSolutions))
 * [Every time you build a to-do list app, a puppy dies](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/) - Hrishi Mittal
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - Al Sweigart
+* [Idea List](https://www.ishan.coffee/notes/Idea-List) - Ishan Shah
 * [Kindling projects](https://nedbatchelder.com/text/kindling.html) - Ned Batchelder
 * [Mega Project List](https://github.com/karan/Projects) - Karan Goel
 * [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=25489879))
