@@ -18,6 +18,7 @@ description: https://www.python.org/
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - Jure Šorn
 * [Escaping the PyJail](https://lbarman.ch/blog/pyjail/) - Ludovic Barman
 * [Grok the GIL: How to write fast and thread-safe Python](https://opensource.com/article/17/4/grok-gil) - A. Jesse Jiryu Davis
+* [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio) - Jacob Padilla
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12) - Simon Willison
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
