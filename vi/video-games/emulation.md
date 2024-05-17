@@ -1,10 +1,6 @@
 # Emulation
 
 * [86Box](https://86box.net/) - Emulator of retro x86-based machines
-* Archive.org
-  * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
-  * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
-  * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [Awesome Emulator Development Resources](https://github.com/marethyu/awesome-emu-resources)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
@@ -26,7 +22,6 @@
 * [Old Games Download](https://oldgamesdownload.com/)
 * [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
-* [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
 * [RetroArch Web Player](https://web.libretro.com/)
 * [Rom Hustler](https://romhustler.org/)
@@ -57,7 +52,7 @@
 
 #### Nintendo 64
 
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+* [Ship of Harkinrepo sian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 
 #### Nintendo GameCube
 
@@ -77,6 +72,11 @@
 * [WiiBrew](https://wiibrew.org/wiki/Main\_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
+#### Sega Dreamcast
+
+* Archive.org
+  * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
+
 #### Sega Master System
 
 * [Gearsystem ](https://github.com/drhelius/Gearsystem)- Sega Master System / Game Gear / SG-1000 emulator for macOS, Windows, Linux, BSD and RetroArch
@@ -85,6 +85,13 @@
 
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
+
+#### Sony PlayStation
+
+* Archive.org
+  * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
+  * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
+* [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
 
 #### Sony PlayStation 2
 
