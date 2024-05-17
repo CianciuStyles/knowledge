@@ -22,6 +22,10 @@
 * [The Comedy Store](https://london.thecomedystore.co.uk/) - Leicester Square
 * [The Top Secret Comedy Club](https://thetopsecretcomedyclub.co.uk/) - Covent Garden
 
+### Courses
+
+* [City Lit](https://www.citylit.ac.uk/)
+
 ### Days Out
 
 * [Barbican Conservatory](https://www.barbican.org.uk/whats-on/2021/event/visit-the-conservatory)
@@ -135,7 +139,6 @@
 
 * [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/) - Secret London
 * [5 places to see incredible views of the London skyline](https://www.timeout.com/london/things-to-do/places-to-see-incredible-views-of-the-london-skyline-for-free) - TimeOut
-* [Angel Comedy Club](https://www.angelcomedy.co.uk/)
 * [diamond geezer](https://diamondgeezer.blogspot.com/2015\_04\_01\_diamondgeezer\_archive.html)
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
