@@ -44,6 +44,7 @@
 * [What movie is a 10/10?](https://www.reddit.com/r/AskReddit/comments/ygv57q/what\_movie\_is\_a\_1010/) - [2](https://www.reddit.com/r/AskReddit/comments/195hgce/what\_movie\_is\_a\_1010/)
 * [What Movie is a perfect 10/10?](https://www.reddit.com/r/AskReddit/comments/oab3gz/what\_movie\_is\_a\_perfect\_1010/)
 * [What movie is an absolute blast from start to finish?](https://www.reddit.com/r/AskReddit/comments/15txr5g/what\_movie\_is\_an\_absolute\_blast\_from\_start\_to/)
+* [What movie is so incredibly good that it's almost painful to watch?](https://www.reddit.com/r/AskReddit/comments/1cu1hs4/what\_movie\_is\_so\_incredibly\_good\_that\_its\_almost/)
 * [What movie is unexpectedly brilliant?](https://www.reddit.com/r/AskReddit/comments/71aqe6/what\_movie\_is\_unexpectedly\_brilliant/)
 * [What movie will you never get tired of watching?](https://www.reddit.com/r/AskReddit/comments/15ts5qm/what\_movie\_will\_you\_never\_get\_tired\_of\_watching/)
 * [What movie really is rewatchable hundred times?](https://www.reddit.com/r/AskReddit/comments/1b4mfzk/what\_movie\_really\_is\_rewatchable\_hundred\_times/)
