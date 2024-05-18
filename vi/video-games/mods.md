@@ -45,6 +45,10 @@
 
 * [OpenRW ](https://openrw.org/)- A Grand Theft Auto III re-implementation ([GitHub](https://github.com/rwengine/openrw))
 
+### Grim Fandango
+
+* [Grim Fandango Remastered HD](https://hexagon.codes/grimhd)
+
 ### Half-Life 2
 
 * [A comprehensive list of all singleplayer Half-Life/Source mods that are worth playing](https://www.reddit.com/r/HalfLife/comments/60pmr9/a\_comprehensive\_list\_of\_all\_singleplayer/)
