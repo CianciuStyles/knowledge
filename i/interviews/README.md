@@ -2,6 +2,12 @@
 
 ## Resources
 
+### AI Tools
+
+* [Cheetah](https://github.com/leetcode-mafia/cheetah)
+* [Final Round AI](https://www.finalroundai.com/)
+* [Ultracode AI](https://ultracode.ai/)
+
 ### Articles
 
 * [Another coding interview preparation guide](https://www.facebook.com/notes/sergey-makagonov/another-coding-interview-preparation-guide/10210834096793375/) - Sergey Makagonov
