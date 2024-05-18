@@ -18,5 +18,6 @@
 
 ### Reddit threads
 
+* [If you are lonely / in need for new friends](https://www.reddit.com/r/london/comments/1cu0sjd/if\_you\_are\_lonely\_in\_need\_for\_new\_friends/)
 * [Men of reddit, what’s the biggest green flag in a woman?](https://www.reddit.com/r/AskReddit/comments/15oczn3/men\_of\_reddit\_whats\_the\_biggest\_green\_flag\_in\_a/)
 * [What are some 'can't go wrong' gifts for women?](https://www.reddit.com/r/AskUK/comments/zc3wnk/what\_are\_some\_cant\_go\_wrong\_gifts\_for\_women/)
