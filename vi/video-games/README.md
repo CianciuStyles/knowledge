@@ -322,6 +322,7 @@
 * [What's the game you can complete again and again without ever getting tired of?](https://www.reddit.com/r/patientgamers/comments/6vuqez/whats\_the\_game\_you\_can\_complete\_again\_and\_again/)
 * [What's your all time favorite video game ?](https://www.reddit.com/r/AskReddit/comments/u452b6/whats\_your\_all\_time\_favorite\_video\_game/)
 * [What's your favourite 'chill' game?](https://www.reddit.com/r/patientgamers/comments/96qtwr/whats\_your\_favourite\_chill\_game/)
+* [What's your favorite Video game of all time?](https://www.reddit.com/r/AskReddit/comments/1cub7i1/whats\_your\_favorite\_video\_game\_of\_all\_time/)
 * [What's your top 3 must play videogames?](https://www.reddit.com/r/AskReddit/comments/42mp2c/whats\_your\_top\_3\_must\_play\_videogames/)
 * [What's your "You have to play this game" game?](https://www.reddit.com/r/patientgamers/comments/6truas/whats\_your\_you\_have\_to\_play\_this\_game\_game/)
 * [What Are Everyone's Top 3 Games of All Time](https://www.reddit.com/r/gaming/comments/1bfri90/what\_are\_everyones\_top\_3\_games\_of\_all\_time/)
