@@ -41,3 +41,4 @@
 
 * [Babish Culinary Universe](https://www.youtube.com/@babishculinaryuniverse/videos)
 * [Dessert Person with Clair Saffitz](https://www.youtube.com/@CSaffitz/videos)
+* [Ziang's Food Workshop](https://www.youtube.com/@ZiangsFoodWorkshop)
