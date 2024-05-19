@@ -75,6 +75,7 @@
 * [Math Academy](https://mathacademy.com/)
 * [Setosa](https://setosa.io/#/) - data visualization and visual explanations
 * [Symbolica](https://symbolica.io/)
+* [teachyourselfmath](https://teachyourselfmath.app)
 
 ### YouTube Channels
 
