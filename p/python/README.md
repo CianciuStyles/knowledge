@@ -99,6 +99,7 @@ description: https://www.python.org/
 
 ![](<../../.gitbook/assets/image (3).png>)
 
+* [Arcade ](https://api.arcade.academy/en/latest/index.html)- game development
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
 * [docopt](https://docopt.org/) - command-line interface description language
 * [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
