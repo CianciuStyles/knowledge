@@ -10,6 +10,7 @@
 
 ### GitHub Repositories
 
+* [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 * [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 * [JavaScript Security Cookbook](https://github.com/rajamsrgit/JavaScriptSecurityCookbook)
