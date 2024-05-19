@@ -6,6 +6,7 @@
 
 ### Articles
 
+* [7 Reasons Why You Will Never Do Anything Amazing With Your Life](https://medium.com/raymmars-reads/7-reasons-why-you-will-never-do-anything-amazing-with-your-life-2a1841f1335d) - Raymmar Tirado
 * [95%-ile isn't that good](https://danluu.com/p95-skill/) - Dan Luu
 * [Managing Oneself](https://www.csub.edu/\~ecarter2/CSUB.MKTG%20490%20F10/DRUCKER%20HBR%20Managing%20Oneself.pdf) - Peter F. Drucker
 * [Warren Buffett: "Really Successful People Say No To Almost Everything"](https://medium.com/accelerated-intelligence/warren-buffett-really-successful-people-say-no-to-almost-everything-ab78832ffebc) - Michael Simmons
