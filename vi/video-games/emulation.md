@@ -52,7 +52,7 @@
 
 #### Nintendo 64
 
-* [Ship of Harkinrepo sian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 
 #### Nintendo GameCube
 
