@@ -37,6 +37,7 @@
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
 * [Large Language Model Course](https://github.com/mlabonne/llm-course)
+* [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
 
 ### Images
 
