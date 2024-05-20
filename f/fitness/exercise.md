@@ -86,6 +86,7 @@
     * Weight Lifting
 * [Heather Robinson](https://www.youtube.com/c/Heatherrobertsoncom/videos)
 * [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
+  * [Home Workout for Beginners](https://www.youtube.com/watch?v=gOkCJ57IvNg)
   * [The mindset that makes "getting fit" MUCH easier](https://www.youtube.com/watch?v=VVyEjBHiZOo)
 * [Jeff Nippard](https://www.youtube.com/@JeffNippard/videos)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
