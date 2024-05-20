@@ -23,3 +23,7 @@
 * [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.co.uk/dp/1491941197) - Katherine Cox-Buday
 * [Java Concurrency in Practice](https://www.amazon.co.uk/dp/0321349601) - Brian Goetz
 * [The Little Book Of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) - Allen B. Downey
+
+### Images
+
+<figure><img src="../.gitbook/assets/What is a Deadlock.gif" alt=""><figcaption></figcaption></figure>
