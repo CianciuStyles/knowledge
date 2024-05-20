@@ -77,6 +77,7 @@
 * [Natural History Museum](https://www.nhm.ac.uk/) - South Kensington
 * [Royal Air Force Museum](https://www.rafmuseum.org.uk/london/) - Colindale
 * [Science Museum](https://www.sciencemuseum.org.uk/) - South Kensington
+  * [Power Up Exhibition](https://www.sciencemuseum.org.uk/see-and-do/power)
 * [Sir John Soane's Museum](https://www.soane.org/) - Holborn
 * [The Cartoon Museum](https://www.cartoonmuseum.org/) - Fitzrovia
 
