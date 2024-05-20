@@ -95,6 +95,7 @@
 ### GitHub Repositories
 
 * [Amazing Developer On YouTube](https://github.com/ErikCH/DevYouTubeList)
+* [Data-Oriented Design](https://github.com/dbartolini/data-oriented-design)
 * [Debugging Stories](https://github.com/danluu/debugging-stories) - Dan Luu
 * [Developer Newsletters](https://github.com/jackbridger/developer-newsletters)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
