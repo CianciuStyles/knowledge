@@ -16,4 +16,5 @@
 
 ### Websites
 
+* [Digital Detox Tools](https://digitaldetoxtools.com/)
 * [The AIR Method](https://www.staygrounded.online/s/the-air-method) - Justin Hanagan
