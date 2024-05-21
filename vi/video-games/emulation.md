@@ -143,6 +143,7 @@
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
+* [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
@@ -151,6 +152,7 @@
 * [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Notr
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
+* [OpenRA ](https://www.openra.net)- Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
