@@ -82,6 +82,10 @@
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
 
+### Silent Hill 2
+
+* [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - A project designed to enhance Silent Hill 2 (SH2) graphics and audio for the PC ([GitHub](https://github.com/elishacloud/Silent-Hill-2-Enhancements))
+
 ### S.T.A.L.K.E.R.: Shadow of Chernobyl
 
 * [STARTER PACK](https://www.moddb.com/mods/starter-pack)
