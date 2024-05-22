@@ -412,6 +412,9 @@
 
 ### YouTube Channels
 
+* [Gaming Broductions](https://www.youtube.com/@GamingBroductions)
+  * [The Incredibly Immersive World of PS1 Cutscenes and FMVs](https://www.youtube.com/watch?v=hBNW9sQABdk)
+  * [The Magical World of PS1 Pre-Rendered Backgrounds](https://www.youtube.com/watch?v=2O4bAfCc2Zo)
 * [Gaming Historian](https://www.youtube.com/c/gaminghistorian/videos)
 * [Get Off My Lawn](https://www.youtube.com/@getoffmylawn6692/videos)
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
