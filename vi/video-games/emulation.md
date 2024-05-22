@@ -193,6 +193,7 @@
   * [I played Gears of War 3 on the PlayStation PS3...](https://www.youtube.com/watch?v=5YQk0fl\_dSo)
   * [I wrote the Emulators and Homebrew YOU played on the Original Xbox - A Look Back!](https://www.youtube.com/watch?v=x7FmelyC70Y)
   * [Jailbreaking a PS3 Slim in 2024 - Preserve your entire PS3 collection.](https://www.youtube.com/watch?v=BkHBEpiF9FI)
+  * [N64 recompilation is here - and its looking good!](https://www.youtube.com/watch?v=WK5VuOInqlg)
   * [Nintendo 64 emulation on the Nintendo Switch is not good...](https://www.youtube.com/watch?v=jSyBMSOfPxg)
   * [Nintendo 64 emulation on the Switch is FIXED](https://www.youtube.com/watch?v=L-fYXwxuFxQ)
   * [Nintendo 64 emulation on the Switch is getting better...](https://www.youtube.com/watch?v=2\_QWd1u2vhQ)
