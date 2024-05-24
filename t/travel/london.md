@@ -141,6 +141,7 @@
 * [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/) - Secret London
 * [5 places to see incredible views of the London skyline](https://www.timeout.com/london/things-to-do/places-to-see-incredible-views-of-the-london-skyline-for-free) - TimeOut
 * [diamond geezer](https://diamondgeezer.blogspot.com/2015\_04\_01\_diamondgeezer\_archive.html)
+* [Fanzo](https://www.fanzo.com/en) - Live Sports on TV at your nearest sport bar
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
 * [Le Cool](https://london.lecool.com/)
