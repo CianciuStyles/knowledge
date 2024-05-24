@@ -2,15 +2,15 @@
 
 ### Bars
 
-* [Arcade Monkeyz](https://www.arcademonkeyz.com/)
-* [Ballie Ballerson](https://www.ballieballerson.com/)
-* [Electric Shuffle](https://electricshuffle.com/london/)
-* [Four Quarters](https://fourquarters.bar/)
-* [Hyper Reality](https://hyper-reality.io/) - Cyberpunk
+* [Ballie Ballerson](https://www.ballieballerson.com/) - Shoreditch
+* [Electric Shuffle](https://electricshuffle.com/london/) - Canary Whart and London Bridge
+* [Flight Club](https://flightclubdarts.com/) - Social Darts
+* [Four Quarters](https://fourquarters.bar/) - Elephant and Castle, Hackney and Peckham
+* [Hyper Reality](https://hyper-reality.io/) - Mile End
 
 ### Board Games Cafès
 
-* [Draughts](https://www.draughtslondon.com/)
+* [Draughts](https://www.draughtslondon.com/) - Hackney and Waterloo
 
 ### Comedy Venues
 
@@ -31,7 +31,7 @@
 * [Barbican Conservatory](https://www.barbican.org.uk/whats-on/2021/event/visit-the-conservatory)
 * [Chislehurst Caves](https://www.chislehurst-caves.co.uk/)
 * [Chiswick House & Gardens](https://chiswickhouseandgardens.org.uk/)
-* [Electric Gamebox](https://electricgamebox.com/)
+* [Electric Gamebox](https://electricgamebox.com/) - Shoreditch, Southbank and Wandsworth
 * [Emirates Air Line](https://tfl.gov.uk/modes/emirates-air-line/)
 * [Fulham Palace House & Gardens](https://www.fulhampalace.org/)
 * [Go Ape](https://goape.co.uk/locations/alexandra-palace) - Alexandra Palace
