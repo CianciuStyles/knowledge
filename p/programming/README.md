@@ -178,11 +178,13 @@
 * [Execute Program](https://www.executeprogram.com/) - Gary Bernhardt
 * [Free for developers](https://free-for.dev/#/)
 * [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
+* [glot.io](https://glot.io/) - online IDE
 * [GoalKicker.com - Free Programming Books](https://books.goalkicker.com/)
 * [JetBrains Academy](https://academy.jetbrains.com/)
 * [Lagout.org](https://doc.lagout.org/) - Programming books
 * [Literate Programming](http://literateprogramming.com/)
 * [Monorepo Explained](https://monorepo.tools/)
+* [myCompiler](https://www.mycompiler.io/) - online IDE
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [Paged Out!](https://pagedout.institute/)
 * [ProgrammerHumor](https://programmerhumor.io/)
