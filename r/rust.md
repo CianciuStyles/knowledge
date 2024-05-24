@@ -48,9 +48,20 @@
 * [Rust Learning](https://github.com/ctjhoa/rust-learning)
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 
+### IDEs
+
+* [Lapce](https://lapce.dev/)
+* [RustRover ](https://www.jetbrains.com/rust/)- JetBrains
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft
+  * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) ([GitHub](https://github.com/rust-lang/rust-analyzer))
+
 ### Libraries
 
 * [CXX](https://cxx.rs/) - safe interop between Rust and C++
+
+### Subreddits
+
+* [r/rust](https://www.reddit.com/r/rust/)
 
 ### Websites
 
