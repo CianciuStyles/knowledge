@@ -272,5 +272,6 @@ set +x
 
 ### Websites
 
+* [Amber ](https://amber-lang.com/)- The Programming Language compiled to Bash
 * [ShellCheck](https://www.shellcheck.net/) - shell script analysis tool
 * [Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Google
