@@ -46,6 +46,7 @@
 * [Favorite Nonfiction Books of 2021?](https://news.ycombinator.com/item?id=29507085)
 * [Life Changing Books?](https://news.ycombinator.com/item?id=29605394)
 * [What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
+* [What's the best book you've read so far in 2024?](https://news.ycombinator.com/item?id=40428978)
 * [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
 * [What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 * [What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
