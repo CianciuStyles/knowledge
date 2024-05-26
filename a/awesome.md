@@ -29,6 +29,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome GameDev:
   * [https://github.com/Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
   * [https://github.com/mbrukman/awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
+* Awesome GitHub Profile README: [https://github.com/abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * Awesome Godot:
   * [https://github.com/Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
   * [https://github.com/godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
