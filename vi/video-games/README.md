@@ -301,6 +301,7 @@
 * [What are your favorite single player games to play over again?](https://www.reddit.com/r/patientgamers/comments/4wyeey/what\_are\_your\_favorite\_single\_player\_games\_to/)
 * [What are your top 3 games that have the best storyline?](https://www.reddit.com/r/patientgamers/comments/5k205n/what\_are\_your\_top\_3\_games\_that\_have\_the\_best/)
 * [What are your top 5 stand out games of all time and more importantly, why?](https://www.reddit.com/r/patientgamers/comments/y68tu4/what\_are\_your\_top\_5\_stand\_out\_games\_of\_all\_time/)
+* [What game is the biggest 9/10 you could give?](https://www.reddit.com/r/gaming/comments/1cy14po/what\_game\_is\_the\_biggest\_910\_you\_could\_give/)
 * [What games can you binge for hours upon hours?](https://www.reddit.com/r/patientgamers/comments/8ys9ln/what\_games\_can\_you\_binge\_for\_hours\_upon\_hours/)
 * [What games were you so enraptured by that you beat them extremely quickly?](https://www.reddit.com/r/patientgamers/comments/5dngl2/what\_games\_were\_you\_so\_enraptured\_by\_that\_you/)
 * [What is a free pc game that everyone should get?](https://www.reddit.com/r/AskReddit/comments/5bmivn/what\_is\_a\_free\_pc\_game\_that\_everyone\_should\_get/)
