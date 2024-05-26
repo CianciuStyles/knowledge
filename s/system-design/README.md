@@ -196,6 +196,7 @@
 * [How Amazon S3 Achieves 99.999999999% Durability](https://newsletter.systemdesign.one/p/amazon-s3-durability) - Neo Kim
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 * [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/) - Craig Buckler, SitePoint
+* [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms) - smudge.ai
 * [What is a content delivery network (CDN)?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/) - CloudFlare
 
 ### Books
