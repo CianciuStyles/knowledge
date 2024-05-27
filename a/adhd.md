@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [ADHD ](https://gekk.info/articles/adhd.html)- Gekk
 * [Developer with ADHD? You’re not alone.](https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/) - Eira May, StackOverflow Blog
 * [Hacking ADHD – Strategies For The  Modern Developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer) - Raphael Lemaitre, Ledger
 * [Quite possibly the best explanation of ADHD I've ever seen](https://www.reddit.com/r/ADHDmemes/comments/pmrh5d/quite\_possibly\_the\_best\_explanation\_of\_adhd\_ive/)
