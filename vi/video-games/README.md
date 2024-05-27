@@ -49,6 +49,7 @@
 ### Books
 
 * [Boss Fight Books](https://bossfightbooks.com/)
+* [DaddaRuleKonge](https://daddarulekonge.itch.io/)
 * [Masters of Doom](https://smile.amazon.co.uk/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
 * [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 
