@@ -40,6 +40,10 @@
 
 <figure><img src="https://i.redd.it/modified-my-previous-infographic-for-andrew-hubermans-video-v0-c4b7bvqvh7fc1.png?s=b4d9bea67b0021c585779d043cab0d894fe28cd7" alt=""><figcaption></figcaption></figure>
 
+### Podcasts
+
+* [Goals Toolkit: How to Set & Achieve Your Goals](https://www.youtube.com/watch?v=CrtR12PBKb0) - Huberman Lab
+
 ### YouTube Videos
 
 * [How I changed my life in 334 days with Reverse Goal Setting](https://www.youtube.com/watch?v=bq1x659j8mA) - Justin Sung
