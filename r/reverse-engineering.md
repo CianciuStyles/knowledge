@@ -60,9 +60,14 @@
 ### Websites
 
 * [crackmes.one](https://crackmes.one/)
+* [GuidedHacking](https://guidedhacking.com/)
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
 * [ReversingHero](https://www.reversinghero.com/)
+
+### YouTube Channels
+
+* [Stephen Chapman](https://www.youtube.com/@StephenChapman)
 
 ### YouTube Playlists
 
