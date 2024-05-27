@@ -94,6 +94,7 @@
 * [What are some of the greatest video game OST's with no lyrics? Looking for as many hours as possible across all genres for study/work focus.](https://www.reddit.com/r/gamemusic/comments/3gq6jy/what\_are\_some\_of\_the\_greatest\_video\_game\_osts/)
 * [What are the most specifically 'beautiful' game soundtracks you have ever heard? Not action packed.](https://www.reddit.com/r/patientgamers/comments/6r494v/what\_are\_the\_most\_specifically\_beautiful\_game/)
 * [What is the best videogame soundtrack in your opinion?](https://www.reddit.com/r/AskReddit/comments/6omsga/what\_is\_the\_best\_videogame\_soundtrack\_in\_your/)
+* [What is your favorite video game soundtrack?](https://www.reddit.com/r/AskReddit/comments/1cyww3n/what\_is\_your\_favorite\_video\_game\_soundtrack/)
 
 ### Soundtracks
 
