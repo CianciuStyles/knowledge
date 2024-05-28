@@ -71,6 +71,7 @@
 
 ### Websites
 
+* [Board Game Friends](https://boardgamefriends.org/)
 * [BoardGameArena](https://boardgamearena.com/)
 * [BoardGameGeek](https://boardgamegeek.com/)
 * [netgames.io](https://netgames.io/games/) - Social games for your phone
