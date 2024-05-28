@@ -113,6 +113,7 @@
 
 ### Documentaries
 
+* [F.E.A.R. - The Retrospective](https://www.youtube.com/watch?v=3Of2NtTYcvU)
 * [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
 ### Events
