@@ -25,7 +25,15 @@
 
 ### Websites
 
+* [abuse.ch](https://abuse.ch/) - Fighting malware and botnets
+  * [Feodo Tracker](https://feodotracker.abuse.ch/) - sharing C\&C servers
+  * [MalwareBazaar](https://bazaar.abuse.ch/) - Malware sample exchange
+  * [SSL Blacklist](https://sslbl.abuse.ch/) - Detecting malicious SSL connections
+  * [ThreatFox ](https://threatfox.abuse.ch/)- Share Indicators of Compromise
+  * [URLhaus ](https://urlhaus.abuse.ch/)- Malware URL exchange
+  * [YARAify ](https://yaraify.abuse.ch/)- YARA scan engine
 * [bWAPP ](http://www.itsecgames.com/index.htm)- a buggy web application
+* [Cisco Talos Intelligence](https://talosintelligence.com/) - comprehensive threat intelligence
 * [flAWS](http://flaws.cloud/)
 * [Hacking-Lab](https://www.hacking-lab.com/)
 * [How HTTPS works](https://howhttps.works/)
@@ -36,7 +44,9 @@
   * [Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
   * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [PentesterLab](https://pentesterlab.com/)
+* [PhishTool](https://www.phishtool.com/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [urlscan.io](https://urlscan.io/) - URL and website scanner
 * [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [Web Security Academy](https://portswigger.net/web-security) - PortSwigger
 * [Webhacking.kr](https://webhacking.kr/)
