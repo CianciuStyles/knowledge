@@ -210,7 +210,7 @@
 
 ## S
 
-* [Security](s/security/README.md)
+* [Security](s/security.md)
   * [Android](s/security/android.md)
   * [Binary Exploitation](s/security/binary-exploitation.md)
   * [CTFs](s/security/ctfs.md)
