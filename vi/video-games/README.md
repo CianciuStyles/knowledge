@@ -118,10 +118,10 @@
 
 ### Events
 
-* [Coin Up Italia](https://www.coinupitalia.it/)
-* [London Gaming Market](https://www.londongamingmarket.com/)
-* [Retro Games Fair](https://retrogamesfair.com/)
-* [Retro Events](https://retroevents.co.uk/)
+* [Game Vintage Market](https://www.gamevintagemarket.it/) - Roma
+* [London Gaming Market](https://www.londongamingmarket.com/) - London
+* [Retro Events](https://retroevents.co.uk/) - United Kingdom
+* [Retro Games Fair](https://retrogamesfair.com/) - United Kingdom
 
 ### Forums
 
