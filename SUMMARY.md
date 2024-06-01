@@ -25,6 +25,7 @@
   * [x86](a/assembly/x86.md)
 * [Audio / Video Editing](a/audio-video-editing.md)
 * [Awesome](a/awesome.md)
+* [Azure](a/azure.md)
 
 ## B
 
