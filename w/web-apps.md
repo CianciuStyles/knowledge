@@ -97,6 +97,7 @@
 ### Mail & SMS
 
 * [10 Minute Mail](https://10minutemail.com/)
+* [Email.ML](https://email.ml/)
 * [Receive SMS Online](https://www.receivesms.co/)
 * [Shark Lasers](https://www.sharklasers.com/)
 * [Temp Mail](https://temp-mail.org/)
