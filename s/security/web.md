@@ -23,6 +23,11 @@
 
 * [jwt.io](https://jwt.io/)
 
+#### Online Malware Detection
+
+* [MetaDefender Cloud](https://metadefender.opswat.com/)
+* [VirusTotal](https://www.virustotal.com)
+
 ### Websites
 
 * [abuse.ch](https://abuse.ch/) - Fighting malware and botnets
