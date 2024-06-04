@@ -8,6 +8,11 @@
 * [Peep Show](https://www.channel4.com/programmes/peep-show)
 * [Sherlock](https://www.imdb.com/title/tt1475582/?ref\_=nv\_sr\_srsg\_0)
 
+### IPTV Playlists
+
+* [Free TV](https://github.com/Free-TV/IPTV)
+* [iptv-org](https://iptv-org.github.io)
+
 ### Reddit Threads
 
 * [Favourite British Game shows of all time?](https://www.reddit.com/r/AskUK/comments/s0hcd7/favourite\_british\_game\_shows\_of\_all\_time/)
