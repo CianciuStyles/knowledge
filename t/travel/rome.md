@@ -4,6 +4,7 @@
 
 * [Pork 'n' Roll](https://goo.gl/maps/XjSUWyfAK387cwdz7) - Tiburtina
 * [Scholars Lounge](https://goo.gl/maps/k6BWTGMU7qg4Lfoq9) - Piazza Venezia
+* [Wood Natural Bar](https://woodnaturalbar.it/) - Tiburtina
 
 ## Ice Creams
 
