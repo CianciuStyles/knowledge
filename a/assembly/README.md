@@ -17,6 +17,7 @@
 * [Assembly Programming and Computer Architecture for Software Engineers](https://github.com/brianrhall/Assembly) - Brian R. Hall, Kevin J. Slonka
 * [Introduction to 64 Bit Assembly Programming for Linux and OS X](https://www.amazon.co.uk/Introduction-Bit-Assembly-Programming-Linux/dp/1484921909) - Ray Seyfarth
 * [Learn to Program with Assembly](https://www.amazon.co.uk/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369) - Jonathan Bartlett ([GitHub](https://github.com/Apress/learn-to-program-w-assembly))
+* [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/) - Jonathan Bartlett
 
 ### Courses
 
