@@ -23,3 +23,7 @@
 
 * [180grammi](https://goo.gl/maps/4SuwxiojF7w3twWe7) - Villa Gordiani
 * [Pizzeria "Ai Marmi"](https://goo.gl/maps/9qys9ViYRAqTFcbbA) - Trastevere
+
+## Websites
+
+* [Zero ](https://zero.eu/it/roma/)- Recensioni su cose da fare, ristoranti, bar ed eventi a Roma
