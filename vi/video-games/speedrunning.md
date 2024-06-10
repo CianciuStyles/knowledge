@@ -18,4 +18,5 @@
   * Summer Games Done Quick 2022
     * [Silent Hill 4: The Room - AnEternalEnigma](https://www.youtube.com/watch?v=\_sFUTxKeZ7M)
 * [Italian Speedrun Community](https://www.youtube.com/c/ItalianSpeedrunCommunity/videos)
+* [SpeedCon](https://www.youtube.com/@speedcon\_eu)
 * [Summoning Salt](https://www.youtube.com/c/SummoningSalt/videos)
