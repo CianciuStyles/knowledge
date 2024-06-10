@@ -63,5 +63,9 @@
 
 #### Surveyors
 
-* [Juno](https://client.juno.legal/quote/7jjxrb)
+* [Fedalah](http://www.fedalahltd.co.uk/)
+  * William Wates
+* [Juno Legal](https://client.juno.legal/quote/7jjxrb)&#x20;
 * [London Property Surveyors](https://www.londonpropertysurveyors.co.uk/)
+* [Treadstone Surveying](https://www.treadstonesurveying.co.uk/)
+  * Brad
