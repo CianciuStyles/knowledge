@@ -57,6 +57,8 @@
 * [Juno Legal](https://www.juno.legal/)
 * [Oliver & Co](https://www.oliverandco.co.uk/)
 * [Posada & Co](https://www.posadalaw.co.uk/)
+  * Alexa Beraldo
+  * Nikita Assani
 * [Taylor Rose](https://www.taylor-rose.co.uk/)
 * [William Heath & Co.](https://www.williamheath.co.uk/)
   * Justin Sidnick
