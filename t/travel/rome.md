@@ -6,6 +6,10 @@
 * [Scholars Lounge](https://goo.gl/maps/k6BWTGMU7qg4Lfoq9) - Piazza Venezia
 * [Wood Natural Bar](https://woodnaturalbar.it/) - Tiburtina
 
+## Flea Markets
+
+* [Car Boot Market](https://www.carbootmarket.it/) - Testaccio
+
 ## Ice Creams
 
 * [La Romana](https://goo.gl/maps/1vzqz3tpPPWpZnAUA) - Piramide
