@@ -37,30 +37,36 @@
 * [Super Mario 64 on the Web!](https://28klotlucas2.github.io/Mario64webgl/)
 * [wipEout](https://phoboslab.org/wipegame/) - Dominic Szablewski ([Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout))
 
-### Consoles
+## Articles
 
-#### Microsoft Xbox
+* Detecting a PS2 Emulator - Ty Lamontagne
+  * [The VU0 Pipeline](https://fobes.dev/ps2/detecting-emu-vu0-pipeline)
+  * [When 1\*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
+
+## Consoles
+
+### Microsoft Xbox
 
 * [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
   * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
-#### Nintendo 3DS
+### Nintendo 3DS
 
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
 * [Pretendo Network](https://pretendo.network/) - open source replacement for Nintendo servers
 
-#### Nintendo 64
+### Nintendo 64
 
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 
-#### Nintendo GameCube
+### Nintendo GameCube
 
 * [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main\_Page)
 * [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
-#### Nintendo Wii
+### Nintendo Wii
 
 * Archive.org
   * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
@@ -72,28 +78,28 @@
 * [WiiBrew](https://wiibrew.org/wiki/Main\_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
-#### Sega Dreamcast
+### Sega Dreamcast
 
 * Archive.org
   * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
 
-#### Sega Master System
+### Sega Master System
 
 * [Gearsystem ](https://github.com/drhelius/Gearsystem)- Sega Master System / Game Gear / SG-1000 emulator for macOS, Windows, Linux, BSD and RetroArch
 
-#### Sega Mega Drive
+### Sega Mega Drive
 
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
-#### Sony PlayStation
+### Sony PlayStation
 
 * Archive.org
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
 
-#### Sony PlayStation 2
+### Sony PlayStation 2
 
 * Archive.org
   * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
@@ -106,7 +112,7 @@
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
-### Decompilations and Disassemblies
+## Decompilations and Disassemblies
 
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
@@ -136,7 +142,7 @@
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 * [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 
-### Ports and Replacements
+## Ports and Replacements
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
@@ -169,11 +175,11 @@
 * [TR2X](https://github.com/LostArtefacts/TR2X) - Open source re-implementation of Tomb Raider 2
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 
-### Reddit Threads
+## Reddit Threads
 
 * [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i\_am\_making\_a\_list\_of\_source\_ports\_on\_android/)
 
-### YouTube Channels
+## YouTube Channels
 
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
   * [A closer look at Original Xbox Emulation on Steam Deck](https://www.youtube.com/watch?v=MxzN7jXwohk)
@@ -225,7 +231,7 @@
   * [XBSX2 PS2 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=85\_yRd492lQ)
   * [You should hack your PS Vita...](https://www.youtube.com/watch?v=ar1\_BJIjQsQ)
 
-### YouTube Videos
+## YouTube Videos
 
 * [Recompilation: An Incredible New Way to Keep N64 Games Alive](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
