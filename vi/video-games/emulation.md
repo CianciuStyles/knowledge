@@ -58,10 +58,16 @@
 
 ### Nintendo 64
 
+* Archive.org
+  * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
+  * [Roms Nintendo 64 (EU)](https://archive.org/details/roms-nintendo-64-eu)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 
 ### Nintendo GameCube
 
+* Archive.org
+  * [Nintendo GameCube Europe & Japan](https://archive.org/details/rr-nintendo-gamecube)
+  * [Redump - Nintendo GameCube - Europe](https://archive.org/details/gamecubeeuroperedump)
 * [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main\_Page)
 * [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
@@ -89,6 +95,8 @@
 
 ### Sega Mega Drive
 
+* Archive.org
+  * [Sega Mega Drive Europe](https://archive.org/details/sega-mega-drive-europe)
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
