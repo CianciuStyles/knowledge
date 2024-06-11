@@ -37,6 +37,7 @@
 * [angr](https://angr.io/)
 * [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
 * [Cutter](https://cutter.re/)
+* [Dependency Walker](https://www.dependencywalker.com/)
 * [dnSpy ](https://github.com/dnSpy/dnSpy)- .NET debugger and assembly editor
 * [Frida ](https://frida.re/)- A world-class dynamic instrumentation toolkit
 * [GDB](https://www.sourceware.org/gdb/)
@@ -47,9 +48,13 @@
 * [ILSpy ](https://github.com/icsharpcode/ILSpy)- .NET decompiler
 * [ImHex](https://imhex.werwolv.net/) - Free and Open Source Hex Editor
 * [OllyDbg](https://www.ollydbg.de/)
+* [PE Explorer](https://www.pe-explorer.com/)
+* [PEiD](https://www.aldeid.com/wiki/PEiD)
+* [PEview](http://wjradburn.com/software/)
 * [ProcDOT](https://www.procdot.com/index.htm)
 * [Process Hacker](https://processhacker.sourceforge.io/)
 * [radare](https://rada.re/n/)
+* [Resource Hacker](https://www.angusj.com/resourcehacker/)
 * [x64dbg](https://x64dbg.com/)
 
 ### Tutorials
