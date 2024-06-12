@@ -39,6 +39,7 @@
 ### Reddit Threads
 
 * [r/soccer's The List](https://www.reddit.com/r/soccer/wiki/thelist)
+* [Watch Euro 2024 Live Streams Around The World](https://www.reddit.com/r/soccer/comments/1d9blh5/watch\_euro\_2024\_live\_streams\_around\_the\_world/)
 
 ### Tactics
 
