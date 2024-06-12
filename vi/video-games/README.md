@@ -287,6 +287,7 @@
 * [The best PC games of the last twenty years](https://www.reddit.com/r/patientgamers/comments/3zl3gk/the\_best\_pc\_games\_of\_the\_last\_twenty\_years/)
 * [Top Ten games to play for Ps2](https://www.reddit.com/r/patientgamers/comments/5bn92p/10\_ten\_games\_to\_play\_for\_ps2/)
 * [We should make a master list of older games that still hold up today.](https://www.reddit.com/r/patientgamers/comments/4wzz6m/we\_should\_make\_a\_master\_list\_of\_older\_games\_that/)
+* [What are genuinely great mobile games?](https://www.reddit.com/r/gaming/comments/1d8n5qg/what\_are\_genuinely\_great\_mobile\_games/)
 * [What are old games (20+ years old) that, disregarding any nostalgia, still hold up very well today?](https://www.reddit.com/r/patientgamers/comments/15ehw29/what\_are\_old\_games\_20\_years\_old\_that\_disregarding/)
 * [What are some good co-op games for the PS3?](https://www.reddit.com/r/patientgamers/comments/8k9lwu/what\_are\_some\_good\_coop\_games\_for\_the\_ps3/)
 * [What are some good FPS games with stellar single player story?](https://www.reddit.com/r/patientgamers/comments/6wldhz/what\_are\_some\_good\_fps\_games\_with\_stellar\_single/)
