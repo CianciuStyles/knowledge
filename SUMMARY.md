@@ -267,6 +267,7 @@
 * [Web Development](w/web-development/README.md)
   * [Selenium](w/web-development/selenium.md)
   * [Web Assembly](w/web-development/web-assembly.md)
+* [Windows Development](w/windows-development.md)
 * [Work](w/work/README.md)
   * [Freelancing](w/work/freelancing.md)
   * [GitHub Profile](w/work/github-profile.md)
