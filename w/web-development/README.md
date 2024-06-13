@@ -67,6 +67,10 @@
 * [tiiny.host](https://tiiny.host/)
 * [Vercel](https://vercel.com/)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/Typical Architecture of a Web Application.gif" alt=""><figcaption></figcaption></figure>
+
 ### Static Site Generators
 
 * [Eleventy](https://www.11ty.dev/)
