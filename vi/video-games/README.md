@@ -201,6 +201,7 @@
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Omega's Emporium](https://omegasemporium.com/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
+* [Retro Sect](https://www.retro-sect.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
 * [ShopTo](https://www.shopto.net/)
 * [SimplyGames](https://www.simplygames.com/)
@@ -424,6 +425,7 @@
 * [Noclip](https://www.youtube.com/c/NoclipVideo/videos) - Video Game Documentaries
   * [Archive.org Video Collection](https://archive.org/details/@noclipvideo)
   * [Noclip Game History Archive](https://www.youtube.com/@NoclipArchive/videos)
+* [Retro Dodo](https://www.youtube.com/@RetroDodo)
 * [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
 
 ### YouTube Playlists
