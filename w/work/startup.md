@@ -10,6 +10,7 @@
 * [How to Start Google](https://paulgraham.com/google.html) - Paul Graham
 * [How to Start a Startup](https://paulgraham.com/start.html) - Paul Graham
 * [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) - Tony Dinh
+* [Silicon Valley’s Best Kept Secret: Founder Liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/) - Stefan Theard
 * [Starting](https://successfulsoftware.net/starting-a-microisv/) - Andy Brice, Successful Software
 * The Company Man’s Guide to Starting a Side Hustle - Tyler Tervooren, The Art of Manliness
   * [Part I: Confronting Your Objections](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-i-confronting-your-objections/)
