@@ -55,6 +55,7 @@
 
 * [awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
 * [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev)
+* [awesome-n64-development](https://github.com/command-tab/awesome-n64-development)
 * [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the Game Boy Advance
 * [Celeste Classic 2 for PICO-8!](https://github.com/ExOK/Celeste2)
 * [Celeste64 ](https://github.com/ExOK/Celeste64)- A game made by the Celeste developers in a week
@@ -88,6 +89,7 @@
 
 ### Websites
 
+* [Awesome N64 Development](https://n64.dev/)
 * [create-nes-games](https://create-nes-game.nes.science/#/)
 * [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
 * [GameDev.net](https://www.gamedev.net/)

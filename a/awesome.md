@@ -54,6 +54,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome macOS: [https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 * Awesome macOS Open Source: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 * Awesome Music: [https://github.com/ciconia/awesome-music](https://github.com/ciconia/awesome-music)
+* Awesome N64 Development: [https://github.com/command-tab/awesome-n64-development](https://github.com/command-tab/awesome-n64-development)
 * Awesome Networking: [https://github.com/facyber/awesome-networking](https://github.com/facyber/awesome-networking)
 * Awesome Open Company: [https://github.com/opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
 * Awesome OS: [https://github.com/jubalh/awesome-os](https://github.com/jubalh/awesome-os)
