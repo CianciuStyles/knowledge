@@ -4,7 +4,6 @@
 
 ### Articles
 
-* [A brief introduction to x86 calling conventions](https://codearcana.com/posts/2013/05/21/a-brief-introduction-to-x86-calling-conventions.html) - Alex Reece, Code Arcana
 * [NASM Tutorial ](https://cs.lmu.edu/\~ray/notes/nasmtutorial/)- Ray Toal
 * [NASM - The Netwide Assembler](https://www.nasm.us/xdoc/2.13.03rc1/html/nasmdoc0.html)
 * [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/) - Julia Evans
