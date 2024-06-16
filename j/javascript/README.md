@@ -5,9 +5,9 @@
 * [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) - Dmitri Pavlutin
 * [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/) - Felix Gerschau
 * [JavaScript APIs You Don’t Know About](https://www.smashingmagazine.com/2022/09/javascript-api-guide/) - Juan Diego Rodriguez
-*
 * [JavaScript Visualized: Promise Execution](https://www.lydiahallie.com/blog/promise-execution) - Lydia Hallie
 * [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) - Rom Grk
+* [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) - Josh W. Comeau
 * The Two Pillars of Javascript - Eric Elliott
   * [Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
   * [Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
