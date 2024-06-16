@@ -37,6 +37,7 @@
 * [Protein - Everything You Need to Know](https://www.artofmanliness.com/health-fitness/health/podcast-937-protein-everything-you-need-to-know/) - The Art of Manliness
 * [The Fasting Doctor: “Fasting Can Help To Cure Obesity!” + This Controversial New Drug Melts Fat! ](https://www.youtube.com/watch?v=8RuWp3s6Uxk)- Diary Of A CEO
 * [The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS!](https://www.youtube.com/watch?v=4DWKf5RqU-s) - Diary Of A CEO
+* [The Health Expert: The One Food (WE ALL EAT) That's Killing Us Slowly: Max Lugavere](https://www.youtube.com/watch?v=It5DFXULOq0) - Diary Of A CEO
 * [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz](https://www.youtube.com/watch?v=e2mQOGzHtQc) - Diary Of A CEO
 * [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](https://www.youtube.com/watch?v=Gy\_vcL1cpP8) - Diary Of A CEO
 
