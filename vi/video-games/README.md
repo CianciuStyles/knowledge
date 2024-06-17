@@ -182,6 +182,7 @@
 
 ### Museums
 
+* [Power Up](https://www.sciencemuseum.org.uk/see-and-do/power) - Science Museum, London, United Kingdom
 * [Retro Computer Museum](https://retrocomputermuseum.co.uk/) - Leicester, United Kingdom
 
 ### Online Stores
