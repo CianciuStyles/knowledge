@@ -180,6 +180,10 @@
 
 * [Omar World](https://www.youtube.com/playlist?list=PLp5OoSIngkAiIzQvYvkMa7x7GBGzkra08)
 
+### Museums
+
+* [Retro Computer Museum](https://retrocomputermuseum.co.uk/) - Leicester, United Kingdom
+
 ### Online Stores
 
 * [8BitMods](https://8bitmods.com/) - Retro and modern console games and accessories
