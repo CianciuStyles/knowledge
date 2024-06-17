@@ -24,12 +24,12 @@
 * [Freeware Remakes of Adventure Games](https://virtualmoose.org/2023/09/02/freeware-remakes-of-adventure-games/) - Michael Klamerus, Virtual Moose
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [Inside The Super Nintendo Cartridges](https://fabiensanglard.net/snes\_carts/index.html) - Fabien Sanglard
+* [Nintendo of Europe coloured triangles](https://www.nanaky.eu/NintendoTriangles.html)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
 * [Architecture of Consoles](https://www.copetti.org/writings/consoles/) - Rodrigo Copetti
 * Solving The Witness with Z3 - Bickio O'Callahan
   * [Part 1](https://www.techofnote.com/witness-part-1)
   * [Part 2](https://www.techofnote.com/witness-part-2)
-* [Triangoli colorati sulle confezioni dei giochi Nintendo](https://giocatorinintendo.com/2014/08/21/triangoli-colorati-sulle-confezioni-dei-giochi-nintendo/)
 
 ### Awards
 
