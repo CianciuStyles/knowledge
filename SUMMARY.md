@@ -41,6 +41,7 @@
 * [Chess](cee/chess.md)
 * [Comedy](cee/comedy.md)
 * [Command Line](cee/command-line/README.md)
+  * [Autotools](cee/command-line/autotools.md)
   * [Awk](cee/command-line/awk.md)
   * [Bash scripting](cee/command-line/bash-scripting.md)
   * [Grep](cee/command-line/grep.md)
