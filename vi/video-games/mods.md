@@ -7,6 +7,7 @@
 * [Namsku](https://www.youtube.com/@namskuvod)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
+* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) ([GitHub](https://github.com/ThirteenAG/WidescreenFixesPack))
 
 ### Crash Bandicoot
 
