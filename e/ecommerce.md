@@ -3,14 +3,17 @@
 ### Marketplaces
 
 * [Affetto Italiano](https://www.affettoitaliano.co.uk/) - Italian Food Shopping Online
+* [Affordable Mac](https://www.affordablemac.co.uk/) - Refurbished MacBook Pro, MacBook Air, iPads & iMacs
 * [AliExpress](https://www.aliexpress.com/)
 * [Amazon UK](https://smile.amazon.co.uk/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
   * [ShitYouCanAfford](https://shityoucanafford.com/) - The Best Products on Amazon Under $20
 * [Back Market](https://www.backmarket.co.uk/) - Your Refurbished (Super) Market
 * [Bonanza](https://www.bonanza.com/) - Find everything but the ordinary
+* [CCL Online](https://www.cclonline.com/)
 * [Delcampe](https://www.delcampe.net/it/collezionismo/)
 * [DHgate ](https://www.dhgate.com/)- China Wholesale Products
+* [E5P - Everything 5 Pounds](https://www.everything5pounds.com/en/)
 * [eBay UK](https://www.ebay.co.uk/)
   * [99pbids](https://99pbids.co.uk/)
   * [BayCrazy](https://www.baycrazy.com/)
@@ -20,13 +23,17 @@
   * [PicClick](https://picclick.co.uk/)
   * [Typofindr](https://typofindr.com/) - search for typos and misspellings
   * [WatchCount](http://www.watchcount.com/)
-* [E5P - Everything 5 Pounds](https://www.everything5pounds.com/en/)
+* [Ebuyer](https://www.ebuyer.com/)
+* [ElekDirect](https://www.elekdirect.co.uk/) - the AO outlet store
+* [EuroPC](https://www.europc.co.uk/) - Certified Refurbished Computers For Sale
 * [Gumtree](https://www.gumtree.com/)
   * [James](https://www.gumtree.com/profile/accounts/64150f5924beac33bc8d87ac3291da28) - office chairs
 * [John Pye Auctions](https://www.johnpye.co.uk/)
+* [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [MuscleFood](https://www.musclefood.com/) - Premium Lean Meats
 * [NifeIsLife](https://www.nifeislife.com/) - Italian Food Home Delivery
 * [OnBuy](https://www.onbuy.com/gb/)
+* [SCAN UK](https://www.scan.co.uk/) - PC Components and online computer shop
 * [ShopBySub.com](https://www.shopbysub.com/)
 * [SpeedyHen](https://www.speedyhen.com/)
 * [Subito.it](https://www.subito.it/)
