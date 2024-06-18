@@ -4,6 +4,8 @@
 
 ### Articles
 
+* An animated introduction to Fourier Series - Andrei Ciobanu
+  * [Part 1: From the Circle to Epicycles](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/) - Jez Swanson
 * [Doomsday Algorithm](https://rudy.ca/doomsday.html)
 * [So You Want to Study Mathematics…](https://www.susanrigetti.com/math) - Susan Rigetti
