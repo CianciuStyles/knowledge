@@ -173,6 +173,7 @@
 
 * [30 Seconds Of Code](https://www.30secondsofcode.org/)
 * [Analysis Tools and Linters](https://analysis-tools.dev/) ([GitHub](https://github.com/analysis-tools-dev/static-analysis))
+* [Boot.dev](https://www.boot.dev/) - Learn Backend Development The Smart Way
 * [Code Cartoons](https://code-cartoons.com/)
 * [Code Catalog](https://codecatalog.org/) - A collection of code examples from prominent open-source projects
 * [Coder's Cat](https://coderscat.com/)
