@@ -25,6 +25,7 @@
 ### Books
 
 * [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial\_Intelligence:\_A\_Modern\_Approach) - Stuart Russell, Peter Norvig
+* [GenAI Handbook ](https://genai-handbook.github.io/)- William Brown
 
 ### Courses
 
