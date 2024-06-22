@@ -150,6 +150,10 @@
 * [Protohackers](https://protohackers.com/)
 * [What To Code](https://github.com/joereynolds/what-to-code) - Joe Reynolds
 
+### Images
+
+<figure><img src="../../.gitbook/assets/10 Books Every Software Engineer Should Read.gif" alt=""><figcaption></figcaption></figure>
+
 ### Online IDEs
 
 * [glot.io](https://glot.io/)
