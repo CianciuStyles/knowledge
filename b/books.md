@@ -72,6 +72,8 @@
 
 ![/lit/'s Top 100 Books of All Time](<../.gitbook/assets/lit's Top 100 Books Of All Time.jpg>)
 
+<figure><img src="../.gitbook/assets/Best Books of the 21st Century.jpg" alt=""><figcaption></figcaption></figure>
+
 ![Sci-Fi Guide](../.gitbook/assets/r55ODlL.jpeg)
 
 ### Online Stores
