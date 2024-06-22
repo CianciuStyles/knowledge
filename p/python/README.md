@@ -87,6 +87,12 @@ description: https://www.python.org/
 
 * [Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/Python Roadmap.jpg" alt=""><figcaption></figcaption></figure>
+
+![](<../../.gitbook/assets/image (3).png>)
+
 ### Interpreters
 
 * [CPython](https://github.com/python/cpython)
@@ -96,8 +102,6 @@ description: https://www.python.org/
 * [LPython](https://lpython.org/) - High performance typed Python compiler
 
 ### Libraries
-
-![](<../../.gitbook/assets/image (3).png>)
 
 * [Arcade ](https://api.arcade.academy/en/latest/index.html)- game development
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
