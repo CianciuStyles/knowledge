@@ -62,6 +62,7 @@
 
 * [High Scalability](http://highscalability.com/)
 * [System Design](https://systemdesign.one/)
+* [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5\_LUeFj65lI/edit)
 
 ### YouTube channels
 
