@@ -24,6 +24,7 @@
 * [Play Emulator](https://www.playemulator.com/)
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
 * [RetroArch Web Player](https://web.libretro.com/)
+* [RetroDECK ](https://retrodeck.net/)([GitHub](https://github.com/XargonWan/RetroDECK))
 * [Rom Hustler](https://romhustler.org/)
 * [SummerCart64](https://summercart64.dev/)
 * [Vimm's Lair](https://vimm.net/)
