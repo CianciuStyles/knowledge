@@ -41,6 +41,8 @@
 ## Articles
 
 * Detecting a PS2 Emulator - Ty Lamontagne
+  * [GS Backpressure](https://fobes.dev/ps2/detecting-emu-gs-backpressure)
+  * [Remapping ScratchpadRam](https://fobes.dev/ps2/detecting-emu-spr-mapping)
   * [The VU0 Pipeline](https://fobes.dev/ps2/detecting-emu-vu0-pipeline)
   * [When 1\*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 
