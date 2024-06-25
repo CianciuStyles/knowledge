@@ -144,6 +144,7 @@
 * [Starfox 64](https://github.com/sonicdcer/sf64)
 * [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Metroid](https://github.com/strager/supermetroid)
+* [Super Smash Bros Melee](https://github.com/doldecomp/melee)
 * [Tetris](https://github.com/CelestialAmber/TetrisNESDisasm)
 * [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw)
 * [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly)
