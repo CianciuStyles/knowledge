@@ -9,7 +9,7 @@
 
 ### Books
 
-* [Style Toward Clarity And Grace](https://sites.duke.edu/niou/files/2014/07/WilliamsJosephM1990StyleTowardClarityandGrace.pdf) - Joseph M. Williams
+* [Style Toward Clarity And Grace](https://s3.amazonaws.com/arena-attachments/1408171/244bf97521118f6fcbe692b0b98dcc7d.pdf) - Joseph M. Williams
 
 ### Tools
 
