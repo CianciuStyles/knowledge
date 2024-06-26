@@ -44,6 +44,7 @@
 ### Courses
 
 * [egghead.io](https://egghead.io/)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Shay Howe
 * [The Front-End Developer Career Path](https://scrimba.com/learn/frontend) - Scrimba
 * [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - Colt Steele
 
