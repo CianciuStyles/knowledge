@@ -191,6 +191,7 @@
 * [Productivity](p/productivity.md)
 * [Programming](p/programming/README.md)
   * [Functional Programming](p/programming/functional-programming.md)
+  * [Performance](p/programming/performance.md)
 * [Prometheus](p/prometheus.md)
 * [Psychology](p/psychology.md)
 * [Public Speaking](p/public-speaking.md)
