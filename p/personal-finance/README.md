@@ -125,6 +125,7 @@
 * [Plain English Finance](https://plainenglishfinance.co.uk/)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 * [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
+* [Rebel Donegans](https://rebeldonegans.com/)
 * [UKPersonalFinance Wiki](https://ukpersonal.finance/)
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
