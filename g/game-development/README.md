@@ -50,6 +50,7 @@
   * [RPG Maker 2003](https://www.rpgmakerweb.com/products/rpg-maker-2003)
   * [RPG Maker MZ](https://www.rpgmakerweb.com/products/rpg-maker-mz)
 * [Twine](https://twinery.org/) - Open-source tool for telling interactive, nonlinear stories
+* [Wicked Engine](https://wickedengine.net/)
 
 ### GitHub Repositories
 
