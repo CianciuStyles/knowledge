@@ -77,6 +77,7 @@
 * [Systems and Network Hacking](https://lettieri.iet.unipi.it/hacking/) - Giuseppe Lettieri, Università di Pisa
 * [Common Vulnerability Scoring System](https://www.first.org/cvss/)
 * [CVE Mitre](https://cve.mitre.org/)
+* [CVEdetails.com](https://www.cvedetails.com/)
 * [Exploit Database](https://www.exploit-db.com/)
 * [National Vulnerability Database](https://nvd.nist.gov/vuln/search)
 
