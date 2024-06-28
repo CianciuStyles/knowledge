@@ -81,6 +81,7 @@
 
 * [50 Ways to Get a Job](https://50waystogetajob.com/)
 * [High Paying Tech Companies](https://docs.google.com/document/d/1CeWvwkSCJtQW-\_w\_2VCxpEstldO1VqBCVXBzTfxE5pY/edit#heading=h.2qw50kdhocd2)
+* [Easy Application](http://j-delaney.github.io/easy-application/) ([GitHub](https://github.com/j-delaney/easy-application))
 * [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
