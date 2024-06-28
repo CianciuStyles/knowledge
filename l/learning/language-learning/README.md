@@ -70,6 +70,7 @@
 * [Fluent In 3 Months](https://www.fluentin3months.com/)
 * [Forvo](https://forvo.com/)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/index.html)
+* [How To Learn Any Language](http://how-to-learn-any-language.com/e/index.html)
 * [italki](https://www.italki.com/) - Find language tutors
 * [I Will Teach You A Language](https://iwillteachyoualanguage.com/)
 * [IPA Charts](https://www.yorku.ca/earmstro/ipa/index.html)
