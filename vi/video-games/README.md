@@ -415,6 +415,7 @@
 
 * [Bandipedia](https://crashbandicoot.fandom.com/wiki/Bandipedia:Main\_Page) - Crash Bandicoot Wiki
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
+* [Nukapedia ](https://fallout.fandom.com/wiki/Fallout\_Wiki)- Fallout Wiki
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [PlayStation Wiki](https://playstation.fandom.com/wiki/Main\_Page)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
