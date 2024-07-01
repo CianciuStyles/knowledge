@@ -11,6 +11,7 @@
 
 * [Cain & Abel ](https://github.com/xchwarze/Cain)- password recovery tool for Microsoft Operating Systems
 * [enum4Linux](https://github.com/CiscoCXSecurity/enum4linux) - tool for enumerating data from Windows and Samba hosts
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 
 ### Websites
