@@ -21,6 +21,10 @@
 
 * [What books helped you in your entrepreneurship journey?](https://news.ycombinator.com/item?id=35168647)
 
+### Podcasts
+
+* [The Money Expert: From $0 to Millions In 2 Years Without Any Hard Work!: Codie Sanchez](https://www.youtube.com/watch?v=XkxZCJ2pYqs) - Diary Of A CEO
+
 ### Websites
 
 * [Lemstash](https://www.lemstash.com/)
