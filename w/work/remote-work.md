@@ -22,6 +22,7 @@
 ### GitHub Repositories
 
 * [Awesome Remote Companies](https://github.com/fireball787b/awesome-remote-companies)
+* [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 * [Established Remote Companies](https://github.com/yanirs/established-remote)
 * [European Remote](https://github.com/EuropeanRemote/european-remote-software-companies) - List of the remote software companies hiring in Europe
 

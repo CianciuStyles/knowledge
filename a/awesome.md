@@ -70,6 +70,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Regex: [https://github.com/slevithan/awesome-regex](https://github.com/slevithan/awesome-regex)
 * Awesome Remote Companies: [https://github.com/fireball787b/awesome-remote-companies](https://github.com/fireball787b/awesome-remote-companies)
 * Awesome Remote Job: [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+* Awesome Remote Work: [https://github.com/hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork)
 * Awesome Resources For Learning Ethical Hacking & Pentesting: [https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 * Awesome Reverse Engineering: [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * Awesome Roadmaps: [https://github.com/liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps)
