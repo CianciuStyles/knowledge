@@ -10,6 +10,8 @@
 ### GitHub repositories
 
 * [Cain & Abel ](https://github.com/xchwarze/Cain)- password recovery tool for Microsoft Operating Systems
+* [enum4Linux](https://github.com/CiscoCXSecurity/enum4linux) - tool for enumerating data from Windows and Samba hosts
+* [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 
 ### Websites
 
