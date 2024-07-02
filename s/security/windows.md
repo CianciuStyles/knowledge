@@ -15,6 +15,12 @@
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
+### TryHackMe Rooms
+
+* [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory)
+* [Blaster](https://tryhackme.com/r/room/blaster)
+* [Ice](https://tryhackme.com/r/room/ice)
+
 ### Websites
 
 * [Active Directory Security](https://adsecurity.org/)
