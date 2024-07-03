@@ -56,16 +56,19 @@
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 
+### Tools
+
+* [Registry Explorer](https://ericzimmerman.github.io/#!index.md) - Eric Zimmerman
+
 ### TryHackMe Rooms
 
 * [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory)
 * [Blaster](https://tryhackme.com/r/room/blaster)
 * [Ice](https://tryhackme.com/r/room/ice)
 * [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)
-
-### Tools
-
-* [Registry Explorer](https://ericzimmerman.github.io/#!index.md) - Eric Zimmerman
+* [Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)
+* [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
+* [Windows Fundamentals 3](https://tryhackme.com/r/room/windowsfundamentals3xzx)
 
 ### Websites
 
