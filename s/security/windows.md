@@ -20,6 +20,7 @@
 * [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory)
 * [Blaster](https://tryhackme.com/r/room/blaster)
 * [Ice](https://tryhackme.com/r/room/ice)
+* [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)
 
 ### Websites
 
