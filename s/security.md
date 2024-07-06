@@ -130,6 +130,8 @@
 ### Linux Distributions
 
 * [Kali Linux](https://www.kali.org/) - OffSec
+  * [Kali WSL](https://www.kali.org/docs/wsl/wsl-preparations/)
+  * [Win-KeX](https://www.kali.org/docs/wsl/win-kex/)
 * [Parrot OS](https://www.parrotsec.org/) - Parrot Security
 
 ### Meetups
