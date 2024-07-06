@@ -158,6 +158,7 @@
   * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers\_essential\_games\_list\_wii\_u/)
   * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers\_essential\_games\_list\_xbox\_360/)
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers\_essential\_games\_list\_xbox\_one/)
+* [Complete Edition Central](https://www.playstationtrophies.org/forum/topic/297967-complete-edition-central/) - PlayStationTrophies.org
 * [Kotaku](https://kotaku.com/)
   * [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847)
   * [The 14 Best Games For The Xbox One](https://kotaku.com/the-12-best-games-for-the-xbox-one-1500422046)
