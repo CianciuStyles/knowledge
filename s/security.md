@@ -217,6 +217,8 @@
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 * [The Cyber Pulse Video Library](https://info.qa.com/thecyberpulse-videos)
 * [The Hacker News](https://thehackernews.com/) - #1 Trusted Cybersecurity News Platform
+* [The Hacker Recipes](https://www.thehacker.recipes/)
+* [The Hacker Tools](https://tools.thehacker.recipes/)
 * [TryHackMe](https://tryhackme.com)
 * [US Cyber Challenge](https://uscc.cyberquests.org/)
 * [VulnHub](https://www.vulnhub.com)
