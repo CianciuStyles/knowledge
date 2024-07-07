@@ -194,6 +194,7 @@
 * [HackerSploit - Red Team Security Series](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp\&eventid=3464953\&sessionid=1\&key=E0A685256C93DEE2AE27A7BFBAF38E33\&groupId=3037761)
 * [Hacksplaining](https://www.hacksplaining.com/) - Security Training for Developers
 * [HackThisSite](https://www.hackthissite.org/)
+* [HackTricks](https://book.hacktricks.xyz/)
 * [HackMyVM](https://hackmyvm.eu/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
 * [John Hammond](https://j-h.io/)
@@ -209,6 +210,7 @@
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
+* [Red Team Notes](https://www.ired.team/)
 * [Reversing.kr](http://reversing.kr/)
 * [SANS](https://www.sans.org/uk\_en/) - UK Cybersecurity Courses & Training
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy

@@ -58,6 +58,10 @@
 * [Resource Hacker](https://www.angusj.com/resourcehacker/)
 * [x64dbg](https://x64dbg.com/)
 
+### TryHackMe Rooms
+
+* [Windows Reversing Intro](https://tryhackme.com/r/room/windowsreversingintro)
+
 ### Tutorials
 
 * [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/) - Maddie Stone
