@@ -62,6 +62,7 @@
 
 ### TryHackMe Rooms
 
+* [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
 * [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory)
 * [Blaster](https://tryhackme.com/r/room/blaster)
 * [Ice](https://tryhackme.com/r/room/ice)
