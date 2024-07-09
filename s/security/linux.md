@@ -9,6 +9,7 @@
 * [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 * [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 * [Linux Privilege Escalation Check Script](https://github.com/linted/linuxprivchecker)
+* [linuxprivchecker.py](https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123)
 
 ### TryHackMe Rooms
 
