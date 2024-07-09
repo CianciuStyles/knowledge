@@ -132,6 +132,7 @@ description: https://www.python.org/
 * [Combining Rust and Python: The Best of Both Worlds?](https://www.youtube.com/watch?v=lyG6AKzu4ew) - ArjanCodes
 * [Python Library Development](https://www.youtube.com/watch?v=F5BHCVlZly4) - Vitor Baptista
 * [PyVideo.org](https://pyvideo.org/)
+* [Rusty Python](https://www.youtube.com/watch?v=Y5XQR0wUEyM) - Robin Raymond
 * [So you think you can PDB?](https://www.youtube.com/watch?v=P0pIW5tJrRM) - Clayton Parker
 * [What is a Coroutine Anyway?](https://www.youtube.com/watch?v=GSiZkP7cI80) - John Reese
 
