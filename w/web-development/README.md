@@ -11,6 +11,7 @@
 * [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - Brandon Morelli
 * [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) - Amos Wenger
 * [What makes a good Progressive Web App?](https://web.dev/pwa-checklist/) - Sam Richards, Pete LePage
+* [You’re Closer Than You Think: The Only 6 DNS Concepts You Really Need](https://jonahdevs.com/youre-closer-than-you-think-the-only-6-dns-concepts-you-really-need/) - JonahDevs
 
 ### Benchmarks
 
