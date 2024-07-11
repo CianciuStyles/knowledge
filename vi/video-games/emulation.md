@@ -236,6 +236,7 @@
   * [The Nintendo WiiU is awesome in 2018 - Homebrew, Hacks and More](https://www.youtube.com/watch?v=YyB9E2zEFBA)
   * [The Nintendo Wii U is a homebrew beast. Here's why](https://www.youtube.com/watch?v=\_tbtH3mNNuY)
   * [The Xbox 360 is still awesome in 2019 - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=zFGz4aT1cgo)
+  * [The Xbox Series S is STILL an Emulation Beast - New Updates!](https://www.youtube.com/watch?v=9AUtERZ6tXY)
   * [Turning a $10 Original Xbox into an awesome Emulation device](https://www.youtube.com/watch?v=oTpleBjELZg)
   * [Why a Hacked Xbox 360 is STILL awesome in 2023.](https://www.youtube.com/watch?v=NfdVtJmeXfY)
   * [Why the Wii U is the best Retro and Emulation console in 2020](https://www.youtube.com/watch?v=HRXwzGh-FoY)
