@@ -420,12 +420,16 @@
 ### Wikis
 
 * [Bandipedia](https://crashbandicoot.fandom.com/wiki/Bandipedia:Main\_Page) - Crash Bandicoot Wiki
+* [BioShock Wiki](https://bioshock.fandom.com/wiki/BioShock\_Wiki)
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main\_Page)
+* [GTA Wiki](https://gta.fandom.com/wiki/Main\_Page)
 * [Nukapedia ](https://fallout.fandom.com/wiki/Fallout\_Wiki)- Fallout Wiki
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [PlayStation Wiki](https://playstation.fandom.com/wiki/Main\_Page)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main\_Page)
 * [S.T.A.L.K.E.R. Wiki](https://stalker.fandom.com/wiki/S.T.A.L.K.E.R.\_Wiki)
+* [The Elder Scrolls Wiki](https://elderscrolls.fandom.com/wiki/The\_Elder\_Scrolls\_Wiki)
+* [The Last of Us Wiki](https://thelastofus.fandom.com/wiki/The\_Last\_of\_Us\_Wiki)
 
 ### YouTube Channels
 
