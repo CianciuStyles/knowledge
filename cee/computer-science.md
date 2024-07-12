@@ -13,6 +13,7 @@
 
 * [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
 * [Computer Science and Engineering Roadmap and Checklist](https://github.com/apeman/awesome\_computer\_science)
+* [Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
 
