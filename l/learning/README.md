@@ -84,6 +84,12 @@
 * [What is a hobby you can get into for almost no money?](https://www.reddit.com/r/AskReddit/comments/4knolu/what\_is\_a\_hobby\_you\_can\_get\_into\_for\_almost\_no/)
 * [What skill can anyone independently learn in five hours?](https://www.reddit.com/r/AskReddit/comments/4xit3w/what\_skill\_can\_anyone\_independently\_learn\_in\_five/)
 
+### Tools
+
+* [Anki](https://apps.ankiweb.net/)
+  * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
+* [Quizlet](https://quizlet.com)
+
 ### Websites
 
 * [Academic Earth](https://academicearth.org)
@@ -105,7 +111,6 @@
 * [OpenLearn](https://www.open.edu/openlearn/)
 * [OpenSesame](https://www.opensesame.com/)
 * [Open Yale Courses](https://oyc.yale.edu/)
-* [Quizlet](https://quizlet.com)
 * [Saylor Academy](https://learn.saylor.org/)
 * [SkillShare](https://www.skillshare.com/)
 * [Springboard](https://www.springboard.com/)
