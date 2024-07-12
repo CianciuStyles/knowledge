@@ -62,6 +62,7 @@
 
 * [Ask HN: Are you a “lifer”? If so why?](https://news.ycombinator.com/item?id=33794293)
 * [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
+* [Ask HN: How do you find a "boring" tech job?](https://news.ycombinator.com/item?id=40848806)
 * [Ask HN: New job at BigCo. Everything has friction](https://news.ycombinator.com/item?id=31669338)
 * [Ask HN: What companies have publicly available handbooks?](https://news.ycombinator.com/item?id=34959242)
 * [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
