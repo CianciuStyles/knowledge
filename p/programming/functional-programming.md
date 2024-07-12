@@ -17,3 +17,7 @@
 ### GitHub Repositories
 
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+YouTube Videos
+
+* [7 Functional Programming Techniques Every Developer Should Know](https://www.youtube.com/watch?v=Rp9Ha0rVM1w) - ArjanCodes
