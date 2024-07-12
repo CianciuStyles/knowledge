@@ -113,6 +113,7 @@ description: https://www.python.org/
 * [Poetry](https://python-poetry.org/) - dependency management and packaging
 * [py2wasm ](https://github.com/wasmerio/py2wasm)- Python to Wasm compiler
   * [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler) - Syrus Akbary, Wasmer
+* [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 * [ReactPy ](https://github.com/reactive-python/reactpy)- It's React, but in Python
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator

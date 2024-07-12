@@ -66,6 +66,7 @@
 * [Open Source Games](https://github.com/bobeff/open-source-games)
 * [OpenBOR ](https://github.com/DCurrent/openbor)- the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 * [Magic Tools](https://github.com/ellisonleao/magictools)
+* [Pyxel](https://github.com/kitao/pyxel) - retro game engine for Python
 * [SGDK ](https://github.com/Stephane-D/SGDK)- A free and open development kit for the Sega Mega Drive
 * [Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG
 * [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
