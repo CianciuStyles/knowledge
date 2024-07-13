@@ -59,6 +59,8 @@
 ### Hacker News threads
 
 * [Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
+* [Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
+* [How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 
 ### Websites
 
