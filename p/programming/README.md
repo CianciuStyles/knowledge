@@ -94,6 +94,14 @@
 * [Hyperpolyglot](https://hyperpolyglot.org/)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
+### Code Editors
+
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Zed](https://zed.dev/)
+
 ### GitHub Repositories
 
 * [Amazing Developer On YouTube](https://github.com/ErikCH/DevYouTubeList)
