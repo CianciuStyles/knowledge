@@ -16,7 +16,6 @@
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
 * [Internet Arcade](https://archive.org/details/internetarcade)
-* [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
 * [Old Games Download](https://oldgamesdownload.com/)
@@ -65,6 +64,10 @@
   * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
   * [Roms Nintendo 64 (EU)](https://archive.org/details/roms-nintendo-64-eu)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+
+### Nintendo DS
+
+* [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
 
 ### Nintendo GameCube
 
