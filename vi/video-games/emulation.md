@@ -221,6 +221,7 @@
   * [Nintendo Switch Emulator Adds Online Network then Removes it](https://www.youtube.com/watch?v=qcwPIUBMB9U)
   * [Nintendo used to be GOOD at N64 Emulation..what happened?](https://www.youtube.com/watch?v=ounQZv1MFNA)
   * [Original Xbox Emulation on the PC - HUGE improvements are here](https://www.youtube.com/watch?v=MfnbmXgLkzU)
+  * [Pimpin the Original Xbox in 2024](https://www.youtube.com/watch?v=DOTIeawOFbI)
   * [PlayStation 2 Games are running on the XBOX Series S](https://www.youtube.com/watch?v=psTunlgKOMM)
   * [PlayStation 4 Emulation is getting better and better](https://www.youtube.com/watch?v=oqcWTwTXYoA)
   * [PlayStation 4 emulation on the PC is here](https://www.youtube.com/watch?v=yIMseCc9tZY)
