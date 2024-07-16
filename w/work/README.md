@@ -88,6 +88,7 @@
 * [levels.fyi](https://www.levels.fyi/)
 * [LinkedIn](https://it.linkedin.com/)
 * [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
+* [moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/) ([GitHub](https://github.com/Kaustubh-Natuskar/moreThanFAANGM))
 * [promotions.fyi](https://www.promotions.fyi/)
 * [TechPays Europe](https://techpays.com/)
 * [We've all faced rejection](https://rejected.us/)
