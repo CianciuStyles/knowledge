@@ -67,6 +67,7 @@
 ### Websites
 
 * [Couchsurfing](https://www.couchsurfing.com/)
+* [Fluent](https://fluent.im/)
 * [Fluent In 3 Months](https://www.fluentin3months.com/)
 * [Forvo](https://forvo.com/)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/index.html)
