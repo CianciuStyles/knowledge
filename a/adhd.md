@@ -14,6 +14,7 @@
 ### Hacker News threads
 
 * [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
+* [Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
 
 ### Reddit threads
 
