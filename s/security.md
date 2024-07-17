@@ -64,6 +64,7 @@
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 * [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
 * [CompTIA Security+](https://www.comptia.org/certifications/security)
+  * [CompTIA Security+ Certification Practice Test Questions](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 * [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 * [A Guide to Information Security Certifications (2020 Update)](https://danielmiessler.com/blog/infoseccerts/) - Daniel Miessler
 
