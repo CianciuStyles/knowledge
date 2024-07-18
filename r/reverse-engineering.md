@@ -29,6 +29,7 @@
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
+* [RootMyRoku](https://github.com/llamasoft/RootMyRoku)
 
 ### Linux Distributions
 
@@ -75,6 +76,7 @@
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
 * [ReversingHero](https://www.reversinghero.com/)
+* [RootMy.TV](https://rootmy.tv/)
 
 ### YouTube Channels
 
