@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [Tokyo’s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures) - Richard A. Brooks, The Guardian
 * [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/) - Patrick McKenzie
 
 ### Maps
