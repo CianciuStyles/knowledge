@@ -12,6 +12,10 @@
 * [Osaka](https://www.google.com/maps/d/u/0/viewer?mid=1nT\_WwCO5ADmnbEe8kx8MScFEVVGaXVQ\&ll=34.65968068318899%2C135.50987719999998\&z=13)
 * [Tokyo](https://www.google.com/maps/d/u/0/viewer?mid=146Y8\_lUW6lCpOu1-kmgIN8hRUqSnEcY\&ll=35.66768813910526%2C139.75370159999997\&z=12)
 
+### Subreddits
+
+* [r/TokyoTravel](https://www.reddit.com/r/TokyoTravel/)
+
 ### Websites
 
 * [Japan Rail Pass Calculator](https://www.japan-guide.com/railpass/)
