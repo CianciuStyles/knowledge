@@ -126,6 +126,7 @@
 * [Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
 * [How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
 * [How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
+* [Is there any software you only made for your own use but nobody else?](https://news.ycombinator.com/item?id=40878765)
 * [Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
 * [Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
 * [Programs that saved you 100 hours? (2022 edition)](https://news.ycombinator.com/item?id=34069106)
