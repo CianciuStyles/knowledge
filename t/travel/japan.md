@@ -14,6 +14,7 @@
 
 ### Subreddits
 
+* [r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)
 * [r/TokyoTravel](https://www.reddit.com/r/TokyoTravel/)
 
 ### Websites
