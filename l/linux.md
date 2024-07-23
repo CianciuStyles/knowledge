@@ -30,9 +30,11 @@ description: https://www.linux.org/
 
 * [Beyond Linux From Scratch ](https://www.linuxfromscratch.org/blfs/view/stable/)- Gerard Beekmans
 * [Linux From Scratch ](https://www.linuxfromscratch.org/lfs/view/stable/)- Gerard Beekmans
+* [The SELinux Notebook](https://github.com/SELinuxProject/selinux-notebook/)
 
 ### GitHub Repositories
 
+* [SELinux Project](https://github.com/SELinuxProject)
 * [Sysadmin - Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ### Websites
