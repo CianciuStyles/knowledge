@@ -9,6 +9,9 @@
   * [Part 2 - Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [Exploring Supervised Machine Learning Algorithms](https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms) - Vladyslav Miller
 * [K-Means Clustering](https://johnloeber.com/docs/kmeans.html) - John Loeber
+* Linear Algebra 101 for AI/ML - Backprop
+  * [Part 1](https://www.trybackprop.com/blog/linalg101/part\_1\_vectors\_matrices\_operations)
+  * [Part 2](https://www.trybackprop.com/blog/linalg101/part\_2\_dot\_product)
 * [Machine Learning: a sound primer](https://www.franzoni.eu/machine-learning-a-sound-primer/) - Alan Franzoni
 * Machine Learning Exercises in Python - John Wittenauer
   * [Part 1 - Simple Linear Regression](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
