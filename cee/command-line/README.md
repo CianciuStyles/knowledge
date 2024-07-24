@@ -7,6 +7,7 @@
 * [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) - Jeff Dickey
 * [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/) - Matthieu Cneude, The Valuable Dev
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) - Julia Evans
+* [Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) - Daniel Kleinstein
 * [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - Alicia Sykes
 * [Entering text in the terminal is complicated ](https://jvns.ca/blog/2024/07/08/readline/)- Julia Evans
 * [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection\_tutorial)
