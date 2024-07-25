@@ -12,6 +12,7 @@ description: https://www.android.com/
 
 ### GitHub Repositories
 
+* [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 * [Better `adb shell`](https://github.com/matan-h/adb-shell)
 
 ### Websites

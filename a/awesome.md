@@ -41,6 +41,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Italia Remote: [https://github.com/italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote)
 * Awesome Java: [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * Awesome JavaScript: [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* Awesome Jetpack Compose Android Apps: [https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 * Awesome Job Boards:
   * [https://github.com/emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
   * [https://github.com/tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
