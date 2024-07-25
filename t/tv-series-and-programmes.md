@@ -38,6 +38,7 @@
 
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer)
 * [Channel 4](https://www.channel4.com/)
+* [Dropout](https://www.dropout.tv/)
 * [ITVX](https://www.itv.com/)
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/)
 * [Pluto TV](https://pluto.tv/)
