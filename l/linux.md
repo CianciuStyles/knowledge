@@ -40,6 +40,7 @@ description: https://www.linux.org/
 ### Websites
 
 * [Darling ](https://www.darlinghq.org/)- Run macOS software on Linux
+* [Flathub](https://flathub.org/) - Apps for Linux
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
 * [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - University Politehnica of Bucharest
 * [SadServers](https://sadservers.com/scenarios) - Troubleshooting Linux Servers
