@@ -14,6 +14,10 @@
 
 * [The 4-Hour Body](https://tim.blog/category/the-4-hour-body/) - Tim Ferriss
 
+### Podcasts
+
+* [How I Lost 60 Pounds and Started Giving A F\*ck About My Health](https://www.youtube.com/watch?v=YKrjtx7gdl0) - Mark Manson
+
 ### Reddit threads
 
 * [Men in their late 30s who lost belly fat, HOW?!](https://www.reddit.com/r/AskReddit/comments/1871gs7/men\_in\_their\_late\_30s\_who\_lost\_belly\_fat\_how/)
