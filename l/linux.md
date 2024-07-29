@@ -37,6 +37,10 @@ description: https://www.linux.org/
 * [SELinux Project](https://github.com/SELinuxProject)
 * [Sysadmin - Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills)
 
+### Software
+
+* [Foliate](https://johnfactotum.github.io/foliate/) - eBook reader
+
 ### Websites
 
 * [Darling ](https://www.darlinghq.org/)- Run macOS software on Linux
