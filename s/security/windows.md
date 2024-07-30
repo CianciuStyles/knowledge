@@ -48,7 +48,7 @@
 * [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page\_id=1821) - Active Directory Security
 * [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - Ruben Boonen, Fuzzy Security
 
-### GitHub repositories
+### GitHub Repositories
 
 * [Cain & Abel ](https://github.com/xchwarze/Cain)- password recovery tool for Microsoft Operating Systems
 * [enum4Linux](https://github.com/CiscoCXSecurity/enum4linux) - tool for enumerating data from Windows and Samba hosts
@@ -57,6 +57,7 @@
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
+* [UACMe](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 
 ### Tools
 
