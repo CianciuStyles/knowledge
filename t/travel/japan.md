@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [A 9 Day Itinerary for Your First Trip to Japan!](https://www.samanthaminor.com/post/2019/05/31/a-9-day-itinerary-for-your-first-trip-to-japan) - Samantha Minor
 * [Tokyo’s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures) - Richard A. Brooks, The Guardian
 * [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/) - Patrick McKenzie
 
