@@ -14,3 +14,4 @@
 ### TryHackMe Rooms
 
 * [Linux PrivEsc](https://tryhackme.com/r/room/linuxprivesc)
+* [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc)
