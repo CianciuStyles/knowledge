@@ -16,6 +16,7 @@
 
 * [Distributed Systems](https://www.amazon.co.uk/dp/1543057381) - Maarten van Steen, Andrew S. Tanenbaum
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html) - Mikito Takada
+* [Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/systems-performance-2nd-edition-book.html) - Brendan Gregg
 * [Understanding Distributed Systems](https://www.amazon.co.uk/dp/1838430210) - Roberto Vitillo
 
 ### Courses
