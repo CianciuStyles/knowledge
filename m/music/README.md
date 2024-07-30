@@ -14,7 +14,8 @@
 ### Reddit threads
 
 * ​[Albums where EVERY song is an absolute banger?](https://www.reddit.com/r/Music/comments/w4cdbj/albums\_where\_every\_song\_is\_an\_absolute\_banger/)​
-* ​[In your opinion, what is an album with no bad songs?](https://www.reddit.com/r/AskReddit/comments/pqwt7w/in\_your\_opinion\_what\_is\_an\_album\_with\_no\_bad\_songs/)​
+* ​[In your opinion, what is an album with no bad songs?](https://www.reddit.com/r/AskReddit/comments/pqwt7w/in\_your\_opinion\_what\_is\_an\_album\_with\_no\_bad\_songs/)
+* [What 80's album is a 11 out of 10?](https://www.reddit.com/r/AskReddit/comments/1efjrvs/what\_80s\_album\_is\_a\_11\_out\_of\_10/)​
 * ​[What album can you listen to front to back without wanting to skip even a single song?](https://www.reddit.com/r/AskReddit/comments/m430pr/what\_album\_can\_you\_listen\_to\_front\_to\_back/)​
 * ​[What album do you enjoy every song on?](https://www.reddit.com/r/AskReddit/comments/2ta8yv/what\_album\_do\_you\_enjoy\_every\_song\_on/)​
 * ​[What album is a 10/10?](https://www.reddit.com/r/AskReddit/comments/geylde/what\_album\_is\_a\_1010/)​
