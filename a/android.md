@@ -6,6 +6,10 @@ description: https://www.android.com/
 
 ## Resources
 
+### Articles
+
+* [The internals of Android APK build process](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20) - Android Dev Notes
+
 ### Courses
 
 * [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
