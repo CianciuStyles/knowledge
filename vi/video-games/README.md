@@ -21,6 +21,7 @@
 
 * [Amazing vintage video game ads from the 1980s and 1990s](https://rarehistoricalphotos.com/vintage-video-game-ads-1980s-1990s/)
 * [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/) - Fabien Sanglard
+* [Designing the Super Nintendo Video System](https://fabiensanglard.net/snes\_video/index.html) - Fabien Sanglard
 * [Freeware Remakes of Adventure Games](https://virtualmoose.org/2023/09/02/freeware-remakes-of-adventure-games/) - Michael Klamerus, Virtual Moose
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [Inside The Super Nintendo Cartridges](https://fabiensanglard.net/snes\_carts/index.html) - Fabien Sanglard
