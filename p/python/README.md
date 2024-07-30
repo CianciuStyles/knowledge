@@ -131,6 +131,7 @@ description: https://www.python.org/
 * [An Introduction to Property Based Testing](https://www.youtube.com/watch?v=fhFXg2f9D2A) - Alex Chan
 * [Building native Rust modules for Python](https://www.youtube.com/watch?v=r2wCF5DjNJ4) - Arthur Pastel
 * [Combining Rust and Python: The Best of Both Worlds?](https://www.youtube.com/watch?v=lyG6AKzu4ew) - ArjanCodes
+* [Generators, coroutines and nanoservices](https://www.youtube.com/watch?v=tHLOtZNsCBc) - Reuven M. Lerner
 * [Python Library Development](https://www.youtube.com/watch?v=F5BHCVlZly4) - Vitor Baptista
 * [PyVideo.org](https://pyvideo.org/)
 * [Rusty Python](https://www.youtube.com/watch?v=Y5XQR0wUEyM) - Robin Raymond
