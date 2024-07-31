@@ -64,6 +64,10 @@
 * [The LLVM Compiler Infrastructure Project](https://llvm.org/)
   * [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453) - John Regehr
 
+### YouTube Playlists
+
+* [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas\_Zy\_qC7c5tCgTMYq2idyyT241qs) - Pixeled
+
 ### YouTube Videos
 
 * [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX\_Rs) - Computerphile
