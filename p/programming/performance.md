@@ -1,5 +1,9 @@
 # Performance
 
+### Blogs
+
+* [Johnny's Software Lab](https://johnnysswlab.com/)
+
 ### Books
 
 * [How to Make Things Faster](https://method-r.com/books/faster/) - Cary Millsap
@@ -10,3 +14,7 @@
 ### Courses
 
 * [Performance Ninja Class](https://products.easyperf.net/perf-ninja) - Denis Bakhvalov
+
+### Websites
+
+* [Software Optimization Resources](https://www.agner.org/optimize/) - Agner Fog, Technical University of Denmark
