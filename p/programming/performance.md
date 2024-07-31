@@ -13,6 +13,7 @@
 
 ### Courses
 
+* [Computer, Enhance!](https://www.computerenhance.com/) - Casey Muratori
 * [Performance Ninja Class](https://products.easyperf.net/perf-ninja) - Denis Bakhvalov
 
 ### Websites
