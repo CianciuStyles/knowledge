@@ -76,11 +76,15 @@
 
 <figure><img src="../../.gitbook/assets/Frontend Performance Cheatsheet.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Full Stack Developer Roadmap.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/JSON Web Token.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Top 9 HTTP Request Methods.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Typical Architecture of a Web Application.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Why are CDN so popular.gif" alt=""><figcaption></figcaption></figure>
 
 ### Static Site Generators
 
