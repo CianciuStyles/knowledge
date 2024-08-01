@@ -366,6 +366,7 @@
 * [What type of videogames are you not able to enjoy?](https://www.reddit.com/r/truegaming/comments/161yews/what\_type\_of\_videogames\_are\_you\_not\_able\_to\_enjoy/)
 * [What video game can you play over and over again and still enjoy it?](https://www.reddit.com/r/AskReddit/comments/51ydvx/what\_video\_game\_can\_you\_play\_over\_and\_over\_again/)
 * [What video game do you consider a masterpiece?](https://www.reddit.com/r/AskReddit/comments/w68jfd/what\_video\_game\_do\_you\_consider\_a\_masterpiece/)
+* [What video game is 10/10?](https://www.reddit.com/r/AskReddit/comments/1eg6i5b/what\_video\_game\_is\_1010/)
 * [What video game is an absolute 100/100 in your opinion?](https://www.reddit.com/r/AskReddit/comments/y8tz9q/what\_video\_game\_is\_an\_absolute\_100100\_in\_your/)
 * [What video game left you saying "Fuck Yeah"?](https://www.reddit.com/r/AskReddit/comments/4g30rz/what\_video\_game\_left\_you\_saying\_fuck\_yeah/)
 * [What video game to you is a "must play"?](https://www.reddit.com/r/AskReddit/comments/1rd3ci/what\_video\_game\_to\_you\_is\_a\_must\_play/)
