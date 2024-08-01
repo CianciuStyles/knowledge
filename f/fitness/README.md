@@ -16,6 +16,7 @@
 
 ### Podcasts
 
+* [Dr Mike: The Hidden Side Effects Of Vaping! We Need To Stop Medical Misinformation!](https://www.youtube.com/watch?v=ToUpAWW7u4c) - Diary Of A CEO
 * [How I Lost 60 Pounds and Started Giving A F\*ck About My Health](https://www.youtube.com/watch?v=YKrjtx7gdl0) - Mark Manson
 
 ### Reddit threads
