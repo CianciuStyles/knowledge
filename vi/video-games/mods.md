@@ -27,6 +27,7 @@
 ### Fallout 2
 
 * [Fallout 1.5: Resurrection](https://www.moddb.com/mods/fallout-15-resurrection) - a mega-modification for Fallout 2, it has a completely new story and takes place in New Mexico, sometime between the events of Fallout 1 and 2
+* [Fallout 2 Remake 3D](https://jonasz-o.itch.io/fallout2remake3d)
 * [Fallout Et Tu](https://github.com/rotators/Fo1in2) - Fallout 1 to 2 engine conversion
 
 ### Fallout: New Vegas
