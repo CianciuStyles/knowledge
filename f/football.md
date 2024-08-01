@@ -60,3 +60,5 @@
 ### Websites
 
 * [Almanacco Giallorosso](https://www.almanaccogiallorosso.it)
+* [StatsBomb](https://statsbomb.com/)
+  * [StatsBomb Open Data](https://github.com/statsbomb/open-data)
