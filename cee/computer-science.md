@@ -8,6 +8,7 @@
 
 * [Computer Science Academy](https://academy.cs.cmu.edu) - Carnegie Mellon University
 * [Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/\~15251/) - Carnegie Mellon University ([HN](https://news.ycombinator.com/item?id=15146905))
+* [Program and Data Representation](https://aaronbloomfield.github.io/pdr/readme.html) - Mark Floryan, Rich Nguyen, Aaron Bloomfield
 
 ### GitHub Repositories
 
