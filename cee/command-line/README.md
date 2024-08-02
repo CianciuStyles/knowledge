@@ -37,6 +37,7 @@
 
 ### Websites
 
+* [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) ([GitHub](https://github.com/onceupon/Bash-Oneliner))
 * [Command Challenge](https://cmdchallenge.com/)
 * [Command Line Interface Guidelines](https://clig.dev/)
 * [Crontool](https://tool.crontap.com/cronjob-debugger) - crontab expressions editor online
