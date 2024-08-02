@@ -40,4 +40,5 @@ description: https://www.djangoproject.com/
 ### Websites
 
 * [Django Class-Based Views](https://ccbv.co.uk/)
+* [Django Ninja](https://django-ninja.dev/) - Fast Django REST Framework
 * [The State of Django 2024](https://blog.jetbrains.com/pycharm/2024/06/the-state-of-django/) - JetBrains
