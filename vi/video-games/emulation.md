@@ -126,6 +126,10 @@
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
+### Sony PlayStation 4
+
+* [ShadPS4](https://shadps4.net/) ([GitHub](https://github.com/shadps4-emu/shadPS4)) - PS4 emulator for PC
+
 ## Decompilations and Disassemblies
 
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
