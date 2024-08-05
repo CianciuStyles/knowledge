@@ -227,6 +227,7 @@
   * [Pimpin the Original Xbox in 2024](https://www.youtube.com/watch?v=DOTIeawOFbI)
   * [PlayStation 2 Games are running on the XBOX Series S](https://www.youtube.com/watch?v=psTunlgKOMM)
   * [PlayStation 4 Emulation is getting better and better](https://www.youtube.com/watch?v=oqcWTwTXYoA)
+  * [PlayStation 4 Emulation on the PC has hit a huge milestone](https://www.youtube.com/watch?v=KZvSEdFGyxE)
   * [PlayStation 4 emulation on the PC is here](https://www.youtube.com/watch?v=yIMseCc9tZY)
   * [RPCS3 PlayStation 3 emulation on the PC is seriously impressive](https://www.youtube.com/watch?v=ljJ8DKEy69c)
   * [RPCS3 PS3 emulator just got updated... and its awesome!](https://www.youtube.com/watch?v=X-qxSyBr6cs)
