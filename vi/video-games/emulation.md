@@ -120,6 +120,7 @@
   * [Sony Playstation 2 Europe 2/3 H-R](https://archive.org/details/rr-sony-playstation-2-e2)
   * [Sony Playstation 2 Europe 3/3 S-Z](https://archive.org/details/rr-sony-playstation-2-e3)
 * [Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+* [FreeMcBoot](https://israpps.github.io/FreeMcBoot-Installer/) - A homebrew applications launcher
 * [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
 * [Open PS2 Loader Compatibility List](http://sx.sytes.net/oplcl/games.aspx)
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
