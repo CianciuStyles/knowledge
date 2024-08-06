@@ -74,6 +74,7 @@
 ### Websites
 
 * [Desmos](https://www.desmos.com/calculator)
+* [Easing Functions Cheat Sheet](https://easings.net/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Math Academy](https://mathacademy.com/)
 * [Setosa](https://setosa.io/#/) - data visualization and visual explanations
