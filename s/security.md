@@ -215,6 +215,7 @@
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
+* [Red Team Development and Operations](https://redteam.guide/)
 * [Red Team Notes](https://www.ired.team/)
 * [Reversing.kr](http://reversing.kr/)
 * [SANS](https://www.sans.org/uk\_en/) - UK Cybersecurity Courses & Training
