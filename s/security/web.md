@@ -21,6 +21,7 @@
 
 #### JSON Web Tokens
 
+* [JWT Debugger](https://token.dev/)
 * [jwt.io](https://jwt.io/)
 
 #### Online Malware Detection
