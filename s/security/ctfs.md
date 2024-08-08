@@ -113,6 +113,7 @@
 * [factordb](http://factordb.com/)
 * [Hash Decrypter](https://hashes.com/en/decrypt/hash)
 * [Hash Type Identifier](https://hashes.com/en/tools/hash\_identifier)
+* [hashes.link](https://hashes.link/)
 * [MD5Hashing.net](https://md5hashing.net/) - Hash, hashing and encryption toolkit
 * [quipquip](https://www.quipqiup.com/)
 * [Substitution cipher decoder](https://planetcalc.com/8047/)
