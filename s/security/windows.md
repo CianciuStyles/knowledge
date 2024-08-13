@@ -69,6 +69,7 @@
 * [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
 * [Attacktive Directory](https://tryhackme.com/r/room/attacktivedirectory)
 * [Blaster](https://tryhackme.com/r/room/blaster)
+* [Bypassing UAC](https://tryhackme.com/r/room/bypassinguac)
 * [Ice](https://tryhackme.com/r/room/ice)
 * [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)
 * [Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)
