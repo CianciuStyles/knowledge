@@ -35,6 +35,7 @@
 * [AlgorithmsAndDataStructure](https://github.com/codePerfectPlus/AlgorithmsAndDataStructure) - C++ and Python
 * [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
 * [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
+* [FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms)
 * [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Python Data Structures and Algorithms](https://github.com/prabhupant/python-ds)
