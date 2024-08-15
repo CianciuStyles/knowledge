@@ -48,6 +48,8 @@
 
 #### Solicitors
 
+* Alban Gould, Baker & Co.
+  * Paul Baker
 * [Bishop & Sewell](https://www.bishopandsewell.co.uk/)
   * Charlotte Archer
 * [Bishopsgate Law](https://www.bishopsgatelaw.com/)
