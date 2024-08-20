@@ -38,6 +38,8 @@
 ### GitHub Repositories
 
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Real time face swap and one-click video deepfake with only a single image
+* [FaceFusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 * [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
 * [Large Language Model Course](https://github.com/mlabonne/llm-course)
 * [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
