@@ -108,7 +108,6 @@
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
 * [SerialStation](https://serialstation.com/)
 * [Snes Central](https://snescentral.com/index.php)
-* [SteamDB](https://steamdb.info/)
 * [The Cutting Room Floor](https://tcrf.net/The\_Cutting\_Room\_Floor)
   * [Games with anti-piracy methods](https://tcrf.net/Category:Games\_with\_anti-piracy\_methods)
 * [The Game Boy Database](http://gbdb.org/)
@@ -208,6 +207,7 @@
 * [GameXchange](https://www.gamexchange.co.uk/)
 * [Genki](https://www.genkivideogames.com/) - Imported Japanese Video Games & Hardware
 * [GOG.com](https://www.gog.com/)
+  * [GOG Database](https://www.gogdb.org/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Kingdom](https://kingdomstore.it/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
