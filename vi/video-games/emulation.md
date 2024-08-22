@@ -11,6 +11,7 @@
 * [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
 * [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
 * [Dosemu2](https://dosemu2.github.io/dosemu2/) - Run DOS programs under linux
+* [DREAMM](https://aarongiles.com/dreamm/) - Bespoke emulator for LucasArts games
 * [EmuBrowser](https://emubrowser.com/)
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
@@ -26,6 +27,7 @@
 * [RetroArch Web Player](https://web.libretro.com/)
 * [RetroDECK ](https://retrodeck.net/)([GitHub](https://github.com/XargonWan/RetroDECK))
 * [Rom Hustler](https://romhustler.org/)
+* [ScummVM](https://www.scummvm.org/)
 * [SummerCart64](https://summercart64.dev/)
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
