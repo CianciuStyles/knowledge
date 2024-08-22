@@ -51,6 +51,7 @@
 
 ### GitHub Repositories
 
+* [adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration
 * [Cain & Abel ](https://github.com/xchwarze/Cain)- password recovery tool for Microsoft Operating Systems
 * [enum4Linux](https://github.com/CiscoCXSecurity/enum4linux) - tool for enumerating data from Windows and Samba hosts
 * [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - A next generation version of enum4linux
