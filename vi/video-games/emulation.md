@@ -15,6 +15,7 @@
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
+* [EmuOS](https://emupedia.net/beta/emuos/)
 * [Internet Arcade](https://archive.org/details/internetarcade)
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
