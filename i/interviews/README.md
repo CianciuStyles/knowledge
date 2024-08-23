@@ -12,6 +12,7 @@
 
 * [Another coding interview preparation guide](https://www.facebook.com/notes/sergey-makagonov/another-coding-interview-preparation-guide/10210834096793375/) - Sergey Makagonov
 * [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/) - Milad Naseri
+* [Bug squash: An underrated interview question](https://blog.jez.io/bugsquash/) - Jake Zimmerman
 * [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling) - Dave Anderson
 * [Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d) - David Qorashi
 * [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) - Steve Yegge
