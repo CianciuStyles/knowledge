@@ -30,6 +30,10 @@
 * [Fallout 2 Remake 3D](https://jonasz-o.itch.io/fallout2remake3d)
 * [Fallout Et Tu](https://github.com/rotators/Fo1in2) - Fallout 1 to 2 engine conversion
 
+### Fallout 4
+
+* [Fallout London](https://fallout4london.com/)
+
 ### Fallout: New Vegas
 
 * [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138/)
@@ -69,7 +73,7 @@
 ### Portal 2
 
 * [Portal Reloaded](https://portalreloaded.com/)
-* [Portal: Revolution](https://store.steampowered.com/app/601360/Portal\_Revolution/)
+* [Portal: Revolution](https://www.portalrevolution.com/)
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
 * [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
 
