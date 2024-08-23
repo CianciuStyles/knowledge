@@ -69,6 +69,7 @@
 ### Portal 2
 
 * [Portal Reloaded](https://portalreloaded.com/)
+* [Portal: Revolution](https://store.steampowered.com/app/601360/Portal\_Revolution/)
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
 * [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
 
