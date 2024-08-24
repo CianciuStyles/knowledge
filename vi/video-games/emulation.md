@@ -146,6 +146,7 @@
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
+* [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
 * [Descent 3](https://github.com/kevinbentley/Descent3)
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
@@ -170,13 +171,19 @@
 ## Ports and Replacements
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
+* [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game\_engine\_recreations\_and\_source\_ports) - Emulation General Wiki
+* [List of game engine recreations](https://www.wikiwand.com/en/articles/List\_of\_game\_engine\_recreations) - Wikipedia
+
+
+
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
-* [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
+* [Cannonball ](https://github.com/djyt/cannonball)- An Enhanced OutRun Engine
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
+* [GemRB ](https://gemrb.org/)- Portable open-source implementation of Bioware’s Infinity Engine
 * [Memoria](https://github.com/Albeoris/Memoria) - Community rewrite of Final Fantasy IX's game engine
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
