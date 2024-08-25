@@ -11,6 +11,10 @@
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) ([GitHub](https://github.com/ThirteenAG/WidescreenFixesPack))
 
+### Age of Empires: The Rise of Rome
+
+* [UPatch HD](https://upatch-hd.weebly.com/) - complete revamp of the original game – with high resolution support, hundreds of bug fixes, new gameplay options and many other enhancements
+
 ### Crash Bandicoot
 
 * [CrashUtils](https://github.com/wurlyfox/crashutils) - Utilities for viewing and modifying the game contents of Crash Bandicoot (PSX)
