@@ -23,11 +23,12 @@
 
 #### Etsy
 
-* [Adam3DUK](https://www.etsy.com/uk/shop/Adam3DUK)
-* [GDSCreationsUK](https://www.etsy.com/uk/shop/GDSCreationsUK)
-* [MintPrintUK](https://www.etsy.com/uk/shop/MintPrintUK)
-* [R2D3Productions](https://www.etsy.com/uk/shop/R2D3Productions)
-* [RetroCyberMonkey](https://www.etsy.com/uk/shop/RetroCyberMonkey)
-* [Steve's 3D Solutions](https://www.etsy.com/uk/shop/Steves3DSolutions)
-* [SyncoplayRetroGaming](https://www.etsy.com/uk/shop/SyncoplayRetroGaming)
-* [TrophyBit](https://www.etsy.com/uk/shop/TrophyBit)
+* [Adam3DUK](https://www.etsy.com/uk/shop/Adam3DUK) - United Kingdom
+* [Collings Cavern](https://www.etsy.com/uk/shop/CollingsCavern) - United Kingdom
+* [GDSCreationsUK](https://www.etsy.com/uk/shop/GDSCreationsUK) - United Kingdom
+* [MintPrintUK](https://www.etsy.com/uk/shop/MintPrintUK) - United Kingdom
+* [R2D3Productions](https://www.etsy.com/uk/shop/R2D3Productions) - Canada
+* [RetroCyberMonkey](https://www.etsy.com/uk/shop/RetroCyberMonkey) - United Kingdom
+* [Steve's 3D Solutions](https://www.etsy.com/uk/shop/Steves3DSolutions) - Canada
+* [SyncoplayRetroGaming](https://www.etsy.com/uk/shop/SyncoplayRetroGaming) - United States
+* [TrophyBit](https://www.etsy.com/uk/shop/TrophyBit) - United States
