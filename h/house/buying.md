@@ -46,6 +46,10 @@
 * [Trovit](https://homes.trovit.co.uk/)
 * [Zoopla](https://www.zoopla.co.uk/for-sale/)
 
+#### Snagging
+
+* [New Build Inspections](https://www.newbuildinspections.com/)
+
 #### Solicitors
 
 * Alban Gould, Baker & Co.
