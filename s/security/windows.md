@@ -80,6 +80,8 @@
 ### Websites
 
 * [Active Directory Security](https://adsecurity.org/)
+* [LOLBAS](https://lolbas-project.github.io) - Curated list of every binary, script, and library that can be used for Living Off The Land techniques
+* [LOLDrivers ](https://www.loldrivers.io/)- Curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks
 * Windows Virtual Machines
   * [Windows 10 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
   * [Windows 11 developer environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
