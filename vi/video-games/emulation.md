@@ -207,6 +207,9 @@
 * [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996)
 * [TR2X](https://github.com/LostArtefacts/TR2X) - Open source re-implementation of Tomb Raider 2
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
+* [Zelda3 ](https://github.com/snesrev/zelda3)- reverse engineered clone of Zelda 3 - A Link to the Past
+  * [zelda3-android](https://github.com/Waterdish/zelda3-android) - A port of Zelda3 to Android
+  * [Zelda 3 Launcher ](https://github.com/RadzPrower/Zelda-3-Launcher)- An all-purpose GUI tool to download, extract, compile, and launch Zelda 3 on PC
 
 ## Reddit Threads
 
