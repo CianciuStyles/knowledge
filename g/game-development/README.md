@@ -63,6 +63,7 @@
 * [Games on GitHub](https://github.com/leereilly/games)
 * [gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
 * [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) - C compiler, assembler, linker and set of libraries for the Nintendo Gameboy, Nintendo Entertainment System, Sega Master System, Sega Game Gear
+* [Nortis ](https://github.com/jbreckmckye/nortis)- a Tetris clone for the PlayStation 1
 * [Open Source Games](https://github.com/bobeff/open-source-games)
 * [OpenBOR ](https://github.com/DCurrent/openbor)- the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 * [Magic Tools](https://github.com/ellisonleao/magictools)
