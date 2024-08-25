@@ -118,6 +118,11 @@
 * [Jitsi Meet](https://meet.jit.si/)
 * [Otter.ai](https://otter.ai/) - AI Meeting Note Taker & Real-Time AI Transcription
 
+### Paywall Removers
+
+* [12ft.io](https://12ft.io/)
+* [Remove Paywalls](https://removepaywalls.com/)
+
 ### PDF Tools
 
 * [iLovePDF](https://www.ilovepdf.com/)
