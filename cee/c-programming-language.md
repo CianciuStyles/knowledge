@@ -36,6 +36,7 @@
 
 ### Websites
 
+* [C is Fundamental](https://www.cl72.org/)
 * [Memory Spy](https://memory-spy.wizardzines.com/game.html) - Julia Evans
 
 ### YouTube Videos
