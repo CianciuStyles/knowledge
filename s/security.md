@@ -136,6 +136,7 @@
   * [Kali WSL](https://www.kali.org/docs/wsl/wsl-preparations/)
   * [Win-KeX](https://www.kali.org/docs/wsl/win-kex/)
 * [Parrot OS](https://www.parrotsec.org/) - Parrot Security
+* [Pentoo](https://pentoo.github.io/)
 
 ### Meetups
 
