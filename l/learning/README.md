@@ -46,6 +46,7 @@
 
 * [Expiring vs. Long-Term Knowledge](https://collabfund.com/blog/expiring-vs-lt-knowledge/) - Morgan Housel
 * [How Learning Works: Components, Systems, and Loops](https://romandesign.co/how-learning-works-components-systems-and-loops/) - Roman Kudryashov
+* [How to understand/retain complex concepts 10x better](https://learnhowtolearn.org/how-to-understand-and-retain-any-concept-10x-better/) - Learn How To Learn
 * [Josh Kaufman: It Takes 20 Hours Not 10,000 Hours To Learn A Skill](https://www.forbes.com/sites/danschawbel/2013/05/30/josh-kaufman-it-takes-20-hours-not-10000-hours-to-learn-a-skill/?sh=4b748b16363d) - Dan Schawbel, Forbes
 * [Learning How to Learn: An Infographic](https://www.outerbridge.blog/articles/learning-how-to-learn-infographic) - outerbridge.blog
 * [Six Keys to Being Excellent at Anything](https://www.fastcompany.com/1686337/six-keys-being-excellent-anything) - Tony Schwartz, Fast Company
