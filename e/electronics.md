@@ -46,9 +46,12 @@
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
 * [Necroware](https://www.youtube.com/@necro\_ware/videos)
+* [Odd Tinkering](https://www.youtube.com/@OddTinkering)
+* [RestoFix](https://www.youtube.com/@restofix)
 * [StezStix Fix?](https://www.youtube.com/c/StezStixFix/videos)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections/videos)
 * [TronicsFix](https://www.youtube.com/c/Tronicsfix/videos)
+* [TysyTube Restoration](https://www.youtube.com/c/TysyTube)
 * [vswitchzero](https://www.youtube.com/@vswitchzero/videos)
 * [Zack Freedman](https://www.youtube.com/c/ZackFreedman/videos)
 
