@@ -106,6 +106,10 @@
 * [Playwright](https://playwright.dev/)
 * [Selenium](https://www.selenium.dev/)
 
+#### Profiling
+
+* [fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
+
 #### Web Servers
 
 * [Apache](https://httpd.apache.org/)
