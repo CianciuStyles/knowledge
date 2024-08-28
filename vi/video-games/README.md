@@ -202,6 +202,9 @@
 * [Console Passion](https://consolepassion.co.uk/)
 * [ConsoleMAD](https://www.consolemad.co.uk/)
 * [Doorway To Dorkness](https://doorwaytodorkness.co.uk/)
+* eBay
+  * [RetroGamesClub](https://www.ebay.it/str/retrogamesclub) - Roma, Italy
+  * [Video Boy Club Roma](https://www.ebay.it/str/videoboyclubroma0678343837) - Roma, Italy
 * [Epic Games Launcher](https://www.epicgames.com/store/it)
   * [Heroic Games Launcher](https://heroicgameslauncher.com/)
 * [GameXchange](https://www.gamexchange.co.uk/)
