@@ -16,6 +16,7 @@
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - Ben Kuhn
 * [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/) - Bartosz Ciechanowski
 * [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html) - Alex Kladov
+* [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome) - Casey Primozic
 * [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=fav) - Geoffrey Litt
 * [Fundamentals](https://blog.ploeh.dk/2024/05/20/fundamentals/) - Mark Seemann
 * [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus) - Tom Nick
