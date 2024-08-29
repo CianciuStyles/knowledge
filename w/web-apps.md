@@ -158,6 +158,7 @@
 * [Kosmi](https://kosmi.io/)
 * [twoseven](https://twoseven.xyz/)
 * [Watch2Gether](https://w2g.tv/)
+* [WeWatch](https://wewatch.click/)
 
 ### Search
 
