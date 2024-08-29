@@ -198,6 +198,8 @@
 * [Attic Discovery Shop](https://atticdiscoveryshop.co.uk/) - Essex, United Kingdom
   * [Disc Repair Service](https://atticdiscoveryshop.co.uk/products/disc-repair-service)
 * [Be More Geek](https://www.bemoregeek.co.uk/) - Sunderland, United Kingdom
+* [CeX](https://uk.webuy.com/)
+* [CGX](https://cgxuk.co.uk/)
 * [Chillout Games](https://www.chilloutgames.co.uk/) - Manchester, United Kingdom
 * [Console Passion](https://consolepassion.co.uk/) - Blackpool, United Kingdom
 * [ConsoleMAD](https://www.consolemad.co.uk/)
@@ -220,8 +222,11 @@
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Myretroshop.com](https://www.myretroshop.com/) - Norwich, United Kingdom
+* [Nabbit](https://www.nabbit.co.uk/)
 * [Omega's Emporium](https://omegasemporium.com/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
+* [Retro Game Shops](https://retrobreak.co.uk/uk-game-shops/)
+* [Retro Games Exchange](https://www.retrogamesexchange.co.uk/)
 * [Retro Games UK](https://www.retrogames.co.uk/) - Milton Keynes, United Kingdom
 * [Retro Sect](https://www.retro-sect.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
