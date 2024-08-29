@@ -194,23 +194,25 @@
 
 ### Online Stores
 
-* [8BitMods](https://8bitmods.com/) - Retro and modern console games and accessories
-* [Attic Discovery Shop](https://atticdiscoveryshop.co.uk/)
+* [8BitMods](https://8bitmods.com/) - London, United Kingdom
+* [Attic Discovery Shop](https://atticdiscoveryshop.co.uk/) - Essex, United Kingdom
   * [Disc Repair Service](https://atticdiscoveryshop.co.uk/products/disc-repair-service)
-* [Be More Geek](https://www.bemoregeek.co.uk/)
-* [Chillout Games](https://www.chilloutgames.co.uk/)
-* [Console Passion](https://consolepassion.co.uk/)
+* [Be More Geek](https://www.bemoregeek.co.uk/) - Sunderland, United Kingdom
+* [Chillout Games](https://www.chilloutgames.co.uk/) - Manchester, United Kingdom
+* [Console Passion](https://consolepassion.co.uk/) - Blackpool, United Kingdom
 * [ConsoleMAD](https://www.consolemad.co.uk/)
-* [Doorway To Dorkness](https://doorwaytodorkness.co.uk/)
+* [Doorway To Dorkness](https://doorwaytodorkness.co.uk/) - Doncaster, United Kingdom
 * eBay
   * [RetroGamesClub](https://www.ebay.it/str/retrogamesclub) - Roma, Italy
   * [Video Boy Club Roma](https://www.ebay.it/str/videoboyclubroma0678343837) - Roma, Italy
 * [Epic Games Launcher](https://www.epicgames.com/store/it)
   * [Heroic Games Launcher](https://heroicgameslauncher.com/)
-* [GameXchange](https://www.gamexchange.co.uk/)
+* [GameXchange](https://www.gamexchange.co.uk/) - Blackburn, United Kingdom
 * [Genki](https://www.genkivideogames.com/) - Imported Japanese Video Games & Hardware
 * [GOG.com](https://www.gog.com/)
   * [GOG Database](https://www.gogdb.org/)
+* [Hobbyarcade](https://www.hobbyarcadeshop.com/) - Roma, Italy
+* [Il Paradiso dei Videogiochi](https://ilparadisodeivideogiochishop.com/) - Roma, Italy
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Kingdom](https://kingdomstore.it/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
@@ -220,13 +222,13 @@
 * [Retro Sect](https://www.retro-sect.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
 * [ShopTo](https://www.shopto.net/)
-* [SimplyGames](https://www.simplygames.com/)
-* [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/)
+* [SimplyGames](https://www.simplygames.com/) - St Ives, United Kingdom
+* [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/) - York, United Kindgom
 * [Steam](https://store.steampowered.com/)
   * [Augmented Steam](https://augmentedsteam.com/)
   * [List of DRM-free games](https://steam.fandom.com/wiki/List\_of\_DRM-free\_games)
   * [SteamDB](https://steamdb.info/)
-* [The Console Cove](https://theconsolecove.co.uk/)
+* [The Console Cove](https://theconsolecove.co.uk/) - Southend-On-Sea, United Kingdom
 * [The Game Collection](https://www.thegamecollection.net/)
 * [The Emporium Retrogaming Shop](https://www.emporiumretrogamingshop.com/) - Japan
 * [Warners Retro Corner](https://warnersretrocorner.com/)
