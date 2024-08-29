@@ -24,6 +24,7 @@
 #### Etsy
 
 * [Adam3DUK](https://www.etsy.com/uk/shop/Adam3DUK) - United Kingdom
+* [BitterKittenGaming](https://www.etsy.com/uk/shop/BitterKittenGaming) - United States
 * [Collings Cavern](https://www.etsy.com/uk/shop/CollingsCavern) - United Kingdom
 * [GDSCreationsUK](https://www.etsy.com/uk/shop/GDSCreationsUK) - United Kingdom
 * [MintPrintUK](https://www.etsy.com/uk/shop/MintPrintUK) - United Kingdom
