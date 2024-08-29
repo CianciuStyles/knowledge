@@ -201,6 +201,7 @@
 * [Chillout Games](https://www.chilloutgames.co.uk/) - Manchester, United Kingdom
 * [Console Passion](https://consolepassion.co.uk/) - Blackpool, United Kingdom
 * [ConsoleMAD](https://www.consolemad.co.uk/)
+* [Crazy Thumbs](https://crazythumbs.co.uk/) - London, United Kingdom
 * [Doorway To Dorkness](https://doorwaytodorkness.co.uk/) - Doncaster, United Kingdom
 * eBay
   * [RetroGamesClub](https://www.ebay.it/str/retrogamesclub) - Roma, Italy
@@ -213,14 +214,18 @@
   * [GOG Database](https://www.gogdb.org/)
 * [Hobbyarcade](https://www.hobbyarcadeshop.com/) - Roma, Italy
 * [Il Paradiso dei Videogiochi](https://ilparadisodeivideogiochishop.com/) - Roma, Italy
+* [Indie Retro](https://indieretro.co.uk/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Kingdom](https://kingdomstore.it/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
+* [Myretroshop.com](https://www.myretroshop.com/) - Norwich, United Kingdom
 * [Omega's Emporium](https://omegasemporium.com/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
+* [Retro Games UK](https://www.retrogames.co.uk/) - Milton Keynes, United Kingdom
 * [Retro Sect](https://www.retro-sect.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
+* [retro.directory](https://retro.directory/)
 * [ShopTo](https://www.shopto.net/)
 * [SimplyGames](https://www.simplygames.com/) - St Ives, United Kingdom
 * [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/) - York, United Kindgom
@@ -231,6 +236,7 @@
 * [The Console Cove](https://theconsolecove.co.uk/) - Southend-On-Sea, United Kingdom
 * [The Game Collection](https://www.thegamecollection.net/)
 * [The Emporium Retrogaming Shop](https://www.emporiumretrogamingshop.com/) - Japan
+* [UK Retro Game Store Locator](https://www.retrogamesnow.co.uk/retro-store-locator/)
 * [Warners Retro Corner](https://warnersretrocorner.com/)
 
 ### Quizzes
