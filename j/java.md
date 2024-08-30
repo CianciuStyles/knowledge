@@ -31,6 +31,10 @@
 * [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
 
+### Infographics
+
+<figure><img src="../.gitbook/assets/Roadmap To Learn Java Programming.gif" alt=""><figcaption></figcaption></figure>
+
 ### Libraries
 
 * [Jcoz - Java Causal Profiler](https://decave.github.io/JCoz/)
