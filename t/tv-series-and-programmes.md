@@ -33,6 +33,7 @@
 * [What tv show is 10/10 with less than 40 episodes?](https://www.reddit.com/r/AskReddit/comments/1agrty8/what\_tv\_show\_is\_1010\_with\_less\_than\_40\_episodes/)
 * [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)
 * [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
+* [What TV show would you rate 10/10 that has fewer than 50 episodes?](https://www.reddit.com/r/AskReddit/comments/1f3indl/what\_tv\_show\_would\_you\_rate\_1010\_that\_has\_fewer/)
 * [Which TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/1bamj7y/which\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
 
 ### Streaming Services
