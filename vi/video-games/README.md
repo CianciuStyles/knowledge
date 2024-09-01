@@ -287,6 +287,7 @@
 * [I need some good linear games with awesome stories?](https://www.reddit.com/r/patientgamers/comments/444o75/i\_need\_some\_good\_linear\_games\_with\_awesome\_stories/)
 * [I put together a list of GameCube games that you should play!](https://www.reddit.com/r/patientgamers/comments/e2yupg/i\_put\_together\_a\_list\_of\_gamecube\_games\_that\_you/)
 * [I've had a PS2 for a long time. What are some really good games?](https://www.reddit.com/r/patientgamers/comments/45pdjx/ive\_had\_a\_ps2\_for\_a\_long\_time\_what\_are\_some/)
+* [In your opinion, what's the best game someone can play on Android? (including legal emulation)](https://www.reddit.com/r/gaming/comments/1f5ko4m/in\_your\_opinion\_whats\_the\_best\_game\_someone\_can/)
 * [Indie games that were openly inspired by big titles?](https://www.reddit.com/r/patientgamers/comments/163f5ov/indie\_games\_that\_were\_openly\_inspired\_by\_big/)
 * [Just bought a PS3 today for Demon's Souls - any other exclusives I may have missed from back in the day?](https://www.reddit.com/r/patientgamers/comments/5sxz4k/just\_bought\_a\_ps3\_today\_for\_demons\_souls\_any/)
 * [Just dug out my wii. What games did I miss?](https://www.reddit.com/r/patientgamers/comments/59q57o/just\_dug\_out\_my\_wii\_what\_games\_did\_i\_miss/)
