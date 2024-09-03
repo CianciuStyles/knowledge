@@ -45,6 +45,7 @@
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/)
 * [Pluto TV](https://pluto.tv/)
 * [RaiPlay](https://www.raiplay.it/)
+* [Shudder](https://www.shudder.com/)
 * [Tubi](https://tubitv.com/)
 * [U](https://u.co.uk/)
 
