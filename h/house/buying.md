@@ -20,8 +20,12 @@
 
 #### Mortgages
 
+* [BrickHouse Mortgages](https://www.brickhousemortgages.co.uk/)
+  * Naz Miah
 * [Broadland Consultants](http://www.broadlandconsultants.com/)
   * Chris Spinks
+* [Charles Cameron & Associates](https://ccameron.co.uk/)
+  * Colin Hyde
 * [Limitless Finance](https://limitlessfinance.co.uk/)
   * Laurie Hayden
   * Melvin Parker
