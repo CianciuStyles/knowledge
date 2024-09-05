@@ -146,7 +146,7 @@
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
-* [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp))
+* [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp), [Overview](https://sotn.dev/))
 * [Descent 3](https://github.com/kevinbentley/Descent3)
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
