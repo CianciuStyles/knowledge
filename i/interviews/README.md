@@ -77,6 +77,7 @@
 * [Meet a Pro](https://www.meetapro.com/) - Mock interviews with professionals
 * [Onsites.fyi](https://www.onsites.fyi/)
 * [Pramp](https://www.pramp.com/#/) - Practice mock interviews
+* [PrepVerse ](https://prepverse.github.io/)- The Complete FAANG Preparation ([GitHub](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation))
 
 ### YouTube Playlists
 
