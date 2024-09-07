@@ -42,6 +42,7 @@
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 * [Temu](https://www.temu.com)
 * [Wisetek Market](https://www.wisetekmarket.com/)
+* [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
 
 ### Lists
 
