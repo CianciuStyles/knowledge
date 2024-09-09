@@ -21,6 +21,7 @@
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
 * [Old Games Download](https://oldgamesdownload.com/)
+* [PCem](https://pcem-emulator.co.uk/)
 * [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
