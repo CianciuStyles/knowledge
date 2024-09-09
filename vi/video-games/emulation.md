@@ -56,6 +56,11 @@
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
   * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
+### Microsoft Xbox One
+
+* XWine1 - Xbox One translation layer
+* [WinDurango ](https://github.com/WinDurango-project/WinDurango)- The worlds first Xbox One compatibility layer for Windows
+
 ### Nintendo 3DS
 
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
