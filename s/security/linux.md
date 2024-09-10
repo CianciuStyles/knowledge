@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [How SSH Secures Your Connection](https://noratrieb.dev/blog/posts/ssh-security/) - Nora Trieb
+
 ### GitHub Repositories
 
 * [LES: Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
