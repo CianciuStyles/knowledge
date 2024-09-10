@@ -158,6 +158,7 @@
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
+* [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
 * [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
 * [Pikmin](https://github.com/projectPiki/pikmin)
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
