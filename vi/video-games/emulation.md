@@ -140,6 +140,10 @@
 
 * [ShadPS4](https://shadps4.net/) ([GitHub](https://github.com/shadps4-emu/shadPS4)) - PS4 emulator for PC
 
+### Sony PlayStation Portable
+
+* [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
+
 ## Decompilations and Disassemblies
 
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
