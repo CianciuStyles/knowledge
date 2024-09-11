@@ -30,6 +30,7 @@
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/) - Vadim Kravcenko
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
+* [My Tech Promotion Algorithm](https://read.highgrowthengineer.com/p/my-tech-promotion-algorithm) - Steve Huynh
 * Speedrunning Guide - Ryan Peterman
   * [Junior (L3) -> Mid-level (L4)](https://www.developing.dev/p/speedrunning-guide-l3-l4)
   * [Mid-level (L4) -> Senior (L5)](https://www.developing.dev/p/speedrunning-guide-mid-level-l4-senior)
