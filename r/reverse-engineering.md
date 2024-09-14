@@ -26,7 +26,6 @@
 ### GitHub Repositories
 
 * [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
-* [Ghidra Emotion Engine: Reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) - An extension for Ghidra that adds support for the PlayStation 2
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
@@ -47,6 +46,8 @@
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
+  * [ghidra\_psx\_ldr ](https://github.com/lab313ru/ghidra\_psx\_ldr)- Sony Playstation PSX executables loader for GHIDRA
+  * [Ghidra Emotion Engine: Reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) - An extension for Ghidra that adds support for the PlayStation 2
 * [IDA Freeware](https://hex-rays.com/ida-free/)
 * [IDA Pro](https://hex-rays.com/ida-pro/)
 * [ILSpy ](https://github.com/icsharpcode/ILSpy)- .NET decompiler
