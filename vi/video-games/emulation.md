@@ -166,6 +166,7 @@
 * [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
 * [Pikmin](https://github.com/projectPiki/pikmin)
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
+* [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
 * [Resident Evil Gaiden](https://github.com/wowjinxy/RE-Gaiden)
 * [Resident Evil – Code: Veronica X](https://github.com/FedericoMilesi/recvx2c)
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
