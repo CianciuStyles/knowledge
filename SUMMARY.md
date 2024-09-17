@@ -82,7 +82,8 @@
 ## E
 
 * [eCommerce](e/ecommerce.md)
-* [Electronics](e/electronics.md)
+* [Electronics](e/electronics/README.md)
+  * [Repairs](e/electronics/repairs.md)
 * [Elon Musk](e/elon-musk.md)
 * [Engineering](e/engineering.md)
 * [Entrepreneurship](e/entrepreneurship.md)
