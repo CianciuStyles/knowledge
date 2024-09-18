@@ -85,6 +85,9 @@
 
 ### Resident Evil
 
+* [Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/)
+  * [How to Install RE1 Classic Rebirth (RE1 PC GOG Release)](https://www.youtube.com/watch?v=luPmHLio1AM)
+* [Resident Evil High Quality Sound Pack](http://re123.bplaced.net/board/viewtopic.php?f=21\&t=296)
 * [Resident Evil Seamless HD Project](https://www.reshdp.com/re1/)
 
 ### Sanitarium
