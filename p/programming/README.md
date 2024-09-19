@@ -138,6 +138,7 @@
 * [Those making $0/month or less on side projects](https://news.ycombinator.com/item?id=34547265)
 * [What are some of the best well-written books on computer science?](https://news.ycombinator.com/item?id=29182386)
 * [What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
+* [What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [What underrated open source project deserves more recognition?](https://news.ycombinator.com/item?id=39635486)
