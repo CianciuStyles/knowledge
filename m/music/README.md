@@ -46,6 +46,7 @@
 * [Bandcamp](https://bandcamp.com/)
 * [Gnoosic](https://www.gnoosic.com/) - Discover new music
 * [Musicroamer](https://www.musicroamer.com/)
+* [MusicTeachers.co.uk](https://musicteachers.co.uk/) - Register for private music lessons
 * [Neverending Playlist](https://neverendingplaylist.com/)
 * [Spotibot](https://www.spotibot.com/)
 * [Spotube](https://spotube.krtirtho.dev/) - A fast, modern, lightweight & efficient Spotify Music Client for every platform ([GitHub](https://github.com/KRTirtho/spotube))
