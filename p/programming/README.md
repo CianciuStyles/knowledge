@@ -76,6 +76,7 @@
   * [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
   * [From Source Code To Machine Code - Build Your Own Compiler From Scratch](https://build-your-own.org/compiler/)
 * [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
+* [Hacker News Book Map](https://hnbooks.pieterma.es/)
 * [How To Be A Programmer](https://www.doc.ic.ac.uk/\~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
