@@ -25,3 +25,5 @@
 * [Historical Computer Science articles](https://francoatmega.github.io/historical-computer-science-articles/) ([GitHub](https://github.com/francoatmega/historical-computer-science-articles))
 * [Papers We Love](https://paperswelove.org/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [The Centre for Computing History](https://www.computinghistory.org.uk/)
+  * [Books](https://www.computinghistory.org.uk/sec/383/Books/)
