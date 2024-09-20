@@ -32,6 +32,7 @@
 
 ### Hacker News threads
 
+* [Best blog tutorial explaining Assembly code?](https://news.ycombinator.com/item?id=38772131)
 * [Which books/resources to understand modern Assembler?](https://news.ycombinator.com/item?id=40104823)
 
 ### Websites
