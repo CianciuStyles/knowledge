@@ -54,6 +54,7 @@
 ### Websites
 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/)
+* [Algorithmica](https://en.algorithmica.org/) - Sergey Slotin
 * [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Chris Laux](https://www.chrislaux.com/)
 * [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
