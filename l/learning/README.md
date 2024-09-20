@@ -100,6 +100,7 @@
 * [CourseBuffet](https://www.coursebuffet.com/)
 * [Coursera](https://www.coursera.org/)
 * [CourseRoot](https://courseroot.com/) - Search 80,000 courses and tutorials
+* [Crucial Exams](https://crucialexams.com/) - Free CompTIA, AWS, Microsoft practice test questions
 * [Degreed](https://degreed.com/)
 * [Explorable Explanations](https://explorabl.es/)
 * [Future Learn](https://www.futurelearn.com/)
