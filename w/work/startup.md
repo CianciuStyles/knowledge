@@ -22,6 +22,7 @@
 
 ### Hacker News threads
 
+* [Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 * [What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)
 
 ### Legal Documents
