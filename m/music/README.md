@@ -45,6 +45,7 @@
 
 * [Bandcamp](https://bandcamp.com/)
 * [Gnoosic](https://www.gnoosic.com/) - Discover new music
+* [IMSLP](https://imslp.org/) - Free Sheet Music
 * [Musicroamer](https://www.musicroamer.com/)
 * [MusicTeachers.co.uk](https://musicteachers.co.uk/) - Register for private music lessons
 * [Neverending Playlist](https://neverendingplaylist.com/)
