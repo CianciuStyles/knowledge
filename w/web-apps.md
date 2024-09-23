@@ -123,6 +123,7 @@
 ### Paywall Removers
 
 * [12ft.io](https://12ft.io/)
+* [Archive Buttons](https://www.archivebuttons.com/)
 * [Remove Paywalls](https://removepaywalls.com/)
 
 ### PDF Tools
