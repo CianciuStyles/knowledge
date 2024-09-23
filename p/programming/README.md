@@ -128,6 +128,7 @@
 
 ### Hacker News Threads
 
+* [Books That Dramatically Transformed Your Programming Skills](https://news.ycombinator.com/item?id=41445664)
 * [Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
 * [How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
 * [How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
