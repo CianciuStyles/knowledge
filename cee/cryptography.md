@@ -18,6 +18,7 @@
 ### Books
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh, Victor Shoup
+* [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com/) - Svetlin Nakov, PhD
 * [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek
 
@@ -36,5 +37,6 @@
 
 ### Websites
 
+* [Cryptography 101](https://cryptography101.ca/) - Alfred J. Menezes
 * [CryptoHack](https://cryptohack.org/)
 * [SHA256 Algorithm Explained](https://sha256algorithm.com/)
