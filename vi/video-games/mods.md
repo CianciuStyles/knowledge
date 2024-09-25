@@ -90,6 +90,17 @@
 * [Resident Evil High Quality Sound Pack](http://re123.bplaced.net/board/viewtopic.php?f=21\&t=296)
 * [Resident Evil Seamless HD Project](https://www.reshdp.com/re1/)
 
+### Resident Evil 2
+
+* [Resident Evil 2 Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-2-classic-rebirth/)
+* [Resident Evil 2 Seamless HD Project](https://www.reshdp.com/re2/)
+
+### Resident Evil 3: Nemesis
+
+* [Resident Evil 3 Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-3-classic-rebirth/)
+* [Resident Evil 3 Seamless HD Project](https://www.reshdp.com/re3/)
+  * [Resident Evil 3: Nemesis | Seamless Project mod install guide](https://www.youtube.com/watch?v=nDCZGY3ZQLU)
+
 ### Sanitarium
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
