@@ -125,6 +125,7 @@
 * [The Art of Debugging](https://github.com/stas00/the-art-of-debugging)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Today I Learned](https://github.com/jbranchaud/til) - Josh Branchaud
+* [Winamp](https://github.com/WinampDesktop/winamp)
 
 ### Hacker News Threads
 
