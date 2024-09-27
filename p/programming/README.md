@@ -174,6 +174,8 @@
 
 <figure><img src="../../.gitbook/assets/10 Books Every Software Engineer Should Read.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/10 Soft Skill Books Every Developer Should Read.gif" alt=""><figcaption></figcaption></figure>
+
 ### Online IDEs
 
 * [glot.io](https://glot.io/)
