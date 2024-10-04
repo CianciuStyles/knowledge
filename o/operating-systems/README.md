@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Articles
+
+* [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design) - Julio Merino
+
 ### Books
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com/) - Mohammed Q. Hussain
