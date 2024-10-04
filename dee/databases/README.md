@@ -90,6 +90,7 @@
 * [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) - Garrett Fidalgo
 * [How Does A Database Work?](https://cstack.github.io/db\_tutorial/) - Connor Stack
 * [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of](https://www.slideshare.net/LukasEder1/how-modern-sql-databases-come-up-with-algorithms-that-you-would-have-never-dreamed-of) - Lukas Eder
+* [Relational Databases Explained](https://architecturenotes.co/p/things-you-should-know-about-databases) - Mahdi Yusuf
 * [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/) - Mahdi Yusuf
 
 ### Books
