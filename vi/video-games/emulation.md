@@ -32,6 +32,7 @@
 * [SummerCart64](https://summercart64.dev/)
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
+* [Xemu](https://github.com/lgblgblgb/xemu)
 
 
 
@@ -169,6 +170,7 @@
 * [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
 * [Resident Evil Gaiden](https://github.com/wowjinxy/RE-Gaiden)
 * [Resident Evil – Code: Veronica X](https://github.com/FedericoMilesi/recvx2c)
+* [Sonic 1](https://github.com/sonicretro/s1disasm)
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
 * [Starfox 64](https://github.com/sonicdcer/sf64)
 * [Super Mario 64](https://github.com/n64decomp/sm64)

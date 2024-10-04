@@ -16,6 +16,10 @@
   * [Part I: Confronting Your Objections](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-i-confronting-your-objections/)
   * [Part II: Think Big, Act Small](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-ii-think-big-act-small/)
 
+### Blogs
+
+* [A Smart Bear](https://longform.asmartbear.com/) - Jason Cohen
+
 ### Books
 
 * [The Startup's CTO Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - Zach Goldberg
