@@ -240,6 +240,7 @@
   * [Dolphin has been ported to the Xbox..and its AWESOME](https://www.youtube.com/watch?v=HJHb3ZJXJfw)
   * [Dolphin on the Xbox just got a MASSIVE update...](https://www.youtube.com/watch?v=Tljqx72Vd2A)
   * [DuckStation 4K PS1 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=DU5Cs1tz66Q)
+  * [Finally! Xbox One Emulation is here](https://www.youtube.com/watch?v=ufRwW-BVuUU)
   * [Full Speed PlayStation 1 emulation in 1999 - Connectix Virtual Game Station](https://www.youtube.com/watch?v=fcD420hP3YM)
   * [Game Boy/GBA Emulation on the Nintendo Switch is impressive](https://www.youtube.com/watch?v=1fwSR8gjrCk)
   * [Homebrew on a $100 New Nintendo 3DS LL](https://www.youtube.com/watch?v=jjFGxIfDX70)
