@@ -15,6 +15,7 @@
 * The Company Man’s Guide to Starting a Side Hustle - Tyler Tervooren, The Art of Manliness
   * [Part I: Confronting Your Objections](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-i-confronting-your-objections/)
   * [Part II: Think Big, Act Small](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-ii-think-big-act-small/)
+* [When To Do What You Love](https://paulgraham.com/when.html) - Paul Graham
 
 ### Blogs
 
