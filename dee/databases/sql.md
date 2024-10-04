@@ -13,6 +13,10 @@
 
 * [Use The Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com/) - Markus Winand
 
+### GitHub Repositories
+
+* [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
+
 ### Playgrounds
 
 * [SQL OnLine IDE](https://sqliteonline.com/)
