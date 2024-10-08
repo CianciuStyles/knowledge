@@ -108,6 +108,8 @@
 
 <figure><img src="../../.gitbook/assets/Top 6 Database Models.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Top 9 NoSQL DB Use Cases.gif" alt=""><figcaption></figcaption></figure>
+
 ### Playgrounds
 
 * [DB Fiddle](https://www.db-fiddle.com/)
