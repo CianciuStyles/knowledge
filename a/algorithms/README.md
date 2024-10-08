@@ -46,6 +46,10 @@
 
 * [What are some cool but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/Big O Notation 101.gif" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u\_k2LIZyo)
