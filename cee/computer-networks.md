@@ -28,6 +28,10 @@
 
 * [Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
 
+### YouTube Channels
+
+* [Sunny Classroom](https://www.youtube.com/@sunnyclassroom24/)
+
 ### YouTube Playlists
 
 * [Cisco CCNA 200-301 ](https://www.youtube.com/playlist?list=PLQQoSBmrXmrysEaVNia7KVwf85qATIi1V)- Keith Barker
