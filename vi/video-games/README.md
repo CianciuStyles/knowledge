@@ -435,6 +435,7 @@
 * [Amstream Arcade](https://www.antstream.com/)
 * [Balamb Garden](https://balambgdn.neocities.org/)
 * [DOS Game Club](https://www.dosgameclub.com/)
+* [Draknek & Friends](https://www.draknek.org/)
 * [DualShock Calibration GUI](https://dualshock-tools.github.io/)
 * [Flashpoint Archive](https://flashpointarchive.org/)
 * [Gamepad Tester](https://gamepad-tester.com/)
