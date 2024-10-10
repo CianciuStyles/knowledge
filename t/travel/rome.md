@@ -9,6 +9,7 @@
 ## Flea Markets
 
 * [Car Boot Market](https://www.carbootmarket.it/) - Testaccio
+* [Librerie dell'usato, bancarelle e mercatini a Roma](https://pignuoli.blogspot.com/p/blog-page.html) - L'Accademia de' Pignuoli
 
 ## Ice Creams
 
