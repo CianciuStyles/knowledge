@@ -87,6 +87,7 @@
 * [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [layoffs.fyi](https://layoffs.fyi/)
 * [levels.fyi](https://www.levels.fyi/)
+  * [Heatmap](https://www.levels.fyi/heatmap/)
 * [LinkedIn](https://it.linkedin.com/)
 * [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 * [moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/) ([GitHub](https://github.com/Kaustubh-Natuskar/moreThanFAANGM))
