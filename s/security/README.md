@@ -102,6 +102,7 @@
 
 * [100 Red Team Projects for Pentesters and Network Managers](https://github.com/kurogai/100-redteam-projects)
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+* [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)
 * [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)

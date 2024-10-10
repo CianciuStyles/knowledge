@@ -20,6 +20,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome CS Courses: [https://github.com/prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 * Awesome CTF: [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * Awesome CTO: [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+* Awesome Cyber Security: [https://github.com/fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
 * Awesome Cyber Skills: [https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)
 * Awesome Developers Streams: [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 * Awesome Design Patterns: [https://github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
