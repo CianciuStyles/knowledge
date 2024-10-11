@@ -7,6 +7,8 @@
 * [Compile Like It's 1992](https://fabiensanglard.net/Compile\_Like\_Its\_1992/) - Fabien Sanglard
 * [Console Living Room](https://archive.org/details/consolelivingroom)
 * [CoolROM](https://coolrom.com.au/)
+* [D3D9On12](https://github.com/microsoft/D3D9On12) - Microsoft
+* [dgVoodoo 2](https://dege.freeweb.hu/dgVoodoo2/) - implementation of old graphics API's for Windows 7 and later version
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
 * [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
