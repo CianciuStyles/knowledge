@@ -126,6 +126,7 @@
 * [sec-tools](https://github.com/eugenekolo/sec-tools)
 * [SecLists](https://github.com/danielmiessler/SecLists)
 * [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
+* [statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
 ### Images
