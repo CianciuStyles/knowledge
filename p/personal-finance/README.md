@@ -71,6 +71,7 @@
 ### Reddit Threads
 
 * [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
+* [Once you’ve maxed your ISA](https://www.reddit.com/r/FIREUK/comments/1der9id/one\_youve\_maxed\_your\_isa/)
 * [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways\_to\_supplement\_your\_income\_here\_in\_the\_uk/)
 
 ### Software
