@@ -8,6 +8,10 @@
 * [Security+ SY0-701 Exam Cram Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq\_UDJgYoQGIW9viwM5hc4C7n) - 2024 Edition - Inside Cloud and Security
 * [Security+ SY0-701 Free Course](https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y\_nPrQBhS) - Cyberkraft
 
+### Practice Exams
+
+* [Free Security+ (SY0-701) Practice Exam - Qs & As with Explanations](https://www.youtube.com/watch?v=ubA7pvvYV4Y) - Dark Bird Tech
+
 ### Videos
 
 * [Security+ all acronyms](https://www.youtube.com/watch?v=GBHim0-CyzU) - Acromos
