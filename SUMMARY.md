@@ -221,6 +221,7 @@
 * [Security](s/security/README.md)
   * [Android](s/security/android.md)
   * [Binary Exploitation](s/security/binary-exploitation.md)
+  * [CompTIA Security+ SYO-701](s/security/comptia-security+-syo-701.md)
   * [CTFs](s/security/ctfs.md)
   * [Forensics](s/security/forensics.md)
   * [Linux](s/security/linux.md)
