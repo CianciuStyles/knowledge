@@ -11,10 +11,10 @@
 ### Videos
 
 * [Security+ all acronyms](https://www.youtube.com/watch?v=GBHim0-CyzU) - Acromos
+* [The Ports and Protocols You Need for the Security+ SY0 701 Exam](https://www.youtube.com/watch?v=-EQGmvs3zmk) - Cyberkraft
 
-Websites
+### Websites
 
 * [CompTIA Security+ Certification Practice Test Questions](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 * [CompTIA Security+ SY0-701 Acronym List](https://quizlet.com/850633004/comptia-security-sy0-701-acronym-list-flash-cards/)
 * [Free Security+ (SY0-701) Practice Questions](https://lognpacific.com/free-certification-practice-tests/free-security-sy0-701-practice-questions/) - Logn Pacific
-* [The Ports and Protocols You Need for the Security+ SY0 701 Exam](https://www.youtube.com/watch?v=-EQGmvs3zmk) - Cyberkraft
