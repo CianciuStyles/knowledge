@@ -53,3 +53,4 @@ description: https://aws.amazon.com
 * [flAWS](http://flaws.cloud/)
 * [flAWS 2](http://flaws2.cloud/)
 * [LocalStack](https://localstack.cloud/) - A fully functional local cloud stack
+* [wut.dev](https://wut.dev) - AWS Resource Explorer
