@@ -175,6 +175,8 @@
   * [The Best PS5 Games](https://www.ign.com/articles/the-best-ps5-games)
 * [List of video games considered the best](https://en.wikipedia.org/wiki/List\_of\_video\_games\_considered\_the\_best) - Wikipedia
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
+* [PC Gamer](https://www.pcgamer.com/uk/)
+  * [The top 100 PC games](https://www.pcgamer.com/games/the-top-100-pc-games-2024/)
 * [Polygon](https://www.polygon.com/)
   * [The 22 best Xbox One games](https://www.polygon.com/xbox-one/2018/10/5/17548210/best-xbox-one-games)
   * [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
