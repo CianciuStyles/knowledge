@@ -38,6 +38,7 @@
 
 ### Websites
 
+* [MOROS: Obscure Rust Operating System](https://moros.cc/) - Vincent Ollivier ([GitHub](https://github.com/vinc/moros))
 * [netboot.xyz](https://netboot.xyz/)
 * [OSDev](https://wiki.osdev.org/Main\_Page)
 * [Project Oberon](https://www.projectoberon.com/)
