@@ -50,6 +50,7 @@
 * [DAREBEE](https://darebee.com/) - Fitness On Your Terms
 * [DoYogaWithMe](https://www.doyogawithme.com/)
 * [ExRx](https://exrx.net/)
+* [Long Haul Fitness](https://longhaul.fitness/)
 * [NerdFitness](http://www.nerdfitness.com/)
 * [Physiqonomics](https://physiqonomics.com/)
 * [Stretch 15](https://stretch15.com/) - A free 15 min daily stretch routine to help you avoid aches and pains
