@@ -20,17 +20,18 @@
 ### Articles
 
 * [Amazing vintage video game ads from the 1980s and 1990s](https://rarehistoricalphotos.com/vintage-video-game-ads-1980s-1990s/)
+* [Architecture of Consoles](https://www.copetti.org/writings/consoles/) - Rodrigo Copetti
 * [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/) - Fabien Sanglard
 * [Designing the Super Nintendo Video System](https://fabiensanglard.net/snes\_video/index.html) - Fabien Sanglard
 * [Freeware Remakes of Adventure Games](https://virtualmoose.org/2023/09/02/freeware-remakes-of-adventure-games/) - Michael Klamerus, Virtual Moose
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [Inside The Super Nintendo Cartridges](https://fabiensanglard.net/snes\_carts/index.html) - Fabien Sanglard
-* [Nintendo of Europe coloured triangles](https://www.nanaky.eu/NintendoTriangles.html)
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list\_of\_best\_outofthebox\_video\_output\_options/)
-* [Architecture of Consoles](https://www.copetti.org/writings/consoles/) - Rodrigo Copetti
+* [Nintendo of Europe coloured triangles](https://www.nanaky.eu/NintendoTriangles.html)
 * Solving The Witness with Z3 - Bickio O'Callahan
   * [Part 1](https://www.techofnote.com/witness-part-1)
   * [Part 2](https://www.techofnote.com/witness-part-2)
+* [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/zelda-timeline-where-what-is-breath-of-the-wild-botw-2-tears-of-the-kingdom-imprisoning-war) - Jeffrey Parkin, Polygon
 
 ### Awards
 

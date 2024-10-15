@@ -54,6 +54,7 @@
 * [Indie Hackers](https://www.indiehackers.com/)
 * [MicroAcquire](https://microacquire.com/)
 * [Micro Saas Idea](https://microsaasidea.substack.com/)
+* [pivots.fyi](https://pivots.fyi/)
 * [Startup Directory](https://www.eggradients.com/startup-directory)
 * [Startup Ideas powered by OpenAI](https://ideasai.com/)
 * [Startup Launch List](https://startuplaunchlist.com/)
