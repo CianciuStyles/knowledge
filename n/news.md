@@ -47,6 +47,7 @@
 * [freshnews](https://www.freshnews.org/)
 * [Hackaday](https://hackaday.com/)
 * [Hacker News](https://news.ycombinator.com/)
+  * [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
