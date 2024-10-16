@@ -70,6 +70,7 @@
 * [OpenBOR ](https://github.com/DCurrent/openbor)- the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 * [Magic Tools](https://github.com/ellisonleao/magictools)
 * [Pyxel](https://github.com/kitao/pyxel) - retro game engine for Python
+* [Serious Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games
 * [SGDK ](https://github.com/Stephane-D/SGDK)- A free and open development kit for the Sega Mega Drive
 * [Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG
 * [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
