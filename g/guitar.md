@@ -46,6 +46,12 @@
 
 ### YouTube Channels
 
+#### Covers
+
+* [Kfir Ochaion](https://www.youtube.com/@KfirOchaion)
+
+#### Lessons
+
 * [Brett Papa](https://www.youtube.com/c/BrettPapa/videos)
 * [creativeguitarstudio](https://www.youtube.com/c/creativeguitarstudio/videos)
 * [GuitarJamz](https://www.youtube.com/user/martyzsongs/videos)
