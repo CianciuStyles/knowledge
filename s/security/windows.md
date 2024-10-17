@@ -60,6 +60,7 @@
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 * [UACMe](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+* [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) - Windows Privilege Escalation Techniques and Scripts
 
 ### Tools
 
