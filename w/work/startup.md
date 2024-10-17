@@ -52,6 +52,7 @@
 * [Free Stuff for Startups](https://www.producthunt.com/@hnshah/collections/free-stuff-for-startups)
 * [GrowthMentor](https://www.growthmentor.com/)
 * [Indie Hackers](https://www.indiehackers.com/)
+* [launching.today](https://www.launching.today/) - A place to launch your next project
 * [MicroAcquire](https://microacquire.com/)
 * [Micro Saas Idea](https://microsaasidea.substack.com/)
 * [pivots.fyi](https://pivots.fyi/)
