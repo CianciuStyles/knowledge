@@ -10,6 +10,7 @@
 * [A list of programming playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/) - Julia Evans
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
 * [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
+* [Building a CHIP-8 Emulator \[C++\]](https://austinmorlan.com/posts/chip8\_emulator/) - Austin Morlan
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Malte Ubl
 * [Do you know how much your computer can do in a second?](https://computers-are-fast.github.io/) - Julia Evans, Kamal Marhubi
