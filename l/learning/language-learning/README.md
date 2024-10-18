@@ -36,6 +36,8 @@
 
 * [Anki](https://apps.ankiweb.net/)
 * [Glossarie](https://glossarie.app/)
+* [Nuenki](https://nuenki.app/) - Learn a language while you browse the web
+* [Toucan](https://jointoucan.com/) - Learn a new language just by browsing the internet
 * [Vokabeln](https://vokabeln.io/)
 
 ### Articles
