@@ -24,6 +24,7 @@
 
 * [ADHD 101](https://www.reddit.com/r/kaidomac/comments/qnqa6p/adhd\_101/)
 * [Mooch Circuit for ADHD](https://www.reddit.com/r/kaidomac/comments/qt1v5o/mooch\_circuit\_for\_adhd/)
+* [How does adderall work to allow you to get stuff done?](https://www.reddit.com/r/explainlikeimfive/comments/1fyd9yc/eli5\_how\_does\_adderall\_work\_to\_allow\_you\_to\_get/)
 
 ### Subreddits
 
