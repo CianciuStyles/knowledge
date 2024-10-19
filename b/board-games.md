@@ -34,6 +34,8 @@
 
 ### Infographics
 
+<figure><img src="https://i.pinimg.com/564x/ba/0e/08/ba0e08d6c87e598fde4c58acf9c16131.jpg" alt=""><figcaption></figcaption></figure>
+
 ![How To Choose The Perfect Board Game](../.gitbook/assets/7kcoaut8vky41.jpg)
 
 ![Options for Online Board Games](<../.gitbook/assets/Options For Online Board Games.png>)
