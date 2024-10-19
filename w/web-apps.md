@@ -186,11 +186,12 @@
 
 * [DeepL](https://www.deepl.com/translator)
 
-### YouTube Downloaders
+### Video Downloaders
 
 * [2conv](https://2conv.org)
 * [ClipConverter](https://www.clipconverter.cc)
 * [Converto.io](https://www.converto.io)
+* [Pinterest Video Downloader](https://pinterestdownloader.com/)
 * [TubeRipper](https://tuberipper.com/)
 * [Y2mate](https://www.y2mate.com)
 * [you-tldr](https://www.you-tldr.com/) - Get the TLDR of any YouTube Video in seconds
