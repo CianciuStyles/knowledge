@@ -11,6 +11,7 @@
 ### Practice Exams
 
 * [Free Security+ (SY0-701) Practice Exam - Qs & As with Explanations](https://www.youtube.com/watch?v=ubA7pvvYV4Y) - Dark Bird Tech
+* [Security+ Certification SY0-701 50 Practice Questions](https://www.youtube.com/watch?v=yPqSLJG8Rt0) - Technical Institute of America
 
 ### Videos
 
