@@ -171,6 +171,7 @@
   * [The 14 Best Games For The Xbox One](https://kotaku.com/the-12-best-games-for-the-xbox-one-1500422046)
   * [The 15 Best Games For The PlayStation 4](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643)
   * [The 20 Best Games For Sony's PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
+  * [The 20 Best Horror Games Of The Last 20 Years](https://kotaku.com/best-horror-games-ps5-xbox-steam-pc-silent-hill-2-1851671021)
   * [The Bests](https://kotaku.com/tag/the-bests)
 * [IGN](https://www.ign.com/)
   * [The Best PS5 Games](https://www.ign.com/articles/the-best-ps5-games)
