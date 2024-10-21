@@ -72,6 +72,7 @@
   * [Marble](https://withmarble.io/) - Leetcode tutor ([Chrome extension](https://chromewebstore.google.com/detail/marble-leetcode-tutor/mpjcipoidkmiiebdbdfknmpncmnpoboe))
 * [NeetCode](https://neetcode.io/)
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
+* [octree.io](https://octree.io/) - Solve problems together
 * [pgrammer](https://www.pgrammer.com/)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ([GitHub](https://github.com/yangshun/tech-interview-handbook))
 * [The Daily Byte](https://thedailybyte.dev/)
