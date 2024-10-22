@@ -38,6 +38,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
   * [https://github.com/hto/awesome-godot](https://github.com/hto/awesome-godot)
 * Awesome Hacker News: [https://github.com/cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news)
 * Awesome Hacking: [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* Awesome Hexo: [https://github.com/hexojs/awesome-hexo](https://github.com/hexojs/awesome-hexo)
 * Awesome Indie: [https://github.com/mezod/awesome-indie](https://github.com/mezod/awesome-indie)
 * Awesome Interview Questions: [https://github.com/DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * Awesome IT films: [https://github.com/greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films)
