@@ -56,6 +56,8 @@
 * [enum4Linux](https://github.com/CiscoCXSecurity/enum4linux) - tool for enumerating data from Windows and Samba hosts
 * [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - A next generation version of enum4linux
 * [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
+* [JAWS](https://github.com/411Hall/JAWS) - Just Another Windows (Enum) Script
+* [JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG) - Another Windows Local Privilege Escalation from Service Account to System
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
