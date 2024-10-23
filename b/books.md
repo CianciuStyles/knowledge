@@ -45,6 +45,7 @@
 * [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting\_hn\_book\_recommendations\_with\_chatgpt\_api/)
 * [Favorite Nonfiction Books of 2021?](https://news.ycombinator.com/item?id=29507085)
 * [Life Changing Books?](https://news.ycombinator.com/item?id=29605394)
+* [What's the "best" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
 * [What's the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 * [What's the best book you've read so far in 2024?](https://news.ycombinator.com/item?id=40428978)
 * [What are some must read books?](https://news.ycombinator.com/item?id=29462663)
