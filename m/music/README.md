@@ -38,7 +38,8 @@
 * ​[What's your 10/10 Album?](https://www.reddit.com/r/AskReddit/comments/526kke/whats\_your\_1010\_album/)​
 * ​[What's your favorite song, that has no vocals?](https://www.reddit.com/r/AskReddit/comments/4zzpuu/whats\_your\_favorite\_song\_that\_has\_no\_vocals/)​
 * ​[What's your favorite song that 90% of us haven't heard before?](https://www.reddit.com/r/AskReddit/comments/23587v/whats\_your\_favorite\_song\_that\_90\_of\_us\_havent/)​
-* ​[Which albums do you consider to have no bad songs?](https://www.reddit.com/r/AskReddit/comments/1xwf13/which\_albums\_do\_you\_consider\_to\_have\_no\_bad\_songs/)​
+* ​[Which albums do you consider to have no bad songs?](https://www.reddit.com/r/AskReddit/comments/1xwf13/which\_albums\_do\_you\_consider\_to\_have\_no\_bad\_songs/)
+* [Which band had the best live show you’ve seen?](https://www.reddit.com/r/AskReddit/comments/1fyteuz/which\_band\_had\_the\_best\_live\_show\_youve\_seen/)​
 * ​[Which song is in your opinion 100% perfect?](https://www.reddit.com/r/AskReddit/comments/r2q1i2/which\_song\_is\_in\_your\_opinion\_100\_perfect/)
 
 ### Websites
