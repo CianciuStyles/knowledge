@@ -67,4 +67,5 @@
 
 * [Addic7ed](https://www.addic7ed.com/)
 * [Lazyday.tv](https://lazyday.tv/)
+* [subtitulamos.tv](https://www.subtitulamos.tv/)
 * [What To Watch On TV](https://whattowatchon.tv/)
