@@ -15,6 +15,7 @@
 
 ### Hacker News threads
 
+* [What breakthrough helped you build and maintain better relationships?](https://news.ycombinator.com/item?id=41810889)
 * [Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 
 ### Podcasts
