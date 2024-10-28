@@ -8,6 +8,7 @@
 * [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal\_gear\_solid\_2\_substance\_vs\_fix\_pc/)
 * [Namsku](https://www.youtube.com/@namskuvod)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
+* [Romhacking.net](https://www.romhacking.net/)
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) ([GitHub](https://github.com/ThirteenAG/WidescreenFixesPack))
 
@@ -127,6 +128,7 @@
 ### The Legend of Zelda: Ocarina of Time
 
 * [4K Texture Pack by Henriko Magnifico](https://www.henrikomagnifico.com/zelda-ocarina-of-time-3d-4k)
+* [Ocarina of Time Redux](https://www.romhacking.net/hacks/5138/)
 
 ### The Witcher 2: Assassins of Kings
 
