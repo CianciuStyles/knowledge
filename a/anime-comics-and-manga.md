@@ -4,7 +4,15 @@
 
 ### Images
 
+<figure><img src="https://i.pinimg.com/564x/e8/46/d8/e846d8bc65a03be755e419fcd678fdfc.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Anime Recommendation Chart for Beginners.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://www.99chan.org/a/src/132491646860.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.imgur.com/rZP3tWT.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://files.catbox.moe/niiza4.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/The Ultimate Anime Recommendation Flowchart.jpg" alt=""><figcaption></figcaption></figure>
 
