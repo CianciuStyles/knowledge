@@ -3,12 +3,10 @@
 ### Marketplaces
 
 * [Affetto Italiano](https://www.affettoitaliano.co.uk/) - Italian Food Shopping Online
-* [Affordable Mac](https://www.affordablemac.co.uk/) - Refurbished MacBook Pro, MacBook Air, iPads & iMacs
 * [AliExpress](https://www.aliexpress.com/)
 * [Amazon UK](https://smile.amazon.co.uk/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
   * [ShitYouCanAfford](https://shityoucanafford.com/) - The Best Products on Amazon Under $20
-* [Back Market](https://www.backmarket.co.uk/) - Your Refurbished (Super) Market
 * [Bonanza](https://www.bonanza.com/) - Find everything but the ordinary
 * [BuyCharity](https://buycharity.com/) - Online Charity Shop & Thrifting Store
 * [Cable Monkey](https://www.cablemonkey.co.uk/)
@@ -28,7 +26,6 @@
   * [WatchCount](http://www.watchcount.com/)
 * [Ebuyer](https://www.ebuyer.com/)
 * [ElekDirect](https://www.elekdirect.co.uk/) - the AO outlet store
-* [EuroPC](https://www.europc.co.uk/) - Certified Refurbished Computers For Sale
 * [Gumtree](https://www.gumtree.com/)
   * [James](https://www.gumtree.com/profile/accounts/64150f5924beac33bc8d87ac3291da28) - office chairs
 * [John Pye Auctions](https://www.johnpye.co.uk/)
@@ -43,7 +40,6 @@
 * [Subito.it](https://www.subito.it/)
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 * [Temu](https://www.temu.com)
-* [Wisetek Market](https://www.wisetekmarket.com/)
 * [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
 
 ### Lists
@@ -66,6 +62,21 @@
 ### Product Trackers
 
 * [HotStock](https://www.hotstock.io/uk)
+
+### Refurbished Computers and Electronics
+
+* [Affordable Mac](https://www.affordablemac.co.uk/) - Refurbished MacBook Pro, MacBook Air, iPads & iMacs
+* [Back Market](https://www.backmarket.co.uk/) - Your Refurbished (Super) Market
+* [Bargain Hardware](https://www.bargainhardware.co.uk/)
+* [Dell Refurbished](https://www.dellrefurbished.co.uk/)
+* [EuroPC](https://www.europc.co.uk/) - Certified Refurbished Computers For Sale
+* [Jamie's Computers](https://www.ebay.co.uk/str/jamiescomputers)
+* [MicroDream](https://microdream.co.uk/)
+* [Morgan Computers](https://www.morgancomputers.co.uk/)
+* [Newandusedlaptops4u](https://www.ebay.co.uk/str/thebestlaptopdealsaround)
+* [NH TRADING NW LIMITED](https://www.amazon.co.uk/s?i=merchant-items\&me=A32X5Q5ZY3I4WR)
+* [tier1](https://tier1online.com/)
+* [Wisetek Market](https://www.wisetekmarket.com/)
 
 ### Shipping
 
