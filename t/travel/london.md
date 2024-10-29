@@ -50,6 +50,7 @@
 * [Royal Observatory](https://www.rmg.co.uk/royal-observatory) - Greenwich
 * [Somerset House](https://www.somersethouse.org.uk/)
 * [The Arch Climbing Wall](https://www.archclimbingwall.com/)
+* [The Bermondsey Beer Mile](https://www.bermondsey-beer-mile.co.uk/)
 * [The Castle Climbing Centre](https://www.castle-climbing.co.uk/)
 * [The Dare Skywalk](https://experience.tottenhamhotspur.com/spurs-sky-walk.htm) - Tottenham Hotspur Stadium
 * [The View from The Shard](https://www.theviewfromtheshard.com/)
