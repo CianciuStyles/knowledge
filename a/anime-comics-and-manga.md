@@ -10,6 +10,8 @@
 
 <figure><img src="https://www.99chan.org/a/src/132491646860.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.pinimg.com/564x/d6/5f/f2/d65ff29dc7d7e902240e64b54c8c4eca.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.imgur.com/rZP3tWT.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://files.catbox.moe/niiza4.jpg" alt=""><figcaption></figcaption></figure>
