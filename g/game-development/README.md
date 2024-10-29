@@ -128,3 +128,7 @@
 * [Randall Thomas](https://www.youtube.com/c/RandallThomas/videos) - [The Sequel](https://www.youtube.com/c/RandytheSequel/videos)
 * [SimonDev](https://www.youtube.com/@simondev758)
   * [Three.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PLRL3Z3lpLmH0aqLDbfh0ZmnDkpXPDnTau)
+
+### YouTube Videos
+
+* [I built my own 3D Game Engine with Open-Source Tools](https://www.youtube.com/watch?v=SV8uBtUHAkQ) - Modern Vintage Gamer
