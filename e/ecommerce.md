@@ -71,6 +71,7 @@
 * [Dell Refurbished](https://www.dellrefurbished.co.uk/)
 * [EuroPC](https://www.europc.co.uk/) - Certified Refurbished Computers For Sale
 * [Jamie's Computers](https://www.ebay.co.uk/str/jamiescomputers)
+* [KelsusIT](https://www.ebay.co.uk/str/kelsusit)
 * [MicroDream](https://microdream.co.uk/)
 * [Morgan Computers](https://www.morgancomputers.co.uk/)
 * [Newandusedlaptops4u](https://www.ebay.co.uk/str/thebestlaptopdealsaround)
