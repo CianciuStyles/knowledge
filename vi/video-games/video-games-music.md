@@ -95,6 +95,7 @@
 * [What are the most specifically 'beautiful' game soundtracks you have ever heard? Not action packed.](https://www.reddit.com/r/patientgamers/comments/6r494v/what\_are\_the\_most\_specifically\_beautiful\_game/)
 * [What is the best videogame soundtrack in your opinion?](https://www.reddit.com/r/AskReddit/comments/6omsga/what\_is\_the\_best\_videogame\_soundtrack\_in\_your/)
 * [What is your favorite video game soundtrack?](https://www.reddit.com/r/AskReddit/comments/1cyww3n/what\_is\_your\_favorite\_video\_game\_soundtrack/)
+* [You have to listen to a videogame's soundtrack for the rest of your life. What game are you picking?](https://www.reddit.com/r/AskReddit/comments/1g8po6n/you\_have\_to\_listen\_to\_a\_videogames\_soundtrack\_for/)
 
 ### Soundtracks
 
