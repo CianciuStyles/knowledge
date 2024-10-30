@@ -422,6 +422,7 @@
 
 * [10 Postgres tips for beginners](https://postgres.ai/blog/20230722-10-postgres-tips-for-beginners) - Nikolay Samokhvalov, Postgres.ai
 * [How Postgres stores data on disk](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk) – this one's a page turner - Drew Silcock
+* [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/) - Drew Silcock
 * [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
 
