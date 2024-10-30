@@ -86,6 +86,7 @@
 * [Readlang](https://readlang.com/) - Read, translate and supercharge your vocabulary
 * [RhinoSpike](https://rhinospike.com/)
 * [Rype](https://www.rypeapp.com/)
+* [Speakly](https://speakly.me/en)
 * [The Mimic Method](https://www.mimicmethod.com/)
 * [Verbling](https://www.verbling.com/it) - Find language tutors
 
