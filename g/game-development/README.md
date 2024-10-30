@@ -87,6 +87,10 @@
 * [Tips and Lessons learned from 7500+ hours of solo game development. PART 3: Staying Motivated](https://www.reddit.com/r/gamedev/comments/42rkkt/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
 * [Tips and Lessons learned from 7500+ hours of solo game development. PART 4: Productivity](https://www.reddit.com/r/gamedev/comments/433hqc/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
 
+### Tools
+
+* [Tiled](https://www.mapeditor.org/) - Flexible level editor
+
 ### Tutorials
 
 * [A Closer Look at SFML](https://gamefromscratch.com/a-closer-look-at-sfml/)
