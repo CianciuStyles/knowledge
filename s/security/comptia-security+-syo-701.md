@@ -14,6 +14,8 @@
 * Security+ 701 Practice Exam - Cyber James
   * [Part 1](https://www.youtube.com/watch?v=8zPYsJbiZH4)
   * [Part 2](https://www.youtube.com/watch?v=sDDao5s5gdc\&t=0s)
+  * [Part 3](https://www.youtube.com/watch?v=B4fwwgKbnA4)
+  * [Part 4](https://www.youtube.com/watch?v=kS0ZTEgJpzE)
 * [Security+ Certification SY0-701 50 Practice Questions](https://www.youtube.com/watch?v=yPqSLJG8Rt0) - Technical Institute of America
 
 ### Videos
