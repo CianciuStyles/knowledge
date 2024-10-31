@@ -30,6 +30,7 @@
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean) - qntm
 * [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) - Kent Beck
 * [My Software Estimation Technique](https://jacobian.org/2021/may/25/my-estimation-technique/) - Jacob Kaplan-Moss
+* [On Good Software Engineers](https://candost.blog/on-good-software-engineers) - Candost Dagdeviren
 * [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) - Birgitta Böckeler, Nina Siessegger
 * [Pair Programming Guide](https://tuple.app/pair-programming-guide/) - Tuple
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
