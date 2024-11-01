@@ -15,6 +15,7 @@
 ### Apps
 
 * [FitBee](https://fitbee.app/) - Track your nutrition with ease
+* [Journable](https://www.journable.com/) - Simplest Calorie Counter
 * [MyFitnessPal](https://www.myfitnesspal.com/)
 
 ### Articles
