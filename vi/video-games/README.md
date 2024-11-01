@@ -35,7 +35,11 @@
 
 ### Awards
 
-* The Game Awards
+* [British Academy Games Awards](https://en.wikipedia.org/wiki/British\_Academy\_Games\_Awards)
+* [D.I.C.E. Awards](https://en.wikipedia.org/wiki/D.I.C.E.\_Awards)
+* [Game Developers Choice Awards](https://en.wikipedia.org/wiki/Game\_Developers\_Choice\_Awards)
+* [Golden Joystick Awards](https://en.wikipedia.org/wiki/Golden\_Joystick\_Awards)
+* [The Game Awards](https://en.wikipedia.org/wiki/The\_Game\_Awards)
   * [2024](https://www.wikiwand.com/en/The\_Game\_Awards\_2024)
   * [2023](https://www.wikiwand.com/en/The\_Game\_Awards\_2023)
   * [2022](https://www.wikiwand.com/en/The\_Game\_Awards\_2022)
