@@ -12,5 +12,6 @@
 * [Kaishi 1.5k](https://github.com/donkuri/Kaishi) - modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary
 * [Learn Japanese Now](https://marshallyin.com/)
 * [Migaku](https://migaku.com/)
+* [Recommended Books](https://www.mlcjapanese.co.jp/recommended\_books.html) - MLC Japanese Language School in Tokyo
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 * [WaniKani](https://www.wanikani.com/)
