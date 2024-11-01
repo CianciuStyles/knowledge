@@ -81,7 +81,6 @@
 
 ### Databases
 
-* [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
 * [Co-Optimus](https://www.co-optimus.com/)
 * [Delisted Games](https://delistedgames.com/)
 * [DoesItPlay?](https://www.doesitplay.org/)
@@ -140,6 +139,12 @@
 * [Great text based games to play?](https://news.ycombinator.com/item?id=34469154)
 * [Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
 * [What are some must-read books about video games and gaming history?](https://news.ycombinator.com/item?id=40365052)
+
+### Hints
+
+* [Before I Play](https://www.beforeiplay.com/index.php?title=Main\_Page)
+* [Nice Game Hints](https://www.nicegamehints.com/)
+* [Universal Hint System](https://www.uhs-hints.com/)
 
 ### Lists
 
