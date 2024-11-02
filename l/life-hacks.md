@@ -19,6 +19,8 @@
 
 ## Resources
 
+* [Uncommon Helpful Items](https://docs.google.com/spreadsheets/d/e/2PACX-1vSREOGOUW\_uOFKpVvILA0TyA9vP8XCZxaZEbGEzOxLWaNx9LyIcYzxbb5PWFUsyOqW0MBvgf3YoriVH/pubhtml?gid=0\&single=true)
+
 ### Reddit Threads
 
 * [Aside from books, your local library offers a huge source of free content](https://www.reddit.com/r/LifeProTips/comments/1d6rvhh/lpt\_aside\_from\_books\_your\_local\_library\_offers\_a/)
