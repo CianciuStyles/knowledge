@@ -80,6 +80,40 @@
 * [Intro To Dynamic Programming - Coding Interview Preparation](https://www.udemy.com/course/dynamic-programming/) - Udemy
 * [Master the art of Dynamic Programming](https://www.udemy.com/course/master-the-art-of-dynamic-programming/) - Udemy
 
+### LeetCode Problems
+
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+* [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+* [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+* [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+* [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+* [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+* [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+* [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+* [Edit Distance](https://leetcode.com/problems/edit-distance/)
+* [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+* [House Robber](https://leetcode.com/problems/house-robber/)
+* [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+* [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+* [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)
+* [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+* [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+* [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)
+* [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+* [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+* [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description)
+* [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+* [Remove Boxes](https://leetcode.com/problems/remove-boxes/)
+* [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+* [Target Sum](https://leetcode.com/problems/target-sum/)
+* [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+* [Unique Paths](https://leetcode.com/problems/unique-paths/)
+* [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+
 ### Websites
 
 * [A Tutorial on Dynamic Programming](https://mat.gsia.cmu.edu/classes/dynamic/dynamic.html) - Michael A. Trick
