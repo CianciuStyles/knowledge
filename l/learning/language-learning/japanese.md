@@ -5,6 +5,7 @@
 <figure><img src="https://i.pinimg.com/736x/fc/c6/af/fcc6af3fe75fe934c3f43e32e9e960fc.jpg" alt=""><figcaption></figcaption></figure>
 
 * [3 months of learning Japanese](https://skerritt.blog/3-months-of-learning-japanese/) - Autumn Skerritt
+* [Japanese Learning Hub](https://www.fluentin3months.com/learn/japanese-learning-hub/) - Fluent in 3 Months
 * [Japanese Like a Breeze (JLAB)](https://www.japanese-like-a-breeze.com/)
   * [All Jlab Decks](https://www.japanese-like-a-breeze.com/all-decks/)
 * [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system
