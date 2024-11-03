@@ -124,10 +124,12 @@
 ### The Legend of Zelda: Majora's Mask
 
 * [4K Texture Pack by Henriko Magnifico](https://www.henrikomagnifico.com/zelda-majoras-mask-3d-4k)
+* [The Best Way to Play Majora’s Mask](https://retrohandhelds.gg/the-best-way-to-play-majoras-mask/) - Retro Handhelds
 
 ### The Legend of Zelda: Ocarina of Time
 
 * [4K Texture Pack by Henriko Magnifico](https://www.henrikomagnifico.com/zelda-ocarina-of-time-3d-4k)
+* [Best Way to Play: Ocarina of Time](https://retrohandhelds.gg/best-way-to-play-ocarina-of-time/) - Retro Handhelds
 * [Ocarina of Time Redux](https://www.romhacking.net/hacks/5138/)
 
 ### The Witcher 2: Assassins of Kings
