@@ -49,6 +49,7 @@
 * [What makes a strategy great](https://longform.asmartbear.com/great-strategy/) - Jason Cohen, A Smart Bear
 * [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - Gergely Orosz
 * [Why software projects fail](https://vadimkravcenko.com/shorts/why-software-projects-fail/) - Vadim Kravchenko
+* [Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech) - Gergely Orosz
 * [Why The Status Quo Is So Hard To Change In Engineering Teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) - Antoine Boulanger
 * [Working at a Startup vs in Big Tech](https://blog.pragmaticengineer.com/working-at-a-startup-vs-in-big-tech/) - Gergely Orosz
 
