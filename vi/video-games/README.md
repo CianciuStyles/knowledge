@@ -59,6 +59,10 @@
 * [Masters of Doom](https://smile.amazon.co.uk/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
 * [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 
+### Browser Games
+
+* [9:05](https://adamcadre.ac/if/905.html) - Adam Cadre
+
 ### Cables & Adapters
 
 * [Kaico Labs](https://kaicolabs.com/)
