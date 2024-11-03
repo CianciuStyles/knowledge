@@ -24,6 +24,7 @@
 * [What are your favorite British TV shows of the last decade?](https://www.reddit.com/r/AskUK/comments/s0sp21/what\_are\_your\_favorite\_british\_tv\_shows\_of\_the/)
 * [What is your all-time favorite TV show?](https://www.reddit.com/r/AskReddit/comments/rkx24t/what\_is\_your\_alltime\_favorite\_tv\_show/)
 * [What is the best British tv show you watched?](https://www.reddit.com/r/AskUK/comments/1dw7zmo/what\_is\_the\_best\_british\_tv\_show\_you\_watched/)
+* [What is the best series you ever watched?](https://www.reddit.com/r/AskReddit/comments/1gfh2qm/what\_is\_the\_best\_series\_you\_ever\_watched/)
 * [What is the best TV series of all time?](https://www.reddit.com/r/AskReddit/comments/12gtfu7/what\_is\_the\_best\_tv\_series\_of\_all\_time/)
 * [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello\_uk\_reddit\_what\_is\_your\_favourite\_british\_tv/)
 * [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what\_show\_had\_you\_hooked\_after\_1\_episode/)
