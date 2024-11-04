@@ -39,6 +39,12 @@
 
 ## Comics
 
+### Favourites
+
+* [Calvin and Hobbes](https://www.wikiwand.com/en/articles/Calvin\_and\_Hobbes) - Bill Watterson
+* [Simple\&Madama](https://www.simplemadama.com/) - Lorenza Di Sepio
+  * [Personalizzazioni](https://www.simplemadama.com/personalizza/)
+
 ### To Read
 
 * [One of These Days](https://www.amazon.co.uk/One-Those-Days-Yehuda-Devir/dp/0593231430) - Yehuda Devir, Maya Devir
