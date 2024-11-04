@@ -64,4 +64,5 @@
 * [Startup Stash](https://startupstash.com/)
 * [Startup Toolkit](https://startuptoolkit.info)
 * [Top Companies](https://www.ycombinator.com/topcompanies) - Y Combinator
+* [Venture University](https://www.venture.university/)
 * [YC Library](https://www.ycombinator.com/library)
