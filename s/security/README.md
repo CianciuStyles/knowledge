@@ -244,12 +244,16 @@
 * [Chris Greer](https://www.youtube.com/@ChrisGreer) - Wireshark training
 * [Cyber Saiyan](https://www.youtube.com/c/CyberSaiyan/videos)
 * [Cyberkraft](https://www.youtube.com/@cyberkraft539/videos)
+* [David Bombal](https://www.youtube.com/@davidbombal)
+* [HackerSploit](https://www.youtube.com/@HackerSploit)
 * [Hacksplained](https://www.youtube.com/c/Hacksplained/videos)
 * [Infosec](https://www.youtube.com/c/InfoSecInstitute/videos)
 * [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos)
 * [IppSec](https://www.youtube.com/@ippsec/videos)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF/videos)
+* [Network Chuck](https://www.youtube.com/@NetworkChuck)
+* [Null Byte](https://www.youtube.com/@NullByteWHT)
 * [stacksmashing](https://www.youtube.com/@stacksmashing/videos)
 * [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos)
 
