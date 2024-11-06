@@ -30,6 +30,7 @@
 
 ### GitHub repositories
 
+* [100 JavaScript Projects](https://github.com/pradipchaudhary/100-js-projects)
 * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
