@@ -124,6 +124,8 @@
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
+* [Tonyhax International](https://alex-free.github.io/tonyhax-international/) - The Ultimate Backup CD-R/Import Disc Loader Soft-Mod Solution For The Original PlayStation & Early Models Of PlayStation 2
+* [Unirom](https://unirom.github.io/) - Bootdisc, Firmware, Shell for PSX
 
 ### Sony PlayStation 2
 
