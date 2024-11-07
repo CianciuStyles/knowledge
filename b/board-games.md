@@ -63,6 +63,7 @@
   * [What's your favorite short game?](https://www.reddit.com/r/boardgames/comments/1799k33/whats\_your\_favorite\_short\_game/)
   * [What's Your Go-To Board Game for New Players?](https://www.reddit.com/r/boardgames/comments/1dd97i3/whats\_your\_goto\_board\_game\_for\_new\_players/)
   * [What game do you consider to be “flawless”?](https://www.reddit.com/r/boardgames/comments/16s6mvo/what\_game\_do\_you\_consider\_to\_be\_flawless/)
+  * [What is the funniest board game you have played?](https://www.reddit.com/r/boardgames/comments/1gkm7l2/what\_is\_the\_funniest\_board\_game\_you\_have\_played/)
   * [What is your all time favourite board game?](https://www.reddit.com/r/AskUK/comments/15fo71f/what\_is\_your\_all\_time\_favourite\_board\_game/)
   * [What is your forever game?](https://www.reddit.com/r/boardgames/comments/1796o3i/what\_is\_your\_forever\_game/)
   * [What NON-cutthroat games for 2 do you own?](https://www.reddit.com/r/boardgames/comments/15obwh7/what\_noncutthroat\_games\_for\_2\_do\_you\_own/)
