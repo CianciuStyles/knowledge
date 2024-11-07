@@ -179,6 +179,8 @@
 
 <figure><img src="../../.gitbook/assets/10 Soft Skill Books Every Developer Should Read.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.pinimg.com/736x/2d/8b/df/2d8bdf7c1f2d5e422effa1293641abf9.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Online IDEs
 
 * [glot.io](https://glot.io/)
