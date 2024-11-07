@@ -32,6 +32,7 @@
   * [Part 1](https://www.techofnote.com/witness-part-1)
   * [Part 2](https://www.techofnote.com/witness-part-2)
 * [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/zelda-timeline-where-what-is-breath-of-the-wild-botw-2-tears-of-the-kingdom-imprisoning-war) - Jeffrey Parkin, Polygon
+* [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines) - Keith Stuart
 
 ### Awards
 
