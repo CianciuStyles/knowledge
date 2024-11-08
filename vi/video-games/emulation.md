@@ -106,6 +106,7 @@
 
 * Archive.org
   * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
+* [Flycast](https://github.com/flyinghead/flycast) - Multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 
 ### Sega Master System
 
