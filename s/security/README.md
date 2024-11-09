@@ -128,9 +128,13 @@
 
 ### Images
 
+<figure><img src="https://i.pinimg.com/736x/f5/29/ef/f529efdeaf59f4b2d430c4b6f17a1b28.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.pinimg.com/564x/ba/d4/62/bad4625d2f6f9cdfb4b637d810ec4361.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Roadmap for Learning Cyber Security.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.pinimg.com/736x/1e/38/d0/1e38d06be734d8a69de4161c5f4222c6.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Linux Distributions
 
