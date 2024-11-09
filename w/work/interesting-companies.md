@@ -12,6 +12,7 @@
   * [jhuangtw](https://github.com/jhuangtw) / [xg2xg](https://github.com/jhuangtw/xg2xg) - A lookup table of similar tech & services
 * [Indeed](https://www.indeed.jobs/)
 * [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/)
+  * [Preparing for a Software Engineering interview](https://www.janestreet.com/preparing-for-a-software-engineering-interview/)
 * [Meta](https://www.metacareers.com/jobs)
 * [Microsoft](https://careers.microsoft.com/v2/global/en/home.html)
 * [Netflix](https://jobs.netflix.com/)
