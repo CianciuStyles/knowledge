@@ -25,6 +25,7 @@
 
 * [How to become a millionaire in 3 years?](https://news.ycombinator.com/item?id=1447428)
   * [Best comment in the thread](https://news.ycombinator.com/item?id=1447467)
+* [Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
 * [What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
 * [What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
 * [What's the most life-changing blog post you've ever read?](https://news.ycombinator.com/item?id=40269945)
