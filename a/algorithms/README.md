@@ -48,6 +48,8 @@
 
 ### Images
 
+<figure><img src="../../.gitbook/assets/10 Data Structures Used In Daily Life.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Big O Notation 101.gif" alt=""><figcaption></figcaption></figure>
 
 ### Videos
