@@ -28,6 +28,7 @@
 ### Videos
 
 * [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Winston
+* [How to Speak So That People Want to Listen](https://www.youtube.com/watch?v=eIho2S0ZahI) - Julian Treasure
 
 ### Websites
 
