@@ -81,6 +81,10 @@
 
 * [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
 
+### Nintendo Game Boy
+
+* [Gearboy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch
+
 ### Nintendo GameCube
 
 * Archive.org
