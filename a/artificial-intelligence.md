@@ -55,8 +55,21 @@
 
 ### Tools
 
-* [ChatGPT ](https://chat.openai.com/)- OpenAI
-* [Gemini ](https://gemini.google.com)- Google
+#### Coding
+
+* [Coding assistants](https://docs.google.com/spreadsheets/d/14dGUIKxu94Yhy\_ZlvQ2aMhK5w8U5YbZo08xYtCdh71w/edit?gid=2136260982#gid=2136260982)
+
+
+
+* [Aider](https://aider.chat/) - AI pair programming in your terminal
+* [bolt.new](https://bolt.new/)
+* [Cursor](https://www.cursor.com/) - The AI Code Editor
+* [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer
+
+#### General
+
+* [ChatGPT](https://chat.openai.com/) - OpenAI
+* [Gemini](https://gemini.google.com) - Google
 
 ### Websites
 
