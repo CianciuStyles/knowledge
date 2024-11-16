@@ -47,7 +47,9 @@
 * [freshnews](https://www.freshnews.org/)
 * [Hackaday](https://hackaday.com/)
 * [Hacker News](https://news.ycombinator.com/)
+  * [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
   * [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)
+  * [Best of Show HN](https://bestofshowhn.com/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
@@ -58,6 +60,7 @@
 * [Pinboard](https://pinboard.in/popular/)
 * [Project Random](https://0xbeef.co.uk/random)
 * [Reddit](https://www.reddit.com/)
+  * [Awesome Reddit subreddits](https://github.com/learn-anything/reddit)
   * [sub.rehab](https://sub.rehab/)
 * [Stratechery](https://stratechery.com/) - Ben Thompson
 * [The Brutalist Report](https://brutalist.report/)
