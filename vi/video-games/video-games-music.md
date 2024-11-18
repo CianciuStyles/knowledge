@@ -40,6 +40,9 @@
   * [Deltarune - Knock You Down!!](https://www.youtube.com/watch?v=VekymKwEW0w)
   * [The Legend of Zelda - Gerudo Valley](https://www.youtube.com/watch?v=YTsfGm1SP1c)
   * [Undertale - Hopes and Dreams](https://www.youtube.com/watch?v=hiIIdFNuo7E)
+* [insaneintherainmusic](https://www.youtube.com/@insaneintherainmusic)
+  * [Donkey Kong Country - DK Island Swing / Jungle Hijinx](https://www.youtube.com/watch?v=JARfNkd7eoI)
+  * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=RdfPMadOyw0)
 * [Smooth McGroove](https://www.youtube.com/@SmoothMcGroove/videos)
   * [Castlevania - Vampire Killer](https://www.youtube.com/watch?v=ih20Tx-fNJs)
   * [DELTARUNE - Rude Buster (Battle Theme)](https://www.youtube.com/watch?v=BLqDo9BbC6w)
@@ -60,6 +63,8 @@
   * [Tetris - Theme 'A'](https://www.youtube.com/watch?v=PV06M-Gqxgg)
   * [Tetris - Theme 'B'](https://www.youtube.com/watch?v=uFj60cLeGJI)
   * [UNDERTALE - Hopes and Dreams](https://www.youtube.com/watch?v=mTzzet5RQG4)
+* [The 8-Bit Big Band](https://www.youtube.com/@The8BitBigBand)
+  * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=Trp99eHyDyY)
 
 ### Databases
 
