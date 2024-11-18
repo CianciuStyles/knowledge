@@ -23,4 +23,7 @@ description: https://www.android.com/
 
 * [Android](https://www.android.com/)
 * [Android API Levels](https://apilevels.com/)
+* [Android Developers](https://developer.android.com/)
 * [Android Open Source Project](https://source.android.com/)
+  * [APEX file format](https://source.android.com/docs/core/ota/apex)
+  * [Mainline](https://source.android.com/docs/core/ota/modular-system)
