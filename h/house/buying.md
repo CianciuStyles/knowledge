@@ -40,8 +40,8 @@
 
 #### Properties
 
-* [Boomin](https://www.boomin.com/)
 * [Home](https://www.home.co.uk/)
+* [Invisible Homes](https://invisiblehomes.co.uk/)
 * [Mitula](https://property.mitula.co.uk/)
 * [OnTheMarket](https://www.onthemarket.com/for-sale/)
 * [PlaceBuzz](https://www.placebuzz.com/property-for-sale)
