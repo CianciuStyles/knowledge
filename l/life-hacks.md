@@ -19,7 +19,9 @@
 
 ## Resources
 
-* [Practical Betterment](https://practicalbetterments.com/)
+* [How to Access Roku Secret Menus](https://www.groovypost.com/howto/access-roku-secret-menus/)
+* [Practical Betterments](https://practicalbetterments.com/)
+* [Stretch My Time Off](https://stretchmytimeoff.com/)
 * [Uncommon Helpful Items](https://docs.google.com/spreadsheets/d/e/2PACX-1vSREOGOUW\_uOFKpVvILA0TyA9vP8XCZxaZEbGEzOxLWaNx9LyIcYzxbb5PWFUsyOqW0MBvgf3YoriVH/pubhtml?gid=0\&single=true)
 
 ### Reddit Threads
