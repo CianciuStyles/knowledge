@@ -1,5 +1,9 @@
 # Music
 
+### Articles
+
+* [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass) - Gustavo Pezzi
+
 ### Concerts
 
 * [UNDERTALE 5th Anniversary Concert](https://www.youtube.com/watch?v=srZdDAJbHfc)
