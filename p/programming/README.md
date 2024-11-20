@@ -192,6 +192,14 @@
 * [First Contributions](https://firstcontributions.github.io/)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
+### Reddit subreddits
+
+* [r/ExperiencedDevs](https://www.reddit.com/r/ExperiencedDevs/)
+
+### Reddit threads
+
+* [The best dev you’ve ever worked with - what made them so great?](https://www.reddit.com/r/ExperiencedDevs/comments/1gm4y7g/the\_best\_dev\_youve\_ever\_worked\_with\_what\_made/)
+
 ### Videos
 
 * ["Am I Senior Yet?"](https://www.youtube.com/watch?v=jcTmoOHhG9A) - Katlyn Parvin, RubyConf 2016
