@@ -16,6 +16,8 @@
 * [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/) - Cal Newport
   * [Summary by Four Minute Books](https://fourminutebooks.com/so-good-they-cant-ignore-you-summary/)
   * [Summary by Tomas Laurinavicius (Best Writing)](https://bestwriting.com/book-notes/so-good-they-cant-ignore-you)
+* [What Got You Here Won’t Get You There](https://marshallgoldsmith.com/book-page-what-got-you-here/) - Marshall Goldsmith
+  * [Summary by James Clear](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
 
 ### Images
 
