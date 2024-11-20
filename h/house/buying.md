@@ -79,5 +79,6 @@
   * William Wates
 * [Juno Legal](https://client.juno.legal/quote/7jjxrb)&#x20;
 * [London Property Surveyors](https://www.londonpropertysurveyors.co.uk/)
+* [RICS Find a Surveryor](https://www.ricsfirms.com/)
 * [Treadstone Surveying](https://www.treadstonesurveying.co.uk/)
   * Brad
