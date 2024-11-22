@@ -28,9 +28,13 @@
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - David Drysdale
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+* [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) - Jim Blandy, Jason Orendorff, and Leonora Tindall
+* [Rust for Rustaceans](https://rust-for-rustaceans.com/) - Jon Gjengset
+* [Rust in Action](https://www.rustinaction.com/) - Tim McNamara
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
-* [The Rust Programming Language](https://doc.rust-lang.org/book/)
+* [The Rust Programming Language](https://doc.rust-lang.org/book/) - Steve Klabnik and Carol Nichols
+  * [Rust Book Experiment](https://rust-book.cs.brown.edu/)
 * [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount\_code=VAT20) - Luca Palmieri
 
 ### Courses
@@ -62,6 +66,7 @@
 
 ### Subreddits
 
+* [r/learnrust](https://www.reddit.com/r/learnrust/)
 * [r/rust](https://www.reddit.com/r/rust/)
 
 ### Websites
@@ -70,10 +75,12 @@
 * [Are we GUI yet?](https://areweguiyet.com/)
 * [Are we learning yet?](https://www.arewelearningyet.com/)
 * [Are we web yet?](https://www.arewewebyet.org/)
+* [Rustfinity](https://www.rustfinity.com/)
 
 ### YouTube channels
 
 * [fasterthanlime](https://www.youtube.com/@fasterthanlime/videos)
+* [Jon Gjengset](https://www.youtube.com/@jonhoo)
 
 ### YouTube playlists
 
