@@ -24,9 +24,9 @@
 
 ### Reddit threads
 
-* [I've made a big list of songs that are cool to play on acoustic guitar!](https://www.reddit.com/r/Guitar/comments/1ypqus/ive\_made\_a\_big\_list\_of\_songs\_that\_are\_cool\_to/)
-* [My Guide on the Awesomeness of Dominant Chords](https://www.reddit.com/r/Guitar/comments/1xzfz9/music\_theory\_my\_guide\_on\_the\_awesomeness\_of/)
-* [My guide to the Harmonized Major Scale and Roman Numeral Analysis](https://www.reddit.com/r/Guitar/comments/1p9bsj/my\_guide\_to\_the\_harmonized\_major\_scale\_and\_roman/)
+* [I've made a big list of songs that are cool to play on acoustic guitar!](https://www.reddit.com/r/Guitar/comments/1ypqus/ive_made_a_big_list_of_songs_that_are_cool_to/)
+* [My Guide on the Awesomeness of Dominant Chords](https://www.reddit.com/r/Guitar/comments/1xzfz9/music_theory_my_guide_on_the_awesomeness_of/)
+* [My guide to the Harmonized Major Scale and Roman Numeral Analysis](https://www.reddit.com/r/Guitar/comments/1p9bsj/my_guide_to_the_harmonized_major_scale_and_roman/)
 
 ### Websites
 
@@ -49,6 +49,15 @@
 #### Covers
 
 * [Kfir Ochaion](https://www.youtube.com/@KfirOchaion)
+* [Our Last Night](https://www.youtube.com/@OurLastNightBand)
+  * [Camila Cabello - Havana](https://www.youtube.com/watch?v=7yjO-Yyjo3M)
+  * [Ed Sheeran - Shape Of You](https://www.youtube.com/watch?v=wSK6np9KqzI)
+  * [Evanescence - Bring Me To Life](https://www.youtube.com/watch?v=wQ06ZuBGpjA)
+  * [Kate Bush - Running Up That Hill](https://www.youtube.com/watch?v=m0zJsAFzvys)
+  * [Linkin Park - Numb](https://www.youtube.com/watch?v=YfciuLn6Lv4)
+  * [Måneskin - Beggin'](https://www.youtube.com/watch?v=sPNAzlvAnd8)
+  * [Mariah Carey - All I Want For Christmas Is You](https://www.youtube.com/watch?v=NOF5FT2HiuY)
+  * [Masked Wolf - Astronaut In The Ocean](https://www.youtube.com/watch?v=ngdSBRQH35Q)
 
 #### Lessons
 
