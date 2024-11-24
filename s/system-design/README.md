@@ -232,11 +232,13 @@
 
 ![](<../../.gitbook/assets/immagine (1).png>)
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fde55ff-5a6b-4dde-bacc-d5bd18436e4b_1280x1709.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/The Fantastic Four of System Design.gif" alt=""><figcaption></figcaption></figure>
 
 ### Videos
 
-* [Scalability](https://www.youtube.com/watch?v=-W9F\_\_D3oY4) - David Malan, Harvard University
+* [Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) - David Malan, Harvard University
 
 ### Websites
 
@@ -252,4 +254,4 @@
 ### YouTube playlists
 
 * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
-* [Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=UzLMhqg3\_Wc\&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
+* [Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=UzLMhqg3_Wc\&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
