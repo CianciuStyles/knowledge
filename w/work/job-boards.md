@@ -60,6 +60,7 @@
 * [CrunchBoard Jobs](https://www.crunchboard.com/jobs)
 * [Devjobsscanner](https://www.devjobsscanner.com/)
 * [#epicjobs](https://epicjobs.co/)
+* [Euro Top Tech Jobs](https://eurotoptechjobs.com/)
 * [Fifth Wall](https://jobs.fifthwall.vc/jobs)
 * [FossFox](https://fossfox.com/) - Work with open-source and get paid for it
 * [hackajob](https://hackajob.co/)
@@ -77,7 +78,7 @@
 * [Polyfill](https://polyfill.work/)
 * [Placement](https://www.placement.com/)
 * [RecWorks](https://recworks.co.uk/)
-* [SideQuest](https://sidequestjobs.com/?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=working)
+* [SideQuest](https://sidequestjobs.com/?utm_source=hackernewsletter\&utm_medium=email\&utm_term=working)
 * [Slashscore](https://app.slashscore.ai/)
 * [Social Coder](https://socialcoder.org/Home/Index) - Software Development for Good Causes
 * [Tech Job Alerts](https://gettjalerts.com/)
@@ -88,7 +89,7 @@
 * [TrueUp](https://www.trueup.io/)
 * [underdog.io](https://underdog.io/)
 * [Unicorn Hunt](https://unicornhunt.io/)
-* [Who Is Hiring Software Engineers and EMs? In 2022](https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi\_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374)
+* [Who Is Hiring Software Engineers and EMs? In 2022](https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374)
 * [whoishiring.io](https://whoishiring.io/)
 * [Work at a Startup](https://www.workatastartup.com/)
 
