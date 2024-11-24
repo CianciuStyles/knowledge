@@ -48,6 +48,11 @@
 * [Work From Hut](https://www.workfromhut.com/)
 * [Working Nomads](https://www.workingnomads.co/jobs)
 
+### Rust
+
+* [RustJobs.fyi](https://www.rustjobs.fyi/)
+* [RustJobs.dev](https://rustjobs.dev/)
+
 
 
 * [13 remote tech companies with four-day workweeks that are hiring now](https://www.fastcompany.com/90853899/13-remote-tech-companies-with-four-day-workweeks-that-are-hiring-now)
