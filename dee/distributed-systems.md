@@ -22,6 +22,8 @@
 
 ### Courses
 
+* [Advanced Distributed Systems Design](https://particular.net/adsd) - Udi Dahan
+  * [Notes by Craig Phillips](https://gist.github.com/craigtp/05a82b51557adc278acd71b5a2b88905)
 * [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf) - Martin Kleppmann, University of Cambridge
 
 ### Hacker News threads
@@ -31,7 +33,7 @@
 
 ### YouTube Playlists
 
-* [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv\_ohr\_HdUFe97RItdiB) - Martin Kleppmann
+* [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) - Martin Kleppmann
 
 ### YouTube Videos
 
