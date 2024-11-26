@@ -26,4 +26,5 @@ description: https://www.android.com/
 * [Android Developers](https://developer.android.com/)
 * [Android Open Source Project](https://source.android.com/)
   * [APEX file format](https://source.android.com/docs/core/ota/apex)
+  * [Configure ART](https://source.android.com/docs/core/runtime/configure)
   * [Mainline](https://source.android.com/docs/core/ota/modular-system)
