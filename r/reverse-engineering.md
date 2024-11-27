@@ -23,7 +23,7 @@
 
 ### Cheat Sheets
 
-* [A quick guide to Android app reversing](http://pages.cpsc.ucalgary.ca/\~joel.reardon/mobile/smali-cheat.pdf)
+* [A quick guide to Android app reversing](http://pages.cpsc.ucalgary.ca/~joel.reardon/mobile/smali-cheat.pdf)
 * [GDB personal cheatsheet](https://liodeus.github.io/2020/11/13/GDB.html) - Liodeus
 
 ### GitHub Repositories
@@ -49,7 +49,7 @@
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
-  * [ghidra\_psx\_ldr ](https://github.com/lab313ru/ghidra\_psx\_ldr)- Sony Playstation PSX executables loader for GHIDRA
+  * [ghidra\_psx\_ldr ](https://github.com/lab313ru/ghidra_psx_ldr)- Sony Playstation PSX executables loader for GHIDRA
   * [Ghidra Emotion Engine: Reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) - An extension for Ghidra that adds support for the PlayStation 2
 * [IDA Freeware](https://hex-rays.com/ida-free/)
 * [IDA Pro](https://hex-rays.com/ida-pro/)
@@ -79,6 +79,7 @@
 * [crackmes.one](https://crackmes.one/)
 * [GuidedHacking](https://guidedhacking.com/)
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
+  * [GitHub repository](https://github.com/RetroReversing/retroReversing)
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
 * [ReversingHero](https://www.reversinghero.com/)
 * [RootMy.TV](https://rootmy.tv/)
@@ -89,7 +90,7 @@
 
 ### YouTube Playlists
 
-* [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL\_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi) - HackadayU
+* [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi) - HackadayU
 
 ### YouTube Videos
 
@@ -100,10 +101,10 @@
 * [PS2 game hacking & reverse engineering](https://www.youtube.com/watch?v=gG5N53aNikk) - Luciano Ciccariello
 * [Reverse Engineering, but it's 100 Math Problems.](https://www.youtube.com/watch?v=VLd9GZg8ALs) - Low Level Learning
 * [Reverse Engineering 101: How to Dissect and Master Any Platform ](https://www.youtube.com/watch?v=RnL5HQfq4Ik)- LaurieWired
-* [Reverse Engineering a Classic Video Game (BioForge)](https://www.youtube.com/watch?v=fKb\_0BfKtsA) - Tim Comport
+* [Reverse Engineering a Classic Video Game (BioForge)](https://www.youtube.com/watch?v=fKb_0BfKtsA) - Tim Comport
 * Reverse engineering an old DOS game - Fabrice Lété
   * [Part 1 of N](https://www.youtube.com/watch?v=KdIpuCznir4)
-  * [Part 2 of N](https://www.youtube.com/watch?v=OPTcCnUj\_5A)
+  * [Part 2 of N](https://www.youtube.com/watch?v=OPTcCnUj_5A)
 * [Reverse Engineering fine details of Game Boy hardware](https://www.youtube.com/watch?v=GBYwjch6oEE) - Joonas Javanainen
 * [Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python](https://www.youtube.com/watch?v=cwBoUuy4nGc) - jeFF0Falltrades
 * [Self-Learning Reverse Engineering in 2022](https://www.youtube.com/watch?v=gPsYkV7-yJk) - LiveOverflow
