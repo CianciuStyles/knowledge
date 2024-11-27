@@ -23,12 +23,12 @@ description: https://www.python.org/
 * [How To Write A Spelling Corrector](https://norvig.com/spell-correct.html) - Peter Norvig
 * [Linear Programming with Python and PuLP](https://benalexkeen.com/linear-programming-with-python-and-pulp/) - Ben Alex Keen
 * [List of Jupyter Notebooks](https://norvig.com/ipython/README.html) - Peter Norvig
-* [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual\_performance\_optimization\_python/) - Nathan Thomas
+* [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual_performance_optimization_python/) - Nathan Thomas
 * [Profile a section of code with cProfile](https://adamj.eu/tech/2023/07/23/python-profile-section-cprofile/) - Adam Johnson
 * [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) - Mike Driscoll
 * [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - Victor Skvortsov
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
-* [Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) - Glyph Lefkowitz ([Reddit thread](https://www.reddit.com/r/Python/comments/4xnip4/python\_packaging\_is\_good\_now/))
+* [Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) - Glyph Lefkowitz ([Reddit thread](https://www.reddit.com/r/Python/comments/4xnip4/python_packaging_is_good_now/))
 * [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/) - Nicholas Hairs
 * [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals) - Abhinav Upadhyay
 * [The Five Kinds of Python Functions](https://slott56.github.io/five-kinds-of-python-functions/assets/player/KeynoteDHTMLPlayer.html#0) - Steven F. Lott
@@ -77,7 +77,7 @@ description: https://www.python.org/
 * [PyCrumbs](https://github.com/kirang89/pycrumbs)
 * [Python Education](https://github.com/charlax/python-education)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
-* [Python Koans](https://github.com/gregmalcolm/python\_koans) - Learn Python through TDD
+* [Python Koans](https://github.com/gregmalcolm/python_koans) - Learn Python through TDD
 * [Python Quick Tips](https://gist.github.com/sreeragh-ar/7facbf6aace844692eb0dd8f32ee5d4c)
 * [Python Tips](https://github.com/smoqadam/python-tips)
 * [Python Wats](https://github.com/cosmologicon/pywat)
@@ -106,20 +106,27 @@ description: https://www.python.org/
 
 * [Arcade ](https://api.arcade.academy/en/latest/index.html)- game development
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
+* [CustomTkinter](https://customtkinter.tomschimansky.com/) - UI library based on Tkinter
+* [Dear PyGui](https://dearpygui.readthedocs.io/en/latest/) - GUI toolkit built with Dear ImGui
 * [docopt](https://docopt.org/) - command-line interface description language
+* [Flet](https://flet.dev/) - web-based UI powered by Flutter
 * [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 * [MkDocs](https://www.mkdocs.org/) - project documentation with Markdown
+* [NiceGUI](https://nicegui.io/) - web-based UI
 * [Nuitka](https://nuitka.net/) - Python to executable compiler
 * [peewee](https://docs.peewee-orm.com/en/latest/index.html) - simple and small ORM
 * [Poetry](https://python-poetry.org/) - dependency management and packaging
 * [py2wasm ](https://github.com/wasmerio/py2wasm)- Python to Wasm compiler
   * [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler) - Syrus Akbary, Wasmer
 * [pydantic](https://docs.pydantic.dev/latest/) - data validation
+* [PySide6](https://pypi.org/project/PySide6/) - Qt for Python
 * [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 * [ReactPy ](https://github.com/reactive-python/reactpy)- It's React, but in Python
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator
+* [Streamlit](https://streamlit.io/) - web-based UI
 * [vprof](https://github.com/nvdv/vprof) - visual profiler
+* [wxPython](https://www.wxpython.org/) - GUI toolkit for Python
 * [Z3](https://github.com/Z3Prover/z3) - theorem prover
 
 ### Tools
