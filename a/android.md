@@ -28,3 +28,4 @@ description: https://www.android.com/
   * [APEX file format](https://source.android.com/docs/core/ota/apex)
   * [Configure ART](https://source.android.com/docs/core/runtime/configure)
   * [Mainline](https://source.android.com/docs/core/ota/modular-system)
+  * [The Android App Bundle format](https://developer.android.com/guide/app-bundle/app-bundle-format)
