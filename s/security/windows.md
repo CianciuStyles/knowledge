@@ -46,7 +46,7 @@
 
 * [Playing with PrintNightmare](https://0xdf.gitlab.io/2021/07/08/playing-with-printnightmare.html) - 0xdf
 * [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa) - Adam Toscher
-* [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page\_id=1821) - Active Directory Security
+* [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821) - Active Directory Security
 * [Windows Privilege Escalation Fundamentals](https://fuzzysecurity.com/tutorials/16.html) - Ruben Boonen, Fuzzy Security
 
 ### GitHub Repositories
@@ -60,6 +60,8 @@
 * [JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG) - Another Windows Local Privilege Escalation from Service Account to System
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+* [NanoDump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
+* [pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 * [UACMe](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 * [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) - Windows Privilege Escalation Techniques and Scripts
