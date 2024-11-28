@@ -3,7 +3,7 @@
 * [BoredReading.com](https://boredreading.com/)
 * [Boring Report](https://www.boringreport.org/app)
 * [Breaking News](https://breaking.ai/)
-* [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current\_events)
+* [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events)
 * [Dan Wang](https://danwang.co/)
 * [Emergency and Disaster Information Services](https://rsoe-edis.org/)
 * [Magazedia ](https://en.magazedia.wiki/)- Magazine Encyclopedia
@@ -55,6 +55,7 @@
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
 * [Lobste.rs](https://lobste.rs/)
+* [Mark Ellis Reviews](https://markellisreviews.com/)
 * [Nonio](https://non.io/)
 * [One App](https://reader.one/)
 * [Pinboard](https://pinboard.in/popular/)
