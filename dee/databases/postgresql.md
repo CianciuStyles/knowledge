@@ -423,8 +423,9 @@
 * [10 Postgres tips for beginners](https://postgres.ai/blog/20230722-10-postgres-tips-for-beginners) - Nikolay Samokhvalov, Postgres.ai
 * [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/) - Drew Silcock
 * [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/) - Drew Silcock
-* [psql Tips](https://mydbanotebook.org/psql\_tips\_all.html) - Lætitia Avrot
+* [psql Tips](https://mydbanotebook.org/psql_tips_all.html) - Lætitia Avrot
 * [PostgreSQL DBA Daily Checklist](https://minervadb.xyz/postgresql-dba-daily-checklist/) - Shiv Iyer, MinervaDB
+* [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres) - Hazel Bachrach
 
 ### Books
 
@@ -438,4 +439,6 @@
 
 * [Crunchy Data](https://www.crunchydata.com/developers/tutorials) - Postgres Tutorials
 * [explain.dalibo.com](https://explain.dalibo.com/) - PostgreSQL execution plan visualizer
+* [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
+  * [Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
 
