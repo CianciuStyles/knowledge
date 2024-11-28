@@ -61,6 +61,7 @@
 * [kerbrute](https://github.com/ropnop/kerbrute) - tool to perform Kerberos pre-auth bruteforcing
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 * [NanoDump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
+* [Privesc](https://github.com/enjoiz/Privesc) - Windows batch script that finds misconfiguration issues which can lead to privilege escalation
 * [pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 * [UACMe](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
