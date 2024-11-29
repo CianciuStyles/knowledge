@@ -28,10 +28,11 @@
 
 ### Websites
 
+* [Advent of SQL](https://adventofsql.com/)
 * [Human to SQL Translator](https://www.sqltranslate.app/)
 * [Lost at SQL](https://lost-at-sql.therobinlord.com/) - SQL learning game
 * [Select Star SQL](https://selectstarsql.com/)
 * [SQL for Devs](https://sqlfordevs.com/)
 * [SQLBolt](https://sqlbolt.com/)
-* [SQLZOO](https://sqlzoo.net/wiki/SQL\_Tutorial)
+* [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [The Querynomicon](https://gvwilson.github.io/sql-tutorial/) - An Introduction to SQL for Weary Data Scientists
