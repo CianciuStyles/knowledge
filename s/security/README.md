@@ -6,15 +6,15 @@
 * [Allow arbitrary URLs, expect arbitrary code execution](https://positive.security/blog/url-open-rce) - Positive Security
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - g0tm1k
 * [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Alex Birsan
-* [Dynamic linker tricks: Using LD\_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld\_preload-to-cheat-inject-features-and-investigate-programs/) - Rafał Cieślak
+* [Dynamic linker tricks: Using LD\_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/) - Rafał Cieślak
 * [Everything Public Key Infrastructure](https://smallstep.com/blog/everything-pki/) - Mike Malone
 * [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA
-* [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/resources/blog/free\_path) - Ellie Gillard
+* [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/resources/blog/free_path) - Ellie Gillard
 * [From CTFs to The Real-World: Overview (Part 1)](https://dayzerosec.com/blog/2021/05/20/from-ctfs-to-the-real-world-an-overview.html) - Day\[0]
 * [From CTFs to Real-Vulnerabilities (Part 2)](https://dayzerosec.com/blog/2021/05/21/from-ctfs-to-real-vulnerabilities-part-2.html) - Day\[0]
 * [From CTFs to Real-Exploitation (Part 3)](https://dayzerosec.com/blog/2021/05/22/from-ctfs-to-real-exploitation-part-3.html) - Day\[0]
 * [Hack The Box (HTB) OSCP-Like machines List 2022](https://pentestblog.in/oscp/hack-the-box-htb-oscp-like-machines-list-2022/) - PentestBlog
-* [How To Become A Hacker](https://www.catb.org/\~esr/faqs/hacker-howto.html) - Eric Steven Raymond
+* [How To Become A Hacker](https://www.catb.org/~esr/faqs/hacker-howto.html) - Eric Steven Raymond
 * [Introduction to Ethical Hacking Live Training Guide](https://theartofhacking.org/guide/guide.pdf) - Omar Santos
 * [Introduction to format string exploits](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) - Code Arcana
 * [Linux Privilege Escalation Using Capabilities](https://materials.rangeforce.com/tutorial/2020/02/19/Linux-PrivEsc-Capabilities/) - Heino Sass Hallik
@@ -25,7 +25,7 @@
 * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - HighOn.Coffee
 * [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Pentest Monkey
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) - Sami Alaoui Kendil
-* [Smashing The Stack For Fun And Profit](https://inst.eecs.berkeley.edu/\~cs161/fa08/papers/stack\_smashing.pdf) - Aleph One
+* [Smashing The Stack For Fun And Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf) - Aleph One
   * [Smashing the Stack For Fun and Profit (Today)](https://travisf.net/blog/smashing-the-stack-today/) - Travis Finkenauer
   * [Smashing the Stack for Fun & Profit: Revived](https://avicoder.me/2016/02/01/smashsatck-revived/) - avicoder
 * [So You Want to Be a Hacker: 2022 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2022-edition/) - TCM Security
@@ -122,7 +122,7 @@
 * [pwncat](https://github.com/CalebStewart/pwncat)
 * [sec-tools](https://github.com/eugenekolo/sec-tools)
 * [SecLists](https://github.com/danielmiessler/SecLists)
-* [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security\_Engineer\_Interview\_Questions/blob/master/security-interview-questions.md)
+* [Security Engineer Interview Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions.md)
 * [statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames)
 * [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
@@ -163,18 +163,23 @@
 
 ### Tools
 
+* [BeRoot](https://github.com/AlessandroZ/BeRoot) - Privilege Escalation Project
 * [Dradis](https://dradisframework.com/ce/) - Reporting and collaboration tool
+* [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 * [Ettercap ](https://www.ettercap-project.org/)- comprehensive suite for man in the middle attacks
 * [GTFOBins](https://gtfobins.github.io/) - curated list of Unix binaries that can be used to bypass local security restrictions
 * [Kaitai Struct](https://kaitai.io/) - declarative binary format parsing language
+* [LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 * [LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 * [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2)
 * [Linux Privilege Escalation Check Script](https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123)
 * [Metasploit](https://www.metasploit.com/)
-* [Nessus](https://www.tenable.com/products/nessus) - Vulnerability Assesment
+* [Nessus](https://www.tenable.com/products/nessus) - Vulnerability Assessment
+* [Pupy](https://github.com/n1nj4sec/pupy/) - C2 and post-exploitation framework
 * [pwncat](https://pwncat.org/) ([GitHub](https://github.com/cytopia/pwncat))
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 * [Security Tools](https://tools.tldr.run/)
+* [SharpExfiltrate](https://github.com/Flangvik/SharpExfiltrate) - Modular C# framework to exfiltrate loot over secure and trusted channels
 * [ShellPop](https://github.com/0x00-0x00/shellpop)
 * [Tails ](https://tails.net)- Portable operating system that protects against surveillance and censorship
 * [Unshackle ](https://github.com/Fadi002/unshackle)- Password Bypass Tool
@@ -218,14 +223,14 @@
 * [OverTheWire Wargames](https://overthewire.org/wargames/)
 * [OWASP](https://owasp.org/) - Open Worldwide Application Security Project
   * [DSOMM](https://dsomm.owasp.org/) - DevSecOps Maturity Model
-  * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP\_Testing\_Guide\_v4\_Table\_of\_Contents)
+  * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
 * [Pwnable.kr](https://pwnable.kr/)
 * [Red Team Development and Operations](https://redteam.guide/)
 * [Red Team Notes](https://www.ired.team/)
 * [Reversing.kr](http://reversing.kr/)
-* [SANS](https://www.sans.org/uk\_en/) - UK Cybersecurity Courses & Training
+* [SANS](https://www.sans.org/uk_en/) - UK Cybersecurity Courses & Training
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
 * [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
@@ -263,5 +268,5 @@
 
 ### YouTube Playlists
 
-* [Buffer Overflows Made Easy](https://www.youtube.com/playlist?list=PLLKT\_\_MCUeix3O0DPbmuaRuR\_4Hxo4m3G) - The Cyber Mentor
+* [Buffer Overflows Made Easy](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G) - The Cyber Mentor
 * [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
