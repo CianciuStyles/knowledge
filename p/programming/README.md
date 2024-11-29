@@ -194,6 +194,12 @@
 * [First Contributions](https://firstcontributions.github.io/)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
+### Programming Puzzles
+
+* [Advent of Code](https://adventofcode.com/)
+* [Everybody Codes](https://everybody.codes/)
+* [Project Euler](https://projecteuler.net/)
+
 ### Reddit subreddits
 
 * [r/ExperiencedDevs](https://www.reddit.com/r/ExperiencedDevs/)
