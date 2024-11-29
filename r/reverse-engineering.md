@@ -86,6 +86,7 @@
 
 ### YouTube Channels
 
+* [Nathan Baggs](https://www.youtube.com/@nathanbaggs)
 * [Stephen Chapman](https://www.youtube.com/@StephenChapman)
 
 ### YouTube Playlists
