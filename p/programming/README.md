@@ -10,7 +10,7 @@
 * [A list of programming playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/) - Julia Evans
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier
 * [Become a Good Programmer in Six Really Hard Steps](https://www.gamedev.net/blog/355/entry-2250592-become-a-good-programmer-in-six-really-hard-steps/) - Mike Lewis
-* [Building a CHIP-8 Emulator \[C++\]](https://austinmorlan.com/posts/chip8\_emulator/) - Austin Morlan
+* [Building a CHIP-8 Emulator \[C++\]](https://austinmorlan.com/posts/chip8_emulator/) - Austin Morlan
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) - Mitchell Hashimoto
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Malte Ubl
 * [Do you know how much your computer can do in a second?](https://computers-are-fast.github.io/) - Julia Evans, Kamal Marhubi
@@ -18,11 +18,11 @@
 * [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/) - Bartosz Ciechanowski
 * [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html) - Alex Kladov
 * [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome) - Casey Primozic
-* [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=fav) - Geoffrey Litt
+* [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html?utm_source=hackernewsletter\&utm_medium=email\&utm_term=fav) - Geoffrey Litt
 * [Fundamentals](https://blog.ploeh.dk/2024/05/20/fundamentals/) - Mark Seemann
 * [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus) - Tom Nick
 * [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html) - David Buchanan
-* [How To Ask Questions The Smart Way](http://www.catb.org/\~esr/faqs/smart-questions.html) - Eric Steven Raymond
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) - Eric Steven Raymond
 * [How to debug](https://philbooth.me/blog/how-to-debug) - Phil Booth
 * [How to fix a bug in an open-source project](https://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/) - Nolan Lawson
 * [How Wine works 101](https://werat.dev/blog/how-wine-works-101) - Andy Hippo
@@ -44,8 +44,8 @@
 * [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) - Nikita Prokopov
 * [The biggest-ever global outage: lessons for software engineers](https://newsletter.pragmaticengineer.com/p/the-biggest-ever-global-outage-lessons) - Gergely Orosz
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
-* [Things Every Hacker Once Knew](http://www.catb.org/\~esr/faqs/things-every-hacker-once-knew/) - Eric Steven Raymond
-* [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk\_post\_things\_ive\_learned\_as\_a\_sr\_engineer/)
+* [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/) - Eric Steven Raymond
+* [Things I've learned as a Senior Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 * [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) - Vadim Kravcenko
 * [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do) - Andy Hippo
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) - Matt Might
@@ -79,13 +79,13 @@
   * [From Source Code To Machine Code - Build Your Own Compiler From Scratch](https://build-your-own.org/compiler/)
 * [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
 * [Hacker News Book Map](https://hnbooks.pieterma.es/)
-* [How To Be A Programmer](https://www.doc.ic.ac.uk/\~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
+* [How To Be A Programmer](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
 * [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
 * [Program = Proof](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Samuel Mimram
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
-* [Static Program Analysis](https://cs.au.dk/\~amoeller/spa/) - Anders Møller and Michael I. Schwartzbach, Aarhus University
+* [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) - Anders Møller and Michael I. Schwartzbach, Aarhus University
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) - Harold Abelson, Gerald Jay Sussman (first edition [here](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html))
   * [JavaScript edition](https://sicp.sourceacademy.org/sicpjs.pdf)
   * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
@@ -103,10 +103,12 @@
 
 ### Code Editors
 
+* [Cursor](https://www.cursor.com/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Windsurf](https://codeium.com/windsurf)
 * [Zed](https://zed.dev/)
 
 ### GitHub Repositories
@@ -157,7 +159,7 @@
 * [Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
 * [Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
-* [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=21790779), [Reddit](https://www.reddit.com/r/programming/comments/ean6ch/challenging\_projects\_every\_programmer\_should\_try/))
+* [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=21790779), [Reddit](https://www.reddit.com/r/programming/comments/ean6ch/challenging_projects_every_programmer_should_try/))
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro) ([Shared Solutions](https://github.com/CodingChallegesFYI/SharedSolutions))
 * Coding projects for software developers: Let’s get some hands-on practice - Shivang Sarawagi
   * [Part 1](https://shivangsnewsletter.com/p/coding-projects)
@@ -198,7 +200,7 @@
 
 ### Reddit threads
 
-* [The best dev you’ve ever worked with - what made them so great?](https://www.reddit.com/r/ExperiencedDevs/comments/1gm4y7g/the\_best\_dev\_youve\_ever\_worked\_with\_what\_made/)
+* [The best dev you’ve ever worked with - what made them so great?](https://www.reddit.com/r/ExperiencedDevs/comments/1gm4y7g/the_best_dev_youve_ever_worked_with_what_made/)
 
 ### Videos
 
