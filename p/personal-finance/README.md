@@ -70,9 +70,9 @@
 
 ### Reddit Threads
 
-* [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last\_day\_of\_the\_tax\_year\_is\_today\_5\_april\_has/)
-* [Once you’ve maxed your ISA](https://www.reddit.com/r/FIREUK/comments/1der9id/one\_youve\_maxed\_your\_isa/)
-* [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways\_to\_supplement\_your\_income\_here\_in\_the\_uk/)
+* [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last_day_of_the_tax_year_is_today_5_april_has/)
+* [Once you’ve maxed your ISA](https://www.reddit.com/r/FIREUK/comments/1der9id/one_youve_maxed_your_isa/)
+* [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways_to_supplement_your_income_here_in_the_uk/)
 
 ### Software
 
@@ -98,7 +98,7 @@
 * [Ask Liz Weston](https://asklizweston.com/)
 * [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Black & White FIRE](https://blackandwhitefire.com/) - UK FIRE & Retire Planner
-* [Bogleheads](https://www.bogleheads.org/wiki/Main\_Page)
+* [Bogleheads](https://www.bogleheads.org/wiki/Main_Page)
 * [BoringCashCow ](https://boringcashcow.com/)- Discover Boring Businesses that Quietly Rake in the Cash
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
 * [CompiledSanity](https://cspersonalfinance.io/) - Personal Finance Spreadsheets
@@ -107,10 +107,12 @@
 * [Financial Samurai](https://www.financialsamurai.com/)
 * [Financial Wellbeing Library](https://www.aviva.co.uk/services/wellbeing-library/financial-wellbeing/) - Aviva
 * [FIRE countries list](https://firecountrieslist.com/)
-* Gov.uk
+* [Gov.uk](https://www.gov.uk/)
+  * [Capital Gains Tax on personal possessions](https://www.gov.uk/capital-gains-tax-personal-possessions)
   * [Individual Savings Accounts (ISAs)](https://www.gov.uk/individual-savings-accounts)
   * [Lifetime ISA](https://www.gov.uk/lifetime-isa)
   * [Self Assessment: detailed information](https://www.gov.uk/topic/personal-tax/self-assessment)
+  * [Selling goods or services on a digital platform](https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Interactive Investor](https://www.ii.co.uk/) - The UK's number one flat-fee investment platform
 * [Investopedia](https://www.investopedia.com/)
@@ -147,14 +149,14 @@
 * [James Shack](https://www.youtube.com/@JamesShack/videos)
   * [5 Strategies to Avoid Capital Gains Tax](https://www.youtube.com/watch?v=Nwua80BJY6I)
   * [Should You Pay Off Your Mortgage or Invest? (A 50-year historical backtest)](https://www.youtube.com/watch?v=9MfCVkRvjQs)
-  * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS\_Qofcw)
+  * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS_Qofcw)
   * [The Optimal Order For Investing Your Money](https://www.youtube.com/watch?v=10mC6XXChZI)
   * [Vanguard Lifestrategy Funds Explained | The only fund you will ever need? (Investing for beginners)](https://www.youtube.com/watch?v=lGQ9KyQq8Jw)
   * [Why Holding Cash Now is a Terrible Idea (if you ever want to retire)](https://www.youtube.com/watch?v=oeob9z27-gA)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
 * [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
   * [Educati e Finanziati](https://www.youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h)
-  * [Risparmioforo: se risparmio e investo 1000 euro al mese a che capitale reale arrivo?](https://www.youtube.com/watch?v=LPb\_h-lPqUs)
+  * [Risparmioforo: se risparmio e investo 1000 euro al mese a che capitale reale arrivo?](https://www.youtube.com/watch?v=LPb_h-lPqUs)
 * [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
 * [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
 
