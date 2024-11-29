@@ -24,6 +24,7 @@
 
 * [Advanced Distributed Systems Design](https://particular.net/adsd) - Udi Dahan
   * [Notes by Craig Phillips](https://gist.github.com/craigtp/05a82b51557adc278acd71b5a2b88905)
+  * [Notes by Pietro Di Bello](https://hackmd.io/@pierodibello/Advanced-Distributed-System-Design)
 * [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf) - Martin Kleppmann, University of Cambridge
 
 ### Hacker News threads
