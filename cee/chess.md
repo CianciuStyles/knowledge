@@ -12,4 +12,5 @@
 
 ### Websites
 
+* [Advent of Chess](https://www.adventofchess.com/)
 * [CheckmateChamp.net](https://www.checkmatechamp.net/)
