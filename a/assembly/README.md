@@ -4,7 +4,7 @@
 
 ### Articles
 
-* [NASM Tutorial ](https://cs.lmu.edu/\~ray/notes/nasmtutorial/)- Ray Toal
+* [NASM Tutorial ](https://cs.lmu.edu/~ray/notes/nasmtutorial/)- Ray Toal
 * [NASM - The Netwide Assembler](https://www.nasm.us/xdoc/2.13.03rc1/html/nasmdoc0.html)
 * [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/) - Julia Evans
 * [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/) - Tim Misiak
@@ -21,14 +21,14 @@
 
 ### Courses
 
-* [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001\_x86-64\_Asm+2021\_v1/about) - OpenSecurityTraining2
-* [Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001\_x86-64\_OS\_Internals+2021\_v1/about) - OpenSecurityTraining2
+* [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) - OpenSecurityTraining2
+* [Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about) - OpenSecurityTraining2
 
 ### GitHub Repositories
 
-* [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm\_book)
+* [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
 * [armips](https://github.com/Kingcom/armips) - An assembler for various ARM and MIPS platforms
-* [Introduction to x86-64 assembly](https://github.com/luamfb/intro\_x86-64)
+* [Introduction to x86-64 assembly](https://github.com/luamfb/intro_x86-64)
 * [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 
 ### Hacker News threads
@@ -40,6 +40,7 @@
 
 * [Apple Silicon CPU Optimization Guide](https://developer.apple.com/documentation/apple-silicon/cpu-optimization-guide)
 * [Assembly x86 Emulator](https://carlosrafaelgn.com.br/Asm86/)
+* [CPUlator](https://cpulator.01xz.net/) - Computer System Simulator
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 * [NASM](https://www.nasm.us/)
 * [OFRAK Tetris](https://ofrak.com/tetris/)
