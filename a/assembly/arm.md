@@ -7,3 +7,7 @@
 ### GitHub Repositories
 
 * [HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to assembly on Apple silicon Macs
+
+### YouTube Playlists
+
+* [Practical ARM Assembly Tutorial Series](https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg) - LaurieWired
