@@ -91,6 +91,7 @@
 
 ### YouTube Playlists
 
+* [Decompiling Castlevania: Symphony of the Night](https://www.youtube.com/playlist?list=PLRA8lCbG_RSltj5RjwDL_xsJeKlbuLmVp) - Made Up of Wires
 * [Reverse Engineering with Ghidra](https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi) - HackadayU
 
 ### YouTube Videos
