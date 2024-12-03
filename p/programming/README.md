@@ -36,6 +36,7 @@
 * [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/) - Julia Evans
 * [Programmer Competency Matrix](https://sijinjoseph.netlify.app/programmer-competency-matrix/) - Sijin Joseph
 * [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - Ethan Urie
+* [Programming the C64 with Visual Studio Code](https://retrogamecoders.com/c64-visual-studio-code/) - Retro Game Coders ([Hacker News](https://news.ycombinator.com/item?id=42290861))
 * [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) - Oleksii Holub
 * [QR codes](https://typefully.com/DanHollick/qr-codes-T7tLlNi) - Dan Hollick
 * [Reading QR codes without a computer!](https://qr.blinry.org/) - blinry
@@ -148,6 +149,7 @@
 * [What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 * [What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 * [What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
+* [What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
 * [What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [What underrated open source project deserves more recognition?](https://news.ycombinator.com/item?id=39635486)
 * [What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
