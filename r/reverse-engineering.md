@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island) - Alberto Marnetto
 * [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall
 * [Exploring Tokimeki Memorial](https://tetracorp.github.io/tokimeki-memorial/) - Tetracorp
 * [Hacking AirPlay into Sonos](https://medium.com/@stephencwan/hacking-airplay-into-sonos-93a41a1fcfbb) - Stephen Wan
