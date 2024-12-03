@@ -127,6 +127,7 @@
 * [Money To The Masses](https://moneytothemasses.com/)
 * [Nectarine ](https://hellonectarine.com/)- Fiduciary Advice-Only Financial Advisors (US only)
 * [Passive Income](https://my-passive-income.eu/)
+* [Pevensie Consulting](https://pevensietax.com/) - Straightforward Tax Advice
 * [Plain English Finance](https://plainenglishfinance.co.uk/)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 * [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
