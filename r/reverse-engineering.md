@@ -11,6 +11,7 @@
   * [Part 1 – Banana Bunch Values](https://www.smokingonabike.com/2021/01/17/hacking-super-monkey-ball-part-1-banana-bunch-values/)
   * [Part 2 – Decompilation with Ghidra](https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - t0st ([HN thread](https://news.ycombinator.com/item?id=26296339))
+* [HOWTO-Reverse Engineering](https://wiki.scummvm.org/index.php/HOWTO-Reverse_Engineering) - ScummVM
 * [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/) - Andy Hippo
 * [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html) - Tom Mason
 * [Reverse engineering an illegal IPTV application on the Google Play Store](https://github.com/benhamad/blog/blob/main/2024-04-12-dramalive.md) - Chaker Benhamad
