@@ -204,6 +204,7 @@
 * [Cybrary](https://www.cybrary.it/)
 * [CySec Careers](https://cysec.careers/)
 * [Dark Reading](https://www.darkreading.com/)
+* [Deus x64](https://deusx64.ai/) - A Pwning Campaign by RET2 Systems
 * [Guided Hacking](https://guidedhacking.com/)
 * [H4CK1NG G00GL3](https://h4ck1ng.google/) ([Writeup by Davide Guerri](https://dguerri.github.io/random-tech-stuff/2022/10/15/h4ck1ng-g00gl3-main-challenges-write-up.html))
 * [HackMyVM](https://hackmyvm.eu/)
