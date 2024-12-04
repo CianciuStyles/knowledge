@@ -114,6 +114,7 @@
 
 ### GitHub Repositories
 
+* [Advent Calendars for Developers](https://github.com/vimode/Advent-Calendars-For-Developers)
 * [Amazing Developer On YouTube](https://github.com/ErikCH/DevYouTubeList)
 * [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 * [Data-Oriented Design](https://github.com/dbartolini/data-oriented-design)
