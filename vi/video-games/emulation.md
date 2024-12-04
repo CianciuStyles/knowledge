@@ -4,7 +4,7 @@
 * [Awesome Emulator Development Resources](https://github.com/marethyu/awesome-emu-resources)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
-* [Compile Like It's 1992](https://fabiensanglard.net/Compile\_Like\_Its\_1992/) - Fabien Sanglard
+* [Compile Like It's 1992](https://fabiensanglard.net/Compile_Like_Its_1992/) - Fabien Sanglard
 * [Console Living Room](https://archive.org/details/consolelivingroom)
 * [CoolROM](https://coolrom.com.au/)
 * [D3D9On12](https://github.com/microsoft/D3D9On12) - Microsoft
@@ -15,7 +15,7 @@
 * [Dosemu2](https://dosemu2.github.io/dosemu2/) - Run DOS programs under linux
 * [DREAMM](https://aarongiles.com/dreamm/) - Bespoke emulator for LucasArts games
 * [EmuBrowser](https://emubrowser.com/)
-* [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main\_Page)
+* [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
 * [Emulator Online](https://emulatoronline.com/)
 * [EmuOS](https://emupedia.net/beta/emuos/)
@@ -26,7 +26,7 @@
 * [PCem](https://pcem-emulator.co.uk/)
 * [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
-* [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended\_Emulators) - /v/'s Recommended Games Wiki
+* [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended_Emulators) - /v/'s Recommended Games Wiki
 * [RetroArch Web Player](https://web.libretro.com/)
 * [RetroDECK ](https://retrodeck.net/)([GitHub](https://github.com/XargonWan/RetroDECK))
 * [Rom Hustler](https://romhustler.org/)
@@ -54,6 +54,10 @@
 
 ## Consoles
 
+### Atari Jaguar
+
+* [BigPEmu](https://www.richwhitehouse.com/jaguar/) - Atari Jaguar Emulator
+
 ### Microsoft Xbox
 
 * [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
@@ -76,10 +80,11 @@
   * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
   * [Roms Nintendo 64 (EU)](https://archive.org/details/roms-nintendo-64-eu)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+* [Simple 64](https://simple64.github.io/) - Nintendo 64 Emulator
 
 ### Nintendo DS
 
-* [List of all DS homebrew](https://www.gamebrew.org/wiki/List\_of\_all\_DS\_homebrew)
+* [List of all DS homebrew](https://www.gamebrew.org/wiki/List_of_all_DS_homebrew)
 
 ### Nintendo Game Boy
 
@@ -90,7 +95,7 @@
 * Archive.org
   * [Nintendo GameCube Europe & Japan](https://archive.org/details/rr-nintendo-gamecube)
   * [Redump - Nintendo GameCube - Europe](https://archive.org/details/gamecubeeuroperedump)
-* [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main\_Page)
+* [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main_Page)
 * [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
@@ -103,8 +108,12 @@
 * [LetterBomb](https://please.hackmii.com/)
 * [ModMii for Windows](https://modmii.github.io/)
 * [Wii Guide](https://wii.guide/)
-* [WiiBrew](https://wiibrew.org/wiki/Main\_Page)
+* [WiiBrew](https://wiibrew.org/wiki/Main_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
+
+### Nintendo Wii U
+
+* [Cemu](https://cemu.info/) - Wii U Emulator
 
 ### Sega Dreamcast
 
@@ -144,8 +153,13 @@
 * [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
 * [Open PS2 Loader Compatibility List](http://sx.sytes.net/oplcl/games.aspx)
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
+* [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
+
+### Sony PlayStation 3
+
+* [RPCS3](https://rpcs3.net/) - The Open-source PlayStation 3 Emulator
 
 ### Sony PlayStation 4
 
@@ -154,6 +168,10 @@
 ### Sony PlayStation Portable
 
 * [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
+
+### Sony PlayStation Vita
+
+* [Vita3K](https://vita3k.org/) - PlayStation Vita Emulator
 
 ## Decompilations and Disassemblies
 
@@ -172,9 +190,9 @@
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
-* [Metal Gear Solid](https://github.com/FoxdieTeam/mgs\_reversing)
+* [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
-* [Perfect Dark](https://github.com/n64decomp/perfect\_dark)
+* [Perfect Dark](https://github.com/n64decomp/perfect_dark)
 * [Pikmin](https://github.com/projectPiki/pikmin)
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
 * [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
@@ -197,8 +215,8 @@
 ## Ports and Replacements
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
-* [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game\_engine\_recreations\_and\_source\_ports) - Emulation General Wiki
-* [List of game engine recreations](https://www.wikiwand.com/en/articles/List\_of\_game\_engine\_recreations) - Wikipedia
+* [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports) - Emulation General Wiki
+* [List of game engine recreations](https://www.wikiwand.com/en/articles/List_of_game_engine_recreations) - Wikipedia
 
 
 
@@ -223,7 +241,7 @@
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
 * [OpenTomb](https://opentomb.github.io/) ([GitHub](https://github.com/opentomb/opentomb)) - a Cross-Platform reimplementation of classic Tomb Raider 1—5 engines
 * [RBDoom-3-BFG ](https://github.com/RobertBeckebans/RBDOOM-3-BFG/)- modernization effort of DOOM-3-BFG
-* [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive\_reversing)) - Abe's Oddysee / Exoddus for modern platforms
+* [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive_reversing)) - Abe's Oddysee / Exoddus for modern platforms
 * [ReBandicoot ](https://github.com/2010kohtep/ReBandicoot)- Attempts to reverse engineer the Crash Bandicoot N. Sane Trilogy game
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 * [Severed Chains](https://legendofdragoon.org/projects/severed-chains/) ([GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)) - Legend of Dragoon decompiled, reverse engineered, and ported to Java
@@ -239,7 +257,7 @@
 
 ## Reddit Threads
 
-* [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i\_am\_making\_a\_list\_of\_source\_ports\_on\_android/)
+* [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i_am_making_a_list_of_source_ports_on_android/)
 
 ## YouTube Channels
 
@@ -259,13 +277,13 @@
   * [Homebrew on a $99 Nintendo New 2DSXL Handheld](https://www.youtube.com/watch?v=DfbJC6M20TY)
   * [Homebrew Wars : Original Xbox vs Nintendo Wii](https://www.youtube.com/watch?v=F0EZQsFulJs)
   * [How NESticle changed NES Emulation forever](https://www.youtube.com/watch?v=Yo54FZJkIMQ)
-  * [I played Gears of War 3 on the PlayStation PS3...](https://www.youtube.com/watch?v=5YQk0fl\_dSo)
+  * [I played Gears of War 3 on the PlayStation PS3...](https://www.youtube.com/watch?v=5YQk0fl_dSo)
   * [I wrote the Emulators and Homebrew YOU played on the Original Xbox - A Look Back!](https://www.youtube.com/watch?v=x7FmelyC70Y)
   * [Jailbreaking a PS3 Slim in 2024 - Preserve your entire PS3 collection.](https://www.youtube.com/watch?v=BkHBEpiF9FI)
   * [N64 recompilation is here - and its looking good!](https://www.youtube.com/watch?v=WK5VuOInqlg)
   * [Nintendo 64 emulation on the Nintendo Switch is not good...](https://www.youtube.com/watch?v=jSyBMSOfPxg)
   * [Nintendo 64 emulation on the Switch is FIXED](https://www.youtube.com/watch?v=L-fYXwxuFxQ)
-  * [Nintendo 64 emulation on the Switch is getting better...](https://www.youtube.com/watch?v=2\_QWd1u2vhQ)
+  * [Nintendo 64 emulation on the Switch is getting better...](https://www.youtube.com/watch?v=2_QWd1u2vhQ)
   * [Nintendo Switch Emulator Adds Online Network then Removes it](https://www.youtube.com/watch?v=qcwPIUBMB9U)
   * [Nintendo used to be GOOD at N64 Emulation..what happened?](https://www.youtube.com/watch?v=ounQZv1MFNA)
   * [Original Xbox Emulation on the PC - HUGE improvements are here](https://www.youtube.com/watch?v=MfnbmXgLkzU)
@@ -284,7 +302,7 @@
   * [The Original XBOX is still AWESOME in 2021](https://www.youtube.com/watch?v=lFpdJFr3vi0)
   * [The Nintendo GameCube is still awesome - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=up6Rm1Sw1ps)
   * [The Nintendo WiiU is awesome in 2018 - Homebrew, Hacks and More](https://www.youtube.com/watch?v=YyB9E2zEFBA)
-  * [The Nintendo Wii U is a homebrew beast. Here's why](https://www.youtube.com/watch?v=\_tbtH3mNNuY)
+  * [The Nintendo Wii U is a homebrew beast. Here's why](https://www.youtube.com/watch?v=_tbtH3mNNuY)
   * [The Xbox 360 is still awesome in 2019 - Games, Homebrew, Modding and More](https://www.youtube.com/watch?v=zFGz4aT1cgo)
   * [The Xbox Series S is STILL an Emulation Beast - New Updates!](https://www.youtube.com/watch?v=9AUtERZ6tXY)
   * [Turning a $10 Original Xbox into an awesome Emulation device](https://www.youtube.com/watch?v=oTpleBjELZg)
@@ -294,8 +312,8 @@
   * [Xbox 360 Emulation on the PC with Xenia takes a huge step forward](https://www.youtube.com/watch?v=xCuu-TMquhk)
   * [Xenia UWP has been ported...to the Xbox](https://www.youtube.com/watch?v=pSN81y9RyEk)
   * [Xenia Xbox 360 Emulation on Steam Deck is impressive](https://www.youtube.com/watch?v=qVDCPUczUiM)
-  * [XBSX2 PS2 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=85\_yRd492lQ)
-  * [You should hack your PS Vita...](https://www.youtube.com/watch?v=ar1\_BJIjQsQ)
+  * [XBSX2 PS2 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=85_yRd492lQ)
+  * [You should hack your PS Vita...](https://www.youtube.com/watch?v=ar1_BJIjQsQ)
 
 ## YouTube Videos
 
