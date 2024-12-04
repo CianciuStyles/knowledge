@@ -7,7 +7,7 @@
 * [24 days from node.js to Rust](https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup/) - Jarrod Overson
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Amos Wenger
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
-* [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust\_concepts\_i\_wish\_i\_learned\_earlier/))
+* [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))
 * [Rust for professionals](https://overexact.com/rust-for-professionals/) - overexact.com
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
 * [Writing a JVM in Rust ](https://andreabergia.com/series/writing-a-jvm-in-rust/)- Andrea Bergia
@@ -24,7 +24,7 @@
 ### Books
 
 * [100 Exercises To Learn Rust](https://rust-exercises.com/) - Luca Palmieri
-* [Easy Rust](https://fongyoong.github.io/easy\_rust/)
+* [Easy Rust](https://fongyoong.github.io/easy_rust/)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - David Drysdale
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
@@ -35,7 +35,12 @@
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/) - Steve Klabnik and Carol Nichols
   * [Rust Book Experiment](https://rust-book.cs.brown.edu/)
-* [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount\_code=VAT20) - Luca Palmieri
+* [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount_code=VAT20) - Luca Palmieri
+
+### Crates
+
+* [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching ([GitHub](https://github.com/LukeMathWalker/cargo-chef))
+* [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust
 
 ### Courses
 
@@ -84,8 +89,8 @@
 
 ### YouTube playlists
 
-* [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z\_jLr)
+* [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr)
 * Rust for Java Developers - Jeremy Chone
   * [Introduction](https://www.youtube.com/watch?v=iFdh4sPC5Tg)
-  * [Java 17 side by side](https://www.youtube.com/watch?v=\_xiPUXMZeyU)
+  * [Java 17 side by side](https://www.youtube.com/watch?v=_xiPUXMZeyU)
   * [Understanding Ownership](https://www.youtube.com/watch?v=Vg1LGHuAPP8)
