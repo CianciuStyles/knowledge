@@ -12,6 +12,7 @@
 * [How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) - Gergely Orosz
 * [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) - Miguel Grinberg
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
+* [LLM Knowledge Dump](https://dandavis.dev/llm-knowledge-dump.html) - Dan Davis
 * [LLM Visualization](https://bbycroft.net/llm) - Brendan Bycroft
 * [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) - Noah Smith
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
@@ -24,7 +25,7 @@
 
 ### Books
 
-* [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial\_Intelligence:\_A\_Modern\_Approach) - Stuart Russell, Peter Norvig
+* [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial_Intelligence:_A_Modern_Approach) - Stuart Russell, Peter Norvig
 * [GenAI Handbook ](https://genai-handbook.github.io/)- William Brown
 
 ### Courses
@@ -44,6 +45,7 @@
 * [Huge AI-Catalog](https://github.com/mehmetkahya0/AI-Catalog) - A curated list of AI tools, platforms, and resources across various domains
 * [Large Language Model Course](https://github.com/mlabonne/llm-course)
 * [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
+* [llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
 ### Images
 
@@ -57,7 +59,7 @@
 
 #### Coding
 
-* [Coding assistants](https://docs.google.com/spreadsheets/d/14dGUIKxu94Yhy\_ZlvQ2aMhK5w8U5YbZo08xYtCdh71w/edit?gid=2136260982#gid=2136260982)
+* [Coding assistants](https://docs.google.com/spreadsheets/d/14dGUIKxu94Yhy_ZlvQ2aMhK5w8U5YbZo08xYtCdh71w/edit?gid=2136260982#gid=2136260982)
 
 
 
