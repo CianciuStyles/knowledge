@@ -5,8 +5,8 @@
 * [CompTIA Security+ SY0-701 Practice Exams](https://www.youtube.com/playlist?list=PLI86c6XxJSLqzJd8lBCND4MZq22uZdFFt) - Matt's ITea
 * [CompTIA SY0-701 Security+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) - Professor Messer
 * [FREE Security Plus | CompTIA Security Plus SYO-701 FULL COURSE](https://www.youtube.com/playlist?list=PLHSJ0vCAgLfi7aTNbCSvvByfNar2EPGbZ) - Trepa Technologies
-* [Security+ SY0-701 Exam Cram Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq\_UDJgYoQGIW9viwM5hc4C7n) - 2024 Edition - Inside Cloud and Security
-* [Security+ SY0-701 Free Course](https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y\_nPrQBhS) - Cyberkraft
+* [Security+ SY0-701 Exam Cram Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n) - 2024 Edition - Inside Cloud and Security
+* [Security+ SY0-701 Free Course](https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y_nPrQBhS) - Cyberkraft
 
 ### Practice Exams
 
@@ -17,6 +17,7 @@
   * [Part 3](https://www.youtube.com/watch?v=B4fwwgKbnA4)
   * [Part 4](https://www.youtube.com/watch?v=kS0ZTEgJpzE)
 * [Security+ Certification SY0-701 50 Practice Questions](https://www.youtube.com/watch?v=yPqSLJG8Rt0) - Technical Institute of America
+* [Security+ Performance Based Questions](https://www.youtube.com/playlist?list=PLTWRAc3irpxFC85HVVfJVEaWp2_P1II9s) - CyberKraft
 
 ### Videos
 
