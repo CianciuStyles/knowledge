@@ -258,4 +258,5 @@
 
 ### YouTube Channels
 
+* [HyperNeutrino](https://www.youtube.com/@hyper-neutrino)
 * [TIna Huang](https://www.youtube.com/@TinaHuang1/videos)
