@@ -66,7 +66,8 @@
 ### Maps
 
 * [Budget Brews](https://budgetbrews.netlify.app/)
-* [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR\_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
+* [Busy Boozer](https://busyboozer.com/)
+* [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
 * [London pub quiz map](https://www.google.com/maps/d/u/0/viewer?mid=1ZdJNXQSj6ZlrqLNSFQO0wzI4kFelWfY\&ll=51.476955129155%2C-0.016030664151402974\&z=10)
 * [Pint Prices](https://www.pint-prices.com/)
 * [r/London Food](https://www.google.com/maps/d/u/0/viewer?mid=1hvE-Owf4cRfPxofAtK-vMKASCWZpj-k\&ll=51.536716756666415%2C-0.1571249449310308\&z=11)
@@ -74,7 +75,7 @@
 ### Movies
 
 * [British Film Institute](https://www.bfi.org.uk/)
-  * [BFI Mediatheque](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfi-mediatheque\&BOparam::WScontent::loadArticle::context\_id=)
+  * [BFI Mediatheque](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfi-mediatheque\&BOparam::WScontent::loadArticle::context_id=)
 * [Rooftop Film Club](https://rooftopfilmclub.com/london/)
 * [The Luna Cinema](https://www.thelunacinema.com/)
 * [The Nomad Cinema](https://www.whereisthenomad.com/)
@@ -82,7 +83,7 @@
 
 ### Museums
 
-* [How to navigate London's Museums and Galleries](https://assets.londonist.com/uploads/2015/02/museums3\_7.pdf)
+* [How to navigate London's Museums and Galleries](https://assets.londonist.com/uploads/2015/02/museums3_7.pdf)
 * [Natural History Museum](https://www.nhm.ac.uk/) - South Kensington
 * [Royal Air Force Museum](https://www.rafmuseum.org.uk/london/) - Colindale
 * [Science Museum](https://www.sciencemuseum.org.uk/) - South Kensington
@@ -100,35 +101,35 @@
 
 * [Argyll Arms](https://www.nicholsonspubs.co.uk/restaurants/london/theargyllarmsoxfordcircuslondon) - Oxford Circus
 * [Famous Three Kings](https://www.craft-pubs.co.uk/f3k-london) - West Kensington
-* [The Bohemia](https://twitter.com/Bohemia\_N12/with\_replies) - North Finchley
+* [The Bohemia](https://twitter.com/Bohemia_N12/with_replies) - North Finchley
 * [The Crown and Shuttle](https://www.crownandshuttle.com/) - Shoreditch
 * [The Lighterman](https://www.thelighterman.co.uk/) - King's Cross
 
 ### Reddit Threads
 
-* [Best Biryani in London?](https://www.reddit.com/r/london/comments/1bldm01/best\_biryani\_in\_london/)
-* [Cheap eats in central London](https://www.reddit.com/r/london/comments/1gnwqpb/cheap\_eats\_in\_central\_london/)
-* [Favourite London walks?](https://www.reddit.com/r/london/comments/1aixwhw/favourite\_london\_walks/)
-* [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun\_inexpensive\_things\_to\_do\_while\_living\_in/)
-* [Less know gems in London worth visiting](https://www.reddit.com/r/london/comments/1abi16y/less\_know\_gems\_in\_london\_worth\_visiting/)
+* [Best Biryani in London?](https://www.reddit.com/r/london/comments/1bldm01/best_biryani_in_london/)
+* [Cheap eats in central London](https://www.reddit.com/r/london/comments/1gnwqpb/cheap_eats_in_central_london/)
+* [Favourite London walks?](https://www.reddit.com/r/london/comments/1aixwhw/favourite_london_walks/)
+* [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun_inexpensive_things_to_do_while_living_in/)
+* [Less know gems in London worth visiting](https://www.reddit.com/r/london/comments/1abi16y/less_know_gems_in_london_worth_visiting/)
 * [Lesser-known London](https://www.reddit.com/r/london/wiki/secretlondon)
-* [London’s best second-hand/charity bookshops?](https://www.reddit.com/r/london/comments/1eltdlz/londons\_best\_secondhandcharity\_bookshops/)
-* [Londoners with babies, share your favourite hacks/hidden gems!](https://www.reddit.com/r/london/comments/1ej37s9/londoners\_with\_babies\_share\_your\_favourite/)
-* [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk\_born\_londoners\_whats\_the\_best\_restaurant\_of/)
-* [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places\_in\_london\_that\_you\_take\_your\_friends\_to)
-* [Pubs with cracking customer service](https://www.reddit.com/r/london/comments/1940fcq/pubs\_with\_cracking\_customer\_service/)
-* [Underrated Restaurants in London that aren't Too Expensive!](https://www.reddit.com/r/london/comments/skxwrp/underrated\_restaurants\_in\_london\_that\_arent\_too/)
-* [What are your favourite London cheap eats?](https://www.reddit.com/r/london/comments/185b1of/what\_are\_your\_favourite\_london\_cheap\_eats)
-* [What is that one underrated thing about London that we don’t appreciate enough?](https://www.reddit.com/r/london/comments/198tt6o/what\_is\_that\_one\_underrated\_thing\_about\_london/)
-* [What is the best curry in London?](https://www.reddit.com/r/london/comments/1bqjnzd/what\_is\_the\_best\_curry\_in\_london/)
-* [What is the most underrated sight or attraction in London?](https://www.reddit.com/r/london/comments/17k6ijn/what\_is\_the\_most\_underrated\_sight\_or\_attraction/)
-* [What restaurant do you know in London where you can get an insane amount of good quality food for a very reasonable price?](https://www.reddit.com/r/london/comments/ofhwz1/what\_restaurant\_do\_you\_know\_in\_london\_where\_you/)
-* [What third places exist in London?](https://www.reddit.com/r/london/comments/18xncrt/what\_third\_places\_exist\_in\_london/)
-* [What to do in a rainy day in London?](https://www.reddit.com/r/london/comments/105q51i/what\_to\_do\_in\_a\_rainy\_day\_in\_london/)
-* [What tourist attractions in London are NOT overrated?](https://www.reddit.com/r/london/comments/1cn05i9/inspired\_by\_the\_recent\_askreddit\_what\_tourist/)
-* [Where is your favourite place to visit in the UK?](https://www.reddit.com/r/AskUK/comments/1aml2tm/where\_is\_your\_favourite\_place\_to\_visit\_in\_the\_uk/)
-* [Which pub would you take a tourist for their first time in London?](https://www.reddit.com/r/london/comments/14qexum/which\_pub\_would\_you\_take\_a\_tourist\_to\_for\_their/)
-* [Which restaurant of that lesser known or more surprising nationality would you go to or recommend going to?](https://www.reddit.com/r/london/comments/17qy4qb/in\_london\_there\_are\_hundreds\_of\_restaurants\_of/)
+* [London’s best second-hand/charity bookshops?](https://www.reddit.com/r/london/comments/1eltdlz/londons_best_secondhandcharity_bookshops/)
+* [Londoners with babies, share your favourite hacks/hidden gems!](https://www.reddit.com/r/london/comments/1ej37s9/londoners_with_babies_share_your_favourite/)
+* [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk_born_londoners_whats_the_best_restaurant_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk_born_londoners_whats_the_best_restaurant_of/)
+* [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places_in_london_that_you_take_your_friends_to)
+* [Pubs with cracking customer service](https://www.reddit.com/r/london/comments/1940fcq/pubs_with_cracking_customer_service/)
+* [Underrated Restaurants in London that aren't Too Expensive!](https://www.reddit.com/r/london/comments/skxwrp/underrated_restaurants_in_london_that_arent_too/)
+* [What are your favourite London cheap eats?](https://www.reddit.com/r/london/comments/185b1of/what_are_your_favourite_london_cheap_eats)
+* [What is that one underrated thing about London that we don’t appreciate enough?](https://www.reddit.com/r/london/comments/198tt6o/what_is_that_one_underrated_thing_about_london/)
+* [What is the best curry in London?](https://www.reddit.com/r/london/comments/1bqjnzd/what_is_the_best_curry_in_london/)
+* [What is the most underrated sight or attraction in London?](https://www.reddit.com/r/london/comments/17k6ijn/what_is_the_most_underrated_sight_or_attraction/)
+* [What restaurant do you know in London where you can get an insane amount of good quality food for a very reasonable price?](https://www.reddit.com/r/london/comments/ofhwz1/what_restaurant_do_you_know_in_london_where_you/)
+* [What third places exist in London?](https://www.reddit.com/r/london/comments/18xncrt/what_third_places_exist_in_london/)
+* [What to do in a rainy day in London?](https://www.reddit.com/r/london/comments/105q51i/what_to_do_in_a_rainy_day_in_london/)
+* [What tourist attractions in London are NOT overrated?](https://www.reddit.com/r/london/comments/1cn05i9/inspired_by_the_recent_askreddit_what_tourist/)
+* [Where is your favourite place to visit in the UK?](https://www.reddit.com/r/AskUK/comments/1aml2tm/where_is_your_favourite_place_to_visit_in_the_uk/)
+* [Which pub would you take a tourist for their first time in London?](https://www.reddit.com/r/london/comments/14qexum/which_pub_would_you_take_a_tourist_to_for_their/)
+* [Which restaurant of that lesser known or more surprising nationality would you go to or recommend going to?](https://www.reddit.com/r/london/comments/17qy4qb/in_london_there_are_hundreds_of_restaurants_of/)
 
 ### Restaurants
 
@@ -153,7 +154,7 @@
 
 * [27 Places To See Stunning, Panoramic Views Of London](https://secretldn.com/best-places-for-panoramic-views-of-london/) - Secret London
 * [5 places to see incredible views of the London skyline](https://www.timeout.com/london/things-to-do/places-to-see-incredible-views-of-the-london-skyline-for-free) - TimeOut
-* [diamond geezer](https://diamondgeezer.blogspot.com/2015\_04\_01\_diamondgeezer\_archive.html)
+* [diamond geezer](https://diamondgeezer.blogspot.com/2015_04_01_diamondgeezer_archive.html)
 * [Fanzo](https://www.fanzo.com/en) - Live Sports on TV at your nearest sport bar
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
