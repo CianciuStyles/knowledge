@@ -28,6 +28,7 @@ description: https://reactjs.org/
 
 ### Websites
 
+* [React Scan](https://react-scan.com/) ([GitHub](https://github.com/aidenybai/react-scan))
 * [react.gg](https://react.gg/)
 * [useHooks.com](https://usehooks.com/)
 * [Vanilla JSX](https://vanillajsx.com/)
