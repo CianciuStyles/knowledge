@@ -24,6 +24,7 @@
 ### Books
 
 * [100 Exercises To Learn Rust](https://rust-exercises.com/) - Luca Palmieri
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 * [Easy Rust](https://fongyoong.github.io/easy_rust/)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - David Drysdale
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
