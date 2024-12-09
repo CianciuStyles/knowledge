@@ -23,6 +23,10 @@
 * [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) - Jay Alammar
 * [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work) - Stephen Wolfram
 
+### Blogs
+
+* [Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com/)
+
 ### Books
 
 * [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial_Intelligence:_A_Modern_Approach) - Stuart Russell, Peter Norvig
