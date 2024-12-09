@@ -27,6 +27,7 @@
 
 * [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial_Intelligence:_A_Modern_Approach) - Stuart Russell, Peter Norvig
 * [GenAI Handbook ](https://genai-handbook.github.io/)- William Brown
+* [The GenAI Guidebook](https://ravinkumar.com/GenAiGuidebook/book_intro.html) - Ravin Kumar
 
 ### Courses
 
