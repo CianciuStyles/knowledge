@@ -79,6 +79,7 @@
 * Archive.org
   * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
   * [Roms Nintendo 64 (EU)](https://archive.org/details/roms-nintendo-64-eu)
+* [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) - The Legend of Zelda Majora's Mask PC port
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 * [Simple 64](https://simple64.github.io/) - Nintendo 64 Emulator
 
@@ -176,6 +177,8 @@
 ## Decompilations and Disassemblies
 
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
+* [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
+* [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
 
