@@ -42,7 +42,9 @@
 
 ### Tools
 
+* [010 Editor](https://www.sweetscape.com/010editor/)
 * [angr](https://angr.io/)
+* [Binary Ninja](https://binary.ninja/)
 * [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
 * [Cutter](https://cutter.re/)
 * [Dependency Walker](https://www.dependencywalker.com/)
