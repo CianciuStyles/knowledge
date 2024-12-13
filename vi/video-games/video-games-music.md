@@ -75,6 +75,8 @@
   * [Tetris - Theme 'A'](https://www.youtube.com/watch?v=PV06M-Gqxgg)
   * [Tetris - Theme 'B'](https://www.youtube.com/watch?v=uFj60cLeGJI)
   * [UNDERTALE - Hopes and Dreams](https://www.youtube.com/watch?v=mTzzet5RQG4)
+* [TetriminoVGBand](https://www.youtube.com/@TetriminoVGBand)
+  * [Super Hang-On - Outride A Crisis](https://www.youtube.com/watch?v=xvFmiYjKtIo)
 * [The 8-Bit Big Band](https://www.youtube.com/@The8BitBigBand)
   * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=Trp99eHyDyY)
 
