@@ -4,16 +4,20 @@
 
 * [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - Daniel Hooper
 
+### Books
+
+* [Computer Architecture: A Quantitative Approach](https://dl.acm.org/doi/epdf/10.5555/1999263) - John L. Hennessy, David A. Patterson
+
 ### Courses
 
 * [Computer Science Academy](https://academy.cs.cmu.edu) - Carnegie Mellon University
-* [Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/\~15251/) - Carnegie Mellon University ([HN](https://news.ycombinator.com/item?id=15146905))
+* [Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/~15251/) - Carnegie Mellon University ([HN](https://news.ycombinator.com/item?id=15146905))
 * [Program and Data Representation](https://aaronbloomfield.github.io/pdr/readme.html) - Mark Floryan, Rich Nguyen, Aaron Bloomfield
 
 ### GitHub Repositories
 
 * [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities)
-* [Computer Science and Engineering Roadmap and Checklist](https://github.com/apeman/awesome\_computer\_science)
+* [Computer Science and Engineering Roadmap and Checklist](https://github.com/apeman/awesome_computer_science)
 * [Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
