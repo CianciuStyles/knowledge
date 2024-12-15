@@ -59,7 +59,7 @@
 * [Codility](https://app.codility.com/programmers/lessons)
 * [comp.lol](https://comp.lol/) - Practice coding interviews with AI
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)
-  * [Solutions](https://github.com/r1cc4rdo/daily\_coding\_problem)
+  * [Solutions](https://github.com/r1cc4rdo/daily_coding_problem)
 * [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) ([GitHub](https://github.com/yangshun/front-end-interview-handbook))
 * [HackerEarth](https://www.hackerearth.com/)
 * [LeetCode](https://leetcode.com/)
@@ -68,7 +68,8 @@
   * [Lanki ](https://www.lanki.xyz/)- Spaced Repetition for Leetcode
   * [LeetCode Explore](https://leetcode.com/)
   * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
-  * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new\_grokking\_to\_leetcode/) ([GitHub](https://github.com/navidre/new\_grokking\_to\_leetcode))
+  * [LeetCode Wizard](https://leetcodewizard.io/)
+  * [Mapping the new Grokking Coding Interview Patterns course to LeetCode](https://navidre.github.io/new_grokking_to_leetcode/) ([GitHub](https://github.com/navidre/new_grokking_to_leetcode))
   * [Marble](https://withmarble.io/) - Leetcode tutor ([Chrome extension](https://chromewebstore.google.com/detail/marble-leetcode-tutor/mpjcipoidkmiiebdbdfknmpncmnpoboe))
 * [NeetCode](https://neetcode.io/)
   * [NeetCode Algorithms Roadmap](https://neetcode.io/roadmap)
