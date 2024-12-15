@@ -29,6 +29,14 @@
 ### Hacker News threads
 
 * [Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
+* [Those making $500+/month on side projects in 2017 – Show and tell](https://news.ycombinator.com/item?id=15148804)
+* [Those making $500+/month on side projects in 2018 – Show and tell](https://news.ycombinator.com/item?id=17790306)
+* [Those making $500/month on side projects in 2019 – Show and tell](https://news.ycombinator.com/item?id=20899863)
+* [Those making $500/month on side projects in 2020 – Show and tell](https://news.ycombinator.com/item?id=24947167)
+* [Those making $500/month on side projects in 2021 – Show and tell](https://news.ycombinator.com/item?id=29667095)
+* [Those making $500/month on side projects in 2022 – Show and tell](https://news.ycombinator.com/item?id=34190421)
+* [Those making $500/month on side projects in 2023 – Show and tell](https://news.ycombinator.com/item?id=38467691)
+* [Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
 * [What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)
 
 ### Legal Documents
