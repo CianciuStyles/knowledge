@@ -31,7 +31,7 @@ description: https://www.djangoproject.com/
 
 ### Videos
 
-* [An Arabish lesson: Introducing Django to the foreign world](https://www.youtube.com/watch?v=F78CW\_Lb06o) - Bashar Al-Abdulhadi
+* [An Arabish lesson: Introducing Django to the foreign world](https://www.youtube.com/watch?v=F78CW_Lb06o) - Bashar Al-Abdulhadi
 * [Best Practices for Scaling Django](https://www.elastic.co/videos/best-practices-for-scaling-django-by-anton-pirker) - Anton Pirker
 * [Cache me if you can: memcached, caching patterns and best practices](https://www.youtube.com/watch?v=R8Xmeynf1T4) - Guillaume Ardaud
 * [Django's architecture - the good, the bad, and the ugly](https://www.youtube.com/watch?v=7KTVws3TiC0) - Andrew Godwin
@@ -42,3 +42,4 @@ description: https://www.djangoproject.com/
 * [Django Class-Based Views](https://ccbv.co.uk/)
 * [Django Ninja](https://django-ninja.dev/) - Fast Django REST Framework
 * [The State of Django 2024](https://blog.jetbrains.com/pycharm/2024/06/the-state-of-django/) - JetBrains
+* [Wagtail CMS](https://wagtail.org/) - Django Content Management System
