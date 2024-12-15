@@ -10,7 +10,7 @@
 * [Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) - Daniel Kleinstein
 * [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - Alicia Sykes
 * [Entering text in the terminal is complicated ](https://jvns.ca/blog/2024/07/08/readline/)- Julia Evans
-* [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection\_tutorial)
+* [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * [What happens when you open a terminal and enter ‘ls’](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls) - Suraj Gupta, Andy Carlson
 
 ### Books
@@ -34,6 +34,7 @@
 * [autojump](https://github.com/wting/autojump)
 * [bat](https://github.com/sharkdp/bat)
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
+* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ### Websites
 
