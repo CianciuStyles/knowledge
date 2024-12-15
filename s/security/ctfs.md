@@ -78,7 +78,7 @@
   * [CrackerJack](https://github.com/ctxis/crackerjack) - Web GUI
   * [GovCracker](https://github.com/Are-s-h/GovCracker)
   * [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - cross-platform app that runs and controls hashcat
-  * [hate\_crack](https://github.com/trustedsec/hate\_crack)
+  * [hate\_crack](https://github.com/trustedsec/hate_crack)
 * [John the Ripper](https://www.openwall.com/john/)
   * [Johnny](https://github.com/openwall/johnny) - GUI frontend
 * [Ophcrack ](https://ophcrack.sourceforge.io/)- Windows password cracker
@@ -92,6 +92,7 @@
 
 * [BARF ](https://github.com/programa-stic/barf-project)- Binary Analysis and Reverse engineering Framework
 * [Boomerang ](https://github.com/BoomerangDecompiler/boomerang)- x86 to C decompiler
+* [FLARE Obfuscated String Solver](https://github.com/mandiant/flare-floss) - extract and deobfuscate all strings from malware binaries
 * [GDB](https://www.sourceware.org/gdb/) - GNU Debugger
   * [GEF](https://github.com/hugsy/gef) - GDB Enhanced Features
   * [pwndbg](https://github.com/pwndbg/pwndbg)
@@ -112,7 +113,7 @@
 * [dCode.xyz](https://www.dcode.fr/en)
 * [factordb](http://factordb.com/)
 * [Hash Decrypter](https://hashes.com/en/decrypt/hash)
-* [Hash Type Identifier](https://hashes.com/en/tools/hash\_identifier)
+* [Hash Type Identifier](https://hashes.com/en/tools/hash_identifier)
 * [hashes.link](https://hashes.link/)
 * [MD5Hashing.net](https://md5hashing.net/) - Hash, hashing and encryption toolkit
 * [quipquip](https://www.quipqiup.com/)
