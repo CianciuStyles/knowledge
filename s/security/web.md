@@ -39,6 +39,7 @@
   * [URLhaus ](https://urlhaus.abuse.ch/)- Malware URL exchange
   * [YARAify ](https://yaraify.abuse.ch/)- YARA scan engine
 * [bWAPP ](http://www.itsecgames.com/index.htm)- a buggy web application
+* [Censys Search](https://search.censys.io/) - search engine for Internet hosts
 * [Cisco Talos Intelligence](https://talosintelligence.com/) - comprehensive threat intelligence
 * [flAWS](http://flaws.cloud/)
 * [Hacking-Lab](https://www.hacking-lab.com/)
@@ -51,6 +52,7 @@
   * [WebGoat](https://owasp.org/www-project-webgoat/)
 * [PentesterLab](https://pentesterlab.com/)
 * [PhishTool](https://www.phishtool.com/)
+* [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [urlscan.io](https://urlscan.io/) - URL and website scanner
 * [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)

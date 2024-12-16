@@ -234,7 +234,6 @@
 * [SANS](https://www.sans.org/uk_en/) - UK Cybersecurity Courses & Training
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
-* [Shodan](https://www.shodan.io/) - The search engine for Internet of Things
 * [SmashThe Stack Wargaming Network](http://www.smashthestack.org/)
 * [The Art of Hacking](https://theartofhacking.org/) - Omar Santos
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
