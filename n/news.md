@@ -66,3 +66,4 @@
 * [Stratechery](https://stratechery.com/) - Ben Thompson
 * [The Brutalist Report](https://brutalist.report/)
 * [The Hacker News](https://thehackernews.com/)
+* [Two Stop Bits](https://twostopbits.com/)
