@@ -14,6 +14,7 @@
 
 ### Books
 
+* [Coding Interview Patterns: Nail Your Next Coding Interview](https://www.amazon.co.uk/Coding-Interview-Patterns-Nail-Your/dp/1736049135) - Alex Xu, Shaun Gunawardane
 * [Cracking the Coding Interview](https://www.amazon.co.uk/dp/0984782850) - Gayla Laakmann McDowell
 * [Elements of Programming Interviews in Python](https://www.amazon.co.uk/dp/1537713949) - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 * [Programming Interviews Exposed](https://www.amazon.co.uk/dp/111941847X) - John Mongan, Noah Suojanen Kindler, Eric Giguère
