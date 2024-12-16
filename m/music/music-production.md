@@ -1,5 +1,9 @@
 # Music Production
 
+### Books
+
+* [The Theory and Technique of Electronic Music](https://msp.ucsd.edu/techniques/latest/book.pdf) - Miller Puckette
+
 ### Software
 
 * [Cardinal](https://cardinal.kx.studio/)
