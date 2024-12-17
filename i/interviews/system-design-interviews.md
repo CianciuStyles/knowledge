@@ -10,12 +10,16 @@
 
 * [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview) - interviewing.io
 * [Algorithms you should know before you take system designs interview](https://blog.bytebytego.com/p/algorithms-you-should-know-before) - Alex Xu
-* [An Engineering Leader’s System Design Interview Template](https://docs.google.com/document/d/1ckl5roGhYkZAEBfaJHZT\_-80upmhfzBZWAGmXvPJd3U/edit#heading=h.xg3o3psx1mah) - Kevin Conroy
+* [An Engineering Leader’s System Design Interview Template](https://docs.google.com/document/d/1ckl5roGhYkZAEBfaJHZT_-80upmhfzBZWAGmXvPJd3U/edit#heading=h.xg3o3psx1mah) - Kevin Conroy
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign.one
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 * [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
 * [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/) - SystemDesign.one
+
+### Blogs
+
+* [System Design In Practice](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
 
 ### Books
 
@@ -49,7 +53,7 @@
 
 ### Reddit Threads
 
-* [How I approach Systems Design Interviews](https://www.reddit.com/r/ExperiencedDevs/comments/s5sw1h/how\_i\_approach\_systems\_design\_interviews/)
+* [How I approach Systems Design Interviews](https://www.reddit.com/r/ExperiencedDevs/comments/s5sw1h/how_i_approach_systems_design_interviews/)
 
 ### Videos
 
@@ -62,12 +66,12 @@
 
 * [High Scalability](http://highscalability.com/)
 * [System Design](https://systemdesign.one/)
-* [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5\_LUeFj65lI/edit)
+* [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit)
 
 ### YouTube channels
 
 * [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
-* [System Design Fight Club](https://www.youtube.com/channel/UC5\_QAB65IbajYkL6hzoY-gg/videos)
+* [System Design Fight Club](https://www.youtube.com/channel/UC5_QAB65IbajYkL6hzoY-gg/videos)
 * [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
 
 ### YouTube playlists
