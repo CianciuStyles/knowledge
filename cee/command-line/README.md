@@ -34,6 +34,7 @@
 * [autojump](https://github.com/wting/autojump)
 * [bat](https://github.com/sharkdp/bat)
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
+* [gron](https://github.com/tomnomnom/gron/) - Make JSON greppable!
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ### Websites
