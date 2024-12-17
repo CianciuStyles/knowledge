@@ -7,6 +7,9 @@
 * [800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island) - Alberto Marnetto
 * [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall
 * [Exploring Tokimeki Memorial](https://tetracorp.github.io/tokimeki-memorial/) - Tetracorp
+* Fixing the Loading in Myst IV: Revelation - Anthony Kleine ([HN thread](https://news.ycombinator.com/item?id=42372565))
+  * [Part 1](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
+  * [Part 2](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-part-2-2882cf5f50a5)
 * [Hacking AirPlay into Sonos](https://medium.com/@stephencwan/hacking-airplay-into-sonos-93a41a1fcfbb) - Stephen Wan
 * Hacking Super Monkey Ball - Andrew Eikum
   * [Part 1 – Banana Bunch Values](https://www.smokingonabike.com/2021/01/17/hacking-super-monkey-ball-part-1-banana-bunch-values/)
