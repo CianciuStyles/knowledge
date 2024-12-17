@@ -46,6 +46,7 @@ description: https://git-scm.com/
 * [Better Git Conflicts with zdiff3](https://ductile.systems/zdiff3/) - Michael Gattozzi
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) - Derrick Stolee
 * [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) - Julia Evans
+* [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html) - Dmitry Mazin
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/) - Roger Dudler
 * [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/) - Julia Evans
 * Git's database internals - Derrick Stolee
@@ -86,7 +87,7 @@ description: https://git-scm.com/
 ### Videos
 
 * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) - Michael Schwern
-* [So You Think You Know Git](https://www.youtube.com/watch?v=aolI\_Rz0ZqY) - Scott Chacon
+* [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY) - Scott Chacon
 * [So You Think You Know Git Part 2 ](https://www.youtube.com/watch?v=Md44rcw13k4)- Scott Chacon
 
 ### Websites
