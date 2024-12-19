@@ -1,8 +1,15 @@
 # eCommerce
 
-### Marketplaces
+### Food & Beverages
 
 * [Affetto Italiano](https://www.affettoitaliano.co.uk/) - Italian Food Shopping Online
+* [Collider](https://www.drinkcollider.com/) - Mood-Boosting Beer, Without The Alcoho
+* [DryDrinker](https://drydrinker.com/) - The UK's #1 Low Alcohol & Non-Alcoholic Drink Specialist
+* [MuscleFood](https://www.musclefood.com/) - Premium Lean Meats
+* [NifeIsLife](https://www.nifeislife.com/) - Italian Food Home Delivery
+
+### Marketplaces
+
 * [AliExpress](https://www.aliexpress.com/)
 * [Amazon UK](https://smile.amazon.co.uk/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
@@ -31,8 +38,6 @@
 * [John Pye Auctions](https://www.johnpye.co.uk/)
 * [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
-* [MuscleFood](https://www.musclefood.com/) - Premium Lean Meats
-* [NifeIsLife](https://www.nifeislife.com/) - Italian Food Home Delivery
 * [OnBuy](https://www.onbuy.com/gb/)
 * [SCAN UK](https://www.scan.co.uk/) - PC Components and online computer shop
 * [ShopBySub.com](https://www.shopbysub.com/)
