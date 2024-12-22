@@ -58,9 +58,20 @@
 
 <figure><img src="https://substack-post-media.s3.amazonaws.com/public/images/f1e626dc-019b-4015-a45c-75facbc14d82_1280x1664.gif" alt=""><figcaption></figcaption></figure>
 
+### Interview Processes
+
+* [Amazon](https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon)
+  * [SDE II Inteview Prep](https://amazon.jobs/content/en/how-we-hire/sde-ii-interview-prep)
+  * [SDE III Interview Prep](https://amazon.jobs/content/en/how-we-hire/sde-iii-interview-prep)
+* [Apple](https://www.apple.com/careers/us/interview_tips.html)
+* [Google](https://www.google.com/about/careers/applications/interview-tips/)
+* [Meta](https://www.metacareers.com/swe-prep-onsite/)
+* [Spotify](https://www.lifeatspotify.com/how-we-hire/interview)
+* [Uber](https://www.uber.com/us/en/careers/interviewing/)
+
 ### Videos
 
-* [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw\_m5zNCs) - Gergely Orosz, Pragmatic Engineer
+* [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs) - Gergely Orosz, Pragmatic Engineer
 * [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0) - Moishe Lettvin
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/talks/what-i-learned-doing-250-interviews-at-google/)
 
