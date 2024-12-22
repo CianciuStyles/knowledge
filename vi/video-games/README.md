@@ -6,6 +6,7 @@
 
 ### Achievements
 
+* [Exophase](https://www.exophase.com/) - Track all your gaming achievements
 * [List of PlayStation 3 games without Trophy support](https://playstation.fandom.com/wiki/List_of_PlayStation_3_games_without_Trophy_support) - PlayStation Wiki
 * [PSNProfiles](https://psnprofiles.com/)
 * [RetroAchievements](https://retroachievements.org/)
@@ -142,6 +143,13 @@
 ### Forums
 
 * [GamesVillage](https://www.gamesvillage.it/forum/forum.php)
+
+### Game Trackers
+
+* [Backloggd](https://backloggd.com/) - A Video Game Collection Tracker
+* [Backloggery](https://www.backloggery.com/) - You Have The Games. Play Them.
+* [GG](https://ggapp.io/) - Video Game Collection Tracker
+* [Grouvee](https://www.grouvee.com/) - Track your game collection and backlog
 
 ### Hacker News threads
 
