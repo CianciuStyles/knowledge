@@ -94,6 +94,10 @@
 * Have a "start again" meditation
 * Do less than you think you can handle - you can always add more later
 
+<figure><img src="../.gitbook/assets/10 Habits That Greatly Improved My Life.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/20 Lessons From Atomic Habits.jpg" alt=""><figcaption></figcaption></figure>
+
 ![](https://i.pinimg.com/originals/e2/b7/3d/e2b73d33dce6fed8edb5a67d1e302fa3.jpg)
 
 ## Resources
@@ -123,12 +127,12 @@
 
 ### Reddit Threads
 
-* [Atomic habit that changed your life?](https://old.reddit.com/r/selfimprovement/comments/1avm4nq/atomic\_habit\_that\_changed\_your\_life/)
-* [High-yield 2-minute habits?](https://www.reddit.com/r/productivity/comments/14z31a3/highyield\_2minute\_habits/)
+* [Atomic habit that changed your life?](https://old.reddit.com/r/selfimprovement/comments/1avm4nq/atomic_habit_that_changed_your_life/)
+* [High-yield 2-minute habits?](https://www.reddit.com/r/productivity/comments/14z31a3/highyield_2minute_habits/)
 
 ### Spreadsheets
 
-* [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ\_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91\_7A/edit#gid=0) - James Clear
+* [30 Days to Better Habits](https://docs.google.com/spreadsheets/d/14oKKZ_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91_7A/edit#gid=0) - James Clear
 
 ### Webinars
 
@@ -140,10 +144,10 @@
 
 ### YouTube videos
 
-* [Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d\_29QWELk) - Kurzgesagt
+* [Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d_29QWELk) - Kurzgesagt
 * [How to break habits](https://www.youtube.com/watch?v=W1eYrhGeffc) - Charles Duhigg
-* [How to Get Back on Track After Slipping Up (Habits, Diet, etc.)](https://www.youtube.com/watch?v=dmgl\_bT9\_vc) - Tim Ferriss
+* [How to Get Back on Track After Slipping Up (Habits, Diet, etc.)](https://www.youtube.com/watch?v=dmgl_bT9_vc) - Tim Ferriss
 * [I Tried Andrew Huberman's Daily Routine for 30 Days : Maximizing Productivity and Testosterone Level ](https://www.youtube.com/watch?v=hNOvHlfVdnQ)- Sacha Bourlon
 * [The Habit Tier List - 32 Habits (Which one should you build next?)](https://www.youtube.com/watch?v=GriR73kSvPY) - Improvement Pill
-* [The Optimal Morning Routine](https://www.youtube.com/watch?v=gR\_f-iwUGY4) - Andrew Huberman, After Skool
+* [The Optimal Morning Routine](https://www.youtube.com/watch?v=gR_f-iwUGY4) - Andrew Huberman, After Skool
 
