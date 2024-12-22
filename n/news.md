@@ -63,6 +63,7 @@
 * [Reddit](https://www.reddit.com/)
   * [Awesome Reddit subreddits](https://github.com/learn-anything/reddit)
   * [sub.rehab](https://sub.rehab/)
+* [Rest Of World](https://restofworld.org/) - Reporting Global Tech Stories
 * [Stratechery](https://stratechery.com/) - Ben Thompson
 * [The Brutalist Report](https://brutalist.report/)
 * [The Hacker News](https://thehackernews.com/)
