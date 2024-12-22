@@ -234,7 +234,7 @@
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fde55ff-5a6b-4dde-bacc-d5bd18436e4b_1280x1709.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/The Fantastic Four of System Design.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/The Fantastic Four of System Design (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Videos
 
