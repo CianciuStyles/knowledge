@@ -99,6 +99,10 @@
 
 ### Pubs
 
+* [Everywhere you can get a pint for £6 or less in central London](https://www.timeout.com/london/news/everywhere-you-can-get-a-pint-for-6-or-less-in-central-london-122024) - Chiara Wilkinson, TimeOut
+
+
+
 * [Argyll Arms](https://www.nicholsonspubs.co.uk/restaurants/london/theargyllarmsoxfordcircuslondon) - Oxford Circus
 * [Famous Three Kings](https://www.craft-pubs.co.uk/f3k-london) - West Kensington
 * [The Bohemia](https://twitter.com/Bohemia_N12/with_replies) - North Finchley
