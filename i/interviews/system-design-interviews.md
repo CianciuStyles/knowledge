@@ -2,6 +2,8 @@
 
 ## Resources
 
+<figure><img src="../../.gitbook/assets/Ace System Design Interviews Like A Boss.gif" alt=""><figcaption></figcaption></figure>
+
 ![](<../../.gitbook/assets/immagine (5).png>)
 
 <figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25d7ba1c-b55d-4307-baee-03f05c376f4b_3888x4096.jpeg" alt=""><figcaption></figcaption></figure>
