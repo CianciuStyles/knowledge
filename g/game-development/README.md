@@ -9,7 +9,7 @@
 * [Graphic Courses](https://imsky.co/links/graphics-courses)
 * [I want to be a game developer… now what?](https://gamefromscratch.com/i-want-to-be-a-game-developer-now-what/)
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) - Gustavo Pezzi, Pikuma
-* [List of commercial video games with available source code](https://www.wikiwand.com/en/List\_of\_commercial\_video\_games\_with\_available\_source\_code)
+* [List of commercial video games with available source code](https://www.wikiwand.com/en/List_of_commercial_video_games_with_available_source_code)
 * [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/) - Miłosz Smółka
 * [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/) - Grant Handy
 
@@ -32,8 +32,8 @@
 
 * [Computer Game Engineering](https://research.ncl.ac.uk/game/mastersdegree/) - Newcastle University
 * Intro to Game Programming - Dave Churchill, Memorial University
-  * [Fall 2022](https://www.youtube.com/watch?v=S7lXSihz0ac\&list=PL\_xRyXins848nDj2v-TJYahzvs-XW9sVV\&pp=iAQB)
-  * [Fall 2023](https://www.youtube.com/watch?v=s99UDGdYIUE\&list=PL\_xRyXins84\_Jf-aCh7chj47HR4oZLPwK\&pp=iAQB)
+  * [Fall 2022](https://www.youtube.com/watch?v=S7lXSihz0ac\&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV\&pp=iAQB)
+  * [Fall 2023](https://www.youtube.com/watch?v=s99UDGdYIUE\&list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK\&pp=iAQB)
 * [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) - David J. Malan, Colton Odgen
 
 ### Game Engines
@@ -80,12 +80,16 @@
 
 * [9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/A Study Path For Game Programmer.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Reddit Threads
 
-* [Tips and Lessons learned from 7500+ hours of solo game development. PART 1: Prototyping](https://www.reddit.com/r/gamedev/comments/426148/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
-* [Tips and Lessons learned from 7500+ hours of solo game development. PART 2: Planning and Execution](https://www.reddit.com/r/gamedev/comments/42fvfn/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
-* [Tips and Lessons learned from 7500+ hours of solo game development. PART 3: Staying Motivated](https://www.reddit.com/r/gamedev/comments/42rkkt/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
-* [Tips and Lessons learned from 7500+ hours of solo game development. PART 4: Productivity](https://www.reddit.com/r/gamedev/comments/433hqc/tips\_and\_lessons\_learned\_from\_7500\_hours\_of\_solo/)
+* [Tips and Lessons learned from 7500+ hours of solo game development. PART 1: Prototyping](https://www.reddit.com/r/gamedev/comments/426148/tips_and_lessons_learned_from_7500_hours_of_solo/)
+* [Tips and Lessons learned from 7500+ hours of solo game development. PART 2: Planning and Execution](https://www.reddit.com/r/gamedev/comments/42fvfn/tips_and_lessons_learned_from_7500_hours_of_solo/)
+* [Tips and Lessons learned from 7500+ hours of solo game development. PART 3: Staying Motivated](https://www.reddit.com/r/gamedev/comments/42rkkt/tips_and_lessons_learned_from_7500_hours_of_solo/)
+* [Tips and Lessons learned from 7500+ hours of solo game development. PART 4: Productivity](https://www.reddit.com/r/gamedev/comments/433hqc/tips_and_lessons_learned_from_7500_hours_of_solo/)
 
 ### Tools
 
@@ -113,9 +117,9 @@
   * [Voxatron](https://www.lexaloffle.com/voxatron.php)
 * [libdragon ](https://libdragon.dev/)- Open source library for N64 development
 * [MakeCode Arcade](https://arcade.makecode.com/) - Microsoft
-* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1\_llmeiAdZMo\_ZanIvg)
+* [Making Games with Ben](https://www.youtube.com/channel/UCL5m1_llmeiAdZMo_ZanIvg)
 * [Nerdy Teachers](https://nerdyteachers.com/)
-  * [PICO-8 Bitesize Games](https://nerdyteachers.com/PICO-8/Bitesize\_Games/)
+  * [PICO-8 Bitesize Games](https://nerdyteachers.com/PICO-8/Bitesize_Games/)
 * [NESFab](https://pubby.games/nesfab.html)
 * [Pikuma](https://pikuma.com/) - Gustavo Pezzi
 * [RasterTek](https://www.rastertek.com/tutindex.html)
