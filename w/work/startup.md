@@ -75,3 +75,7 @@
 * [Top Companies](https://www.ycombinator.com/topcompanies) - Y Combinator
 * [Venture University](https://www.venture.university/)
 * [YC Library](https://www.ycombinator.com/library)
+
+### YouTube Videos
+
+* [Everything I Learned at Stanford Business School in 28 Minutes](https://www.youtube.com/watch?v=vIkRbAvaQjs) - jayhoovy
