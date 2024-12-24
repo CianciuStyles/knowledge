@@ -6,8 +6,8 @@
 
 * [Bloom Filters](https://samwho.dev/bloom-filters/) - Sam Rose
 * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) - Austin Z. Henley
-  * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging\_algorithms\_and\_data\_structures\_every/)
-* [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/?utm\_source=blog.quastor.org\&utm\_medium=referral\&utm\_campaign=how-shopify-scaled-their-black-friday-live-dashboard) - demofox
+  * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging_algorithms_and_data_structures_every/)
+* [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/?utm_source=blog.quastor.org\&utm_medium=referral\&utm_campaign=how-shopify-scaled-their-black-friday-live-dashboard) - demofox
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Mike Bostocks
 
 ### Books
@@ -17,8 +17,9 @@
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms](https://smile.amazon.co.uk/Algorithms-Robert-Sedgewick/dp/032157351X/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms + Data Structures = Programs](https://www.cl72.org/110dataAlgo/Algorithms%20%20%20Data%20Structures%20=%20Programs%20\[Wirth%201976-02].pdf) - Niklaus Wirth
+* [Clever Algorithms: Nature-Inspired Programming Recipes](https://cleveralgorithms.com/nature-inspired/) - Jason Brownlee
 * [Introduction to Algorithms](https://smile.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein
-* [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0\_Computer%20Science/2\_Algorithms/Introduction%20to%20Algorithms\_%20A%20Creative%20Approach%20\[Manber%201989-01-11].pdf) - Udi Manber
+* [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20\[Manber%201989-01-11].pdf) - Udi Manber
 * [The Algorithm Design Manual](https://smile.amazon.co.uk/Algorithm-Design-Manual-Computer-Science/dp/3030542580/) - Steven Skiena
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
@@ -54,7 +55,7 @@
 
 ### Videos
 
-* [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u\_k2LIZyo)
+* [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 * [The Algorithm That Transformed The World (Fast Fourier Transform)](https://www.youtube.com/watch?v=nmgFG7PUHfo) - Veritasium
 
 ### Websites
@@ -63,7 +64,7 @@
 * [Algorithmica](https://en.algorithmica.org/) - Sergey Slotin
 * [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Chris Laux](https://www.chrislaux.com/)
-* [Data Structure Visualisation](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
+* [Data Structure Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles, University of San Francisco
 * [IDEA](https://idea-instructions.com/) - nonverbal algorithm assembly instructions
 * [Open Data Structures](https://opendatastructures.org/)
 * [The Algorithm](https://the-algorithms.com/)
