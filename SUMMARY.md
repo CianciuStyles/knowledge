@@ -96,6 +96,7 @@
 * [Fitness](f/fitness/README.md)
   * [Exercise](f/fitness/exercise.md)
   * [Nutrition](f/fitness/nutrition.md)
+  * [Weight Loss](f/fitness/weight-loss.md)
 * [Focus](f/focus.md)
 * [Football](f/football.md)
 
