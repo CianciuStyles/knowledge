@@ -17,6 +17,7 @@
   * [Part II: Think Big, Act Small](https://www.artofmanliness.com/career-wealth/career/the-company-mans-guide-to-starting-a-side-hustle-part-ii-think-big-act-small/)
 * [When To Do What You Love](https://paulgraham.com/when.html) - Paul Graham
 * [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/) - Michael Lynch
+* [Y Combinator Application Guide](https://getfluently.notion.site/Y-Combinator-Application-Guide-1286a9ce04d98004b4dac50cf66fb883) - Yurii Rebryk
 
 ### Blogs
 
