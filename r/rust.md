@@ -43,6 +43,7 @@
 ### Crates
 
 * [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching ([GitHub](https://github.com/LukeMathWalker/cargo-chef))
+* [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust ([GitHub](https://github.com/rayon-rs/rayon))
 * [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust
 
 ### Courses
