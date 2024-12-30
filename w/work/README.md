@@ -9,7 +9,7 @@
 * [10 questions to ask in a job interview that will really expose a company’s culture](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture) - Karen Eber
 * [15 Things Every Man Should Have in His Desk](https://www.artofmanliness.com/career-wealth/career/15-things-every-man-should-have-in-his-desk/) - The Art of Manliness
 * [A Technology Leader's Non-Technical Reading List](https://staysaasy.com/leadership/2024/03/04/Leadership-Reading-List.html) - Stay SaaSy
-* [An Engineering Leader's Job Search Algorithm](https://docs.google.com/document/d/19fr\_36WOzKlq\_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Kevin Conroy
+* [An Engineering Leader's Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Kevin Conroy
 * [Becoming a go-to person gets you promoted. Here's how to do it as a software engineer.](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) - Jordan Cutler
 * [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/) - Jacob Kaplan-Moss
 * [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
@@ -77,13 +77,13 @@
 
 ### Videos
 
-* [Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST](https://www.youtube.com/watch?v=3\_Ue0tweDkE)
+* [Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST](https://www.youtube.com/watch?v=3_Ue0tweDkE)
 * [Speedrun Your Tech Promotion](https://www.youtube.com/watch?v=k65UW0gjsgU) - A Life Engineered
 
 ### Websites
 
 * [50 Ways to Get a Job](https://50waystogetajob.com/)
-* [High Paying Tech Companies](https://docs.google.com/document/d/1CeWvwkSCJtQW-\_w\_2VCxpEstldO1VqBCVXBzTfxE5pY/edit#heading=h.2qw50kdhocd2)
+* [High Paying Tech Companies](https://docs.google.com/document/d/1CeWvwkSCJtQW-_w_2VCxpEstldO1VqBCVXBzTfxE5pY/edit#heading=h.2qw50kdhocd2)
 * [Easy Application](http://j-delaney.github.io/easy-application/) ([GitHub](https://github.com/j-delaney/easy-application))
 * [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [layoffs.fyi](https://layoffs.fyi/)
@@ -93,6 +93,7 @@
 * [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 * [moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/) ([GitHub](https://github.com/Kaustubh-Natuskar/moreThanFAANGM))
 * [promotions.fyi](https://www.promotions.fyi/)
+* [StaffEng](https://staffeng.com/)
 * [TechPays Europe](https://techpays.com/)
 * [We've all faced rejection](https://rejected.us/)
 * [You Got This!](https://yougotthis.io/)
