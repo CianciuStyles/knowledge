@@ -42,8 +42,10 @@
 
 ### Crates
 
-* [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching ([GitHub](https://github.com/LukeMathWalker/cargo-chef))
-* [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust ([GitHub](https://github.com/rayon-rs/rayon))
+* [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching&#x20;
+* [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on std::error::Error with customizable Reports
+* [pest](https://crates.io/crates/pest) - The elegant parser
+* [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust
 * [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust
 
 ### Courses
