@@ -7,6 +7,7 @@
 * [24 days from node.js to Rust](https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup/) - Jarrod Overson
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Amos Wenger
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
+* [Optimising my Rust solutions for Advent of Code](https://nindalf.com/posts/optimising-rust/) - Krishna Sundarram
 * [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))
 * [Rust for professionals](https://overexact.com/rust-for-professionals/) - overexact.com
 * [State of the Crates 2025](https://ohadravid.github.io/posts/2024-12-state-of-the-crates/) - Ohad Ravid ([Reddit thread](https://www.reddit.com/r/rust/comments/1hafdai/state_of_the_crates_2025/))
