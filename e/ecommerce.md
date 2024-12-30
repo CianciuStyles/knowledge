@@ -45,6 +45,7 @@
 * [Subito.it](https://www.subito.it/)
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 * [Temu](https://www.temu.com)
+* [Very](https://www.very.co.uk/)
 * [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
 
 ### Lists
