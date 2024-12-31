@@ -253,6 +253,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/)
 * [Kingdom](https://kingdomstore.it/)
 * [Less 3 Than](https://main.dj9o4v3tesilx.amplifyapp.com/)
+* [Manga Souko](http://www.mangasouko.com/en/index.html) - Japan
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Myretroshop.com](https://www.myretroshop.com/) - Norwich, United Kingdom
 * [Nabbit](https://www.nabbit.co.uk/)
@@ -271,6 +272,7 @@
   * [Augmented Steam](https://augmentedsteam.com/)
   * [List of DRM-free games](https://steam.fandom.com/wiki/List_of_DRM-free_games)
   * [SteamDB](https://steamdb.info/)
+* [Suruga-ya](https://www.suruga-ya.com/en) - Japan
 * [The Console Cove](https://theconsolecove.co.uk/) - Southend-On-Sea, United Kingdom
 * [The Game Collection](https://www.thegamecollection.net/)
 * [The Emporium Retrogaming Shop](https://www.emporiumretrogamingshop.com/) - Japan
