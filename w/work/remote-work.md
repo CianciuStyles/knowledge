@@ -32,17 +32,24 @@
 
 ### Remote Companies
 
+* [Cinder](https://www.cinder.co/careers)
+* [DuckDuckGo](https://duckduckgo.com/hiring)
 * [Elastic](https://www.elastic.co/about/careers/)
 * [Ghost](https://careers.ghost.org/)
+* [Goodnotes](https://www.goodnotes.com/careers)
 * [Help Scout](https://www.helpscout.com/company/careers/)
 * [Human Made](https://humanmade.com/hiring/)
+* [Invisible](https://www.invisible.co/join-us)
+* [Kong](https://konghq.com/company/careers)
+* [Quora](https://www.careers.quora.com/)
 * [Remote](https://boards.greenhouse.io/remotecom)
 * [Shopify](https://www.shopify.ca/careers/work-anywhere)
 * [Sourcegraph](https://boards.greenhouse.io/sourcegraph91)
+* [Synthesia](https://www.synthesia.io/careers)
 
 
 
-* [100+ Companies with Open Remote Positions](https://docs.google.com/spreadsheets/d/1Sr0vy3eDn2fcEhxOdkPv0BjsWBR7JntDJqRM6\_hyjbE/edit#gid=0)
+* [100+ Companies with Open Remote Positions](https://docs.google.com/spreadsheets/d/1Sr0vy3eDn2fcEhxOdkPv0BjsWBR7JntDJqRM6_hyjbE/edit#gid=0)
 * [900+ Startups hiring Remotely in 2021](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 * [Fully Remote Tech Companies](https://remotemasters.dev/fully-remote-companies)
 * [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
