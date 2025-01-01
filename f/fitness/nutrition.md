@@ -10,7 +10,17 @@
 
 {% embed url="https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf" %}
 
+<figure><img src="../../.gitbook/assets/30 Foods High In Protein.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Fat Loss Grocery List.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Good Carbs vs Bad Carbs.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.pinimg.com/564x/c1/71/3b/c1713b0259018afb98bf63b03e1ce5d2.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Macro Cheat Sheet.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/What Foods Can You Eat On Keto.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Apps
 
