@@ -21,7 +21,15 @@
 
 ### Images
 
+<figure><img src="../.gitbook/assets/20 Self-Reflection Questions to Improve Your Life and Work.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/How To Change Your Life In 6 Months.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Prioritize the 80_.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.redd.it/ygk8kq4xlqaa1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Transform Your Life in 12 Weeks.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/If This Then That.jpg" alt=""><figcaption></figcaption></figure>
 
