@@ -34,6 +34,7 @@
 * [SummerCart64](https://summercart64.dev/)
 * [Vimm's Lair](https://vimm.net/)
 * [VOGONS](https://www.vogons.org/)
+* [Winlator](https://winlator.org/) - Android application that lets you to run Windows (x86\_64) applications
 * [Xemu](https://github.com/lgblgblgb/xemu)
 
 
