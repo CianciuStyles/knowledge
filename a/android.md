@@ -10,6 +10,10 @@ description: https://www.android.com/
 
 * [The internals of Android APK build process](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20) - Android Dev Notes
 
+### Books
+
+* [Android Internals: A Confectioners Cookbook](http://newandroidbook.com/) - Jonathan Levin
+
 ### Courses
 
 * [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
@@ -18,6 +22,11 @@ description: https://www.android.com/
 
 * [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 * [Better `adb shell`](https://github.com/matan-h/adb-shell)
+
+### Subreddits
+
+* [r/Android](https://www.reddit.com/r/Android/)
+* [r/androiddev](https://www.reddit.com/r/androiddev/)
 
 ### Websites
 
