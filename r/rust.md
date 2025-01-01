@@ -89,6 +89,7 @@
 * [Are we GUI yet?](https://areweguiyet.com/)
 * [Are we learning yet?](https://www.arewelearningyet.com/)
 * [Are we web yet?](https://www.arewewebyet.org/)
+* [Leptos](https://leptos.dev/) - Build interactive web applications in Rust
 * [Rustfinity](https://www.rustfinity.com/)
 
 ### YouTube channels
