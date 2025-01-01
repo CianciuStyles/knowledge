@@ -45,6 +45,7 @@
 * [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching
 * [criterion](https://crates.io/crates/criterion) - Statistics-driven micro-benchmarking library&#x20;
 * [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on std::error::Error with customizable Reports
+* [hyperfine](https://crates.io/crates/hyperfine) - A command-line benchmarking tool
 * [pest](https://crates.io/crates/pest) - The elegant parser
 * [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust
 * [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust
