@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) - Adam Mastroianni
 * [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/) - Morgan Housel
 * [Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/) - Farnam Street
 
@@ -30,7 +31,7 @@
 
 ### Websites
 
-* [Self Improvement Book Summaries](https://docs.google.com/document/d/12WYdDDt72jZCCgZvG\_EcoS5ZieG\_gF8\_ULVOYskZtjg/edit) - Aaron Brown
+* [Self Improvement Book Summaries](https://docs.google.com/document/d/12WYdDDt72jZCCgZvG_EcoS5ZieG_gF8_ULVOYskZtjg/edit) - Aaron Brown
 * [Steve Pavlina](https://stevepavlina.com/)
 
 ### YouTube Channels
