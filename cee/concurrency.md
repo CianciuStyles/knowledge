@@ -27,3 +27,7 @@
 ### Images
 
 <figure><img src="../.gitbook/assets/What is a Deadlock.gif" alt=""><figcaption></figcaption></figure>
+
+### YouTube Videos
+
+* [Santa gave me a concurrency problem for Christmas...](https://www.youtube.com/watch?v=zwUzulwiDpI) - LaurieWired
