@@ -4,6 +4,10 @@ description: https://www.android.com/
 
 # Android
 
+### Notes
+
+* Contrary to Linux distributions, which use GNU's LibC as their core runtime (libc.so), Android elects to use its own C-runtime library, which is called **Bionic**. Bionic is more lightweight than GLibC, and more efficient for Android's purposes, leaving out features deemed unnecessary or too complicated
+
 ## Resources
 
 ### Articles
