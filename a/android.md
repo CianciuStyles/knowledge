@@ -138,6 +138,13 @@ description: https://www.android.com/
 * The second component of the boot or recovery image is the initial RAM disk, often referred to as the `initrd`. This provides an initial filesystem, used as the `rootfs` when booting up the OS, and it's pre-loaded by the boot loader into the RAM alongside the kernel.
 * Once the RAM Disk operation is done, Linux normally discards it in favor of the on-disk filesystem - in Android, however, the `initramfs` is kept in memory, and provides the root filesystem.
 * Most Android bootloaders support the "FastBoot" protocol, which Google makes available as part of Android itself. The FastBoot protocol is a simple, text-based protocol which is meant to be used over a USB channel between the device and the host.
+* System recovery and updates are similar processes: in both, the system needs to be diverted to an alternate boot sequence which loads a minimal configuration. Either process is normally started when the system is fully booted and in UI mode, though the device can also be ordered into recovery through `adb reboot recovery` or via `fastboot`.
+* The update must be digitally signed, and is validated against certificates taken from `/system/etc/security/otacerts.zip` keystore - if the validation passes, the update is copied to the `/cache` partition.
+* Occasionally, the vendor or the carrier (and sometimes Google itself) may provide an update to the Android OS in the form of an Over-The-Air (OTA) update, which are packaged as a single zip file, digitally signed, which consists of:
+  * multiple patch files: this is to keep the update as small as possible
+  * a patch binary: usually called `update-binary`, which can parse the patch files and apply them
+  * a patch script: usually called `updater-script`, which executes the binary multiple times (one per patch) and specifies the expected hash of the file pre- and post-patch
+  * an otacert file: which can be compared and optionally imported into `/system/etc/security/otacerts.zip`
 
 ## Resources
 
