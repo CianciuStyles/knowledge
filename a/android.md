@@ -119,6 +119,25 @@ description: https://www.android.com/
   * `user`: provides "multi-user" capabilities, symlinking user numbers to directories with installed applications and data for those users
 * One of Android's strongest features is its built-in support for SD Cards, which are usually formatted with the vfat or fat32 filesystems - because those filesystems do not support permissions, Android resorts to _emulating_ the sdcards via FUSE (Filesystem in USEr mode). The mount point for the SD card is usually `/storage/ext_sd`
 * Android's "Secure Storage" feature, commonly referred to as **asec**, provides a mechanism for applications to securely deploy onto the device while maintaining a reasonable level of assurance that the user will not copy them to another device. Asec **containers** are, in essence, encrypted filesystem images which begin with a fixed header. Asec creation and management is handled by the volume manager `vold`.
+* The system images are provided by the vendor and are meant to be flashed as the "factory default" distribution of Android onto a device. The images are comprised of several files:
+  * Boot loader: responsible for finding and loading the boot image, handling firmware updates, and booting into recovery mode. Most boot loaders implement a small USB stack over which they can communicate with the host to control the boot or update process
+  * Boot image: normally consists of the kernel and a RAM disk, and is used to load the system. The RAIM disk will serve as the root filesystem for Android, an its /init.rc will provide directives as to how to load the rest of the system partitions
+  * Recovery image: consists of the kernel and a (different) RAM disk, and is used to load the system into "Recovery mode"
+  * System partition: this is the full Android system
+  * Data partition: contains the "factory default" data files, which support the binaries in the system partition
+* Android vendors are free to implement their own boot loaders, though most (Samsung being a notable exception) choose the LK (little kernel) boot loader. LK concerns itself with only the minimal functions, which include:
+  * basic hardware support
+  * finding and booting the kernel: locating the bootimg and parsing its components (kernel image, ramdisk and device tree)
+  * basic UI
+  * USB target support
+  * flash partition support: enable the boot loader to erase or overwrite partitions, as required during upgrade or recovery
+  * digital signature support: to provide support for loading digitally signed images with SSL certificates
+* The boot loader image is comprised of several sub-images, each of which is meant to be flashed to a specific partition. The boot loader itself is in "aboot", which is the Application Processor Boot loader.
+* The boot loader on Android devices is usually **locked**, meaning it will refuse to flash or boot updates which are not digitally signed. Depending on the vendor, a user may or may not be able to unlock the phone.
+* The Linux kernel, unlike most OS kernels, is mostly compressed: the kernel file format, known as `zImage`, consists of self-extracting code, which unpacks the rest of the kernel image in memory. The kernel is the most architecture specific component of Android: whereas other components only care about the processor type, the kernel is also concerned with the board type and specific chipsets.
+* The second component of the boot or recovery image is the initial RAM disk, often referred to as the `initrd`. This provides an initial filesystem, used as the `rootfs` when booting up the OS, and it's pre-loaded by the boot loader into the RAM alongside the kernel.
+* Once the RAM Disk operation is done, Linux normally discards it in favor of the on-disk filesystem - in Android, however, the `initramfs` is kept in memory, and provides the root filesystem.
+* Most Android bootloaders support the "FastBoot" protocol, which Google makes available as part of Android itself. The FastBoot protocol is a simple, text-based protocol which is meant to be used over a USB channel between the device and the host.
 
 ## Resources
 
