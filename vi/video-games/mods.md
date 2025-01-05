@@ -1,11 +1,12 @@
 # Mods
 
 * [A Definitive Guide to N64 Modding](https://vimeo.com/853440902) - Kaze Emanuar
-* [Essential NES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1ej0mi5/essential\_nes\_rom\_hacks\_of\_all\_time\_updated\_2024/)
-* [Essential SNES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1esbnue/essential\_snes\_rom\_hacks\_of\_all\_time\_updated\_2024/)
+* [Essential NES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1ej0mi5/essential_nes_rom_hacks_of_all_time_updated_2024/)
+* [Essential SNES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1esbnue/essential_snes_rom_hacks_of_all_time_updated_2024/)
 * [Game Hacking Academy](https://gamehacking.academy)
-* [Metal Gear Solid 1 Integral PC \[1080p/Xinput Controller Support/DX10.1\]](https://www.reddit.com/r/metalgearsolid/comments/4qlv1c/final\_full\_release\_metal\_gear\_solid\_1\_integral\_pc/)
-* [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal\_gear\_solid\_2\_substance\_vs\_fix\_pc/)
+* [HD Packs Complete List](https://docs.google.com/spreadsheets/d/1sif8FeRGJRbytK8wFRXgF6Hke9V6GUFs/edit?gid=431767549#gid=431767549)
+* [Metal Gear Solid 1 Integral PC \[1080p/Xinput Controller Support/DX10.1\]](https://www.reddit.com/r/metalgearsolid/comments/4qlv1c/final_full_release_metal_gear_solid_1_integral_pc/)
+* [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal_gear_solid_2_substance_vs_fix_pc/)
 * [Namsku](https://www.youtube.com/@namskuvod)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 * [Romhacking.net](https://www.romhacking.net/)
@@ -24,7 +25,7 @@
 ### Deus Ex
 
 * [How to run Deus Ex on Windows 7/8](https://www.pcgamer.com/how-to-run-deus-ex-on-windows-78/)
-* [I want to start the original Deus Ex, essential mods?](https://www.reddit.com/r/patientgamers/comments/9y5ni1/i\_want\_to\_start\_the\_original\_deus\_ex\_essential/)
+* [I want to start the original Deus Ex, essential mods?](https://www.reddit.com/r/patientgamers/comments/9y5ni1/i_want_to_start_the_original_deus_ex_essential/)
 * [The Nameless Mod](https://thenamelessmod.com/)
 
 ### Doom
@@ -60,12 +61,12 @@
 
 ### Half-Life 2
 
-* [A comprehensive list of all singleplayer Half-Life/Source mods that are worth playing](https://www.reddit.com/r/HalfLife/comments/60pmr9/a\_comprehensive\_list\_of\_all\_singleplayer/)
+* [A comprehensive list of all singleplayer Half-Life/Source mods that are worth playing](https://www.reddit.com/r/HalfLife/comments/60pmr9/a_comprehensive_list_of_all_singleplayer/)
 * [NeoTokyo](https://neotokyohq.com/)
 
 ### Left 4 Dead 2
 
-* [For the most immersive Resident Evil experience in Left 4 Dead, download these mods (direct links inside)!](https://www.reddit.com/r/l4d2/comments/7wqwhb/for\_the\_most\_immersive\_resident\_evil\_experience/)
+* [For the most immersive Resident Evil experience in Left 4 Dead, download these mods (direct links inside)!](https://www.reddit.com/r/l4d2/comments/7wqwhb/for_the_most_immersive_resident_evil_experience/)
 
 ### Kingdom Hearts
 
@@ -81,8 +82,8 @@
 
 * [Portal Reloaded](https://portalreloaded.com/)
 * [Portal: Revolution](https://www.portalrevolution.com/)
-* [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal\_Stories\_Mel/)
-* [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking\_with\_Time\_Machine/)
+* [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel/)
+* [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
 
 ### Resident Evil
 
