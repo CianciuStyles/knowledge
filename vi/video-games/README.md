@@ -64,6 +64,7 @@
 ### Browser Games
 
 * [9:05](https://adamcadre.ac/if/905.html) - Adam Cadre
+* [SmartHome](https://smarthome.steviep.xyz/)
 
 ### Cables & Adapters
 
@@ -272,6 +273,7 @@
   * [Augmented Steam](https://augmentedsteam.com/)
   * [List of DRM-free games](https://steam.fandom.com/wiki/List_of_DRM-free_games)
   * [SteamDB](https://steamdb.info/)
+  * [SteamPeek](https://steampeek.hu/) - Indie friendly game discovery
 * [Suruga-ya](https://www.suruga-ya.com/en) - Japan
 * [The Console Cove](https://theconsolecove.co.uk/) - Southend-On-Sea, United Kingdom
 * [The Game Collection](https://www.thegamecollection.net/)
