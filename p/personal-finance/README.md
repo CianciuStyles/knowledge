@@ -43,6 +43,8 @@
 * [The Bogleheads’ Guide to Investing](https://smile.amazon.co.uk/dp/1118921283/) - Mel Lindauer, Taylor Larimore, Michael LeBeouf
 * [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel](https://smile.amazon.co.uk/dp/0060555661/) - Benjamin Graham
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://smile.amazon.co.uk/dp/1119404509/) - John Bogle
+* [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime](https://www.amazon.co.uk/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102) - MJ DeMarco
+  * [Summary by Ali Abdaal](https://www.youtube.com/watch?v=Gx2vyi4JcV0)
 * [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://smile.amazon.co.uk/dp/1589795474) - Thomas J. Stanley, William D. Danko
 * [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://smile.amazon.co.uk/dp/1533667926) - JL Collins
 * [The Psychology of Money: Timeless lessons on wealth, greed and happiness](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness/dp/0857197681) - Morgan Housel
