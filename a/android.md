@@ -145,6 +145,14 @@ description: https://www.android.com/
   * a patch binary: usually called `update-binary`, which can parse the patch files and apply them
   * a patch script: usually called `updater-script`, which executes the binary multiple times (one per patch) and specifies the expected hash of the file pre- and post-patch
   * an otacert file: which can be compared and optionally imported into `/system/etc/security/otacerts.zip`
+* The Android `init` is vastly different than that of UN\*X or Linux, with the most important differences being in its support of System Properties and using a particular set of `rc` files.
+* The Android System Properties provide a globally accessible repository of configuration settings. Because `init` is the ancestor of all processes in the system, it is only natural that it implements the property store.
+* `init` recognizes several special prefixes, which govern how it handles the properties:
+  * The `persist` pseudo-prefix: designates the property as meant to survive reboot
+  * The `ro` pseudo-prefix: is used for "read-only" properties
+  * The `ctl` prefix: is used to provide a convenient way to control init's services
+* The `rc` files are composed of **trigger** and **service** blocks. Trigger blocks contain commands, to be executed when a trigger is satisfied; service blocks define daemons, which `init` can start by command and be responsible for.
+* `init` can also be filling additional roles - that of `ueventd` and `watchdogd`. `ueventd` assumes the responsibility of managing hardware devices: responding to kernel notifications and device representations in the `/sys` filesystem, and making them available to processes via symbolic links in `/dev`. `watchdogd` is responsible for interfacing with the hardware watchdog timer, by setting a timeout value and sending a keepalive signal at regular intervals.
 
 ## Resources
 
