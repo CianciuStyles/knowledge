@@ -53,6 +53,7 @@
 * [Dependency Walker](https://www.dependencywalker.com/)
 * [dnSpy ](https://github.com/dnSpy/dnSpy)- .NET debugger and assembly editor
 * [Frida ](https://frida.re/)- A world-class dynamic instrumentation toolkit
+  * [frida-trace](https://frida.re/docs/frida-trace/) - tool for dynamically tracing function calls
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
