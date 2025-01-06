@@ -64,6 +64,7 @@
 * [Awesome Rust Books](https://github.com/sger/RustBooks)
 * [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
 * [From JavaScript to Rust eBook](https://github.com/vinodotdev/node-to-rust)
+* [Programming in Rust](https://github.com/Kobzol/rust-course-fei) - Rust course taught at FEI VŠB-TUO
 * [py2rs - From Python into Rust](https://github.com/rochacbruno/py2rs)
 * [Rust Learning](https://github.com/ctjhoa/rust-learning)
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
