@@ -174,6 +174,7 @@
 * [Project Gutenberg](https://www.gutenberg.org/)
   * [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
+* [Readest](https://readest.com/) ([GitHub](https://github.com/readest/readest))
 * [Standard Ebooks](https://standardebooks.org/)
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
