@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [A Simple 2021 Reboot — My Short Letter to a Friend Who Wants to Get In Shape](https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/) - Tim Ferriss
 * [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html) - Liam Rosen
 * [The Complete Guide to Weight Loss for Men](https://www.artofmanliness.com/health-fitness/health/how-to-lose-weight-for-men/) - The Art of Manliness
 * [The Ultimate Guide to Losing Fat and Gaining Muscle (At the Exact Same Time)](https://www.nerdfitness.com/blog/lose-weight-and-build-muscle-or-do-one-then-the-other/) - Nerd Fitness
@@ -21,8 +22,8 @@
 
 ### Reddit threads
 
-* [Men in their late 30s who lost belly fat, HOW?!](https://www.reddit.com/r/AskReddit/comments/1871gs7/men\_in\_their\_late\_30s\_who\_lost\_belly\_fat\_how/)
-* [People who've lost a lot of weight, how did you do it?](https://www.reddit.com/r/AskReddit/comments/15obv3n/people\_whove\_lost\_a\_lot\_of\_weight\_how\_did\_you\_do/)
+* [Men in their late 30s who lost belly fat, HOW?!](https://www.reddit.com/r/AskReddit/comments/1871gs7/men_in_their_late_30s_who_lost_belly_fat_how/)
+* [People who've lost a lot of weight, how did you do it?](https://www.reddit.com/r/AskReddit/comments/15obv3n/people_whove_lost_a_lot_of_weight_how_did_you_do/)
 
 ### Subreddits
 
@@ -78,7 +79,7 @@
   * [The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione](https://www.youtube.com/watch?v=sNklS0lzlgA)
   * [The Ultimate Fat Burning Guide: Dr. Berg's Webinar on Maximum Weight Loss](https://www.youtube.com/watch?v=j91eC2z9Om4)
 * [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
-  * [10 Warning Signs Your CORTISOL Is Way Too High!](https://www.youtube.com/watch?v=2VAxkXP\_9c0)
+  * [10 Warning Signs Your CORTISOL Is Way Too High!](https://www.youtube.com/watch?v=2VAxkXP_9c0)
     * Weight Gain
     * Blood Sugar
     * Appetite & Cravings
@@ -113,7 +114,7 @@
     * Excess Alcohol
     * High Sugar Diet
   * [Top Reasons Apple Cider Vinegar Works With Fasting For Weight Loss & Health](https://www.youtube.com/watch?v=US9oBCoKdpw)
-  * [When To Drink Apple Cider Vinegar: Best Science-Backed Benefits](https://www.youtube.com/watch?v=CA8kys\_DPds)
+  * [When To Drink Apple Cider Vinegar: Best Science-Backed Benefits](https://www.youtube.com/watch?v=CA8kys_DPds)
 * [Jeremy Ethier](https://www.youtube.com/@JeremyEthier/videos)
   * [How to ACTUALLY Lose Belly Fat (Based on Science)](https://www.youtube.com/watch?v=Ok-AZtt33Bo)
     * The key to losing belly fat is getting into a caloric deficit consistently and doing it for long enough
@@ -122,6 +123,6 @@
     * Non-Exercise Activity Thermogenesis (NEAT) is the second largest contributor to daily energy expenditure
     * Sleep is also important when it comes to losing weight - studies have shown that people that sleep at least 7 hours per night lose more belly fat and less muscle than people sleeping 5 hours per night
   * [What Happens To Your Body After Taking Creatine For 30 Days?](https://www.youtube.com/watch?v=-mmpvk3VLkc)
-* [Project inVictus](https://www.youtube.com/@project\_invictus)
+* [Project inVictus](https://www.youtube.com/@project_invictus)
   * [Come dimagrire 10kg](https://www.youtube.com/watch?v=yIlAz9lOhg8)
-  * [Grasso addominale e grasso ostinato: come eliminarlo?](https://www.youtube.com/watch?v=tl\_eSe0qW10)
+  * [Grasso addominale e grasso ostinato: come eliminarlo?](https://www.youtube.com/watch?v=tl_eSe0qW10)
