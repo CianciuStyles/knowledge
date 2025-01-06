@@ -151,6 +151,7 @@ description: https://www.android.com/
 ### Articles
 
 * [The internals of Android APK build process](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20) - Android Dev Notes
+* [What are Split APKs?](https://www.emergetools.com/glossary/split-apks) - Emerge Tools
 
 ### Books
 
