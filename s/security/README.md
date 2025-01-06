@@ -61,6 +61,8 @@
 
 ### Certifications
 
+<figure><img src="../../.gitbook/assets/Cybersecurity Certifications.jpg" alt=""><figcaption></figcaption></figure>
+
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 * [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
 * [CompTIA Security+](https://www.comptia.org/certifications/security)
