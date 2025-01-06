@@ -41,3 +41,4 @@
 * [Monotasking.tips](https://www.monotasking.tips/)
 * [NoSurf ](https://nosurf.net/)- Stop wasting life on the net!
 * [One Minute Focus](https://oneminutefocus.com/)
+* [Sukha](https://www.thesukha.co/) - Focus with Friends
