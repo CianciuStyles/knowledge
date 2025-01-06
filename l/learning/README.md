@@ -50,6 +50,7 @@
 * [How to Learn Anything Efficiently](https://newsletter.techworld-with-milan.com/p/how-to-learn-anything-efficiently) - Dr Milan Milanović
 * [How to understand/retain complex concepts 10x better](https://learnhowtolearn.org/how-to-understand-and-retain-any-concept-10x-better/) - Learn How To Learn
 * [Josh Kaufman: It Takes 20 Hours Not 10,000 Hours To Learn A Skill](https://www.forbes.com/sites/danschawbel/2013/05/30/josh-kaufman-it-takes-20-hours-not-10000-hours-to-learn-a-skill/?sh=4b748b16363d) - Dan Schawbel, Forbes
+* [Learn new skills](https://www.attejuvonen.fi/learn/) - Atte Juvonen
 * [Learning How to Learn: An Infographic](https://www.outerbridge.blog/articles/learning-how-to-learn-infographic) - outerbridge.blog
 * [Six Keys to Being Excellent at Anything](https://www.fastcompany.com/1686337/six-keys-being-excellent-anything) - Tony Schwartz, Fast Company
 * [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/) - Julia Evans
@@ -69,7 +70,7 @@
 ### GitHub Repositories
 
 * [Books](https://github.com/learn-anything/books) - Learn Anything
-* [YouTube Channels & Other Resources](https://github.com/PrejudiceNeutrino/YouTube\_Channels)
+* [YouTube Channels & Other Resources](https://github.com/PrejudiceNeutrino/YouTube_Channels)
 
 ### Hacker News Threads
 
@@ -83,9 +84,9 @@
 
 ### Reddit Threads
 
-* [What hobby doesn't require massive amount of time and money but is a lot of fun?](https://www.reddit.com/r/AskReddit/comments/5llwzm/what\_hobby\_doesnt\_require\_massive\_amount\_of\_time/)
-* [What is a hobby you can get into for almost no money?](https://www.reddit.com/r/AskReddit/comments/4knolu/what\_is\_a\_hobby\_you\_can\_get\_into\_for\_almost\_no/)
-* [What skill can anyone independently learn in five hours?](https://www.reddit.com/r/AskReddit/comments/4xit3w/what\_skill\_can\_anyone\_independently\_learn\_in\_five/)
+* [What hobby doesn't require massive amount of time and money but is a lot of fun?](https://www.reddit.com/r/AskReddit/comments/5llwzm/what_hobby_doesnt_require_massive_amount_of_time/)
+* [What is a hobby you can get into for almost no money?](https://www.reddit.com/r/AskReddit/comments/4knolu/what_is_a_hobby_you_can_get_into_for_almost_no/)
+* [What skill can anyone independently learn in five hours?](https://www.reddit.com/r/AskReddit/comments/4xit3w/what_skill_can_anyone_independently_learn_in_five/)
 
 ### Tools
 
@@ -135,4 +136,4 @@
     * The best cycle for learning is a 90-minute session of deep focus, followed by a 20- or 30-minute naps within the following four hours, as this speeds up the brain rewiring by a factor of 10x to 20x
     * Gap learning effect: if you stop for about 10 seconds randomly during the 90-minute deep focus cycle, neurons will "replay" the new connection more often, leading to better learning
 * [Tim Ferriss](https://www.youtube.com/@timferriss)
-  * [The Tim Ferriss Experiment](https://www.youtube.com/playlist?list=PLuu6fDad2eJwnly\_hEdir9biYcpG\_MKMd)
+  * [The Tim Ferriss Experiment](https://www.youtube.com/playlist?list=PLuu6fDad2eJwnly_hEdir9biYcpG_MKMd)
