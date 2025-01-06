@@ -70,6 +70,8 @@
 
 * [Kaico Labs](https://kaicolabs.com/)
 * [Retro Gaming Cables](https://retrogamingcables.co.uk/)
+* [RetroRGB](https://retrorgb.com/)
+  * [ElectronPulse PS2 Passthrough HDMI Adapter](https://www.retrorgb.com/electronpulse-ps2-passthrough-hdmi-adapter.html)
 
 ### Cases
 
