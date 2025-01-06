@@ -38,6 +38,7 @@
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/) - Steve Klabnik and Carol Nichols
   * [Rust Book Experiment](https://rust-book.cs.brown.edu/)
+* [The Secrets of Rust: Tools](https://bitfieldconsulting.com/books/rust-tools) - John Arundel
 * [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=the%20UK\&discount_code=VAT20) - Luca Palmieri
 
 ### Crates
