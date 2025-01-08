@@ -188,6 +188,7 @@
 
 ## P
 
+* [Parenting](p/parenting.md)
 * [Personal Finance](p/personal-finance/README.md)
   * [Pensions](p/personal-finance/pensions.md)
 * [PHP](p/php.md)

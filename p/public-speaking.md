@@ -19,7 +19,11 @@
 ### Courses
 
 * [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills) - Maurice Schweitzer, University of Pennsylvania
-* [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl\_ub9) - Matt McGarrity, University of Washington
+* [Introduction to Public Speaking](https://www.edx.org/course/introduction-to-public-speaking-2#.U-MYSfl_ub9) - Matt McGarrity, University of Washington
+
+### GitHub repositories
+
+* [Awesome Public Speaking](https://github.com/matteofigus/awesome-speaking)
 
 ### Hacker News threads
 

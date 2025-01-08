@@ -26,6 +26,8 @@
 
 ### Images
 
+<figure><img src="../.gitbook/assets/Top 6 Multithreading Design Patterns You Must Know.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/What is a Deadlock.gif" alt=""><figcaption></figcaption></figure>
 
 ### YouTube Videos
