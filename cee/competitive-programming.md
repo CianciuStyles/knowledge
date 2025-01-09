@@ -7,7 +7,7 @@
 ### Books
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen
-* [Competitive Programming](https://www.comp.nus.edu.sg/\~stevenha/myteaching/competitive\_programming/cp1.pdf) - Steven Halim, Felix Halim
+* [Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - Steven Halim, Felix Halim
 
 ### Competitions
 
@@ -17,7 +17,7 @@
 
 ### Courses
 
-* [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/\~stevenha/cs3233.html) - Steven Halim
+* [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/cs3233.html) - Steven Halim
 
 ### GitHub Repositories
 
@@ -42,3 +42,4 @@
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 * [Google Code Competitions Archive](https://zibada.guru/gcj/)
+* [International Olympiad in Informatics](https://ioinformatics.org/)
