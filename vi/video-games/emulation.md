@@ -311,6 +311,7 @@
   * [The Xbox Series S is STILL an Emulation Beast - New Updates!](https://www.youtube.com/watch?v=9AUtERZ6tXY)
   * [Turning a $10 Original Xbox into an awesome Emulation device](https://www.youtube.com/watch?v=oTpleBjELZg)
   * [Why a Hacked Xbox 360 is STILL awesome in 2023.](https://www.youtube.com/watch?v=NfdVtJmeXfY)
+  * [Why is Nintendo 64 emulation still a broken mess in 2025?](https://www.youtube.com/watch?v=OmKjVpVdHDQ)
   * [Why the Wii U is the best Retro and Emulation console in 2020](https://www.youtube.com/watch?v=HRXwzGh-FoY)
   * [Why YOU need a Modded Xbox 360 in 2018 - The History, Custom Dashboards, Emulators, and More!](https://www.youtube.com/watch?v=8gduINQMxd0)
   * [Xbox 360 Emulation on the PC with Xenia takes a huge step forward](https://www.youtube.com/watch?v=xCuu-TMquhk)
