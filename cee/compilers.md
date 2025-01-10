@@ -20,6 +20,7 @@
 
 ### Articles
 
+* [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html) - Stefanos Baziotis
 * [Decoding C Compilation Process: From Source Code to Binary](https://hackthedeveloper.com/c-program-compilation-process/) - Divyanshu Shekhar
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw
 * [Making a Brainf\*ck to C Compiler in Rust](https://medium.com/@thelukaswils/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d) - Luke I. Wilson
@@ -66,9 +67,9 @@
 
 ### YouTube Playlists
 
-* [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas\_Zy\_qC7c5tCgTMYq2idyyT241qs) - Pixeled
+* [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs) - Pixeled
 
 ### YouTube Videos
 
-* [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX\_Rs) - Computerphile
+* [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX_Rs) - Computerphile
 * [So what's exactly a JIT Compiler?](https://www.youtube.com/watch?v=sQTOIkOMDIw) - Omer Iqbal
