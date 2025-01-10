@@ -179,6 +179,15 @@ description: https://www.android.com/
 * The rationale behind the Zygote process is twofold:
   * application startup time is greatly decreased, as Zygote does the deterministric initialization that all virtual machines require, leaving the forked process to only load the required classes
   * memory sharing is optimized: because all virtual machines fork from Zygote, they can take advantage of implicit memory sharing performed by the kernel
+* If any application or system component needs to use another service, it must first consult the `servicemanager` to get a handle. Similarly, services cannot expect clients until they register their presence with it.
+* Services are automatically removed from `servicemanager` when their processes die, as Binder can detect that and send a death notification.
+* Android's framework services are implemented in `system_server` threads. Applications thus need to rely on Inter-Process Communication (IPC) in order to invoke them. This is where the _Binder_, Android's proprietary IPC mechanism, comes into play.
+* Binder is a Remote Procedure Call mechanism, allowing applications to communicate programmatically, but without having to worry about how to locate the service process, send and receive messages and objects, and support credentials.
+* A Binder message is referred to as a `Parcel`.
+* The Android Interface Definition Language (AIDL) is essentially a derivative of Java which is used to specify methods and objects that are serializable as Parcels and can be transmitted through Binder.
+* The vast majority of framework services are simple enough that they can run as threads, and `system_server` is host process where the service threads are running in.
+* The `system_server` is not a native app: it is implemented mostly in Java with some JNI calls in places where it must start native services. The services are similarly implemented in Java, and many on them rely on JNI to escape the virtual machine and interact with hardware components.
+* Once the services are started, SystemServer has nothing more to do in its main thread, so it enters a loop where it polls its file descriptors (especially the Binder handle) for incoming messages: when they arrive, they are dispatched to their respective targets.
 
 ## Resources
 
