@@ -43,3 +43,4 @@
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 * [Google Code Competitions Archive](https://zibada.guru/gcj/)
 * [International Olympiad in Informatics](https://ioinformatics.org/)
+* [USACO Guide](https://usaco.guide/)
