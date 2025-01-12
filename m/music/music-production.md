@@ -13,4 +13,5 @@
 ### Websites
 
 * [Learning Music](https://learningmusic.ableton.com/) - Ableton
+* [Learning Synths](https://learningsynths.ableton.com) - Ableton
 * [Peel.fm](https://peel.fm/) - Drum machine in your browser
