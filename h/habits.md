@@ -98,6 +98,8 @@
 
 <figure><img src="../.gitbook/assets/20 Lessons From Atomic Habits.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/20 Small Habits With A Massive Return On Life.jpg" alt=""><figcaption></figcaption></figure>
+
 ![](https://i.pinimg.com/originals/e2/b7/3d/e2b73d33dce6fed8edb5a67d1e302fa3.jpg)
 
 ## Resources
