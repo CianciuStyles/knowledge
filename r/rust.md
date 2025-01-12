@@ -47,6 +47,7 @@
 * [criterion](https://crates.io/crates/criterion) - Statistics-driven micro-benchmarking library&#x20;
 * [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on std::error::Error with customizable Reports
 * [hyperfine](https://crates.io/crates/hyperfine) - A command-line benchmarking tool
+* [nom](https://crates.io/crates/nom) - A byte-oriented, zero-copy, parser combinators library
 * [pest](https://crates.io/crates/pest) - The elegant parser
 * [ratatui](https://crates.io/crates/ratatui/) - A library that's all about cooking up terminal user interfaces
 * [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust
