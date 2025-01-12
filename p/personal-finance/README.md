@@ -21,6 +21,7 @@
 
 ### Blogs
 
+* [A Wealth of Common Sense](https://awealthofcommonsense.com/)
 * [FAANG FIRE](https://www.faangfire.com/) - Andre Nader
 * [FIRE v London](https://firevlondon.com/)
 * [Get Rich Slowly](https://www.getrichslowly.org/)
