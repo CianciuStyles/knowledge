@@ -263,6 +263,12 @@
 
 * [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i_am_making_a_list_of_source_ports_on_android/)
 
+## Subreddits
+
+* [r/Emulation](https://www.reddit.com/r/emulation/)
+* [r/EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid/)
+* [r/EmulationOnPC](https://www.reddit.com/r/EmulationOnPC/)
+
 ## YouTube Channels
 
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
