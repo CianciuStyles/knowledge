@@ -102,6 +102,10 @@
 * [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
+### Nintendo Switch
+
+* [Sudachi](https://sudachiemu.com/home/) - Nintendo Switch Emulator for Android and PC
+
 ### Nintendo Wii
 
 * Archive.org
