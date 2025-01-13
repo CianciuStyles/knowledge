@@ -10,11 +10,12 @@
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com/) - Mohammed Q. Hussain
 * [Modern Operating Systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf) - Andrew S. Tanenbaum, Herbert Bos
-* [Operating Systems: From 0 To 1](https://github.com/tuhdo/os01) - Tu Do
 * [Operating System Design: The Xinu Approach](https://www.amazon.co.uk/Operating-System-Design-Approach-Second-ebook/dp/B00UVB2YA2) - Douglas Comer
+* [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/) - Seiya Nuta
+* [Operating Systems: From 0 To 1](https://github.com/tuhdo/os01) - Tu Do
 * [The intermezzOS Book](https://intermezzos.github.io/book/)
 * [The little book about OS development](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
-* [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/\~exr/lectures/opsys/10\_11/lectures/os-dev.pdf) - Nick Blundell
+* [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell
 
 ### Courses
 
@@ -40,7 +41,7 @@
 
 * [MOROS: Obscure Rust Operating System](https://moros.cc/) - Vincent Ollivier ([GitHub](https://github.com/vinc/moros))
 * [netboot.xyz](https://netboot.xyz/)
-* [OSDev](https://wiki.osdev.org/Main\_Page)
+* [OSDev](https://wiki.osdev.org/Main_Page)
 * [Project Oberon](https://www.projectoberon.com/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [You're the OS!](https://plbrault.github.io/youre-the-os/) - Pier-Luc Brault ([GitHub](https://github.com/plbrault/youre-the-os))
