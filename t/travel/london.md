@@ -64,6 +64,11 @@
 * [Escape Rooms](https://www.escaperooms.co.uk/)
 * [Sherlock: The Official Live Game](https://www.thegameisnow.com/)
 
+### Live Music Venues
+
+* [Alfie's](https://info.soho.live/alfies) - Soho
+* [The Blues Kitchen](https://theblueskitchen.com/camden/) - Camden Town
+
 ### Maps
 
 * [Budget Brews](https://budgetbrews.netlify.app/)
