@@ -49,6 +49,7 @@
 * [How to become an expert in anything?](https://newsletter.techworld-with-milan.com/p/how-to-become-an-expert-in-anything) - Dr Milan Milanović
 * [How to Learn Anything Efficiently](https://newsletter.techworld-with-milan.com/p/how-to-learn-anything-efficiently) - Dr Milan Milanović
 * [How to understand/retain complex concepts 10x better](https://learnhowtolearn.org/how-to-understand-and-retain-any-concept-10x-better/) - Learn How To Learn
+* [Jerry Seinfeld, Ichiro Suzuki and the Pursuit of Mastery](https://www.readtrung.com/p/jerry-seinfeld-ichiro-suzuki-and) - Trung Phan
 * [Josh Kaufman: It Takes 20 Hours Not 10,000 Hours To Learn A Skill](https://www.forbes.com/sites/danschawbel/2013/05/30/josh-kaufman-it-takes-20-hours-not-10000-hours-to-learn-a-skill/?sh=4b748b16363d) - Dan Schawbel, Forbes
 * [Learn new skills](https://www.attejuvonen.fi/learn/) - Atte Juvonen
 * [Learning How to Learn: An Infographic](https://www.outerbridge.blog/articles/learning-how-to-learn-infographic) - outerbridge.blog
