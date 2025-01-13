@@ -188,6 +188,29 @@ description: https://www.android.com/
 * The vast majority of framework services are simple enough that they can run as threads, and `system_server` is host process where the service threads are running in.
 * The `system_server` is not a native app: it is implemented mostly in Java with some JNI calls in places where it must start native services. The services are similarly implemented in Java, and many on them rely on JNI to escape the virtual machine and interact with hardware components.
 * Once the services are started, SystemServer has nothing more to do in its main thread, so it enters a loop where it polls its file descriptors (especially the Binder handle) for incoming messages: when they arrive, they are dispatched to their respective targets.
+* The files within the `/proc` filesystem are not really there until you ask for them - this means that every time you display the files you are likely to get different content. This makes the `/proc` filesystem an extremely powerful mechanism for system and process tracing, provided the method used is that of polling (keep on explicitly asking for specific entries periodically).
+* In the `/proc` filesystem there are three symbolic links, which are:
+  * `cwd`: displays the current working directory
+  * `exe`: displays the full path to the executable used to start this process
+  * `root`: displays the root directory (usually `/`, unless an application is `chroot`-ed)
+* A process performs all of its I/O through **file descriptor** - the files, pipes and socket opened map to numbered file descriptors, with three default ones (`stdin` with number 0, `stdout` with number 1, and `stderr` with number 2).  For a running process, the open file descriptors can be found in `/proc/$pid/fd`.
+* At first glance, the `fdinfo` directory looks just like `fd`, but without symbolic links - instead, for every open file descriptor, the corresponding `fdinfo/##` entry holds metadata about the file, including:
+  * the flags used in the open system call
+  * the current position of the "file pointer"
+* The `status` proc entry is a one-stop shop for all the things you'd want to know at a high level on the process being inspected - this is effectively a human-readable dump of the `task_struct` structure in the Linux kernel
+* `pid` does **not** stand for Process ID, as it described the **thread** and not the process ID of the entry being inspected. A process is, therefore, a group of threads sharing the same resources (virtual memory, file descriptors, etc.) and that is shown by the `Tgid` field. The `Tgid` and the `pid` will match in the case of the main thread of a process.
+* To calculate memory statistics, one can take into account the following simple formula:\
+  \
+  `VmSize = VmRSS + VmFileMapped + VmSwap + VmLazy`\
+  \
+  where:
+  * VmRSS (Resident Set Size): pages of virtual memory which are presently backed by physical RAM pages (because they have been recently active, or the process/kernel requires them to be locked in memory)
+  * VmFileMapped: pages which were retrieved from files (by means of the `mmap` system call) and that may be written back to the files at any time to free memory
+  * VmSwap: pages which resulted from memory allocation (i.e., `malloc`) and do not have any file backing (also called anonymous pages) - in Linux they might be saved in the `swap` partition, but Android does not have it, so this value is almost always 0
+  * VmLazy: pages that the kernel allocate lazily, as programmers often allocate far more memory than actually needed
+* Summing up all VmRSS for all processes in order to calculate the overall RAM footprint would be wrong, as some of the resident memory might be shared with other processes. Linux offers a more accurate measure called **Proportional Set Size (PSS)**.
+* The LowMemoryKiller (`lmk`) is an Androidism which enhances the Linux Out-Of-Memory (OOM) mechanism by pre-emptively killing processes before a real OOM condition is triggered.
+* The `strace` binary is an utterly invaluable tracing tool as it's able to understand the system calls and its arguments requested from a process.
 
 ## Resources
 
