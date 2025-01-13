@@ -116,7 +116,7 @@
 * [Habits](h/habits.md)
 * [Happiness](h/happiness.md)
 * [House](h/house/README.md)
-  * [Builders](h/house/builders.md)
+  * [Tradespeople](h/house/tradespeople.md)
   * [Buying](h/house/buying.md)
   * [Renting](h/house/renting.md)
 
