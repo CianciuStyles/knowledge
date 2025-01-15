@@ -78,6 +78,11 @@
 * [ChatGPT](https://chat.openai.com/) - OpenAI
 * [Gemini](https://gemini.google.com) - Google
 
+### Reading Lists
+
+* [List of papers given to John Carmack by Ilya Sutskever](https://punkx.org/jackdoe/30.html) - [2](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+* [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers) - Latent Space
+
 ### Websites
 
 * [AI Valley](https://aivalley.ai/) - The Latest Source of AI Tools & Prompts
@@ -86,7 +91,6 @@
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
-* [List of papers given to John Carmack by Ilya Sutskever](https://punkx.org/jackdoe/30.html) - [2](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
 * [OpenAI Sora](https://openai.com/sora)
