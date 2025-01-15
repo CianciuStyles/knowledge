@@ -211,6 +211,20 @@ description: https://www.android.com/
 * Summing up all VmRSS for all processes in order to calculate the overall RAM footprint would be wrong, as some of the resident memory might be shared with other processes. Linux offers a more accurate measure called **Proportional Set Size (PSS)**.
 * The LowMemoryKiller (`lmk`) is an Androidism which enhances the Linux Out-Of-Memory (OOM) mechanism by pre-emptively killing processes before a real OOM condition is triggered.
 * The `strace` binary is an utterly invaluable tracing tool as it's able to understand the system calls and its arguments requested from a process.
+* Android relies on the facilities of Linux for its basic security needs. For most apps, however, an additional layer of security is enforced by the Dalvik Virtual Machine. Android Security is therefore an amalgam of the two approaches which allows for defense in depth.
+* By default, applications are given a minimal set of permissions, but are otherwise restricted. The minimal set, however, does not include anything which might be potentially sensitive - even if it is vital. For this reason, any permission outside the minimal set must be explicitly requested by the application, in its manifest.
+* Android takes the classic permissions model obtained for free from the underlying Linux system and naturally employs it, but offers a novel interpretation: the "users" are granted to individual applications, not human users. A user cannot access another user's files, directories, or processes - and this exact isolation enables applications to run alongside each other, but with no power to influence one another.
+* Android maintains the lower range of user ids (from 1000 to 9999) exclusive for system use.
+* The idea behind _capabilities_ is to break to "all-or-nothing" model of the root user: the root user is fully omnipotent, whereas all other users are effectively impotent, so when a user needs to perform some privileged opration, the only standard solution is to become uid 0 for the scope of the operation and then revert to a non-privileged user. Capabilities offer a solution to this problem by "slicing up" the power of root into distinct areas, each represented by a bit in a bitmask, and allowing or restricting privileged operations in these areas only, by toggling the bitmask.
+* With this model, even if a given application or user ends up being malicious, its scope of damage is _compartmentalized_.
+* SELinux (Security Enhanced Linux) is a set of patches which have long since been incorporated into the mainline kernel, with the aim of providing a Mandatory Access Control (MAC) framework, which can restrict operations to a predefined policy.
+* SEAndroid follows the same principle of the original, but extends it to accommodate Android specific features, such as system properties and the Binder. Samsung further extends SEAndroid and uses it as a foundation for their KNOX secure platform.
+* The main principle of SELinux is that of _labeling_: a label assigns a type to a resource (object) and a security domain for a process (subject). SELinux can then enforce so as to allow only processes in the same domain to access the resource.
+* The stock type enforcement files are all concatenated and compiled into the resulting `/sepolicy` file, which is a binary file placed on the root file system. Doing so offers further security, because the root file system is mounted from the `initramfs`, which is itself part of the `bootimg`, that is digitally signed.
+* The `/seapp_contexts` file provides a mapping of applications (as UIDs) to domains - this is used to label processes based on the UID.
+* Address Space Layout Randomization (ASLR) attempts to make injection attacks harder by introducing randomness - shuffling the layout of memory regions, making their addresses less predictable. This increases the change a targeted piece of code will be "shifted" in memory, and basically trade a crash in place of compromise by malicious code.
+
+
 
 ## Resources
 
