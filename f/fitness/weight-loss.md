@@ -14,6 +14,10 @@
 
 * [How do you lose weight?](https://news.ycombinator.com/item?id=167255)
 
+### Infographics
+
+<figure><img src="../../.gitbook/assets/Things To Help You Lose Weight.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Reddit threads
 
 * [What made you lose a significant amount of weight?](https://www.reddit.com/r/AskReddit/comments/1h3qyip/what_made_you_lose_a_significant_amount_of_weight/)
