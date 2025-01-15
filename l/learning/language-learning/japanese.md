@@ -2,6 +2,8 @@
 
 <figure><img src="../../../.gitbook/assets/Japanese Language Checklist for Beginners.jpeg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Japanese Personal Pronouns.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.pinimg.com/736x/b5/c0/49/b5c0499b19127ac6e598f89d7dd29e48.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://i.pinimg.com/736x/fc/c6/af/fcc6af3fe75fe934c3f43e32e9e960fc.jpg" alt=""><figcaption></figcaption></figure>
@@ -15,6 +17,6 @@
 * [Kaishi 1.5k](https://github.com/donkuri/Kaishi) - modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary
 * [Learn Japanese Now](https://marshallyin.com/)
 * [Migaku](https://migaku.com/)
-* [Recommended Books](https://www.mlcjapanese.co.jp/recommended\_books.html) - MLC Japanese Language School in Tokyo
+* [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 * [WaniKani](https://www.wanikani.com/)
