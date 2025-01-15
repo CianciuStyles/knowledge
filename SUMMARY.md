@@ -77,6 +77,7 @@
 * [Docker](dee/docker.md)
 * [Documentaries](dee/documentaries.md)
 * [Documentation](dee/documentation.md)
+* [Domain Name System](dee/domain-name-system.md)
 * [Dopamine](dee/dopamine.md)
 * [Drawing](dee/drawing.md)
 
