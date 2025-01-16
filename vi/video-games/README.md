@@ -343,6 +343,7 @@
 * [Must-play games over 10 years old](https://www.reddit.com/r/patientgamers/comments/6imvbd/mustplay_games_over_10_years_old/)
 * [Must have 3DS games?](https://www.reddit.com/r/patientgamers/comments/5aq7xu/must_have_3ds_games/)
 * [Must play AAA games in the last 5 years ?](https://www.reddit.com/r/patientgamers/comments/8l8c62/must_play_aaa_games_in_the_last_5_years/)
+* [Must play games that are only 15-20 hours long?](https://www.reddit.com/r/gaming/comments/1i20vol/must_play_games_that_are_only_1520_hours_long/)
 * [Must play Nintendo DS games?](https://www.reddit.com/r/patientgamers/comments/56yytf/must_play_nintendo_ds_games/)
 * [Ordered a PS3 never had one during it's generation looking for 'must haves' and 'hidden gems'](https://www.reddit.com/r/gaming/comments/1cbcsz1/ordered_a_ps3_never_had_one_during_its_generation/)
 * [Patient gamers, what are you favourite DOS games?](https://www.reddit.com/r/patientgamers/comments/46dw0o/patient_gamerswhat_are_you_favourite_dos_games/)
