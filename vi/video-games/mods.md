@@ -1,6 +1,7 @@
 # Mods
 
 * [A Definitive Guide to N64 Modding](https://vimeo.com/853440902) - Kaze Emanuar
+* [Archipelago](https://archipelago.gg/) - Multiworld multi-game randomizer
 * [Essential NES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1ej0mi5/essential_nes_rom_hacks_of_all_time_updated_2024/)
 * [Essential SNES ROM hacks of all time (updated 2024)](https://www.reddit.com/r/romhacking/comments/1esbnue/essential_snes_rom_hacks_of_all_time_updated_2024/)
 * [Game Hacking Academy](https://gamehacking.academy)
@@ -10,6 +11,7 @@
 * [Namsku](https://www.youtube.com/@namskuvod)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 * [Romhacking.net](https://www.romhacking.net/)
+* [Super Metroid VARIA Randomizer, Solver and Trackers](https://randommetroidsolver.pythonanywhere.com/)
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) ([GitHub](https://github.com/ThirteenAG/WidescreenFixesPack))
 
