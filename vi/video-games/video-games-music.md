@@ -139,6 +139,7 @@
 * [No One Lives Forever](https://www.youtube.com/watch?v=2whgu1i_G3c\&list=PL8B280F55A76A5F5A)
 * [No One Lives Forever 2](https://www.youtube.com/watch?v=tWzNvwuFZ70)
 * [Ori and the Blind Forest](https://www.youtube.com/watch?v=MeVFrt7BUyw)
+* [Racing Lagoon](https://www.youtube.com/playlist?list=PLhUEOosVlT05SUcZ2x9R5JQiLB4vfFLb6)
 * [Rayman Legends](https://www.youtube.com/playlist?list=PLO4jlmGoc6uB_EhcOfiJWm-Q_4R25YNeT)
 * [Rayman Origins](https://www.youtube.com/watch?v=GZbKagLlFQ0\&list=PLO4jlmGoc6uCRbONEtHHNHMLyFa6Mu6_y)
 * [Resident Evil 2 Remake](https://www.youtube.com/playlist?list=PLHRsopJvRecxhts_qqQKdUPsSWDEbPaWk)
