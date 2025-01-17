@@ -268,6 +268,7 @@
 * [Retro Sect](https://www.retro-sect.co.uk/)
 * [Retro Six](https://retrosix.co.uk/)
 * [retro.directory](https://retro.directory/)
+* [Right Sprite](https://www.rightsprite.co.uk/) - Wales, United Kingdom
 * [ShopTo](https://www.shopto.net/)
 * [SimplyGames](https://www.simplygames.com/) - St Ives, United Kingdom
 * [Sore Thumb Retro Games](https://www.sorethumbretrogames.com/) - York, United Kindgom
