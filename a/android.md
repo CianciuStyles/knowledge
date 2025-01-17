@@ -223,8 +223,13 @@ description: https://www.android.com/
 * The stock type enforcement files are all concatenated and compiled into the resulting `/sepolicy` file, which is a binary file placed on the root file system. Doing so offers further security, because the root file system is mounted from the `initramfs`, which is itself part of the `bootimg`, that is digitally signed.
 * The `/seapp_contexts` file provides a mapping of applications (as UIDs) to domains - this is used to label processes based on the UID.
 * Address Space Layout Randomization (ASLR) attempts to make injection attacks harder by introducing randomness - shuffling the layout of memory regions, making their addresses less predictable. This increases the change a targeted piece of code will be "shifted" in memory, and basically trade a crash in place of compromise by malicious code.
-
-
+* Working at the level of a virtual machine, rather than native code, brings with it tremendous advantages for monitoring operations and enforcing security. Android actually takes a step further: the user application is entirely powerless, and in order to carry out any operation which has an effect outside the scope of an application, one has to involve `system_server` by calling `getSystemService()`.
+* The assignment of permissions to an application is performed when it is loaded and installed - meaning that the user has been notified of the application's requested permissions and has approved them.
+* Google requires digital signatures on applications uploaded to the Play Store, so as to identify the developer(s) behind them and add accountability.
+* The lock screen is a device's first and only real line of defense against theft or physical interception by malicious entities. The default Android lock screen allows either passwords, PINs or "patterns". It is effectively just an activity, implemented by the `com.android.keyguard` package.
+* Alternate lock methods include face recognition, fingerprint scanning, or unlocking using another paired BlueTooth device such as Android Wear by proximity.
+* Android hard-codes root certificates in `/system/etc/security/cacerts` and they are encoded in the PEM form, which is a Base64 encoding of the certificate between delimiters. Of special importance are the update certificates stored in `/system/etc/security/otacerts.zip`, which are necessary for applying OTA updates.
+* A feature known as **dm-verity** is there for securing the boot process, using the kernel's device mapper. Verifying the integrity of a partition is the simple matter of hashing all of its blocks (DM-Verity uses SHA-256) and comparing that hash against a stored, digitally signed hash value. The dm-verity feature is touted for malware prevention, since it effectively prevents any modification of `/system`, but does have the side effect of preventing unauthorized persistent rooting as well.
 
 ## Resources
 
