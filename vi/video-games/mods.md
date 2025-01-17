@@ -9,6 +9,7 @@
 * [Metal Gear Solid 1 Integral PC \[1080p/Xinput Controller Support/DX10.1\]](https://www.reddit.com/r/metalgearsolid/comments/4qlv1c/final_full_release_metal_gear_solid_1_integral_pc/)
 * [Metal Gear Solid 2 Substance V's FIX \[PC\]](https://www.reddit.com/r/metalgearsolid/comments/59h2jd/metal_gear_solid_2_substance_vs_fix_pc/)
 * [Namsku](https://www.youtube.com/@namskuvod)
+* [Randovania](https://randovania.org/) - A randomizer platform for a multitude of games
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 * [Romhacking.net](https://www.romhacking.net/)
 * [Super Metroid VARIA Randomizer, Solver and Trackers](https://randommetroidsolver.pythonanywhere.com/)
