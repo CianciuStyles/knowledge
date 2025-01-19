@@ -14,5 +14,6 @@
 
 * [Abandones Spaces](https://www.abandonedspaces.com/)
 * [Ascosi Lasciti](https://ascosilasciti.com/it/)
+* [Derelict London](https://www.derelictlondon.com/)
 * [Lost Italy](https://www.lostitaly.it/site/)
 * [Roma Abbandonata](https://romabbandonata.org/)
