@@ -2,7 +2,7 @@
 
 ### Documentaries
 
-* [Calciopoli - The most AMAZING scandal in football history](https://www.youtube.com/watch?v=4\_lmX\_BLjXo) - Dan Renoya's Football Stories
+* [Calciopoli - The most AMAZING scandal in football history](https://www.youtube.com/watch?v=4_lmX_BLjXo) - Dan Renoya's Football Stories
 
 ### Full Matches
 
@@ -43,7 +43,7 @@
 ### Reddit Threads
 
 * [r/soccer's The List](https://www.reddit.com/r/soccer/wiki/thelist)
-* [Watch Euro 2024 Live Streams Around The World](https://www.reddit.com/r/soccer/comments/1d9blh5/watch\_euro\_2024\_live\_streams\_around\_the\_world/)
+* [Watch Euro 2024 Live Streams Around The World](https://www.reddit.com/r/soccer/comments/1d9blh5/watch_euro_2024_live_streams_around_the_world/)
 
 ### Tactics
 
@@ -51,10 +51,14 @@
 
 ### Tickets
 
-* [Premier League tickets 2022/2023](https://www.premierleague.com/tickets)
-  * [Arsenal](https://www.arsenal.com/tickets)
-  * [Chelsea](https://www.chelseafc.com/en/tickets/mens-tickets)
-  * [Fulham](https://tickets.fulhamfc.com/content)
+* [Arsenal Fooball Club](https://www.arsenal.com/tickets)
+* [Barnet Football Club](https://www.venuetoolbox.com/barnetfc/asp/booktickets.asp)
+* [Chelsea Football Club](https://www.chelseafc.com/en/tickets/mens-tickets)
+* [Dulwich Hamlet Football Club](https://dulwichhamletfc.co.uk/fixtures/mens-fixtures-and-tickets)
+* [Fulham Football Club](https://www.eticketing.co.uk/fulhamfc)
+* [Leyton Orient Football Club](https://www.eticketing.co.uk/leytonorient)
+* [Premier League tickets](https://www.premierleague.com/tickets)
+* [Queens Park Rangers](https://www.eticketing.co.uk/qpr/)
 * [Seat Unique](https://www.seatunique.com/) - VIP Tickets & Hospitality Packages
 
 ### Twitter
