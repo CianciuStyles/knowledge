@@ -80,6 +80,7 @@
 
 ### Movies
 
+* [Barbican Magic Mondays](https://www.barbican.org.uk/whats-on/series/magic-mondays-cinema-deal)
 * [British Film Institute](https://www.bfi.org.uk/)
   * [BFI Mediatheque](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfi-mediatheque\&BOparam::WScontent::loadArticle::context_id=)
 * [Rooftop Film Club](https://rooftopfilmclub.com/london/)
