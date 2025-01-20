@@ -20,4 +20,5 @@
 * [Fermilab](https://www.youtube.com/c/fermilab/videos)
 * [Huygens Optics](https://www.youtube.com/c/HuygensOptics/videos)
 * [Physics Girl](https://www.youtube.com/c/physicsgirl/videos)
+* [ScienceClic](https://www.youtube.com/@ScienceClicEN)
 * [Ten Minute Physics](https://www.youtube.com/c/TenMinutePhysics/videos)
