@@ -12,6 +12,7 @@
 * [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders
 * [eSIMDB](https://esimdb.com/) - Find and Compare Best Travel eSIM for Your Trip
 * [Home Exchange](https://www.homeexchange.com/)
+* [House of Voyage](https://houseofvoyage.co.uk/) - Corporate Travel & Luxury Holidays
 * [NearbyWiki](https://en.nearbywiki.org/map) - Wikipedia places nearby
 * [Rome2Rio](https://www.rome2rio.com/)
 * [SkyScanner](https://www.skyscanner.it/)
