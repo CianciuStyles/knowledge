@@ -179,5 +179,6 @@
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
 * [The Neglected Books Page](https://neglectedbooks.com/)
+* [thebookguide](https://www.thebookguide.info/)
 * [Used Book Search.co.uk](https://www.usedbooksearch.co.uk/)
 * [World of Books](https://www.worldofbooks.com/en-gb)
