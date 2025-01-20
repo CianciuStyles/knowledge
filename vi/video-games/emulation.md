@@ -84,6 +84,7 @@
 * [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) - The Legend of Zelda Majora's Mask PC port
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 * [Simple 64](https://simple64.github.io/) - Nintendo 64 Emulator
+* [SummerCart64](https://summercart64.dev/)
 
 ### Nintendo DS
 
