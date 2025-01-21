@@ -152,6 +152,11 @@
 * [Mercato Metropolitano](https://www.mercatometropolitano.com/) - Elephant & Castle
 * [Patty & Bun](https://www.pattyandbun.co.uk/)
 
+### Spas
+
+* [Marshall Street Spa](https://everyonespa.com/our-venues/westminster-marshall-street/) - Westminster
+* [Porchester Spa & Wellness](https://everyonespa.com/our-venues/porchester-spa-westminster/) - Westminster
+
 ### Sports
 
 * [Footy Addicts](https://footyaddicts.com/)
