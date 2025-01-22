@@ -19,6 +19,7 @@
 * [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/) - Andy Hippo
 * [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html) - Tom Mason
 * [Reverse engineering an illegal IPTV application on the Google Play Store](https://github.com/benhamad/blog/blob/main/2024-04-12-dramalive.md) - Chaker Benhamad
+* [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/) - ssno
 * [Tony Hawk’s Pro Strcpy](https://icode4.coffee/?p=954) - I Code 4 Coffee
 
 ### Books
