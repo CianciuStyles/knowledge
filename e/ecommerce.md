@@ -38,6 +38,7 @@
 * [John Pye Auctions](https://www.johnpye.co.uk/)
 * [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
+* [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [OnBuy](https://www.onbuy.com/gb/)
 * [SCAN UK](https://www.scan.co.uk/) - PC Components and online computer shop
 * [ShopBySub.com](https://www.shopbysub.com/)
