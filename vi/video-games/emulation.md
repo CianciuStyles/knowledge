@@ -9,7 +9,6 @@
 * [CoolROM](https://coolrom.com.au/)
 * [D3D9On12](https://github.com/microsoft/D3D9On12) - Microsoft
 * [dgVoodoo 2](https://dege.freeweb.hu/dgVoodoo2/) - implementation of old graphics API's for Windows 7 and later version
-* [Diablo](https://d07riv.github.io/diabloweb/)
 * [DOSBox](https://www.dosbox.com/) - an x86 emulator with DOS
 * [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
 * [Dosemu2](https://dosemu2.github.io/dosemu2/) - Run DOS programs under linux
@@ -43,6 +42,8 @@
 * [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
 * [Classic games online](https://playclassic.games/)
 * [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
+* [Diablo](https://d07riv.github.io/diabloweb/)
+* [Pitfall!](https://meatfighter.com/pitfall-web/)
 * [Super Mario 64 on the Web!](https://28klotlucas2.github.io/Mario64webgl/)
 * [wipEout](https://phoboslab.org/wipegame/) - Dominic Szablewski ([Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout))
 
