@@ -44,6 +44,7 @@
 * [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [Pitfall!](https://meatfighter.com/pitfall-web/)
+* [PrinceJS](https://princejs.com/)
 * [Super Mario 64 on the Web!](https://28klotlucas2.github.io/Mario64webgl/)
 * [wipEout](https://phoboslab.org/wipegame/) - Dominic Szablewski ([Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout))
 
