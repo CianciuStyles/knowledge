@@ -147,6 +147,7 @@
   * [Ridge Racer Type 4 / R4 - The 20th Anniversary Sounds](https://www.youtube.com/playlist?list=PLhpyh9v4DetuVkw9K2AnEn9ELVp7d9hKb)
 * [Shadow Of The Colossus](https://www.youtube.com/watch?v=57jIlw6HmCE)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM\&feature=youtu.be)
+* [Street Fighter EX Plus Alpha](https://www.youtube.com/playlist?list=PLE4B2BD2F4DF31136)
 * [Surviving Mars](https://www.youtube.com/playlist?list=PLM6Huo32vF1QdhEYGVAOsc8T-BhxACUiU)
 * [System Shock 2](https://www.youtube.com/watch?v=H392MiLaTm8\&list=PLMSvN3D-9Rq3TYZdo_CNuWdKClB10ZGH7)
 * [The Last of Us](https://www.youtube.com/playlist?list=PL8ewBDH5ZkrUqmzDJvyIPoUcM8qLsJ2bZ)
