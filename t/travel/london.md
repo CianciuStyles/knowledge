@@ -95,12 +95,14 @@
 * [Bank of England Museum](https://www.bankofengland.co.uk/museum) - Bank
 * [How to navigate London's Museums and Galleries](https://assets.londonist.com/uploads/2015/02/museums3_7.pdf)
 * [London Mithraeum](https://www.londonmithraeum.com/) - City of London
+* [London Museum Docklands](https://www.londonmuseum.org.uk/docklands/) - Canary Wharf
 * [Natural History Museum](https://www.nhm.ac.uk/) - South Kensington
 * [Royal Air Force Museum](https://www.rafmuseum.org.uk/london/) - Colindale
 * [Science Museum](https://www.sciencemuseum.org.uk/) - South Kensington
   * [Power Up Exhibition](https://www.sciencemuseum.org.uk/see-and-do/power)
 * [Sir John Soane's Museum](https://www.soane.org/) - Holborn
 * [The Cartoon Museum](https://www.cartoonmuseum.org/) - Fitzrovia
+* [Wellcome Collection](https://wellcomecollection.org/) - Euston
 
 ### Parks
 
