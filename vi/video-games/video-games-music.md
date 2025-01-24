@@ -144,6 +144,7 @@
 * [Rayman Origins](https://www.youtube.com/watch?v=GZbKagLlFQ0\&list=PLO4jlmGoc6uCRbONEtHHNHMLyFa6Mu6_y)
 * [Resident Evil 2 Remake](https://www.youtube.com/playlist?list=PLHRsopJvRecxhts_qqQKdUPsSWDEbPaWk)
 * [Ridge Racer Type 4](https://www.youtube.com/watch?v=dBWKwbjj020\&list=PL6PHQCxAqpJTLqJjrDXhr_rXx0ta5rv4M)
+  * [Ridge Racer Type 4 / R4 - The 20th Anniversary Sounds](https://www.youtube.com/playlist?list=PLhpyh9v4DetuVkw9K2AnEn9ELVp7d9hKb)
 * [Shadow Of The Colossus](https://www.youtube.com/watch?v=57jIlw6HmCE)
 * [Silent Hill 2](https://www.youtube.com/watch?v=QFvt2cNSOaM\&feature=youtu.be)
 * [Stronghold](https://www.youtube.com/watch?v=v6otXDTS0KU)
