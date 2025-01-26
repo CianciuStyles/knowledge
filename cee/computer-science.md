@@ -3,6 +3,7 @@
 ### Articles
 
 * [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/) - Daniel Hooper
+* [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history) - Matheus Lima
 
 ### Books
 
