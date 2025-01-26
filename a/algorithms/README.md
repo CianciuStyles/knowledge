@@ -53,6 +53,8 @@
 
 <figure><img src="../../.gitbook/assets/Big O Notation 101.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/DSA Pattern Cheatsheet.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
