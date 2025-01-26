@@ -32,6 +32,7 @@
 * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - Herbert Wolverson
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 * [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) - Jim Blandy, Jason Orendorff, and Leonora Tindall
+* [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Rust for Rustaceans](https://rust-for-rustaceans.com/) - Jon Gjengset
 * [Rust in Action](https://www.rustinaction.com/) - Tim McNamara
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
