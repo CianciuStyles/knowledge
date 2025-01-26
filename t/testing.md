@@ -108,6 +108,7 @@ public void should_calculate_subtotal_and_total_amount_ \
 
 * [Test-Driven Development: By Example](https://smile.amazon.co.uk/dp/0321146530) - Kent Beck
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/test-driven-development/)
+* [The Fuzzing Book:  Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
 
 ### Videos
 
