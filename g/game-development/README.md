@@ -141,3 +141,4 @@
 ### YouTube Videos
 
 * [I built my own 3D Game Engine with Open-Source Tools](https://www.youtube.com/watch?v=SV8uBtUHAkQ) - Modern Vintage Gamer
+* [JavaScript GameDev – Code a Sonic Runner Using Kaplay Library](https://www.youtube.com/watch?v=EmMO0yQ7eeY) - freeCodeCamp.org
