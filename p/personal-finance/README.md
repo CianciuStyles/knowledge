@@ -57,6 +57,7 @@
 ### Courses
 
 * [Build Wealth by Investing in Index Funds](https://courses.personalfinanceclub.com/courses/take/build-wealth-by-investing-in-index-funds-2022/) - Jeremy Schneider, Personal Finance Club
+* [How to Money Like a Millionaire](https://www.personalfinanceclub.com/how-to-money-like-a-millionaire/) - Jeremy Schneider, Personal Finance Club
 
 ### Hacker News Threads
 
