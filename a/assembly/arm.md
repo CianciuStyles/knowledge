@@ -12,6 +12,7 @@
 
 * [Practical ARM Assembly Tutorial Series](https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg) - LaurieWired
 
-YouTube Videos
+### YouTube Videos
 
+* [Assembly Language Programming with ARM](https://www.youtube.com/watch?v=gfmRrPjnEw4) - freeCodeCamp.org
 * [you can learn assembly FAST with this technique (arm64 breakdown)](https://www.youtube.com/watch?v=vhyettT7sdA) - Low Level
