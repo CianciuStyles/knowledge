@@ -9,6 +9,7 @@
 * [Building an LLM from Scratch](https://bclarkson-code.com/) - Benedict Clarkson
   * [Automatic Differentiation](https://bclarkson-code.com/posts/llm-from-scratch-scalar-autograd/post.html)
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
+* [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) - Ben Thompson, Stratechery
 * [How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) - Gergely Orosz
 * [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) - Miguel Grinberg
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
@@ -76,6 +77,7 @@
 #### General
 
 * [ChatGPT](https://chat.openai.com/) - OpenAI
+* [DeepSeek](https://www.deepseek.com/)
 * [Gemini](https://gemini.google.com) - Google
 
 ### Reading Lists
