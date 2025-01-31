@@ -73,6 +73,7 @@
 * [Honeypot](https://www.honeypot.io/)
 * [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
 * [HNHIRING](https://hnhiring.com/)
+  * [Job Trends](https://hnhiring.com/trends)
 * [Just Join IT](https://justjoin.it/)
 * [Lemon.io](https://lemon.io/)
 * [Lenny's Talent Team](https://lennys-jobs.pallet.com/)
