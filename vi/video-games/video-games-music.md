@@ -11,7 +11,14 @@
 ### Covers
 
 * [DSC](https://www.youtube.com/@DSC24)
+  * [Donkey Kong Country - DK Island Swing](https://www.youtube.com/watch?v=lLIQClbDWWE)
+  * [Final Fantasy VII - Let the Battles Begin!](https://www.youtube.com/watch?v=Uq3SandOYJY)
+  * [New Super Mario Bros. Wii - Castle](https://www.youtube.com/watch?v=XkBzsTlz6NM)
+  * [Phoenix Wright: Ace Attorney - Objection!](https://www.youtube.com/watch?v=LMxZroDDQnE)
   * [Sonic The Hedgehog 2 - Chemical Plant Zone](https://www.youtube.com/watch?v=rfiGIv6yf60)
+  * [Super Mario Land - Staff Roll](https://www.youtube.com/watch?v=ip6XkQDrv90)
+  * [Super Mario RPG - Beware The Forest's Mushrooms](https://www.youtube.com/watch?v=KyDFZ6fTAzg)
+  * [The Last of Us - Main Theme](https://www.youtube.com/watch?v=qQekdNsh6dM)
 * [Extra Lives](https://www.youtube.com/c/Extralivesmusic/videos)
   * [Castlevania - Vampire Killer](https://www.youtube.com/watch?v=EXtTRoiXPR4)
   * [Castlevania II: Simon's Quest - Bloody Tears](https://www.youtube.com/watch?v=bGv7e3cewQw)
