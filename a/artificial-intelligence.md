@@ -59,6 +59,8 @@
 
 <figure><img src="../.gitbook/assets/ChatGPT Cheat Sheet.jpeg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3643f9c2-ad4c-4252-b9f5-6cb733e5a123_1283x1536.jpeg?utm_source=substack&#x26;utm_medium=email" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.pinimg.com/564x/9d/80/73/9d8073b95053176739ff12142bbac5a0.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Tools
