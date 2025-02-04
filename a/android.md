@@ -268,3 +268,4 @@ description: https://www.android.com/
   * [Configure ART](https://source.android.com/docs/core/runtime/configure)
   * [Mainline](https://source.android.com/docs/core/ota/modular-system)
   * [The Android App Bundle format](https://developer.android.com/guide/app-bundle/app-bundle-format)
+* [Waydroid](https://waydro.id/) - Android in a Linux container
