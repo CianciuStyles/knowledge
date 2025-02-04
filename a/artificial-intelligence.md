@@ -18,6 +18,7 @@
 * [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) - Noah Smith
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
 * [The AI Revolution - Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) - Tim Urban, Wait But Why
+* [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1) - Jay Alammar
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
 * [The Man Who Tried to Redeem the World with Logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/) - Amanda Gefter, Nautilus
 * [Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/) - Sheshbabu Chinnakonda
