@@ -12,6 +12,7 @@
 * [Entering text in the terminal is complicated ](https://jvns.ca/blog/2024/07/08/readline/)- Julia Evans
 * [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * [What happens when you open a terminal and enter ‘ls’](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls) - Suraj Gupta, Andy Carlson
+* [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) - Julia Evans
 
 ### Books
 
