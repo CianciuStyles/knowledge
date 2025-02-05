@@ -67,7 +67,9 @@
 
 ### Websites
 
+* [A view from my seat](https://aviewfrommyseat.co.uk/)
 * [Almanacco Giallorosso](https://www.almanaccogiallorosso.it)
+* [FBRef](https://fbref.com/) - Football Statistics and History
 * [StatsBomb](https://statsbomb.com/)
   * [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 
