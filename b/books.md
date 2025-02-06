@@ -97,6 +97,7 @@
 
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
 * [Hacker News Books](https://hackernewsbooks.com/)
+* [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 * [HN Books](https://yahnd.com/books/)
 * [Librarian AI](https://www.librarian-ai.com/)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
