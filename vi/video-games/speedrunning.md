@@ -9,6 +9,8 @@
 ### Websites
 
 * [Oengus](https://oengus.io/)
+* [Speedrun.com](https://www.speedrun.com/)
+* [The Run](https://therun.gg/) - Statistics for speedrunners
 
 ### YouTube Channels
 
