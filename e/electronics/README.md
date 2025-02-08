@@ -46,7 +46,8 @@
 * [Branchus Creations](https://www.youtube.com/@BranchusCreations)
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
-* [Necroware](https://www.youtube.com/@necro\_ware/videos)
+* [Necroware](https://www.youtube.com/@necro_ware/videos)
+* [Nostalgia Nerd](https://www.youtube.com/@Nostalgianerd)
 * [Odd Tinkering](https://www.youtube.com/@OddTinkering)
 * [RestoFix](https://www.youtube.com/@restofix)
 * [StezStix Fix?](https://www.youtube.com/c/StezStixFix/videos)
@@ -61,6 +62,6 @@
 * [Learn to solder](https://www.youtube.com/playlist?list=PLxfPY-Ebzlk1sb7PFoh4DS7f7tuWc4PuN) - Branchus Creations
   * [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)
   * [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
-  * [Beginner's Guide to Soldering Electronics Part 3: Surface Mount Soldering](https://www.youtube.com/watch?v=o8UmA6oC\_tU)
+  * [Beginner's Guide to Soldering Electronics Part 3: Surface Mount Soldering](https://www.youtube.com/watch?v=o8UmA6oC_tU)
   * [Repairing damaged or lifted pads on a circuit board](https://www.youtube.com/watch?v=xty1G5UBYb0)
   * [Repairing broken traces on a circuit board](https://www.youtube.com/watch?v=ref9JHUf-uw)
