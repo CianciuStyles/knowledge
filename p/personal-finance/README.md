@@ -167,6 +167,7 @@
   * [Risparmioforo: se risparmio e investo 1000 euro al mese a che capitale reale arrivo?](https://www.youtube.com/watch?v=LPb_h-lPqUs)
 * [The Compounding Investor](https://www.youtube.com/@TheCompoundingInvestor/videos)
 * [The Donegans](https://www.youtube.com/@rebeldonegans/videos)
+* [The Plain Bagel](https://www.youtube.com/@ThePlainBagel)
 
 ### YouTube Playlists
 
