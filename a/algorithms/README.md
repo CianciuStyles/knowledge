@@ -30,6 +30,7 @@
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Robert Sedgewick, Kevin Wayne
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms) - Robert Sedgewick
 * [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Steven Skiena
+* [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) - Rashid Bin Muhammad, Kent State University
 
 ### GitHub Repositories
 
