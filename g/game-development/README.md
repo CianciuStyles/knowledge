@@ -19,6 +19,7 @@
 
 ### Books
 
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/) - Fletcher Dunn, Ian Parbery
 * [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
 * [Game AI Pro](https://www.gameaipro.com/)
