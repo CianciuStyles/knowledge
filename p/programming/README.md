@@ -186,6 +186,10 @@
 
 <figure><img src="https://i.pinimg.com/736x/2d/8b/df/2d8bdf7c1f2d5e422effa1293641abf9.jpg" alt=""><figcaption></figcaption></figure>
 
+### Lobsters threads
+
+* [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
+
 ### Online IDEs
 
 * [glot.io](https://glot.io/)
