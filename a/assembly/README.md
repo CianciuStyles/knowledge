@@ -14,6 +14,7 @@
 * [Assembly Language Step-by-Step: Programming with Linux](https://jagdishkapadnis.wordpress.com/wp-content/uploads/2015/05/assembly-language-step-by-step-programming-with-linux-3rd-edition.pdf) - Jeff Duntemann
 * [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose
 * [Assembly Programming and Computer Architecture for Software Engineers](https://github.com/brianrhall/Assembly) - Brian R. Hall, Kevin J. Slonka
+* [Easy 6502](https://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Introduction to 64 Bit Assembly Programming for Linux and OS X](https://www.amazon.co.uk/Introduction-Bit-Assembly-Programming-Linux/dp/1484921909) - Ray Seyfarth
 * [Learn to Program with Assembly](https://www.amazon.co.uk/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369) - Jonathan Bartlett ([GitHub](https://github.com/Apress/learn-to-program-w-assembly))
 * [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/) - Jonathan Bartlett
