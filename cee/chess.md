@@ -14,3 +14,6 @@
 
 * [Advent of Chess](https://www.adventofchess.com/)
 * [CheckmateChamp.net](https://www.checkmatechamp.net/)
+* [Chess.com](https://www.chess.com/)
+* [Lichess](https://lichess.org/)
+  * [Learn chess - by playing!](https://lichess.org/learn)
