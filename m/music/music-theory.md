@@ -14,9 +14,10 @@
 * [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby W. Rush
 * [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) - Robert Hutchinson
 * [muted.io](https://muted.io/)
+* [Sight Reading Trainer](https://sightreading.training/)
 * [Teoria](https://www.teoria.com/)
 
 ### YouTube playlists
 
-* [Music Theory from the Ground Up](https://www.youtube.com/watch?v=Q3yqUeiMn\_g\&list=PLJTWoPGfHxQH5zdZN6UlMPwZerVApkqmk) - Ben Levin
+* [Music Theory from the Ground Up](https://www.youtube.com/watch?v=Q3yqUeiMn_g\&list=PLJTWoPGfHxQH5zdZN6UlMPwZerVApkqmk) - Ben Levin
 
