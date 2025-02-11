@@ -47,6 +47,7 @@
 * [Branchus Creations](https://www.youtube.com/@BranchusCreations)
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
+* [My Mate VINCE](https://www.youtube.com/user/mymatevince)
 * [Necroware](https://www.youtube.com/@necro_ware/videos)
 * [Nostalgia Nerd](https://www.youtube.com/@Nostalgianerd)
 * [Odd Tinkering](https://www.youtube.com/@OddTinkering)
