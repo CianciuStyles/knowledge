@@ -93,6 +93,7 @@
 * [Michael Penn](https://www.youtube.com/c/MichaelPennMath/videos)
 * [Mind Your Decisions](https://www.youtube.com/c/MindYourDecisions/videos)
 * [Numberphile](https://www.youtube.com/user/numberphile/videos)
+* [vcubingx](https://www.youtube.com/vcubingx)
 * [Vsauce](https://www.youtube.com/c/vsauce1/videos)
 
 ### YouTube Playlists
