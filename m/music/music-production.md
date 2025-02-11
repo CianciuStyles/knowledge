@@ -7,6 +7,7 @@
 ### Software
 
 * [Cardinal](https://cardinal.kx.studio/)
+* [openDAW.studio](https://opendaw.studio/)
 * [REAPER](https://www.reaper.fm/)
 * [VCV Rack](https://vcvrack.com/)
 
