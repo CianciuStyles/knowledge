@@ -429,6 +429,7 @@
 
 ### Books
 
+* [The Art of PostgreSQL](https://theartofpostgresql.com/) - Dimitri Fontaine
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - Hironobu Suzuki
 
 ### GitHub Repositories
