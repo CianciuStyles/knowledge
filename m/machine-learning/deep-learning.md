@@ -16,6 +16,7 @@
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) - Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Richard S. Sutton, Andrew G. Barto
 * [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret, University of Geneva
+* [The Little Learner: A Straight Line to Deep Learning](https://www.thelittlelearner.com/) - Daniel P. Friedman, Anurag Mendhekar
 * [Understanding Deep Learning ](https://udlbook.github.io/udlbook/)- Simon J.D. Prince
 
 ### Courses
