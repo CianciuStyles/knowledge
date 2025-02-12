@@ -23,6 +23,7 @@
 * [Netflix](https://jobs.netflix.com/)
 * [OpenAI](https://openai.com/careers/)
 * [Palantir](https://www.palantir.com/careers/)
+* [Reddit](https://redditinc.com/careers)
 * [Shopify](https://www.shopify.com/uk/careers)
 * [Snowflake](https://careers.snowflake.com/us/en/search-results)
 * [Spotify](https://www.lifeatspotify.com/)
