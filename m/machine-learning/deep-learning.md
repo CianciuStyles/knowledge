@@ -10,6 +10,7 @@
 
 * [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/) - Nathan Lambert
 * [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
 * [Neural Networks from Scratch in Python](https://nnfs.io/)
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) - Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
