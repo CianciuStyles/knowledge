@@ -8,6 +8,7 @@
 
 ### Books
 
+* [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/) - Nathan Lambert
 * [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
 * [Neural Networks from Scratch in Python](https://nnfs.io/)
