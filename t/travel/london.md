@@ -196,6 +196,7 @@
 
 ### Walks
 
+* [Footways](https://footways.london/)
 * [Geocaching](https://www.geocaching.com/play)
 * [Jenny Draper](https://www.jdraper.co.uk/)
 * [Historic London](https://historiclondontours.com/)
@@ -211,3 +212,4 @@
 * [Slow Ways](https://beta.slowways.org/)
 * [Unseen Tours](https://unseentours.org.uk/)
 * [Walk London](https://www.walklondon.org.uk/)
+* [Walking](https://tfl.gov.uk/modes/walking/) - Transport for London
