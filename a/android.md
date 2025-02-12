@@ -269,3 +269,7 @@ description: https://www.android.com/
   * [Mainline](https://source.android.com/docs/core/ota/modular-system)
   * [The Android App Bundle format](https://developer.android.com/guide/app-bundle/app-bundle-format)
 * [Waydroid](https://waydro.id/) - Android in a Linux container
+
+### YouTube Videos
+
+* [Android Internals for Developers](https://www.youtube.com/watch?v=0zJCyKp7-9s) - Effie Barak, Pinterest
