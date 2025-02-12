@@ -101,5 +101,6 @@
 * [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - Harvard
 * [Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A) - MIT
 * [Coding the Matrix - Linear Algebra through Computer Science Applications](https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0)
+* [Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - Gilbert Strang, MIT
 * [Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - Francis Su, Harvey Mudd College
 
