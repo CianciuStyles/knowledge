@@ -37,6 +37,7 @@
 * [Calculus](https://www.amazon.co.uk/Calculus-Michael-Spivak/dp/0914098918) - Michael Spivak
 * [Calculus for Beginners and Artists](https://math.mit.edu/~djk/calculus_beginners) - Daniel J. Kleitman
 * [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson
+* [Calculus On Manifolds](http://www.strangebeautiful.com/other-texts/spivak-calc-manifolds.pdf) - Michael Spivak
 * [Complex Analysis](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/8538/Complex%20Analysis%20-%20Lang.pdf?sequence=1\&isAllowed=y) - Serge Lang
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) - Brendan W. Sullivan
 * [How To Solve It ](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)- George Polya
