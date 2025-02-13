@@ -156,6 +156,11 @@
 * [OpenCommit](https://github.com/di-sukharev/opencommit) - Auto-generate commit messages
 * [UUIDv7 Generator](https://uuidv7.app/)
 
+### REST Client
+
+* [ReqBin](https://reqbin.com/)
+* [Rest Ninja](https://restninja.io/)
+
 ### Screen Sharing
 
 * [Kosmi](https://kosmi.io/)
