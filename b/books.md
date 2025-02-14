@@ -168,6 +168,7 @@
 * [Find Book](https://www.find-book.co.uk/) - UK prices comparator
 * [Five Books](https://fivebooks.com/) - The best books on everything
 * [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
+* [Free Audiobook Search](https://booksearch.party/)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
 * [Momox ](https://www.momox.it/)- Vendi libri usati
