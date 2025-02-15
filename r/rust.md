@@ -78,6 +78,7 @@
 * [RustRover ](https://www.jetbrains.com/rust/)- JetBrains
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft
   * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) ([GitHub](https://github.com/rust-lang/rust-analyzer))
+  * [RustOwl](https://github.com/cordx56/rustowl)
 
 ### Libraries
 
