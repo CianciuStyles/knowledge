@@ -27,6 +27,7 @@
 * [Get Rich Slowly](https://www.getrichslowly.org/)
 * [Monevator](https://monevator.com/)
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+  * [Forum](http://forum.mrmoneymustache.com/)
 * [Personal Finance Club](https://www.personalfinanceclub.com/blog/) - Jeremy Schneider
 * [Retirement Investing Today](http://www.retirementinvestingtoday.com/)
 * [The Smart Passive Income Blog](https://www.smartpassiveincome.com/)
@@ -103,7 +104,8 @@
 * [Ask Liz Weston](https://asklizweston.com/)
 * [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Black & White FIRE](https://blackandwhitefire.com/) - UK FIRE & Retire Planner
-* [Bogleheads](https://www.bogleheads.org/wiki/Main_Page)
+* [Bogleheads ](https://bogleheads.org/index.php)- Investing Advice
+  * [Wiki](https://www.bogleheads.org/wiki/Main_Page)
 * [BoringCashCow ](https://boringcashcow.com/)- Discover Boring Businesses that Quietly Rake in the Cash
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
 * [CompiledSanity](https://cspersonalfinance.io/) - Personal Finance Spreadsheets
