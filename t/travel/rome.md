@@ -10,6 +10,7 @@
 
 * [Car Boot Market](https://www.carbootmarket.it/) - Testaccio
 * [Librerie dell'usato, bancarelle e mercatini a Roma](https://pignuoli.blogspot.com/p/blog-page.html) - L'Accademia de' Pignuoli
+* [Mercatini Vintage](https://www.lamentenostalgica.com/mercatini-vintage-antiquariato-collezionismo/i-mercatini-del-weekend-date-regione/) - La Mente Nostalgica
 
 ## Ice Creams
 
