@@ -6,7 +6,7 @@
 
 ### Clothes
 
-* [Shein](https://www.shein.co.uk/)
+* [SUITSUPPLY](https://suitsupply.com/en-gb/)
 * [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
 
