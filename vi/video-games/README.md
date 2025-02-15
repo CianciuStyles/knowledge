@@ -418,6 +418,7 @@
 * [What games would you guys consider to be masterpieces?](https://www.reddit.com/r/patientgamers/comments/6jiv9e/what_games_would_you_guys_consider_to_be/)
 * [What is a great video game you can finish in a single afternoon?](https://www.reddit.com/r/AskReddit/comments/42m6y8/what_is_a_great_video_game_you_can_finish_in_a/)
 * [What is in your opinion one MUST play game from the last 20 years?](https://www.reddit.com/r/patientgamers/comments/u5j9cb/what_is_in_your_opinion_one_must_play_game_from/)
+* [What is the best game you've ever played that few people have ever heard of?](https://www.reddit.com/r/AskReddit/comments/1injfy5/what_is_the_best_game_youve_ever_played_that_few/)
 * [What is the last 10/10 game you’ve played?](https://www.reddit.com/r/patientgamers/comments/1b618k8/what_is_the_last_1010_game_youve_played/)
 * [What is the oldest game that you still play?](https://www.reddit.com/r/patientgamers/comments/4q41pn/patientgamers_what_is_an_old_pre2000_game_that/)
 * [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/qmlcid/what_is_your_favorite_video_game_of_all_time/)
