@@ -75,6 +75,7 @@
 ### YouTube channels
 
 * [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
+* [Hello Interview](https://www.youtube.com/@hello_interview)
 * [System Design Fight Club](https://www.youtube.com/channel/UC5_QAB65IbajYkL6hzoY-gg/videos)
 * [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)
 
