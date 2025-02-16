@@ -5,6 +5,14 @@
 * [A 9 Day Itinerary for Your First Trip to Japan!](https://www.samanthaminor.com/post/2019/05/31/a-9-day-itinerary-for-your-first-trip-to-japan) - Samantha Minor
 * [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/) - Patrick McKenzie
 
+### Images
+
+<figure><img src="https://i.pinimg.com/564x/b9/cd/da/b9cdda5f6cb28a96662cf97c85d17f3c.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.pinimg.com/564x/7c/42/5d/7c425d640354ed6849704da9e8c43753.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.pinimg.com/736x/21/ec/16/21ec16774ff91a4d07a4565fc90302c9.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Maps
 
 * [Nara](https://www.google.com/maps/d/u/0/viewer?mid=1nlU6I4YXqk_kpIead4gSmOT-jnTtYUU\&ll=34.65272545711532%2C135.7913266\&z=13)
