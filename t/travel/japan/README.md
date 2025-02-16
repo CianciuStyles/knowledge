@@ -14,10 +14,14 @@
 
 * [r/JapanTravel](https://www.reddit.com/r/JapanTravel/)
 * [r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)
+  * [Welcome to /r/JapanTravelTips! If you're new to the subreddit, start here.](https://www.reddit.com/r/JapanTravelTips/comments/19cfb5s/welcome_to_rjapantraveltips_if_youre_new_to_the/)
+  * [What are some apps you found useful on your trip to Japan?](https://www.reddit.com/r/JapanTravelTips/comments/18116hz/what_are_some_apps_you_found_useful_on_your_trip/)
 
 ### Websites
 
 * [Japan Rail Pass Calculator](https://www.japan-guide.com/railpass/)
+* [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/index.html)
+  * [Exemption of Visa (Short-Term Stay)](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)
 * [Tabelog](https://tabelog.com/en/) - Japan's No. 1 Restaurant Listing and Reservation Site
 
 ### YouTube Channels
