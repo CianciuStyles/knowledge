@@ -17,8 +17,8 @@
 
 ### Websites
 
-* [Go Tokyo](https://www.gotokyo.org/en/index.html) - The Official Tokyo Travel Guide
 * [Japan Rail Pass Calculator](https://www.japan-guide.com/railpass/)
+* [Tabelog](https://tabelog.com/en/) - Japan's No. 1 Restaurant Listing and Reservation Site
 
 ### YouTube Channels
 
