@@ -255,6 +255,7 @@
 * [Travel](t/travel/README.md)
   * [Japan](t/travel/japan/README.md)
     * [Kyoto](t/travel/japan/kyoto.md)
+    * [Osaka](t/travel/japan/osaka.md)
     * [Tokyo](t/travel/japan/tokyo.md)
   * [London](t/travel/london.md)
   * [Rome](t/travel/rome.md)

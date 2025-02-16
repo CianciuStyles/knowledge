@@ -16,7 +16,6 @@
 ### Maps
 
 * [Nara](https://www.google.com/maps/d/u/0/viewer?mid=1nlU6I4YXqk_kpIead4gSmOT-jnTtYUU\&ll=34.65272545711532%2C135.7913266\&z=13)
-* [Osaka](https://www.google.com/maps/d/u/0/viewer?mid=1nT_WwCO5ADmnbEe8kx8MScFEVVGaXVQ\&ll=34.65968068318899%2C135.50987719999998\&z=13)
 
 ### Subreddits
 
