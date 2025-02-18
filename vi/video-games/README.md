@@ -162,6 +162,14 @@
 * [Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
 * [What are some must-read books about video games and gaming history?](https://news.ycombinator.com/item?id=40365052)
 
+### HDMI Switches
+
+* [DGODRT HDMI Switch 5 In 1 Out 4K @ 60 Hz](https://www.amazon.co.uk/dp/B0BNT6FB1V)
+* [Kinivo 501BN HDMI Switch 5 In 1 Out 4K @ 30 Hz](https://www.amazon.co.uk/dp/B0049SCB2Y)
+* [Kinivo 550BN HDMI Switch 5 In 1 Out  4K @ 60Hz HDR](https://www.amazon.co.uk/dp/B07CRWBPN4)
+* [SGEYR HDMI Switch 5 In 1 Out 4K @ Hz](https://www.amazon.co.uk/SGEYR-Switcher-Selector-Support-HDCP2-2/dp/B07PDVQD12/)
+* [UGREEN HDMI Switch 5 in 1 Out 4K @ 60 Hz](https://www.amazon.co.uk/dp/B09Y14JSFH)
+
 ### Hints
 
 * [Before I Play](https://www.beforeiplay.com/index.php?title=Main_Page)
