@@ -6,6 +6,10 @@
 
 ### Clothes
 
+* [Abercrombie & Fitch](https://www.abercrombie.com/)
+* [Everlane](https://www.everlane.com/)
+* [GU](https://www.gu-global.com/)
+* [MUJI](https://uk.muji.eu/)
 * [SUITSUPPLY](https://suitsupply.com/en-gb/)
 * [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
