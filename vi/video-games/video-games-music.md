@@ -54,6 +54,7 @@
 * [GaMetal](https://www.youtube.com/@JonnyAtma)
   * [Phoenix Wright: Ace Attorney - Cornered](https://www.youtube.com/watch?v=xZpwfcw4NkQ)
   * [R4: Ridge Racer Type 4 - Move Me](https://www.youtube.com/watch?v=lW9NCklRI1E)
+  * [Super Mario Galaxy - Gusty Garden Galaxy feat. String Player Gamer](https://www.youtube.com/watch?v=I2MtA3_p_5M)
 * [insaneintherainmusic](https://www.youtube.com/@insaneintherainmusic)
   * [Deltarune - Big Shot](https://www.youtube.com/watch?v=fxf8scKOIgY)
   * [Deltarune - Field of Hopes and Dreams](https://www.youtube.com/watch?v=kSU0w7KwRIw)
