@@ -45,7 +45,8 @@
 ### Crates
 
 * [cargo-chef](https://crates.io/crates/cargo-chef) - A cargo sub-command to build project dependencies for optimal Docker layer caching
-* [criterion](https://crates.io/crates/criterion) - Statistics-driven micro-benchmarking library&#x20;
+* [criterion](https://crates.io/crates/criterion) - Statistics-driven micro-benchmarking library
+* [dioxus](https://crates.io/crates/dioxus) - Build fullstack web, desktop, and mobile apps with a single codebase
 * [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on std::error::Error with customizable Reports
 * [hyperfine](https://crates.io/crates/hyperfine) - A command-line benchmarking tool
 * [nom](https://crates.io/crates/nom) - A byte-oriented, zero-copy, parser combinators library
