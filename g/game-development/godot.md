@@ -13,7 +13,7 @@ description: https://godotengine.org/
 ### Courses
 
 * [Godot Tutorial for Unity Developers (and other beginners)](https://www.youtube.com/watch?v=1EFKe24X8vI)
-* [The ultimate introduction to Godot 4](https://www.youtube.com/watch?v=nAh\_Kx5Zh5Q)
+* [The ultimate introduction to Godot 4](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q)
 
 ### GitHub Repositories
 
@@ -26,10 +26,11 @@ description: https://godotengine.org/
 
 ### YouTube Playlists
 
+* [Create a Beat'em Up game in Godot](https://www.youtube.com/playlist?list=PLNNbuBNHHbNGtZjygmnJ2fBvp6JmDNkAm) - The GameDev Tavern
 * [Remaking Super Mario World in Godot](https://www.youtube.com/playlist?list=PLKCF1pHYsbiHNKGBoHrIM2l19tlN5GdVK) - Eric Kaiser
 
 ### Websites
 
 * [Godot Docs](https://docs.godotengine.org/en/stable/index.html)
-* [Godot Recipes](https://kidscancode.org/godot\_recipes/4.x/) - KidsCanCode
+* [Godot Recipes](https://kidscancode.org/godot_recipes/4.x/) - KidsCanCode
 * [Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/)
