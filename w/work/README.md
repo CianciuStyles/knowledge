@@ -93,6 +93,7 @@
 * [LinkedIn Skill Assessments](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([GitHub](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
 * [moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/) ([GitHub](https://github.com/Kaustubh-Natuskar/moreThanFAANGM))
 * [promotions.fyi](https://www.promotions.fyi/)
+* [SkillSets](https://skillsets.tech/)
 * [StaffEng](https://staffeng.com/)
 * [TechPays Europe](https://techpays.com/)
 * [Unoffice Hours](https://unofficehours.com/)

@@ -470,6 +470,7 @@
 
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
 * [SadNES cITy](https://www.sadnescity.it/)
+* [Translations Patches](https://cdromance.org/translations/) - CDRomance
 
 ### Walkthroughs
 
@@ -504,6 +505,7 @@
 * [Nukapedia ](https://fallout.fandom.com/wiki/Fallout_Wiki)- Fallout Wiki
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 * [PlayStation Wiki](https://playstation.fandom.com/wiki/Main_Page)
+  * [List of PlayStation 2 games with alternative display modes](https://playstation.fandom.com/wiki/List_of_PlayStation_2_games_with_alternative_display_modes)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main_Page)
 * [S.T.A.L.K.E.R. Wiki](https://stalker.fandom.com/wiki/S.T.A.L.K.E.R._Wiki)
 * [The Elder Scrolls Wiki](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki)

@@ -9,6 +9,7 @@
 ### Websites
 
 * [Google Pension Modeller](https://datatech.pwc.com/googlepensionstax/)
+* [Guiide](https://www.guiide.co.uk/) - Free Pension Calculator
 * [MoneyHelper - Pensions and retirement](https://www.moneyhelper.org.uk/en/pensions-and-retirement/)
 * [PensionBee](https://www.pensionbee.com/)
 

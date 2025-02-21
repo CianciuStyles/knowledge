@@ -8,6 +8,8 @@
 
 <figure><img src="https://i.pinimg.com/736x/fc/c6/af/fcc6af3fe75fe934c3f43e32e9e960fc.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonic-chart-by-tofugu.jpg" alt=""><figcaption></figcaption></figure>
+
 * [3 months of learning Japanese](https://skerritt.blog/3-months-of-learning-japanese/) - Autumn Skerritt
 * [Japanese Learning Hub](https://www.fluentin3months.com/learn/japanese-learning-hub/) - Fluent in 3 Months
 * [Japanese Like a Breeze (JLAB)](https://www.japanese-like-a-breeze.com/)
@@ -19,4 +21,5 @@
 * [Migaku](https://migaku.com/)
 * [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
+* [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)

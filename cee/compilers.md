@@ -65,6 +65,10 @@
 * [The LLVM Compiler Infrastructure Project](https://llvm.org/)
   * [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453) - John Regehr
 
+### Wikipedia Articles
+
+* [Shunting yard algorithm](https://en.wikipedia.org/wiki/Shunting_yard_algorithm)
+
 ### YouTube Playlists
 
 * [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs) - Pixeled
@@ -73,3 +77,5 @@
 
 * [Just In Time (JIT) Compilers](https://www.youtube.com/watch?v=d7KHAVaX_Rs) - Computerphile
 * [So what's exactly a JIT Compiler?](https://www.youtube.com/watch?v=sQTOIkOMDIw) - Omer Iqbal
+* [The Shunting Yard Algorithm Demystified: Transform Expressions Like a Pro!](https://www.youtube.com/watch?v=1VjJe1PeExQ) - Gary Explains
+* [What is Reverse Polish Notation (AKA Postfix Notation)? Why is it Important?](https://www.youtube.com/watch?v=QM_RsQ9Yeio) - Gary Explains

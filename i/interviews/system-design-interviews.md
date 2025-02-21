@@ -2,6 +2,8 @@
 
 ## Resources
 
+<figure><img src="../../.gitbook/assets/1739983885212.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Ace System Design Interviews Like A Boss.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/670b7459-49bc-485c-965a-7dbfb3177894_892x1798.jpg" alt=""><figcaption></figcaption></figure>

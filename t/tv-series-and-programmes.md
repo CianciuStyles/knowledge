@@ -6,7 +6,7 @@
 * [Black Mirror](https://www.imdb.com/title/tt2085059/)
 * [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 * [Peep Show](https://www.channel4.com/programmes/peep-show)
-* [Sherlock](https://www.imdb.com/title/tt1475582/?ref\_=nv\_sr\_srsg\_0)
+* [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=nv_sr_srsg_0)
 
 ### IPTV Playlists
 
@@ -15,27 +15,28 @@
 
 ### Reddit Threads
 
-* [Favourite British Game shows of all time?](https://www.reddit.com/r/AskUK/comments/s0hcd7/favourite\_british\_game\_shows\_of\_all\_time/)
-* [What's a great TV show from that past that people may have missed?](https://www.reddit.com/r/AskUK/comments/127dg9b/whats\_a\_great\_tv\_show\_from\_that\_past\_that\_people/)
-* [What's a great TV show that nobody talks about?](https://www.reddit.com/r/AskReddit/comments/s0tjvz/whats\_a\_great\_tv\_show\_that\_nobody\_talks\_about/)
-* [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats\_a\_show\_that\_has\_never\_had\_a\_bad\_episode/)
-* [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats\_the\_goat\_of\_all\_sitcoms/)
-* [What's the Quintessential British TV Show Everyone Should Watch?](https://www.reddit.com/r/AskUK/comments/1ebu4bf/whats\_the\_quintessential\_british\_tv\_show\_everyone/)
-* [What are your favorite British TV shows of the last decade?](https://www.reddit.com/r/AskUK/comments/s0sp21/what\_are\_your\_favorite\_british\_tv\_shows\_of\_the/)
-* [What is your all-time favorite TV show?](https://www.reddit.com/r/AskReddit/comments/rkx24t/what\_is\_your\_alltime\_favorite\_tv\_show/)
-* [What is the best British tv show you watched?](https://www.reddit.com/r/AskUK/comments/1dw7zmo/what\_is\_the\_best\_british\_tv\_show\_you\_watched/)
-* [What is the best series you ever watched?](https://www.reddit.com/r/AskReddit/comments/1gfh2qm/what\_is\_the\_best\_series\_you\_ever\_watched/)
-* [What is the best TV series of all time?](https://www.reddit.com/r/AskReddit/comments/12gtfu7/what\_is\_the\_best\_tv\_series\_of\_all\_time/)
-* [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello\_uk\_reddit\_what\_is\_your\_favourite\_british\_tv/)
-* [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what\_show\_had\_you\_hooked\_after\_1\_episode/)
-* [What show has never had a bad season?](https://www.reddit.com/r/AskReddit/comments/zlywi9/what\_show\_has\_never\_had\_a\_bad\_season/)
-* [What show stayed good from start to finish?](https://www.reddit.com/r/AskReddit/comments/12emr13/what\_show\_stayed\_good\_from\_start\_to\_finish/)
-* [What show will you never get tired of rewatching?](https://www.reddit.com/r/AskReddit/comments/y6wlhi/what\_show\_will\_you\_never\_get\_tired\_of\_rewatching/)
-* [What tv show is 10/10 with less than 40 episodes?](https://www.reddit.com/r/AskReddit/comments/1agrty8/what\_tv\_show\_is\_1010\_with\_less\_than\_40\_episodes/)
-* [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what\_tv\_show\_managed\_to\_be\_consistently\_fantastic/)
-* [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
-* [What TV show would you rate 10/10 that has fewer than 50 episodes?](https://www.reddit.com/r/AskReddit/comments/1f3indl/what\_tv\_show\_would\_you\_rate\_1010\_that\_has\_fewer/)
-* [Which TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/1bamj7y/which\_tv\_show\_never\_had\_a\_decline\_in\_quality/)
+* [Favourite British Game shows of all time?](https://www.reddit.com/r/AskUK/comments/s0hcd7/favourite_british_game_shows_of_all_time/)
+* [What's a great TV show from that past that people may have missed?](https://www.reddit.com/r/AskUK/comments/127dg9b/whats_a_great_tv_show_from_that_past_that_people/)
+* [What's a great TV show that nobody talks about?](https://www.reddit.com/r/AskReddit/comments/s0tjvz/whats_a_great_tv_show_that_nobody_talks_about/)
+* [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
+* [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats_the_goat_of_all_sitcoms/)
+* [What's the Quintessential British TV Show Everyone Should Watch?](https://www.reddit.com/r/AskUK/comments/1ebu4bf/whats_the_quintessential_british_tv_show_everyone/)
+* [What are your favorite British TV shows of the last decade?](https://www.reddit.com/r/AskUK/comments/s0sp21/what_are_your_favorite_british_tv_shows_of_the/)
+* [What is a lesser known show that is incredible to binge?](https://www.reddit.com/r/AskReddit/comments/1irp5nz/what_is_a_lesser_known_show_that_is_incredible_to/)
+* [What is your all-time favorite TV show?](https://www.reddit.com/r/AskReddit/comments/rkx24t/what_is_your_alltime_favorite_tv_show/)
+* [What is the best British tv show you watched?](https://www.reddit.com/r/AskUK/comments/1dw7zmo/what_is_the_best_british_tv_show_you_watched/)
+* [What is the best series you ever watched?](https://www.reddit.com/r/AskReddit/comments/1gfh2qm/what_is_the_best_series_you_ever_watched/)
+* [What is the best TV series of all time?](https://www.reddit.com/r/AskReddit/comments/12gtfu7/what_is_the_best_tv_series_of_all_time/)
+* [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello_uk_reddit_what_is_your_favourite_british_tv/)
+* [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what_show_had_you_hooked_after_1_episode/)
+* [What show has never had a bad season?](https://www.reddit.com/r/AskReddit/comments/zlywi9/what_show_has_never_had_a_bad_season/)
+* [What show stayed good from start to finish?](https://www.reddit.com/r/AskReddit/comments/12emr13/what_show_stayed_good_from_start_to_finish/)
+* [What show will you never get tired of rewatching?](https://www.reddit.com/r/AskReddit/comments/y6wlhi/what_show_will_you_never_get_tired_of_rewatching/)
+* [What tv show is 10/10 with less than 40 episodes?](https://www.reddit.com/r/AskReddit/comments/1agrty8/what_tv_show_is_1010_with_less_than_40_episodes/)
+* [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what_tv_show_managed_to_be_consistently_fantastic/)
+* [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what_tv_show_never_had_a_decline_in_quality/)
+* [What TV show would you rate 10/10 that has fewer than 50 episodes?](https://www.reddit.com/r/AskReddit/comments/1f3indl/what_tv_show_would_you_rate_1010_that_has_fewer/)
+* [Which TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/1bamj7y/which_tv_show_never_had_a_decline_in_quality/)
 
 ### Streaming Services
 

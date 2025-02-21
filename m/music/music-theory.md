@@ -4,6 +4,11 @@
 
 * [Basic Music Theory in \~200 Lines of Python](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python) - Manohar Varga ([HN](https://news.ycombinator.com/item?id=26859907))
 
+### Software
+
+* [ChordFlow](https://github.com/timvancann/chordflow)
+* [MuseScore](https://musescore.org/) - Free music composition and notation software
+
 ### Websites
 
 * [Audible Genius](https://www.audiblegenius.com/)

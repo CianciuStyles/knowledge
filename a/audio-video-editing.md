@@ -15,5 +15,8 @@
 
 #### Video
 
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 * [FFmpeg](https://ffmpeg.org/)
+* [Handbrake](https://handbrake.fr/) - The open source video transcoder
+* [Shotcut](https://shotcut.org/)
 * [Synthesia](https://www.synthesia.io/) - AI Video Generation platform

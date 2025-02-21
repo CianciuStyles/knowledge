@@ -12,8 +12,13 @@
 
 * [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 
+### LaTeX Distributions
+
+* [MiKTeX](https://miktex.org/)
+* [TeX Live](https://www.tug.org/texlive/)
+
 ### Utilities
 
 * [Detextify](https://detexify.kirelabs.org/classify.html)
 * [LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php)
-
+* [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor

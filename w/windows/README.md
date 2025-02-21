@@ -2,6 +2,7 @@
 
 ### GitHub Repositories
 
+* [Awesome Windows](https://github.com/thechampagne/awesome-windows)
 * [tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image
 
 ### Reddit threads
