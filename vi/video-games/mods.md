@@ -118,6 +118,13 @@
 
 * [STARTER PACK](https://www.moddb.com/mods/starter-pack)
 
+### Super Mario Galaxy 2
+
+* [Galaxy Level Engine](https://github.com/SuperHackio/GalaxyLevelEngine)
+* [Kaizo Mario Galaxy 2](https://gamebanana.com/mods/439733)
+* [Neo Mario Galaxy](https://aurumsmods.com/nmg/)
+* [Super Mario Gravity](https://kuribo64.net/board/thread.php?pid=98008)
+
 ### SWAT 4: The Stetchkov Syndicate
 
 * [SWAT: Back To Los Angeles](https://www.moddb.com/mods/swat-back-to-los-angeles)
