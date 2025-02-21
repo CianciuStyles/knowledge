@@ -39,6 +39,7 @@ description: https://www.linux.org/
 
 ### Software
 
+* [Bottles](https://usebottles.com/) - Easily run Windows software on Linux
 * [Foliate](https://johnfactotum.github.io/foliate/) - eBook reader
 
 ### Websites
