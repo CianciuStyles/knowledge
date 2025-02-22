@@ -8,6 +8,9 @@
 * Theory is great but practice is better. Find and join a Toastmaster club in your area or online.
 * If you use slides, do **not** read the slides to your audience. It's a waste of time: they can read, and they can read faster than you can talk.
 * Focus on the on the broad themes and concepts without trying to remember a specific sequence of words.
+* The best way to start a speech is an empowerment promise: tell people what they will know at the end of the speech that they didn't know at the beginning of the speech.
+* Laser pointers are not good because, in order to use them, you have to be facing the slides rather than the audience, and that's a way to lose the audience. It's much better to highlight something on the slides using an arrow.
+* Having a "Questions?" slide at the end of the talk is not good because that slide might be up for 20 minutes, and also wastes an opportunity to tell people who you are.
 
 ## Resources
 
@@ -31,7 +34,7 @@
 
 ### Videos
 
-* [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Winston
+* [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Henry Winston, MIT
 * [How to Speak So That People Want to Listen](https://www.youtube.com/watch?v=eIho2S0ZahI) - Julian Treasure
 
 ### Websites
