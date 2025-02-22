@@ -273,4 +273,5 @@ description: https://www.android.com/
 ### YouTube Videos
 
 * [Android Internals for Developers](https://www.youtube.com/watch?v=0zJCyKp7-9s) - Effie Barak, Pinterest
+* [Dalvik Virtual Machine Internals](https://www.youtube.com/watch?v=ptjedOZEXPM) - Dan Bornstein, Google
 * [Decoding Android Runtime](https://www.youtube.com/watch?v=9e8yQKVkGgo) - Jitin Sharma
