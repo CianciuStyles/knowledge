@@ -107,6 +107,8 @@
 
 ### YouTube Videos
 
+* [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) - Andrej Karpathy
+  * [Notes by Anfal Mushtaq](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy
 * [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA) - Dale Markowitz
 * [Understanding Neural Network Architectures with Attention and Diffusion](https://www.youtube.com/watch?v=Clh0nJRMvNs) - Michal Karzynski
