@@ -137,6 +137,10 @@
 * [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [The Making of LEGO Island: A Documentary](https://www.youtube.com/watch?v=bG55COe_f8I)
 
+### Documents
+
+* [Grim Fandango Puzzle Document](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+
 ### Events
 
 * [Game Vintage Market](https://www.gamevintagemarket.it/) - Roma
