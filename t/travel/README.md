@@ -4,6 +4,10 @@
 
 * [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/) - Kevin Kelly
 
+### Blog
+
+* [The Cheapest Destinations Blog](https://www.cheapestdestinationsblog.com/)
+
 ### Reddit Threads
 
 * [Reddit where are the best non-tourist places to visit in Europe?](https://www.reddit.com/r/AskReddit/comments/65184x/reddit_where_are_the_best_nontourist_places_to/)
@@ -21,4 +25,5 @@
 * [NearbyWiki](https://en.nearbywiki.org/map) - Wikipedia places nearby
 * [Rome2Rio](https://www.rome2rio.com/)
 * [SkyScanner](https://www.skyscanner.it/)
+* [The Man in Seat 61](https://www.seat61.com/) - The train travel guide
 * [Where Is This?](https://www.where-is-this.com/)
