@@ -1,3 +1,7 @@
+---
+description: https://www.rust-lang.org/
+---
+
 # Rust
 
 ## Resources
@@ -97,6 +101,8 @@
 * [Are we learning yet?](https://www.arewelearningyet.com/)
 * [Are we web yet?](https://www.arewewebyet.org/)
 * [Leptos](https://leptos.dev/) - Build interactive web applications in Rust
+* [Rust Programming Language](https://www.rust-lang.org/)
+  * [2024 State of Rust Survey Result](https://blog.rust-lang.org/2025/02/13/2024-State-Of-Rust-Survey-results.html)
 * [Rustfinity](https://www.rustfinity.com/)
 
 ### YouTube channels
