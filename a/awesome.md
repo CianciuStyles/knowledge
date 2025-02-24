@@ -107,4 +107,5 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Windows: [https://github.com/thechampagne/awesome-windows](https://github.com/thechampagne/awesome-windows)
 * Awesome YouTubers: [https://github.com/JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
+* Awwesome selfhosted: [https://awweso.me/](https://awweso.me/)
 * Best Websites A Programmer Should Visit: [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
