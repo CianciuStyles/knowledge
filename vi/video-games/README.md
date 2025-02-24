@@ -492,6 +492,7 @@
 * [KeyShare.link](https://keyshare.link/) - Platform for sharing unused game keys on Reddit
 * [Logical Increments](https://www.logicalincrements.com/)
 * [noclip](https://noclip.website/)
+* [No One Lives Forever Download](http://nolfrevival.tk/)
 * [Read-Only Memory](https://readonlymemory.com/)
 * [Retro Handhelds](https://retrohandhelds.gg/)
 * [The Genesis Temple](https://genesistemple.com)
