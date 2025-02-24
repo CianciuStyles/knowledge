@@ -62,6 +62,7 @@
   * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=RdfPMadOyw0)
   * [Sonic 2 - Acquatic Ruin Zone](https://www.youtube.com/watch?v=eC60qFBZSGg)
 * [RichaadEB](https://www.youtube.com/@RichaadEB)
+  * [Super Mario Galaxy - Buoy Base Galaxy](https://www.youtube.com/watch?v=kDG8GfBQ0YY)
   * [Xenoblade Chronicles - You Will Know Our Names](https://www.youtube.com/watch?v=dN2IRxm_4po)
 * [Smooth McGroove](https://www.youtube.com/@SmoothMcGroove/videos)
   * [Castlevania - Vampire Killer](https://www.youtube.com/watch?v=ih20Tx-fNJs)
