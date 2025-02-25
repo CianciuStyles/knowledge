@@ -513,6 +513,7 @@
   * [List of PlayStation 2 games with alternative display modes](https://playstation.fandom.com/wiki/List_of_PlayStation_2_games_with_alternative_display_modes)
 * [Portal Wiki](https://theportalwiki.com/wiki/Main_Page)
 * [S.T.A.L.K.E.R. Wiki](https://stalker.fandom.com/wiki/S.T.A.L.K.E.R._Wiki)
+* [Super Mario Wiki](https://www.mariowiki.com/)
 * [The Elder Scrolls Wiki](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki)
 * [The Last of Us Wiki](https://thelastofus.fandom.com/wiki/The_Last_of_Us_Wiki)
 
