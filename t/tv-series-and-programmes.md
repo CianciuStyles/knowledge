@@ -20,6 +20,7 @@
 * [What's a great TV show that nobody talks about?](https://www.reddit.com/r/AskReddit/comments/s0tjvz/whats_a_great_tv_show_that_nobody_talks_about/)
 * [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
 * [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats_the_goat_of_all_sitcoms/)
+* [What's the most epic tv series you’ve watched and would recommend to anyone?](https://www.reddit.com/r/AskReddit/comments/1ix0ung/whats_the_most_epic_tv_series_youve_watched_and/)
 * [What's the Quintessential British TV Show Everyone Should Watch?](https://www.reddit.com/r/AskUK/comments/1ebu4bf/whats_the_quintessential_british_tv_show_everyone/)
 * [What are your favorite British TV shows of the last decade?](https://www.reddit.com/r/AskUK/comments/s0sp21/what_are_your_favorite_british_tv_shows_of_the/)
 * [What is a lesser known show that is incredible to binge?](https://www.reddit.com/r/AskReddit/comments/1irp5nz/what_is_a_lesser_known_show_that_is_incredible_to/)
