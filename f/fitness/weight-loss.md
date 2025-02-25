@@ -6,6 +6,10 @@
 
 * [How to lose weight](https://danieltenner.com/2010/06/21/0018-how-to-lose-weight-html/) - Daniel Tenner ([Hacker News thread](https://news.ycombinator.com/item?id=1449763))
 
+### Books
+
+* [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/www/hackdiet.html) - John Walker
+
 ### GitHub repositories
 
 * [Discovering ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss) - Ariel Faigon
