@@ -150,6 +150,10 @@
 
 ### Restaurants
 
+* [Hangry Bear](https://www.hangrybear.net/) - All You Can Eat Buffet or Bottomless Brunch
+
+
+
 * [Beigel Bake](https://bricklanebeigel.co.uk/) - Brick Lane
 * [Dal Fiorentino](https://dalfiorentino.london/) - Hoxton
 * [Hawksmoor](https://thehawksmoor.com/)
