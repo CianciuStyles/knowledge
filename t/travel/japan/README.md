@@ -1,5 +1,15 @@
 # Japan
 
+### Apps
+
+* [ecbo cloak](https://cloak.ecbo.io/en) - Luggage Storage
+* [Gourmet Navigator](https://play.google.com/store/apps/details?id=jp.co.gnavi.activity\&hl=en_US)
+* [HyperDia](https://www.hyperdia.com/) - Route Search
+* [Japan Travel](https://play.google.com/store/apps/details?id=com.navitime.inbound.walk)
+* [mymizu](https://play.google.com/store/apps/details?id=co.mymizu.mymizu\&hl=en_GB) - Public Refill Spots
+* [NERV Disaster Prevention](https://play.google.com/store/apps/details?id=app.nerv) - Earthquake Warnings
+* [Papago](https://papago.naver.com/) - Translator
+
 ### Articles
 
 * [A 9 Day Itinerary for Your First Trip to Japan!](https://www.samanthaminor.com/post/2019/05/31/a-9-day-itinerary-for-your-first-trip-to-japan) - Samantha Minor
