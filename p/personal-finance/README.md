@@ -142,6 +142,7 @@
 * [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future
 * [Rebel Donegans](https://rebeldonegans.com/)
 * [Taxcafe](https://www.taxcafe.co.uk/) - UK Tax Planning Books
+* [TaxRanked](https://taxranked.com/) - Low-Tax Countries for Self-Employed
 * [UKPersonalFinance Wiki](https://ukpersonal.finance/)
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
