@@ -79,6 +79,7 @@
   * [Super Mario 64 - Koopa's Road](https://www.youtube.com/watch?v=YR6e_gNWxbM)
   * [Super Mario 64 - Main Theme (Bob-Omb Battlefield)](https://www.youtube.com/watch?v=KvlCsxSRBYU)
   * [Super Mario Bros. 3 - Overworld 1](https://www.youtube.com/watch?v=xPncniRuoPs)
+  * [Super Mario Galaxy - Gusty Garden Galaxy](https://www.youtube.com/watch?v=0DzHUGq33po)
   * [Super Mario Land - Birabuto Kingdom](https://www.youtube.com/watch?v=UzoZxu37988)
   * [Super Mario Land - Muda Kingdom](https://www.youtube.com/watch?v=fz_wYIHA8Qg)
   * [Tetris - Theme 'A'](https://www.youtube.com/watch?v=PV06M-Gqxgg)
