@@ -220,7 +220,8 @@
 * [Regular Expressions](r/regular-expressions.md)
 * [Relationships](r/relationships.md)
 * [Reverse Engineering](r/reverse-engineering.md)
-* [Rust](r/rust.md)
+* [Rust](r/rust/README.md)
+  * [Cargo](r/rust/cargo.md)
 
 ## S
 
