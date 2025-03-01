@@ -93,6 +93,7 @@
 
 * [AI Valley](https://aivalley.ai/) - The Latest Source of AI Tools & Prompts
 * [Blackbox AI](https://www.blackbox.ai/) - The Best Model for Code
+* [Can I run this LLM?](https://canirunthisllm.com/) - GPU & Model Compatibility Checker
 * [CodePal.ai](https://codepal.ai/) - Generate Code Online with AI
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
