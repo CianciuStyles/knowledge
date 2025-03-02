@@ -40,5 +40,6 @@
 ### YouTube Channels
 
 * [Babish Culinary Universe](https://www.youtube.com/@babishculinaryuniverse/videos)
+* [Chinese Cooking Demystified](https://www.youtube.com/@ChineseCookingDemystified)
 * [Dessert Person with Clair Saffitz](https://www.youtube.com/@CSaffitz/videos)
 * [Ziang's Food Workshop](https://www.youtube.com/@ZiangsFoodWorkshop)
