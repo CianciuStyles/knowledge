@@ -4,6 +4,27 @@ description: https://www.rust-lang.org/
 
 # Rust
 
+## Notes
+
+### Ownership
+
+* There are three rules to ownership in Rust:
+  1. Each value has an owner
+  2. There is only one owner of a value - other variables may _borrow_ the value
+  3. When the owner of a value goes out of scope, the value gets dropped immediately
+* In Rust, we use the term copy when only stack variables are copied; if there is heap data as well we use the term clone
+* When a value is dropped:
+  1. the destructor, if available, is immediately run
+  2. the heap portion is immediately freed
+  3. the stack portion is immediately popped
+
+### References & Borrowing
+
+* A reference to a type is specified using the `&` (ampersand) notation
+* Rust introduces a concept called _lifetimes_, which can be summed up as the rule that references must always be valid, which means the compiler will not allow you to create a reference that outlives the value it is referencing, and you can never point to null
+* References are immutable by default, but can be changed to mutale using the `&mut` notation
+* At any given time, you can have either _exactly one mutable_ reference or _any numer of immutable_ references to a value
+
 ## Resources
 
 ### Articles
