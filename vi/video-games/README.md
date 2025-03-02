@@ -499,6 +499,8 @@
 * [No One Lives Forever Download](http://nolfrevival.tk/)
 * [Read-Only Memory](https://readonlymemory.com/)
 * [Retro Handhelds](https://retrohandhelds.gg/)
+* [The Digital Antiquarian](https://www.filfre.net/)
+  * [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [The Genesis Temple](https://genesistemple.com)
 
 ### Wikis
