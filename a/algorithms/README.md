@@ -64,6 +64,7 @@
 ### Websites
 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/)
+* [Algorithm](https://liuzhenglaichn.gitbook.io/algorithm) - Zhenglai Liu
 * [Algorithmica](https://en.algorithmica.org/) - Sergey Slotin
 * [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Chris Laux](https://www.chrislaux.com/)
