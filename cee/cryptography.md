@@ -37,6 +37,8 @@
 
 ### Websites
 
+* [Block Breakers](https://davidwong.fr/blockbreakers/index.html)
 * [Cryptography 101](https://cryptography101.ca/) - Alfred J. Menezes
 * [CryptoHack](https://cryptohack.org/)
 * [SHA256 Algorithm Explained](https://sha256algorithm.com/)
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
