@@ -20,7 +20,9 @@
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh, Victor Shoup
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com/) - Svetlin Nakov, PhD
+* [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography) - David Wong
 * [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek
+* [Understanding Cryptography](https://www.cryptography-textbook.com/) - Christof Paar, Jan Pelzl, Tim Güneysu
 
 ### Courses
 
