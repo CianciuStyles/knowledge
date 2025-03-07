@@ -34,6 +34,9 @@
   * [Part 2](https://www.techofnote.com/witness-part-2)
 * [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/zelda-timeline-where-what-is-breath-of-the-wild-botw-2-tears-of-the-kingdom-imprisoning-war) - Jeffrey Parkin, Polygon
 * [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines) - Keith Stuart
+* [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html) - Fabien Sanglard
+  * [Hacker News thread](https://news.ycombinator.com/item?id=43258709)
+  * [Reddit thread](https://www.reddit.com/r/programming/comments/1j3lbjv/why_fastdoom_is_fast/)
 
 ### Awards
 
