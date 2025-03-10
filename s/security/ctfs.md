@@ -20,6 +20,7 @@
 * [Online IT/Security Training](https://shellsharks.com/online-training)
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
 * [picoCTF Primer](https://primer.picoctf.com/)
+* [pwny.cc](https://www.pwny.cc/)
 * [The Many Maxims of Maximally Effective CTFs](https://web.archive.org/web/20201124033521/https://captf.com/maxims.html)
 
 ### GitHub repositories
