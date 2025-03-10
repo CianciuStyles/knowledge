@@ -28,6 +28,7 @@
 
 * [Cryptography I](https://www.coursera.org/learn/crypto) - Dan Boneh
 * [Cryptography II](https://www.coursera.org/learn/crypto2) - Dan Boneh
+* [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - Christof Paar
 
 ### Hacker News threads
 
