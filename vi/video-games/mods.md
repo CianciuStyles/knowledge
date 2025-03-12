@@ -14,6 +14,7 @@
 * [Romhacking.net](https://www.romhacking.net/)
 * [Super Metroid VARIA Randomizer, Solver and Trackers](https://randommetroidsolver.pythonanywhere.com/)
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
+* [Tony Hawk's Pro Strcpy](https://github.com/grimdoomer/TonyHawksProStrcpy) - Code execution exploit for Tony Hawk's video game series
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) ([GitHub](https://github.com/ThirteenAG/WidescreenFixesPack))
 
 ### Age of Empires: The Rise of Rome
