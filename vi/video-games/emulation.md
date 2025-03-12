@@ -70,6 +70,12 @@
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
   * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
+### Microsoft Xbox 360
+
+* [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
+* [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe) - Xbox 360 executable designed to apply freedom-unlocking patches based on xeBuild to the kernel and hypervisor
+* [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
+
 ### Microsoft Xbox One
 
 * XWine1 - Xbox One translation layer
