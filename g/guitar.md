@@ -69,3 +69,17 @@
 * [Shutup & Play](https://www.youtube.com/c/ShutupPlayGuitarTutorials/videos)
 * [Tim Pierce](https://www.youtube.com/c/timpierceguitar/videos)
 * [vanderbilly](https://www.youtube.com/c/vanderbilly/videos)
+
+#### Tabs
+
+* [Jazz Standards For Guitar](https://www.youtube.com/@jazzstandardsforguitar798)
+  * [Antonio Carlos Jobim - Wave](https://www.youtube.com/watch?v=vDdiqixtses)
+* [Mr. Tabs](https://www.youtube.com/@Mr.Tabs.Guitar.Lessons)
+  * [Led Zeppelin - Whole Lotta Love](https://www.youtube.com/watch?v=RSxjlqLXoT8)
+  * [Pink Floyd - Money](https://www.youtube.com/watch?v=Hw2q4baHS54)
+  * [Pink Floyd - Time](https://www.youtube.com/watch?v=PRnJfKLi-Gw)
+  * [Santana - Smooth feat. Rob Thomas](https://www.youtube.com/watch?v=A62k3QKTNqM)
+  * [Super Mario Bros. Theme - Level 1](https://www.youtube.com/watch?v=8Z6WA3rXEq0)
+  * [Survivor - Eye of the Tiger](https://www.youtube.com/watch?v=1x3FetxuQbk)
+* [Santi](https://www.youtube.com/@santi.meneses)
+  * [Santana - Smooth feat. Rob Thomas](https://www.youtube.com/watch?v=ydBEZ5PRpsk)
