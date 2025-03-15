@@ -74,6 +74,8 @@
 
 * [Jazz Standards For Guitar](https://www.youtube.com/@jazzstandardsforguitar798)
   * [Antonio Carlos Jobim - Wave](https://www.youtube.com/watch?v=vDdiqixtses)
+* [MattyK Guitar](https://www.youtube.com/@themattyk27)
+  * [Muse - Knights of Cydonia](https://www.youtube.com/watch?v=_zI5Nf3NdxI)
 * [Mr. Tabs](https://www.youtube.com/@Mr.Tabs.Guitar.Lessons)
   * [Led Zeppelin - Whole Lotta Love](https://www.youtube.com/watch?v=RSxjlqLXoT8)
   * [Pink Floyd - Money](https://www.youtube.com/watch?v=Hw2q4baHS54)
