@@ -80,6 +80,7 @@
 * [Bypassing UAC](https://tryhackme.com/r/room/bypassinguac)
 * [Ice](https://tryhackme.com/r/room/ice)
 * [KAPE](https://tryhackme.com/r/room/kape)
+* [Retro](https://tryhackme.com/room/retro)
 * [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)
 * [Windows Fundamentals 1](https://tryhackme.com/jr/windowsfundamentals1xbx)
 * [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
