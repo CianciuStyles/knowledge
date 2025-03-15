@@ -7,6 +7,7 @@
 ### Clothes
 
 * [Abercrombie & Fitch](https://www.abercrombie.com/)
+* [Crew Clothing Company](https://www.crewclothing.co.uk/)
 * [Everlane](https://www.everlane.com/)
 * [GU](https://www.gu-global.com/)
 * [MUJI](https://uk.muji.eu/)
