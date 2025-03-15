@@ -57,3 +57,4 @@
 * [Online Clean Sweep Assessment](https://www.thebigbiggoalsclub.com/assessments/cleansweep.php)
   * [Alternative](https://www.thebigbiggoalsclub.com/assessments/cleansweep.html)
 * [The Art of Manliness](https://www.artofmanliness.com/)
+* [Your Life in Weeks](https://lifeweeks.app/) - Create a map of your life where each week is a little box.
