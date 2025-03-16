@@ -66,7 +66,10 @@
 * [pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 * [RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 * [UACMe](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+* [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 * [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) - Windows Privilege Escalation Techniques and Scripts
+* [Windows Exploit Suggester - Next Generation](https://github.com/bitsadmin/wesng)
+* [Windows Exploits](https://github.com/WindowsExploits/Exploits)
 
 ### Tools
 
