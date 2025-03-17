@@ -54,6 +54,7 @@
 * [RestoFix](https://www.youtube.com/@restofix)
 * [StezStix Fix?](https://www.youtube.com/c/StezStixFix/videos)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections/videos)
+* [Triple R](https://www.youtube.com/@repair3r)
 * [TronicsFix](https://www.youtube.com/c/Tronicsfix/videos)
 * [TysyTube Restoration](https://www.youtube.com/c/TysyTube)
 * [vswitchzero](https://www.youtube.com/@vswitchzero/videos)
