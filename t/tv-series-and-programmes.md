@@ -38,6 +38,7 @@
 * [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what_tv_show_never_had_a_decline_in_quality/)
 * [What TV show would you rate 10/10 that has fewer than 50 episodes?](https://www.reddit.com/r/AskReddit/comments/1f3indl/what_tv_show_would_you_rate_1010_that_has_fewer/)
 * [Which TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/1bamj7y/which_tv_show_never_had_a_decline_in_quality/)
+* [Which show started 10/10 and ended 10/10?](https://www.reddit.com/r/AskReddit/comments/1j5kn6q/which_show_started_1010_and_ended_1010/)
 
 ### Streaming Services
 
