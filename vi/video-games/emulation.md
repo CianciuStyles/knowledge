@@ -291,6 +291,7 @@
   * [A closer look at Original Xbox Emulation on Steam Deck](https://www.youtube.com/watch?v=MxzN7jXwohk)
   * [A closer look at Vita3k - the PlayStation Vita Emulator](https://www.youtube.com/watch?v=M7fXcrScNIg)
   * [Another look at the Sony PSP GO Handheld in 2018](https://www.youtube.com/watch?v=3HfaAlS7ons)
+  * [Any Xbox 360 can now be hacked with just a USB Flash Drive](https://www.youtube.com/watch?v=IUK__yGXmds)
   * [Dolphin has been ported to the Xbox..and its AWESOME](https://www.youtube.com/watch?v=HJHb3ZJXJfw)
   * [Dolphin on the Xbox just got a MASSIVE update...](https://www.youtube.com/watch?v=Tljqx72Vd2A)
   * [DuckStation 4K PS1 Emulator is awesome on the Xbox Series S](https://www.youtube.com/watch?v=DU5Cs1tz66Q)
