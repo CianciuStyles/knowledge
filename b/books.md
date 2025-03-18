@@ -83,7 +83,9 @@
 
 ### Online Stores
 
+* [Awesome Books](https://www.awesomebooks.com/)
 * [Axel Books](https://www.axelbooks.com/)
+* [BetterWorldBooks](https://www.betterworldbooks.com/)
 * [Blackwell's](https://blackwells.co.uk/bookshop/home)
 * [Books etc.](https://www.booksetc.co.uk/)
 * [Books4People](https://www.books4people.co.uk/)
@@ -157,8 +159,6 @@
 * [1,000 Free Audio Books: Download Great Books for Free](https://www.openculture.com/freeaudiobooks)
 * [800 Free eBooks for iPad, Kindle & Other Devices](https://www.openculture.com/free_ebooks)
 * [Anobii](https://www.anobii.com/)
-* [BetterWorldBooks](https://www.betterworldbooks.com/)
-* [Book Depository](https://www.bookdepository.com/)
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
 * [BookPecker.com](https://www.bookpecker.com/) - 14509 books summarized in 5 bullet points
