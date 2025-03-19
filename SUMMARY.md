@@ -13,6 +13,7 @@
 * [Aging](a/aging.md)
 * [Algorithms & Data Structures](a/algorithms/README.md)
   * [Array](a/algorithms/array.md)
+  * [Constraint Satisfaction Problem](a/algorithms/constraint-satisfaction-problem.md)
   * [Dynamic Programming](a/algorithms/dynamic-programming.md)
   * [Graphs](a/algorithms/graphs.md)
   * [Tree](a/algorithms/tree.md)
