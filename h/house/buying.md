@@ -2,7 +2,7 @@
 
 ### Videos
 
-* [The Complete First Time Buyers Guide](https://www.youtube.com/watch?v=QnuOExYPh\_Y) - Alex Kerr
+* [The Complete First Time Buyers Guide](https://www.youtube.com/watch?v=QnuOExYPh_Y) - Alex Kerr
 
 ### Websites
 
@@ -77,6 +77,8 @@
 
 * [Fedalah](http://www.fedalahltd.co.uk/)
   * William Wates
+* [Hamblin Sullivan Associates](https://www.hsa-surveyors.com/)
+  * Graham Hamblin
 * [Juno Legal](https://client.juno.legal/quote/7jjxrb)&#x20;
 * [London Property Surveyors](https://www.londonpropertysurveyors.co.uk/)
 * [RICS Find a Surveryor](https://www.ricsfirms.com/)
