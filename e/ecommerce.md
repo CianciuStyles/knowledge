@@ -43,6 +43,7 @@
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
 * [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [OnBuy](https://www.onbuy.com/gb/)
+* [Rarewaves](https://www.rarewaves.com/) - Vinyl, CD, DVD, Blu-Ray, Books
 * [Richer Sounds](https://www.richersounds.com/) - TVs, Hi-Fi, Home Cinema
 * [SCAN UK](https://www.scan.co.uk/) - PC Components and online computer shop
 * [ShopBySub.com](https://www.shopbysub.com/)
