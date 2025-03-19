@@ -7,6 +7,12 @@
 * [Array](https://en.wikipedia.org/wiki/Array_\(data_structure\))
 * [Offset](https://en.wikipedia.org/wiki/Offset_\(computer_science\))
 
+## Prefix Sum
+
+### Wikipedia Articles
+
+* [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum)
+
 ## Two Pointers
 
 ### Articles
