@@ -7,6 +7,12 @@
 * [Array](https://en.wikipedia.org/wiki/Array_\(data_structure\))
 * [Offset](https://en.wikipedia.org/wiki/Offset_\(computer_science\))
 
+## Binary Search
+
+### Wikipedia Articles
+
+* [Binary search](https://en.wikipedia.org/wiki/Binary_search)
+
 ## Prefix Sum
 
 ### Wikipedia Articles
