@@ -18,6 +18,7 @@
   * [Graph](a/algorithms/graph.md)
   * [Hash Table](a/algorithms/hash-table.md)
   * [Queue](a/algorithms/queue.md)
+  * [Recursion](a/algorithms/recursion.md)
   * [Tree](a/algorithms/tree.md)
   * [Trie](a/algorithms/trie.md)
   * [Union Find](a/algorithms/union-find.md)
