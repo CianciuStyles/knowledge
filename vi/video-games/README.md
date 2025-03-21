@@ -79,6 +79,7 @@
 ### Cases
 
 * [boxprotectorshop](https://www.boxprotectors.nl/) - The Netherlands
+* [Gaming Cave](https://www.ebay.co.uk/str/gamingcave64) - United Kingdom
 * [grailguard](https://grailguard.co.uk/) - United Kingdom
 * [Retro Game Cases](https://www.retrogamecases.com/) - United States
 * [RetroProtection](https://retroprotection.com/) - United States
