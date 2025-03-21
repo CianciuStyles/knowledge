@@ -20,6 +20,7 @@
   * [Queue](a/algorithms/queue.md)
   * [Tree](a/algorithms/tree.md)
   * [Trie](a/algorithms/trie.md)
+  * [Union Find](a/algorithms/union-find.md)
 * [Amazon Web Services](a/amazon-web-services.md)
 * [Android](a/android.md)
 * [Anime, Comics & Manga](a/anime-comics-and-manga.md)
