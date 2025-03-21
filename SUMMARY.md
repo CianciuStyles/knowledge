@@ -16,6 +16,7 @@
   * [Constraint Satisfaction Problem](a/algorithms/constraint-satisfaction-problem.md)
   * [Dynamic Programming](a/algorithms/dynamic-programming.md)
   * [Graphs](a/algorithms/graphs.md)
+  * [Hash Table](a/algorithms/hash-table.md)
   * [Queue](a/algorithms/queue.md)
   * [Tree](a/algorithms/tree.md)
   * [Trie](a/algorithms/trie.md)
