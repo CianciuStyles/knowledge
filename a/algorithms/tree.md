@@ -21,3 +21,6 @@
 * [AVL Tree Visualisation](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
 * [Red/Black Tree Visualisation](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
+### YouTube Playlists
+
+* [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - William Fiset
