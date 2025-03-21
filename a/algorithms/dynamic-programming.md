@@ -122,6 +122,7 @@
 ### YouTube playlists
 
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr) - Tushar Roy
+* [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - William Fiset
 
 ### YouTube videos
 
