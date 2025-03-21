@@ -43,6 +43,7 @@
 * [Hands On Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Python Data Structures and Algorithms](https://github.com/prabhupant/python-ds)
+* [Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Chanda Abdul
 * [The Algorithms](https://github.com/TheAlgorithms)
 
 ### Hacker News Threads
