@@ -65,6 +65,7 @@
 * [What's a movie people should ignore the reviews and ratings for and just watch?](https://www.reddit.com/r/AskReddit/comments/8yyo5k/whats_a_movie_people_should_ignore_the_reviews/)
 * [What's a movie that always makes you feel good? (Serious)](https://www.reddit.com/r/AskReddit/comments/8v121c/whats_a_movie_that_always_makes_you_feel_good/)
 * [What’s a movie that genuinely had you bawling with laughter?](https://www.reddit.com/r/AskReddit/comments/yr3wl7/whats_a_movie_that_genuinely_had_you_bawling_with/)
+* [What’s a movie that will have you laughing from beginning to finish?](https://www.reddit.com/r/AskReddit/comments/1j8crgs/whats_a_movie_that_will_have_you_laughing_from/)
 * [What's a movie you recommend to everyone, no matter who the person is?](https://www.reddit.com/r/AskReddit/comments/5zqo8o/whats_a_movie_you_recommend_to_everyone_no_matter/)
 * [What’s a must-watch Cult classic British movie?](https://www.reddit.com/r/AskUK/comments/1d4144o/whats_a_mustwatch_cult_classic_british_movie/)
 * [What’s considered a “kid’s movie” but is still very enjoyable to watch as an adult?](https://www.reddit.com/r/AskReddit/comments/13lgp2e/whats_a_considered_a_kids_movie_but_is_still_very/)
