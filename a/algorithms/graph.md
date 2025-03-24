@@ -1,5 +1,7 @@
 # Graph
 
+## Graph
+
 ### YouTube Playlists
 
 * [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - William Fiset
@@ -35,3 +37,9 @@
 * [Dijkstra's Algorithm](https://www.youtube.com/watch?v=GazC3A4OQTE) - Computerphile
 * [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk) - William Fiset
 * [Dijkstra's Shortest Path Algorithm | Source Code | Graph Theory](https://www.youtube.com/watch?v=mbLzxKUeLJ4) - William Fiset
+
+## Network Flow
+
+### YouTube Playlists
+
+* [Network Flow playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDj3NzHbbFIC58etjZhiGcG) - William Fiset
