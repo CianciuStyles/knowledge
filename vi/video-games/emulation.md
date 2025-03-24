@@ -102,7 +102,10 @@
 
 ### Nintendo Game Boy
 
+* Archive.org
+  * [Game Boy Collection](https://archive.org/download/game-boy-collection)
 * [Gearboy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch
+* [Retro Boy](https://smparsons.github.io/retroboy/) - Game Boy emulator that can be played on the web ([GitHub](https://github.com/smparsons/retroboy))
 
 ### Nintendo GameCube
 
