@@ -77,3 +77,7 @@
 * [The Algorithm](https://the-algorithms.com/)
 * [VisuAlgo](https://visualgo.net/en)
 
+### YouTube Playlists
+
+* [Data structures playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu) - William Fiset
+
