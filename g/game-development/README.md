@@ -23,6 +23,7 @@
 * [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
 * [Game AI Pro](https://www.gameaipro.com/)
+* [Game Boy: Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) - gekkio
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Robert Nystrom
 * [Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book) - Michael Abrash
 * [Make JavaScript Games](https://makejsgames.com/)
@@ -115,6 +116,10 @@
 * [GameDev.net](https://www.gamedev.net/)
 * [Game Development](https://game-development.zeef.com/tom.looman) - Tony Looman
 * [GB Studio](https://www.gbstudio.dev/)
+* [gbdev.io](https://gbdev.io/) - Game Boy Development Community
+  * [Pan Docs](https://gbdev.io/pandocs/)
+* [GBDK Showcase](https://gbdk-2020.github.io/gbdk-2020-gallery/)
+* [Homebrew Hub](https://hh.gbdev.io/)
 * [Jason Thor Hall](https://www.develop.games/)
 * [Keep Out!](https://www.playkeepout.com/) - Little Workshop
 * [Lazy Foo's Productions](https://lazyfoo.net/)
