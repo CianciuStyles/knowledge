@@ -55,6 +55,7 @@
 * [What movie will you never get tired of watching?](https://www.reddit.com/r/AskReddit/comments/15ts5qm/what_movie_will_you_never_get_tired_of_watching/)
 * [What movie really is rewatchable hundred times?](https://www.reddit.com/r/AskReddit/comments/1b4mfzk/what_movie_really_is_rewatchable_hundred_times/)
 * [What movies should definitely be watched without knowing anything about them?](https://www.reddit.com/r/AskReddit/comments/48baf5/what_movies_should_definitely_be_watched_without/)
+* [What movies would you rate a perfect 10?](https://www.reddit.com/r/AskReddit/comments/1jiseff/what_movies_would_you_rate_a_perfect_10/)
 * [What old movie (20+ years) still holds up today?](https://www.reddit.com/r/AskReddit/comments/qmzm3v/what_old_movie_20_years_still_holds_up_today/)
 * [What UK film is a genuine hidden gem?](https://www.reddit.com/r/AskUK/comments/1ia1wlh/what_is_uk_film_is_a_genuine_hidden_gem/)
 * [What's a 10/10 film that not many people have seen or heard of?](https://www.reddit.com/r/AskReddit/comments/7w42e2/whats_a_1010_film_that_not_many_people_have_seen/)
