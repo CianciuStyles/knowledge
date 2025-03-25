@@ -30,3 +30,7 @@
 ### Articles
 
 * [Mastering Problem Solving: Two Pointers Technique](https://medium.com/@elfrmkr98/mastering-problem-solving-two-pointers-technique-23dafb17e90b) - Elif İrem Kara Kadyrov
+
+### Reddit threads
+
+* [Two-Pointer Technique, an In-Depth Guide: Concepts Explained](https://www.reddit.com/r/leetcode/comments/18g9383/twopointer_technique_an_indepth_guide_concepts/)
