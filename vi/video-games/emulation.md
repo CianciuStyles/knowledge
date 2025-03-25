@@ -185,6 +185,7 @@
 
 ### Sony PlayStation 4
 
+* [chiaki-ng](https://streetpea.github.io/chiaki-ng/) - Free and Open Source PlayStation Remote Play Client
 * [ShadPS4](https://shadps4.net/) ([GitHub](https://github.com/shadps4-emu/shadPS4)) - PS4 emulator for PC
 
 ### Sony PlayStation Portable
