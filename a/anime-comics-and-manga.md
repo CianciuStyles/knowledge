@@ -6,6 +6,8 @@
 
 <figure><img src="https://i.pinimg.com/564x/e8/46/d8/e846d8bc65a03be755e419fcd678fdfc.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.pinimg.com/736x/8c/20/1f/8c201fe2871b6aa6a76d4e9fb9f60f6b.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Anime Recommendation Chart for Beginners.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://www.99chan.org/a/src/132491646860.jpg" alt=""><figcaption></figcaption></figure>
