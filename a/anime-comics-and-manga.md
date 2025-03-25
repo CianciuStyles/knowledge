@@ -20,9 +20,9 @@
 
 ### Reddit threads
 
-* [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats\_the\_best\_anime\_youve\_ever\_seen/)
-* [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what\_anime\_is\_must\_watch\_anime/)
-* [What is the greatest animated show of all time?](https://www.reddit.com/r/AskReddit/comments/147bva7/what\_is\_the\_greatest\_animated\_show\_of\_all\_time/)
+* [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats_the_best_anime_youve_ever_seen/)
+* [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
+* [What is the greatest animated show of all time?](https://www.reddit.com/r/AskReddit/comments/147bva7/what_is_the_greatest_animated_show_of_all_time/)
 
 ### Websites
 
@@ -31,7 +31,7 @@
 * [Crunchyroll](https://www.crunchyroll.com)
 * [MyAnimeList](https://myanimelist.net/) ([MAL Map](https://www.malmap.net))
 * [The Anime Index](https://piracy.moe/)
-* [The massive "I just got in to anime" recommendation list](https://redditanime.fandom.com/wiki/The\_massive\_%22I\_just\_got\_in\_to\_anime%22\_recommendation\_list)
+* [The massive "I just got in to anime" recommendation list](https://redditanime.fandom.com/wiki/The_massive_%22I_just_got_in_to_anime%22_recommendation_list)
 * [VVVVID](https://www.vvvvid.it)
 * [Watch Anime Dub](https://www.wcostream.com/)
 * [Watch Cartoon Online](https://www.wcofun.com/)
@@ -41,7 +41,7 @@
 
 ### Favourites
 
-* [Calvin and Hobbes](https://www.wikiwand.com/en/articles/Calvin\_and\_Hobbes) - Bill Watterson
+* [Calvin and Hobbes](https://www.wikiwand.com/en/articles/Calvin_and_Hobbes) - Bill Watterson
 * [Simple\&Madama](https://www.simplemadama.com/) - Lorenza Di Sepio
   * [Personalizzazioni](https://www.simplemadama.com/personalizza/)
 
@@ -52,9 +52,9 @@
 ### Websites
 
 * [Abstruse Goose](https://abstrusegoose.com/)
-* [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin\_and\_hobbes/)
+* [Calvin & Hobbes Search Engine](https://michaelyingling.com/random/calvin_and_hobbes/)
 * [Comics Experience](https://comicsexperience.com/)
-* [Max Payne 1 & 2 Graphic Novel Story](http://gldio.com/wrkz/max\_payne/)
+* [Max Payne 1 & 2 Graphic Novel Story](http://gldio.com/wrkz/max_payne/)
 * [Pk hack](https://pkhack.altervista.org/)
 * [Read Comic Online](https://readcomiconline.to/)
 * [The Oatmeal](https://theoatmeal.com/)
@@ -64,13 +64,15 @@
 
 ### Favourites
 
-* [City Hunter](https://www.wikiwand.com/en/City\_Hunter) - Tsukasa Hojo
-* [Death Note](https://www.wikiwand.com/en/Death\_Note) - Tsugumi Ohba, Takeshi Obata
-* [Neon Genesis Evangelion](https://www.wikiwand.com/en/Neon\_Genesis\_Evangelion) - Hideaki Anno, Gainax
+* [City Hunter](https://www.wikiwand.com/en/City_Hunter) - Tsukasa Hojo
+* [Death Note](https://www.wikiwand.com/en/Death_Note) - Tsugumi Ohba, Takeshi Obata
+* [Neon Genesis Evangelion](https://www.wikiwand.com/en/Neon_Genesis_Evangelion) - Hideaki Anno, Gainax
 
 ### Images
 
 <figure><img src="https://i.pinimg.com/originals/83/70/9e/83709ef9a958a80b56ec4404dc9457b8.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://i.pinimg.com/736x/76/93/60/76936035ab5616813ed04bd46e297139.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Websites
 
