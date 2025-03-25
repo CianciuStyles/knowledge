@@ -1,6 +1,7 @@
 # Emulation
 
 * [86Box](https://86box.net/) - Emulator of retro x86-based machines
+* [Afterplay.io](https://afterplay.io/) - Play retro games on any device
 * [Awesome Emulator Development Resources](https://github.com/marethyu/awesome-emu-resources)
 * [CDRomance](https://cdromance.com)
 * [ClassicReload.com](https://classicreload.com/)
