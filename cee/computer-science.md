@@ -22,6 +22,7 @@
 * [Computer Science and Engineering Roadmap and Checklist](https://github.com/apeman/awesome_computer_science)
 * [Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+* [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources)
 * [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
 
 ### Websites
