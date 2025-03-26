@@ -117,6 +117,7 @@
 * [Ethical Hacking Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * [Hacking Books](https://github.com/tanc7/hacking-books)
+* [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
 * [Offensive Reverse Shell (Cheat Sheet)](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet)
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
