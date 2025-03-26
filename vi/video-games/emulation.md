@@ -28,6 +28,7 @@
 * [Play Emulator](https://www.playemulator.com/)
 * [Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended_Emulators) - /v/'s Recommended Games Wiki
+* [Retro Catalog](https://retrocatalog.com/) - Your guide to your perfect gaming handheld
 * [RetroArch Web Player](https://web.libretro.com/)
 * [RetroDECK ](https://retrodeck.net/)([GitHub](https://github.com/XargonWan/RetroDECK))
 * [Retrostic](https://www.retrostic.com/)
