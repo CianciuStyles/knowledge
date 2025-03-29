@@ -24,6 +24,7 @@
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources)
 * [Computer Science - Open Source Society University](https://github.com/ossu/computer-science)
+* [resources-of-learning](https://github.com/taogen-docs/resources-of-learning)
 
 ### Websites
 
