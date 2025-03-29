@@ -43,6 +43,33 @@
 6. Add memoization. If you’re implementing it recursively, add memoization. If you’re doing it iteratively, this will come for free. Adding memoization should be super mechanical. Just see if you have memoized the state at the beginning of your function and add it to memoization before each return statement. Memoization value should almost always be the result of your function.
 7. Time complexity = (# of possible states \* work done per each state). This should also be relatively mechanical. Count the number of states that you can have. This will be linear if you have a single parameter, quadratic if you have two and so on. Think about the work done per each state - that is the work that you have to do assuming that you’ve computed all of the subproblems.
 
+### Patterns
+
+1. Minimum (Maximum) Path to React a Target
+   * Given a target find minimum (maximum) cost / path / sum to reach the target.
+   * Approach: Choose minimum (maximum) path among all possible paths before the current state, then add value for the current state.
+   * Generate optimal solutions for all values in the target and return the value for the target (Top-down, Bottom-up).
+   * Problem List: [DP (Max - Min)](https://leetcode.com/problem-list/55ac4kuc/)
+2. Distinct Ways
+   * Given a target find a number of distinct ways to reach the target.
+   * Approach: Sum all possible ways to reach the current state.
+   * Generate sum for all values in the target and return the value for the target (Top-down, Bottom-up).
+   * Problem List: [DP (distinct ways)](https://leetcode.com/problem-list/55ajm50i/)
+3. Merging Intervals
+   * Given a set of numbers find an optimal solution for a problem considering the current number and the best you can get from the left and right sides.
+   * Approach: Find all optimal solutions for every interval and return the best possible answer.
+   * Get the best from the left and right sides and add a solution for the current position.
+   * Problem List: [DP (merging intervals)](https://leetcode.com/problem-list/55aj8s16/)
+4. DP on Strings
+   * General problem statement for this pattern can vary but most of the time you are given two strings where lengths of those strings are not big
+   * Approach: Most of the problems on this pattern requires a solution that can be accepted in O(n^2) complexity.
+   * If you are given one string s the approach may little vary
+   * Problem List: [DP on strings](https://leetcode.com/problem-list/55afh7m7/)
+5. Decision Making
+   * The general problem statement for this pattern is forgiven situation decide whether to use or not to use the current state. So, the problem requires you to make a decision at a current state.
+   * Approach: If you decide to choose the current value use the previous result where the value was ignored; vice-versa, if you decide to ignore the current value use previous result where value was used.
+   * Problem List: [DP (decision making)](https://leetcode.com/problem-list/55af7bu7/)
+
 ### Problems solved using Dynamic Programming
 
 * [Balanced Partition](https://www.wikiwand.com/en/Partition_problem) - given a set of n integers between 0 and K, partition these integers into two sets so that `|sum(S1) - sum(s2)|` is minimal
