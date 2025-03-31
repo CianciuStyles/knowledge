@@ -153,6 +153,7 @@
 
 * Archive.org
   * [Sega Mega Drive Europe](https://archive.org/details/sega-mega-drive-europe)
+* [BlastEm](https://www.retrodev.com/blastem/) - The fast and accurate Genesis emulator
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
