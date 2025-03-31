@@ -52,6 +52,7 @@
   * [Best of Show HN](https://bestofshowhn.com/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
+  * [HN Popularity Contest](https://refactoringenglish.com/tools/hn-popularity/) - The highest-ranking personal blogs of Hacker News
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
 * [Lobste.rs](https://lobste.rs/)
