@@ -32,6 +32,15 @@ description: https://www.linux.org/
 * [Linux From Scratch ](https://www.linuxfromscratch.org/lfs/view/stable/)- Gerard Beekmans
 * [The SELinux Notebook](https://github.com/SELinuxProject/selinux-notebook/)
 
+### Distributions
+
+#### Netbooks
+
+* [ArchBang](https://archbang.org/)
+* [BunsenLabs Linux](https://www.bunsenlabs.org/)
+* [Crunchbangplusplus](https://crunchbangplusplus.org/)
+* [Puppy Linux](https://puppylinux-woof-ce.github.io/)
+
 ### GitHub Repositories
 
 * [SELinux Project](https://github.com/SELinuxProject)
