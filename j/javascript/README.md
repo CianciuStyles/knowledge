@@ -28,10 +28,11 @@
 * [ServiceWorker Cookbook](https://serviceworke.rs/) - Mozilla
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson
 
-### GitHub repositories
+### GitHub Repositories
 
 * [100 JavaScript Projects](https://github.com/pradipchaudhary/100-js-projects)
 * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+* [Google Closure Compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 * [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript
