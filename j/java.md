@@ -39,7 +39,7 @@
 
 * [Jcoz - Java Causal Profiler](https://decave.github.io/JCoz/)
 * [JUnit](https://junit.org/junit5/)
-  * [Cheat sheet](https://files.jrebel.com/pdf/zt\_junit\_cheat\_sheet.pdf)
+  * [Cheat sheet](https://files.jrebel.com/pdf/zt_junit_cheat_sheet.pdf)
 
 ### Tools
 
@@ -49,6 +49,7 @@
 ### Websites
 
 * [Baeldung](https://www.baeldung.com/)
+* [CheerpJ](https://cheerpj.com/) - Run Java in Modern Browsers
 * [Java decompiler online](http://www.javadecompilers.com/)
 * [Java Design Patterns](https://java-design-patterns.com/)
 * [Java Developer Tutorials and Training](https://www.oracle.com/java/technologies/jdtt-jsp.html) - Oracle
