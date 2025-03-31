@@ -175,6 +175,8 @@
 * [Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
 * [FreeMcBoot](https://israpps.github.io/FreeMcBoot-Installer/) - A homebrew applications launcher
 * [How to play PS2 games in 16:9 widescreen (no stretching) on PS2, PS3, PS4, PCSX2 (OPL) ](https://www.youtube.com/watch?v=VmsXUAUYn6M)- Wobbling Pixels
+* [MemCard PRO2 for PS2 and PS1](https://8bitmods.com/memcard-pro2-for-ps2-and-ps1-smoke-black/)
+  * [MemCard Pro 2 - Smart PS2 Memory Card With Wi-Fi, Micro SD, And OLED Display!](https://www.youtube.com/watch?v=HP8giQ8CbAE)
 * [Open PS2 Loader Compatibility List](http://sx.sytes.net/oplcl/games.aspx)
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
 * [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
