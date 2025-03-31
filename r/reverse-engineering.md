@@ -35,6 +35,7 @@
 ### GitHub Repositories
 
 * [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
+* [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - LaurieWired
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
