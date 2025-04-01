@@ -52,12 +52,14 @@
 * [Nostalgia Nerd](https://www.youtube.com/@Nostalgianerd)
 * [Odd Tinkering](https://www.youtube.com/@OddTinkering)
 * [RestoFix](https://www.youtube.com/@restofix)
+* [Sayaka's Digital Attic](https://www.youtube.com/@Sayakas_Digital_Attic)
 * [StezStix Fix?](https://www.youtube.com/c/StezStixFix/videos)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections/videos)
 * [Triple R](https://www.youtube.com/@repair3r)
 * [TronicsFix](https://www.youtube.com/c/Tronicsfix/videos)
 * [TysyTube Restoration](https://www.youtube.com/c/TysyTube)
 * [vswitchzero](https://www.youtube.com/@vswitchzero/videos)
+* [Wolfi's Den](https://www.youtube.com/@wolfisden)
 * [Zack Freedman](https://www.youtube.com/c/ZackFreedman/videos)
 
 ### YouTube Playlists
