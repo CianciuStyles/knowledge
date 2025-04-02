@@ -64,6 +64,12 @@
 * [Escape Rooms](https://www.escaperooms.co.uk/)
 * [Sherlock: The Official Live Game](https://www.thegameisnow.com/)
 
+### Flea Markets
+
+* [findcarboot](https://www.findcarboot.co.uk/) - The UK's Trusted Car Boot Sale Directory
+  * [Best Car Boot Sales in London](https://www.findcarboot.co.uk/regions/london/)
+* [Kentish Town Car Boot](https://www.kentishtowncarboot.co.uk/)
+
 ### Live Music Venues
 
 * [Alfie's](https://info.soho.live/alfies) - Soho
