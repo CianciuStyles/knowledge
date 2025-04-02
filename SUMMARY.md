@@ -17,6 +17,7 @@
   * [Dynamic Programming](a/algorithms/dynamic-programming.md)
   * [Graph](a/algorithms/graph.md)
   * [Hash Table](a/algorithms/hash-table.md)
+  * [Heap](a/algorithms/heap.md)
   * [Linked List](a/algorithms/linked-list.md)
   * [Queue](a/algorithms/queue.md)
   * [Recursion](a/algorithms/recursion.md)
