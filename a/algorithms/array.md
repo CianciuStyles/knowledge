@@ -31,6 +31,7 @@
 ### Articles
 
 * [Mastering Problem Solving: Two Pointers Technique](https://medium.com/@elfrmkr98/mastering-problem-solving-two-pointers-technique-23dafb17e90b) - Elif İrem Kara Kadyrov
+* [Pattern 2: Two Pointers](https://medium.com/@shree.bhamare1211/pattern-2-two-pointers-a953e9b773e9) - Shri Bhamare
 
 ### Reddit threads
 
