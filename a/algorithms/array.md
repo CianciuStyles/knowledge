@@ -13,6 +13,12 @@
 
 * [Binary search](https://en.wikipedia.org/wiki/Binary_search)
 
+## Cyclic Sort
+
+### Articles
+
+* [Pattern 5 : Cyclic Sort](https://medium.com/@shree.bhamare1211/pattern-5-cyclic-sort-1c05cd3a75f6) - Shri Bhamare
+
 ## Merge Intervals
 
 ### Articles
