@@ -24,6 +24,7 @@
 ### Articles
 
 * [Mastering Sliding Window Techniques](https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7) - Ankit Singh
+* [Pattern 1 : Sliding Window](https://medium.com/@shree.bhamare1211/pattern-1-sliding-window-4e3bba915166) - Shri Bhamare
 
 ## Two Pointers
 
