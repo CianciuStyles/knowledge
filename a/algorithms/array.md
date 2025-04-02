@@ -13,6 +13,12 @@
 
 * [Binary search](https://en.wikipedia.org/wiki/Binary_search)
 
+## Merge Intervals
+
+### Articles
+
+* [Pattern 4: Merge Intervals](https://medium.com/@shree.bhamare1211/pattern-4-merge-intervals-70cfd3bba27d) - Shri Bhamare
+
 ## Prefix Sum
 
 ### Wikipedia Articles
