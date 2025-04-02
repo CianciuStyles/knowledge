@@ -34,6 +34,18 @@
 
 * [Binary Search Tree Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCYY48kOkeLQ-cg9-eqInzs) - William Fiset
 
+## Breadth-first Search
+
+### Articles
+
+* [Pattern 7 : Tree Breadth First Search](https://medium.com/@shree.bhamare1211/pattern-7-tree-breadth-first-search-de563ed73993) - Shri Bhamare
+
+## Depth-first Search
+
+### Articles
+
+* [Pattern 8 : Tree Depth First Search](https://medium.com/@shree.bhamare1211/pattern-8-tree-depth-first-search-60309cdb0c1a) - Shri Bhamare
+
 ## Red/Black Trees
 
 ### Articles
