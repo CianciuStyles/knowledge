@@ -144,6 +144,7 @@
   * [Electron](j/javascript/electron.md)
   * [Jest](j/javascript/jest.md)
   * [Node.js](j/javascript/node.js.md)
+  * [Nue.js](j/javascript/nue.js.md)
   * [React.js](j/javascript/react.js.md)
   * [Redux](j/javascript/redux.md)
   * [Vue.js](j/javascript/vue.js.md)
