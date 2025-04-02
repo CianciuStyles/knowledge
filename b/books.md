@@ -159,6 +159,7 @@
 * [1,000 Free Audio Books: Download Great Books for Free](https://www.openculture.com/freeaudiobooks)
 * [800 Free eBooks for iPad, Kindle & Other Devices](https://www.openculture.com/free_ebooks)
 * [Anobii](https://www.anobii.com/)
+* [Best-Book-Price](https://www.best-book-price.co.uk/)
 * [Book Finder](https://www.bookfinder.com/)
 * [Bookcelerator](https://bookcelerator.com/)
 * [BookPecker.com](https://www.bookpecker.com/) - 14509 books summarized in 5 bullet points
