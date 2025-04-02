@@ -21,6 +21,7 @@
   * [Linked List](a/algorithms/linked-list.md)
   * [Queue](a/algorithms/queue.md)
   * [Recursion](a/algorithms/recursion.md)
+  * [Set](a/algorithms/set.md)
   * [Stack](a/algorithms/stack.md)
   * [Tree](a/algorithms/tree.md)
   * [Trie](a/algorithms/trie.md)
