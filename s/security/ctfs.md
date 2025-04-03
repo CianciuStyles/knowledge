@@ -181,6 +181,7 @@
 * [Exploit Education](http://exploit.education/)
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
+* [hackArcana](https://hackarcana.com/)
 * [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
   * [Archived Challenges](https://imaginaryctf.org/ArchivedChallenges)
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
