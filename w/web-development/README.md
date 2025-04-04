@@ -4,7 +4,7 @@
 
 ### Articles
 
-* [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/?utm\_source=hackernewsletter\&utm\_medium=email\&utm\_term=code) - John Au-Yeung, Ryan Donovan
+* [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/?utm_source=hackernewsletter\&utm_medium=email\&utm_term=code) - John Au-Yeung, Ryan Donovan
 * [Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process) - Abhishek Saha
 * [HTTP/2 and HTTP/3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/) - AlexandreHTRB
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) - Manuel Matuzovic
@@ -33,7 +33,7 @@
 
 * [Even Faster Web Sites: Essential Knowledge for Frontend Engineers](https://www.amazon.co.uk/Even-Faster-Web-Sites-Performance/dp/0596522304) - Steve Souders
 * [Getting Real](https://basecamp.com/gettingreal) - Basecamp
-* [High Performance Web Sites: Essential Knowledge for Frontend Engineers](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Oreilly.Steve\_.Souders.High\_.Performance.Web\_.Sites\_.Sep\_.2007.pdf) - Steve Souders
+* [High Performance Web Sites: Essential Knowledge for Frontend Engineers](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Oreilly.Steve_.Souders.High_.Performance.Web_.Sites_.Sep_.2007.pdf) - Steve Souders
 * [HTML for People](https://htmlforpeople.com) - Blake Watson
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/) - Eve Andersson, Philip Greenspun, Andrew Grumet
 
@@ -73,6 +73,7 @@
   * [Server Radar](https://radar.iodev.org/) - Find the Best Deals on Hetzner Dedicated Servers
 * [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
 * [Netlify](https://www.netlify.com/)
+* [pico.sh](https://pico.sh/)
 * [tiiny.host](https://tiiny.host/)
 * [Vercel](https://vercel.com/)
 
