@@ -28,3 +28,7 @@
 
 * [Linux PrivEsc](https://tryhackme.com/r/room/linuxprivesc)
 * [Linux Privilege Escalation](https://tryhackme.com/r/room/linprivesc)
+
+### Websites
+
+* [Dirty COW](https://dirtycow.ninja/) - Privilege escalation vulnerability in the Linux Kernel
