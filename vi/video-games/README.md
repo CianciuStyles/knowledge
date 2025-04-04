@@ -237,6 +237,7 @@
 
 ### Museums
 
+* [GAMM Game Museum](https://www.gammuseum.com/) - Roma, Italy
 * [Power Up](https://www.sciencemuseum.org.uk/see-and-do/power) - Science Museum, London, United Kingdom
 * [Retro Computer Museum](https://retrocomputermuseum.co.uk/) - Leicester, United Kingdom
 * [The Retro Video Game Museum](https://www.gamesmen.com.au/retro-video-game-museum) - Penshurst, Australia
