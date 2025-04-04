@@ -72,6 +72,8 @@
 * [Dreaming Spanish](https://www.dreamingspanish.com/) - Learn with Comprehensible Input
 * [Fluent](https://fluent.im/)
 * [Fluent In 3 Months](https://www.fluentin3months.com/)
+* [Fluentsubs](https://fluentsubs.com/) - Learn Languages with YouTube Videos & Subtitles
+  * [Daily Exercise](https://app.fluentsubs.com/exercises/daily)
 * [Forvo](https://forvo.com/)
 * [FSI Languages Courses](https://fsi-languages.yojik.eu/languages/oldfsi/index.html)
 * [Glossika](https://ai.glossika.com/)
