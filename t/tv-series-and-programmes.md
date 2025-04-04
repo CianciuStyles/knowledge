@@ -12,6 +12,7 @@
 
 * [Free TV](https://github.com/Free-TV/IPTV)
 * [iptv-org](https://iptv-org.github.io)
+* [TV Garden](https://tv.garden/) - Watch Global & Local Live TV
 
 ### Reddit Threads
 
