@@ -8,6 +8,8 @@
 * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) - Austin Z. Henley
   * [Reddit thread](https://www.reddit.com/r/programming/comments/zs0git/challenging_algorithms_and_data_structures_every/)
 * [Rapidly Solving Sudoku, N-Queens, Pentomino Placement, and More, With Knuth’s Algorithm X and Dancing Links](https://blog.demofox.org/2022/10/30/rapidly-solving-sudoku-n-queens-pentomino-placement-and-more-with-knuths-algorithm-x-and-dancing-links/?utm_source=blog.quastor.org\&utm_medium=referral\&utm_campaign=how-shopify-scaled-their-black-friday-live-dashboard) - demofox
+* [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet) - Nick M
+* [Visual-Focused Algorithms Cheat Sheet](https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet) - Nick M
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Mike Bostocks
 
 ### Books
