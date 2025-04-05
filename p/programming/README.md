@@ -106,6 +106,7 @@
 ### Code Editors
 
 * [Cursor](https://www.cursor.com/)
+* [Huly Code](https://hulylabs.com/code)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/)
