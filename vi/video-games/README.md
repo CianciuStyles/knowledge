@@ -497,6 +497,7 @@
 * [DOS Game Club](https://www.dosgameclub.com/)
 * [Draknek & Friends](https://www.draknek.org/)
 * [DualShock Calibration GUI](https://dualshock-tools.github.io/)
+* [EFGAMP](https://efgamp.eu/) - European Federation of Video Game Archives, Museums and Preservation projects
 * [Flashpoint Archive](https://flashpointarchive.org/)
 * [Gamepad Tester](https://gamepad-tester.com/)
 * [Global Network Gaming](https://www.teamxlink.co.uk/) - Team XLink
