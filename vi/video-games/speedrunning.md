@@ -25,6 +25,8 @@
     * [Resident Evil 5 - DECosmic and AvuKamu](https://www.youtube.com/watch?v=9VQa5vV9TTg)
   * Games Done Quick Express 2019
     * [Resident Evil 3: Nemesis - WOLFDNC](https://www.youtube.com/watch?v=L6DXqS30WIU)
+  * Summer Games Done Quick 2016
+    * [New Super Mario Bros. - altabiscuit](https://www.youtube.com/watch?v=qie0DjM39zQ)
   * Summer Games Done Quick 2019
     * [Devil May Cry - Maxylobes](https://www.youtube.com/watch?v=WTiEd0bfLZE)
   * Summer Games Done Quick 2022
