@@ -34,6 +34,8 @@ description: https://www.linux.org/
 
 ### Distributions
 
+* [Blue 95](https://blues.win/95/docs/)
+
 #### Netbooks
 
 * [ArchBang](https://archbang.org/)
