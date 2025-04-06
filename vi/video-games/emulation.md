@@ -14,6 +14,7 @@
 * [DOSBox Staging](https://dosbox-staging.github.io/) - modern continuation of DOSBox
 * [Dosemu2](https://dosemu2.github.io/dosemu2/) - Run DOS programs under linux
 * [DREAMM](https://aarongiles.com/dreamm/) - Bespoke emulator for LucasArts games
+* [Emu Games](https://www.emugames.net/)
 * [EmuBrowser](https://emubrowser.com/)
 * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 * [EmulatorGames.online](https://emulatorgames.online/)
@@ -22,11 +23,14 @@
 * [Internet Arcade](https://archive.org/details/internetarcade)
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
+* [Myrient](https://myrient.erista.me/)
 * [Old Games Download](https://oldgamesdownload.com/)
 * [PCem](https://pcem-emulator.co.uk/)
 * [Planet Emulation](https://www.planetemu.net/)
 * [Play Emulator](https://www.playemulator.com/)
 * [Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
+* [r/ROMs Megathread](https://r-roms.github.io/)
+* [r/ROMs Official Wiki](https://www.reddit.com/r/Roms/wiki/index)
 * [Recommended Emulators](https://vsrecommendedgames.fandom.com/wiki/Recommended_Emulators) - /v/'s Recommended Games Wiki
 * [Retro Catalog](https://retrocatalog.com/) - Your guide to your perfect gaming handheld
 * [Retro Game Corps](https://retrogamecorps.com/)
@@ -34,6 +38,7 @@
 * [RetroDECK ](https://retrodeck.net/)([GitHub](https://github.com/XargonWan/RetroDECK))
 * [Retrostic](https://www.retrostic.com/)
 * [Rom Hustler](https://romhustler.org/)
+* [ROMSFUN](https://romsfun.com/)
 * [ScummVM](https://www.scummvm.org/)
 * [SummerCart64](https://summercart64.dev/)
 * [Vimm's Lair](https://vimm.net/)
