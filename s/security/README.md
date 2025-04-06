@@ -178,6 +178,7 @@
 * [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2)
 * [Linux Privilege Escalation Check Script](https://gist.github.com/sh1n0b1/e2e1a5f63fbec3706123)
 * [Metasploit](https://www.metasploit.com/)
+  * [Metasploit Documentation](https://docs.metasploit.com/)
 * [Nessus](https://www.tenable.com/products/nessus) - Vulnerability Assessment
 * [Pupy](https://github.com/n1nj4sec/pupy/) - C2 and post-exploitation framework
 * [pwncat](https://pwncat.org/) ([GitHub](https://github.com/cytopia/pwncat))
