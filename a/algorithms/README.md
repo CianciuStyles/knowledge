@@ -39,6 +39,7 @@
 * [AlgoDeck](https://github.com/teivah/algodeck)
 * [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 * [AlgorithmsAndDataStructure](https://github.com/codePerfectPlus/AlgorithmsAndDataStructure) - C++ and Python
+* [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - AlgoMaster.io
 * [Cosmos](https://github.com/OpenGenus/cosmos/) - World's largest Contributor driven code dataset
 * [Data Structures & Algorithms for Coding Interview](https://github.com/SamirPaul1/DSAlgo)
 * [FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms)

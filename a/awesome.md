@@ -55,6 +55,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Leadership and Management: [https://github.com/LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
 * Awesome LEGO: [https://github.com/ad-si/awesome-lego](https://github.com/ad-si/awesome-lego)
 * Awesome LEGO Machine Learning: [https://github.com/360er0/awesome-lego-machine-learning](https://github.com/360er0/awesome-lego-machine-learning)
+* Awesome LeetCode Resources: [https://github.com/ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
 * Awesome Live Coding: [https://github.com/toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding)
 * Awesome Machine Learning: [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * Awesome macOS: [https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
