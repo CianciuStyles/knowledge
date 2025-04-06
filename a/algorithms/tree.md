@@ -6,6 +6,16 @@
 
 * [Red/Black vs AVL trees](https://stackoverflow.com/questions/13852870/red-black-tree-over-avl-tree)
 
+### Wikipedia Articles
+
+* [B-tree](https://en.wikipedia.org/wiki/B-tree)
+* [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree)
+* [Binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+* [Binary tree](https://en.wikipedia.org/wiki/Binary_tree)
+* [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
+* [Tree](https://en.wikipedia.org/wiki/Tree_\(abstract_data_type\))
+* [Tree traversal](https://en.wikipedia.org/wiki/Tree_traversal)
+
 ### YouTube Playlists
 
 * [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - William Fiset
@@ -23,6 +33,10 @@
 ### Websites
 
 * [AVL Tree Visualisation](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+
+### Wikipedia Articles
+
+* [AVL tree](https://en.wikipedia.org/wiki/AVL_tree)
 
 ### YouTube Playlists
 
@@ -59,3 +73,7 @@
 ### Websites
 
 * [Red/Black Tree Visualisation](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+
+### Wikipedia Articles
+
+* [Red-black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
