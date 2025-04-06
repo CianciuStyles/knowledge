@@ -53,6 +53,7 @@
 * [3 Problem Solving Techniques for Technical Programming Interviews](https://www.youtube.com/watch?v=FSycYs8RpsA) - Engineering with Utsav
 * [How I Got Good at Coding Interviews](https://www.youtube.com/watch?v=SVvr3ZjtjI8) - NeetCode
 * [How to Prepare for Technical Interviews, Part 1 - Coding](https://www.youtube.com/watch?v=7UlslIXHNsw) - Engineering with Utsav
+* [LeetCode was HARD until I Learned these 15 Patterns](https://www.youtube.com/watch?v=DjYZk8nrXVY) - Ashish Pratap Singh
 
 ### Websites
 
