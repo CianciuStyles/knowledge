@@ -23,3 +23,8 @@
 ### Articles
 
 * [Pattern 6 : In-place Reversal of a LinkedList](https://medium.com/@shree.bhamare1211/pattern-6-in-place-reversal-of-a-linkedlist-2fbdf1da8cd7) - Shri Bhamare
+
+### YouTube Videos
+
+* [Reverse a Linked List In-Place | LeetCode Pattern](https://www.youtube.com/watch?v=auoTGovuo9A) - AlgoMasterIO
+* [Reverse Linked List - Iterative AND Recursive - Leetcode 206](https://www.youtube.com/watch?v=G0_I-ZF0S38) - NeetCode
