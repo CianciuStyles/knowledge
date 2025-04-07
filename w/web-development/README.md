@@ -89,6 +89,8 @@
 
 <figure><img src="../../.gitbook/assets/Full Stack Developer Roadmap.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a933717-1d59-46a6-ba51-76e24ae048fc_1280x1502.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/JSON Web Token.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Top 9 HTTP Request Methods.gif" alt=""><figcaption></figcaption></figure>
