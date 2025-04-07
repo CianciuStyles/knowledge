@@ -163,6 +163,12 @@
 
 * [Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
 * [Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
+* Build your own SQLite - Geoffrey Copin
+  * [Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+  * [Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
+  * [Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
+  * [Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
+  * [Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Daniel Stefanovic
 * [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Austin Z. Henley ([Hacker News](https://news.ycombinator.com/item?id=21790779), [Reddit](https://www.reddit.com/r/programming/comments/ean6ch/challenging_projects_every_programmer_should_try/))
 * [Coding Challenges](https://codingchallenges.fyi/challenges/intro) ([Shared Solutions](https://github.com/CodingChallegesFYI/SharedSolutions))
