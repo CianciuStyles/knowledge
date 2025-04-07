@@ -83,6 +83,7 @@
 * [ChatGPT](https://chat.openai.com/) - OpenAI
 * [DeepSeek](https://www.deepseek.com/)
 * [Gemini](https://gemini.google.com) - Google
+* [Grok](https://grok.com/)
 
 ### Reading Lists
 
