@@ -31,6 +31,7 @@
 ### Websites
 
 * [CAGED Guitar System: How To Make The Most Of It](https://www.cagedguitarsystem.net/)
+* [Captrice](https://www.captrice.io/) - A deliberate practice app
 * [ChordieHow.com](https://chordiehow.com/)
 * [Eat. Sleep. Guitar!](https://eatsleepguitar.com/)
   * [Learing From Guitar Legends](https://eatsleepguitar.com/guitar-legends/)
