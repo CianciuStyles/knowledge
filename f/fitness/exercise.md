@@ -42,7 +42,7 @@
 ### Videos
 
 * [Beginner Flexibility Routine](https://www.youtube.com/watch?v=qULTwquOuT4) - MadFit
-* [How I Built Muscle At Home (Without Weights)](https://www.youtube.com/watch?v=ho8fvPH\_Ro0) - Colin Murray
+* [How I Built Muscle At Home (Without Weights)](https://www.youtube.com/watch?v=ho8fvPH_Ro0) - Colin Murray
 
 ### Websites
 
@@ -95,5 +95,6 @@
 * [Joe Delaney](https://www.youtube.com/@JoeDelaneyy/videos)
 * [Justin Agustin](https://www.youtube.com/c/JustinAgustin/videos)
 * [Mady Morrison](https://www.youtube.com/c/MadyMorrison/videos)
+  * [Stretching Sessions](https://www.youtube.com/playlist?list=PL-G7EJFoxFceiY2Ij3oxIizEqji5mnWZ7)
 * [Millionaire Hoy](https://www.youtube.com/@MillionaireHoyFitness/videos)
 * [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene)
