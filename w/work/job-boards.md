@@ -70,6 +70,7 @@
 * [FossFox](https://fossfox.com/) - Work with open-source and get paid for it
 * [hackajob](https://hackajob.co/)
 * [Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) ([GitHub](https://github.com/poteto/hiring-without-whiteboards))
+* [HiringCafe](https://hiring.cafe/)
 * [Honeypot](https://www.honeypot.io/)
 * [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
 * [HNHIRING](https://hnhiring.com/)
