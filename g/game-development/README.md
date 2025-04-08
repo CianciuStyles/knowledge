@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [20 Tips On Making Games](https://www.jordanmechner.com/downloads/library/20tips.pdf) - Jordan Mechner
 * [Free Online Resources to Learn Game Development](https://www.springboard.com/blog/free-online-courses-game-development-gamification/) - Gautam Tambay
 * [Free ebooks about game development](https://gamedev.stackexchange.com/questions/355/free-ebooks-about-game-development)
 * [Game Programming Primer](https://tl.net/forum/general/382368-game-programming-primer)
