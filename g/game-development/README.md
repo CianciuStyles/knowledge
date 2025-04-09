@@ -138,6 +138,7 @@
 * [Red Blob Games](https://www.redblobgames.com/)
 * [RenderDoc ](https://renderdoc.org/)- Stand-alone graphics debugger
 * [Simple DirectMedia Layer](https://www.libsdl.org/index.php)
+* [The 20 Games Challenge](https://20_games_challenge.gitlab.io/)
 * [TIC-80 tiny computer](https://tic80.com/)
 * [ZQuest Classic](https://zquestclassic.com/)
 
