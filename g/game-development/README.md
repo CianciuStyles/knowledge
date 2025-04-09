@@ -37,7 +37,7 @@
 * Intro to Game Programming - Dave Churchill, Memorial University
   * [Fall 2022](https://www.youtube.com/watch?v=S7lXSihz0ac\&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV\&pp=iAQB)
   * [Fall 2023](https://www.youtube.com/watch?v=s99UDGdYIUE\&list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK\&pp=iAQB)
-* [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) - David J. Malan, Colton Odgen
+* [Introduction to Game Development](https://cs50.harvard.edu/games/2018/) - David J. Malan, Colton Odgen
 
 ### Game Engines
 
