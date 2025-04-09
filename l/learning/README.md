@@ -95,6 +95,7 @@
   * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
 * [Quizlet](https://quizlet.com)
 * [selfstudi.com](https://selfstudi.com/) - Turn YouTube Playlists into Courses for Self Study
+* [Videocrawl Studio](https://www.videocrawl.dev/studio) - Summarise, fact check, and interact with any video content
 
 ### Websites
 
