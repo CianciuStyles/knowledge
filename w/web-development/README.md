@@ -111,6 +111,7 @@
 
 #### Deployments
 
+* [CapRover](https://caprover.com/) - Scalable, Free and Self-hosted PaaS
 * [Kamal](https://kamal-deploy.org/) - deploy web apps to different cloud computing services
 
 #### End-to-End Testing
