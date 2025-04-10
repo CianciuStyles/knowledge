@@ -107,6 +107,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Web Development Resources: [https://github.com/markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 * Awesome Web Hacking: [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * Awesome Windows: [https://github.com/thechampagne/awesome-windows](https://github.com/thechampagne/awesome-windows)
+* Awesome Wordlists: [https://github.com/gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists)
 * Awesome YouTubers: [https://github.com/JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * Awesomo: [https://github.com/lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
 * Awwesome selfhosted: [https://awweso.me/](https://awweso.me/)

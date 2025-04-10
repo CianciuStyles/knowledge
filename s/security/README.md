@@ -107,6 +107,7 @@
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome Resources For Learning Ethical Hacking & Pentesting](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 * [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
+* [Awesome Wordlists](https://github.com/gmelodie/awesome-wordlists)
 * [Cheatsheets](https://github.com/RedefiningReality/Cheatsheets) - RedefiningReality
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
