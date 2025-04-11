@@ -80,6 +80,7 @@
 
 ### Microsoft Xbox 360
 
+* [360 Hack Pack](https://alex-free.github.io/360-hack-pack/) - Everything you need to hack an Xbox 360, ready to be copied onto a USB drive in one download!
 * [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
 * [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe) - Xbox 360 executable designed to apply freedom-unlocking patches based on xeBuild to the kernel and hypervisor
 * [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
@@ -164,6 +165,7 @@
 
 ### Sony PlayStation
 
+* [Alex Free](https://alex-free.github.io/#psx)
 * Archive.org
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
