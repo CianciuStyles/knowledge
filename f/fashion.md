@@ -36,7 +36,9 @@
 
 #### Shops
 
+* [On](https://www.on.com/en-gb)
 * [Sarenza](https://www.sarenza.it/)
+* [Shopbop](https://www.shopbop.com/)
 * [Solaris Sport](https://www.solarissport.com/it/)
 * [Spartoo](https://www.spartoo.it/)
 * [Zalando](https://www.zalando.it/uomo-home/)
