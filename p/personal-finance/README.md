@@ -108,6 +108,7 @@
   * [Wiki](https://www.bogleheads.org/wiki/Main_Page)
 * [BoringCashCow ](https://boringcashcow.com/)- Discover Boring Businesses that Quietly Rake in the Cash
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
+* [CGTCalculator](https://cgtcalculator.com/)
 * [CompiledSanity](https://cspersonalfinance.io/) - Personal Finance Spreadsheets
 * [Confronto Conti Correnti](https://docs.google.com/spreadsheets/d/12rjbcnFhTphgyWf-F5MfDZUCpZcURmJfGnHap9Rf5rU/edit#gid=0)
 * [Dividend List](https://thedividendlist.com/) - A list of stocks with monthly and quarterly returns
