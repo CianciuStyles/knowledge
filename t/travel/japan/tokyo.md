@@ -11,6 +11,8 @@
 
 <figure><img src="https://i.pinimg.com/564x/bd/6f/b2/bd6fb26e8cb6c9975b575d2eb82addcb.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.pinimg.com/736x/0a/2a/03/0a2a0334869578a7b1b088b2b690d33e.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Maps
 
 * [Tokyo](https://www.google.com/maps/d/u/0/viewer?mid=146Y8_lUW6lCpOu1-kmgIN8hRUqSnEcY\&ll=35.66768813910526%2C139.75370159999997\&z=12)
