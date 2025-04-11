@@ -41,4 +41,5 @@
 * [Shopbop](https://www.shopbop.com/)
 * [Solaris Sport](https://www.solarissport.com/it/)
 * [Spartoo](https://www.spartoo.it/)
+* [Veja](https://www.veja-store.com/en_gb/)
 * [Zalando](https://www.zalando.it/uomo-home/)
