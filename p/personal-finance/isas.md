@@ -1,5 +1,10 @@
 # ISAs
 
+### Reddit threads
+
+* [Recommend a UK S\&S ISA provider so I can migrate away from US platforms (Vanguard)](https://www.reddit.com/r/FIREUK/comments/1j5h3wg/recommend_a_uk_ss_isa_provider_so_i_can_migrate/)
+* [Why use ii, iweb, aj bell rather than trading212 for isa?](https://www.reddit.com/r/HENRYUK/comments/1j3arr3/why_use_ii_iweb_aj_bell_rather_than_trading212/)
+
 ### Websites
 
 * [BrokerChooser](https://brokerchooser.com/)
