@@ -8,8 +8,10 @@
 
 * [Abercrombie & Fitch](https://www.abercrombie.com/)
 * [Crew Clothing Company](https://www.crewclothing.co.uk/)
+* [Colorful Standard](https://colorfulstandard.com/en-gb)
 * [Everlane](https://www.everlane.com/)
 * [GU](https://www.gu-global.com/)
+* [Lands' End](https://www.landsend.co.uk/)
 * [MUJI](https://uk.muji.eu/)
 * [SUITSUPPLY](https://suitsupply.com/en-gb/)
 * [Thousand Miles](https://thousandmiles.co.uk/)
