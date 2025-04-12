@@ -99,6 +99,11 @@
 * [Tips and Lessons learned from 7500+ hours of solo game development. PART 3: Staying Motivated](https://www.reddit.com/r/gamedev/comments/42rkkt/tips_and_lessons_learned_from_7500_hours_of_solo/)
 * [Tips and Lessons learned from 7500+ hours of solo game development. PART 4: Productivity](https://www.reddit.com/r/gamedev/comments/433hqc/tips_and_lessons_learned_from_7500_hours_of_solo/)
 
+### Subreddits
+
+* [r/gamedev](https://www.reddit.com/r/gamedev/)
+* [r/playmygame](https://www.reddit.com/r/playmygame/)
+
 ### Tools
 
 * [Tiled](https://www.mapeditor.org/) - Flexible level editor
