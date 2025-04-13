@@ -76,14 +76,14 @@
 * [How to debug your brain](https://oliveremberton.com/2014/how-to-debug-your-brain/) - Oliver Emberton
 * [How to make Todoist conform to GTD](https://medium.com/@dougvk/how-to-make-todoist-conform-to-gtd-362d86f037bf) - Doug von Kohorn
 * [If You’re Busy, You’re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers](https://www.calnewport.com/blog/2011/11/11/if-youre-busy-youre-doing-something-wrong-the-surprisingly-relaxed-lives-of-elite-achievers/) - Cal Newport
-* [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind\_Sweep\_Trigger\_List.pdf) - Getting Things Done
+* [Incompletion Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf) - Getting Things Done
 * ["Productivity" Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me)](https://tim.blog/2013/11/03/productivity-hacks/) - Tim Ferriss
 * [Stopping at 90%](https://austinhenley.com/blog/90percent.html) - Austin Z. Henley
 * [The 7 Habits](https://www.artofmanliness.com/tag/7-habits/) - The Art of Manliness
 * [The Getting Things Done (GTD) FAQ](https://zenhabits.net/the-getting-things-done-gtd-faq/) - Leo Babauta, Zen Habits
 * [The Rise and Fall of Getthing Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) - Cal Newport, The New Yorker
 * [There's no speed limit](https://sive.rs/kimo) - Derek Sivers
-* [What makes developers productive?](https://jeremymikkola.com/posts/developer\_productivity.html) - Jeremy Mikkola
+* [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html) - Jeremy Mikkola
 * [What To Do On Breaks To Boost Productivity](https://getpocket.com/explore/item/what-to-do-on-15-30-and-60-minute-breaks-to-boost-productivity) - Stephanie Vozza, Fast Company
 * [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/) - Tom Lingham
 * [Work Less, Get More Done: Analytics For Maximizing Productivity](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/) - Patrick McKenzie
@@ -103,7 +103,7 @@
   * [Summary by Kyaw Wai Yan Tun](https://waiyancan.com/summary-the-attributes-rich-diviney/)
 * [The Seven Habits Of Highly Effective People](https://smile.amazon.co.uk/Habits-Highly-Effective-People/dp/1471165086) - Stephen Covey
   * [Notes by Michael Parker](https://github.com/mgp/book-notes/blob/master/the-seven-habits-of-highly-effective-people.markdown)
-  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what\_i\_learned\_from\_reading\_the\_7\_habits\_of/)
+  * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the_7_habits_of/)
 
 ### Hacker News Threads
 
@@ -114,6 +114,8 @@
 
 
 <figure><img src="https://i.pinimg.com/564x/34/99/bb/3499bb9e801712644440bf08017e373f.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/107 Productive Things To Do Instead Of Spending Money.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Music For Concentration
 
@@ -126,11 +128,11 @@
 
 ### Reddit Threads
 
-* [How can I reward myself without spending money?](https://www.reddit.com/r/productivity/comments/yts7cw/how\_can\_i\_reward\_myself\_without\_spending\_money/)
+* [How can I reward myself without spending money?](https://www.reddit.com/r/productivity/comments/yts7cw/how_can_i_reward_myself_without_spending_money/)
 
 ### YouTube Channels
 
 * [Ali Abdaal](https://www.youtube.com/@aliabdaal/videos)
 * [Productivity Game](https://www.youtube.com/@ProductivityGame/videos)
-* [Shu Omi](https://www.youtube.com/@ShuOmi\_Official/videos)
+* [Shu Omi](https://www.youtube.com/@ShuOmi_Official/videos)
 * [Simpletivity](https://www.youtube.com/@Simpletivity/videos)
