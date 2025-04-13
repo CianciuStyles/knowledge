@@ -83,7 +83,11 @@
 * [What are some of the best university courses available online for free?](https://news.ycombinator.com/item?id=35536042)
 * [Which courses (online or not) have had the greatest impact on you?](https://news.ycombinator.com/item?id=34637678)
 
-### Reddit Threads
+### Images
+
+<figure><img src="../../.gitbook/assets/12 Skills That Will Pay You Forever.jpg" alt=""><figcaption></figcaption></figure>
+
+### Reddit threads
 
 * [What hobby doesn't require massive amount of time and money but is a lot of fun?](https://www.reddit.com/r/AskReddit/comments/5llwzm/what_hobby_doesnt_require_massive_amount_of_time/)
 * [What is a hobby you can get into for almost no money?](https://www.reddit.com/r/AskReddit/comments/4knolu/what_is_a_hobby_you_can_get_into_for_almost_no/)
