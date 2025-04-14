@@ -33,8 +33,9 @@
 
 ### Tools
 
-* [autojump](https://github.com/wting/autojump)
-* [bat](https://github.com/sharkdp/bat)
+* [Atuin](https://atuin.sh/) - Magical shell history
+* [autojump](https://github.com/wting/autojump) - Easily navigate directories from the command line
+* [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
 * [gron](https://github.com/tomnomnom/gron/) - Make JSON greppable!
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
