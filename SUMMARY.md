@@ -267,6 +267,7 @@
 * [Touch Typing](t/touch-typing.md)
 * [Travel](t/travel/README.md)
   * [Japan](t/travel/japan/README.md)
+    * [Fukuoka](t/travel/japan/fukuoka.md)
     * [Hiroshima](t/travel/japan/hiroshima.md)
     * [Kyoto](t/travel/japan/kyoto.md)
     * [Okinawa](t/travel/japan/okinawa.md)
