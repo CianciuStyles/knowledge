@@ -9,3 +9,7 @@
 ### Maps
 
 * [Kyoto](https://www.google.com/maps/d/u/0/viewer?mid=13q6ad8Ci-boDwXqSxkyNml1LZ4Srv_Q\&ll=34.99525549582461%2C135.7439974\&z=12)
+
+### Websites
+
+* [Discover Kyoto](http://discoverkyoto.com/)
