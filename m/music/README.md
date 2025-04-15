@@ -46,6 +46,7 @@
 
 ### Websites
 
+* [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com/)
 * [Bandcamp](https://bandcamp.com/)
 * [Gnoosic](https://www.gnoosic.com/) - Discover new music
 * [IMSLP](https://imslp.org/) - Free Sheet Music
