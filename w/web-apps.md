@@ -195,6 +195,7 @@
 
 * [2conv](https://2conv.org)
 * [ClipConverter](https://www.clipconverter.cc)
+* [cobalt](https://cobalt.tools/)
 * [Converto.io](https://www.converto.io)
 * [Pinterest Video Downloader](https://pinterestdownloader.com/)
 * [TubeRipper](https://tuberipper.com/)
