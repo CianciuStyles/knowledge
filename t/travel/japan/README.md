@@ -40,6 +40,7 @@
 * [Japan Rail Pass Calculator](https://www.japan-guide.com/railpass/)
 * [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/index.html)
   * [Exemption of Visa (Short-Term Stay)](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)
+* [Shinkansen Online Reservation](https://smart-ex.jp/en/lp/app/)
 * [Tabelog](https://tabelog.com/en/) - Japan's No. 1 Restaurant Listing and Reservation Site
 
 ### YouTube Channels
