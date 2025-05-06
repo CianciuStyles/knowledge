@@ -23,3 +23,7 @@
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 * [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)
+
+### YouTube Videos
+
+* [Learn All 800 JLPT N5 Vocabulary](https://www.youtube.com/watch?v=nuI4OgsJv_Q) - Jp Launch
