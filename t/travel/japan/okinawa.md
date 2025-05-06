@@ -12,5 +12,7 @@
 
 ### Websites
 
+* [Okinawa Airport Shuttle](https://www.okinawa-shuttle.co.jp/en/)
+* [Okinawa Bus Pass](https://www.okinawapass.com/en/)
 * [Okinawa Churaumi Aquarium](https://churaumi.okinawa/en/)
 * [Visit Okinawa Japan](https://visitokinawajapan.com/)
