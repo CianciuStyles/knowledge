@@ -37,6 +37,8 @@
 
 ### Websites
 
+* [Haneda Airport Passenger Terminal](https://tokyo-haneda.com/en/index.html)
+  * [Travel Between Terminals](https://tokyo-haneda.com/en/access/travel_between_terminals/index.html)
 * [Japan Airlines](https://www.jal.co.jp/jp/en/)
   * [Tokyo Haneda International Airport - Transfers](https://www.jal.co.jp/jp/en/inter/airport/hnd/transit/)
 * [Japan Rail Pass Calculator](https://www.japan-guide.com/railpass/)
