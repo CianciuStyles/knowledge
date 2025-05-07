@@ -65,6 +65,7 @@
 * [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the Game Boy Advance
 * [Celeste Classic 2 for PICO-8!](https://github.com/ExOK/Celeste2)
 * [Celeste64 ](https://github.com/ExOK/Celeste64)- A game made by the Celeste developers in a week
+* [DotnetSnes](https://github.com/KallDrexx/DotnetSnes) - Allows using .net languages to create real working SNES roms!
 * Electronic Arts
   * [Command and Conquer: Generals - Zero Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
   * [Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
