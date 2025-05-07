@@ -96,6 +96,7 @@
 
 * [Packlink](https://www.packlink.com/en-GB/)
 * [Parcl](https://www.parcl.com/)
+* [WorldShopping](https://www.worldshopping.global/) - Online shopping at Japanese stores
 
 ### Vouchers
 
