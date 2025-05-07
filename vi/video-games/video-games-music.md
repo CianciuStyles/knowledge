@@ -180,6 +180,7 @@
 
 ### Websites
 
+* [Distant Worlds: music from FINAL FANTASY](https://www.ffdistantworlds.com/)
 * [VGMHub](https://vgmhub.com/)
 * [Video Game Music Preservation Foundation Wiki](https://vgmpf.com/Wiki/index.php?title=Main_Page)
 * [Videogame Soundtracks](https://vsrecommendedgames.fandom.com/wiki/Videogame_Soundtracks) - /v/'s Recommended Games Wiki
