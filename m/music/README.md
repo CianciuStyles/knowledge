@@ -48,6 +48,7 @@
 
 * [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com/)
 * [Bandcamp](https://bandcamp.com/)
+* [Discogs](https://www.discogs.com/) - Music Database and Marketplace
 * [Gnoosic](https://www.gnoosic.com/) - Discover new music
 * [IMSLP](https://imslp.org/) - Free Sheet Music
 * [Musicroamer](https://www.musicroamer.com/)
