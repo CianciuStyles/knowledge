@@ -128,6 +128,7 @@
 
 ### PDF Tools
 
+* [Breeze PDF](https://breezepdf.com/)
 * [iLovePDF](https://www.ilovepdf.com/)
 * [PDF24 Tools](https://tools.pdf24.org/en/)
 * [PDFescape](https://www.pdfescape.com/windows/)
