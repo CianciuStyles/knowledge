@@ -181,6 +181,13 @@
 * [Sportas](https://sportas.co.uk/)
 * [Try Tag Rugby](https://trytagrugby.com/)
 
+### Subreddits
+
+* [r/London](https://www.reddit.com/r/london/)
+  * [Wiki](https://www.reddit.com/r/london/wiki/index)
+* [r/LondonFootballMeetup](https://www.reddit.com/r/londonfootballmeetup/)
+* [r/LondonSocialClub](https://www.reddit.com/r/LondonSocialClub/)
+
 ### Theatre
 
 * [Regent's Park Open Air Theatre](https://openairtheatre.com/)
