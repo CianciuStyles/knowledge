@@ -12,6 +12,10 @@
 
 * [Draughts](https://www.draughtslondon.com/) - Hackney and Waterloo
 
+### Charity Shops
+
+* [Find a shop](https://charityretail.org.uk/find-a-shop) - Charity Retail Association
+
 ### Comedy Venues
 
 * [2Northdown](https://www.2northdown.com/home) - King's Cross
