@@ -85,6 +85,7 @@
 * [Learn A Language](https://www.learnalanguage.com/)
 * [Lernu](https://lernu.net/it) - Learn Esperanto
 * [Let's Learn Hangul!](http://letslearnhangul.com/)
+* [LibreLingo](https://librelingo.app/)
 * [LingQ](https://www.lingq.com/en/)
 * [Memrise](https://www.memrise.com/)
 * [Open Culture](https://www.openculture.com/freelanguagelessons) - Free Language Lessons
