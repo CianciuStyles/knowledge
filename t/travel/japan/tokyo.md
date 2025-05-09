@@ -16,6 +16,7 @@
 ### Maps
 
 * [Tokyo](https://www.google.com/maps/d/u/0/viewer?mid=146Y8_lUW6lCpOu1-kmgIN8hRUqSnEcY\&ll=35.66768813910526%2C139.75370159999997\&z=12)
+* [Tokyo 6 Day Itinerary by theportablewife.com](https://www.google.com/maps/d/viewer?mid=1O_7IymUXtB0plVt0-c8XN3KlKzNoxEXB\&ll=35.63689241479929%2C139.7166404439428\&z=11)
 
 ### Subreddits
 
