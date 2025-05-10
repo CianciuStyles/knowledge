@@ -21,6 +21,9 @@
   * [Super Mario Land - Staff Roll](https://www.youtube.com/watch?v=ip6XkQDrv90)
   * [Super Mario RPG - Beware The Forest's Mushrooms](https://www.youtube.com/watch?v=KyDFZ6fTAzg)
   * [The Last of Us - Main Theme](https://www.youtube.com/watch?v=qQekdNsh6dM)
+* [Earthbound Papas](https://www.wikiwand.com/en/articles/Earthbound_Papas)
+  * Dancing Dad
+  * [Octave Theory](https://www.youtube.com/watch?v=OPjXprQDE8A\&pp=ygUdb2N0YXZlIHRoZW9yeSBlYXJ0aGJvdWQgcGFwYXM%3D)
 * [Extra Lives](https://www.youtube.com/c/Extralivesmusic/videos)
   * [Castlevania - Vampire Killer](https://www.youtube.com/watch?v=EXtTRoiXPR4)
   * [Castlevania II: Simon's Quest - Bloody Tears](https://www.youtube.com/watch?v=bGv7e3cewQw)
@@ -91,6 +94,10 @@
   * [Super Hang-On - Outride A Crisis](https://www.youtube.com/watch?v=xvFmiYjKtIo)
 * [The 8-Bit Big Band](https://www.youtube.com/@The8BitBigBand)
   * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=Trp99eHyDyY)
+* [The Black Mages](https://www.wikiwand.com/en/articles/The_Black_Mages)
+  * [The Black Mages](https://www.youtube.com/playlist?list=PL791B01E6602D3324)
+  * [The Black Mages II: The Skies Above](https://www.youtube.com/playlist?list=PL125507E54B9774C4)
+  * [The Black Mages III: Darkness and Starlight](https://www.youtube.com/playlist?list=PL73447158BA990897)
 
 ### Databases
 
