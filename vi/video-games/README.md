@@ -161,6 +161,7 @@
 
 * [Backloggd](https://backloggd.com/) - A Video Game Collection Tracker
 * [Backloggery](https://www.backloggery.com/) - You Have The Games. Play Them.
+* [GAMEYE](https://www.gameye.app/)
 * [GG](https://ggapp.io/) - Video Game Collection Tracker
 * [Grouvee](https://www.grouvee.com/) - Track your game collection and backlog
 
