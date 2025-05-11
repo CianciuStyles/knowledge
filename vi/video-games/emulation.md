@@ -229,6 +229,7 @@
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
+* [Mario Party 4](https://github.com/mariopartyrd/marioparty4)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
 * [Perfect Dark](https://github.com/n64decomp/perfect_dark)
