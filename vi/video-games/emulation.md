@@ -127,6 +127,7 @@
 
 ### Nintendo Switch
 
+* [Eden](https://eden-emulator.github.io/) - Nintendo Switch Emulator
 * [Sudachi](https://sudachiemu.com/home/) - Nintendo Switch Emulator for Android and PC
 
 ### Nintendo Wii
