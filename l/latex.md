@@ -6,6 +6,7 @@
 
 ### Books
 
+* [Modern LaTeX](https://assets.bitbashing.io/modern-latex.pdf) - Matt Kline ([GitHub](https://github.com/mrkline/modern-latex))
 * [The Not So Short Introduction to LaTeX2e](https://tobi.oetiker.ch/lshort/lshort.pdf) - Tobias Oetiker, Huber Partl, Irene Hyna, Elisabeth Schlegl
 
 ### GitHub Repositories
