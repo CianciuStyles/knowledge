@@ -171,6 +171,7 @@
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [FreePSXBoot](https://github.com/brad-lin/FreePSXBoot)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
+* [PS1 Tutorial: Install FreePSXBoot (TonyHax) using PS2 with FreeMCBoot for Backups/Regionfree](https://www.youtube.com/watch?v=BUH6l1nZmpY) - Wobbling Pixels
 * [Tonyhax International](https://alex-free.github.io/tonyhax-international/) - The Ultimate Backup CD-R/Import Disc Loader Soft-Mod Solution For The Original PlayStation & Early Models Of PlayStation 2
 * [Unirom](https://unirom.github.io/) - Bootdisc, Firmware, Shell for PSX
 
