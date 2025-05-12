@@ -17,6 +17,12 @@
 
 * [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/SQL Query Logical Order.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/The 4 Types Of SQL Joins.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Playgrounds
 
 * [SQL OnLine IDE](https://sqliteonline.com/)
