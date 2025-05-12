@@ -10,6 +10,7 @@
 * [Cults](https://cults3d.com/en)
 * [MyMiniFactory](https://www.myminifactory.com/)
 * [Printables](https://www.printables.com/it)
+* [STLFinder](https://www.stlfinder.com/)
 * [Thingiverse](https://www.thingiverse.com/)
 
 ### Sellers
@@ -19,7 +20,7 @@
 * [3D Print Pros](https://www.ebay.co.uk/usr/3dprint.pros)
 * [Cybermonkey1010](https://www.ebay.co.uk/usr/cybermonkey1010)
 * [Polymer 3D Prints](https://www.ebay.co.uk/usr/poly3d1)
-* [Retro Gaming Lab](https://www.ebay.co.uk/usr/retro\_gaming\_lab)
+* [Retro Gaming Lab](https://www.ebay.co.uk/usr/retro_gaming_lab)
 
 #### Etsy
 
