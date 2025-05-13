@@ -136,6 +136,13 @@
 * [VGComplete](https://www.vgcomplete.com/)
 * [Video Game Preservation](https://github.com/videogamepreservation)
 
+### Desktop Streaming
+
+* [Apollo](https://github.com/ClassicOldSong/Apollo)
+* [Moonlight](https://moonlight-stream.org/)
+* [Parsec](https://parsec.app/)
+* [Sunshine](https://app.lizardbyte.dev/Sunshine/) ([GitHub](https://github.com/LizardByte/Sunshine))
+
 ### Documentaries
 
 * [F.E.A.R. - The Retrospective](https://www.youtube.com/watch?v=3Of2NtTYcvU)
