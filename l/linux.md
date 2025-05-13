@@ -51,6 +51,7 @@ description: https://www.linux.org/
 ### Software
 
 * [Bottles](https://usebottles.com/) - Easily run Windows software on Linux
+* [felix86](https://felix86.com/) - Run x86-64 programs on RISC-V Linux ([GitHub](https://github.com/OFFTKP/felix86/))
 * [Foliate](https://johnfactotum.github.io/foliate/) - eBook reader
 
 ### Websites
