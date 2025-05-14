@@ -17,6 +17,7 @@
 * [Pension contribution and 30 free childcare hours](https://www.reddit.com/r/HENRYUK/comments/1j07xh1/pension_contribution_and_30_free_childcare_hours/)
 * [Reducing salary just under £100k to get free childcare](https://www.reddit.com/r/HENRYUK/comments/1ca8zy5/reducing_salary_just_under_100k_to_get_free/)
 * [The HENRY guide to childcare subsidies and when it's worth sacrificing below £100k](https://www.reddit.com/r/HENRYUK/comments/1j76zl8/the_henry_guide_to_childcare_subsidies_and_when/)
+* [What nursery looks like pre 100k and post 100k](https://i.redd.it/mkaljmbpqpze1.jpeg)
 
 ### Websites
 
