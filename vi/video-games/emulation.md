@@ -205,6 +205,8 @@
 ### Sony PlayStation Portable
 
 * [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
+* [r/PSP Wiki](https://www.reddit.com/r/PSP/wiki/index)
+  * [Convert PSX Games to PSP Format](https://www.reddit.com/r/PSP/wiki/psx2psp)
 
 ### Sony PlayStation Vita
 
