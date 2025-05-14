@@ -7,6 +7,7 @@
 
 ### Concerts
 
+* [PlayStation - The Concert](https://www.playstation.com/en-gb/theconcert/)
 * [UNDERTALE 5th Anniversary Concert](https://www.youtube.com/watch?v=srZdDAJbHfc)
 
 ### Covers
