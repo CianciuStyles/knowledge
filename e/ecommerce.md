@@ -8,6 +8,13 @@
 * [MuscleFood](https://www.musclefood.com/) - Premium Lean Meats
 * [NifeIsLife](https://www.nifeislife.com/) - Italian Food Home Delivery
 
+### Japan
+
+* [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
+* [Otaku.co.uk](https://www.otaku.co.uk/) - UK Based Anime/Game Art Books and More...
+* [WorldShopping](https://www.worldshopping.global/) - Online shopping at Japanese stores
+* [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
+
 ### Marketplaces
 
 * [7dayshop](https://www.7dayshop.com/)
@@ -42,7 +49,6 @@
 * [John Pye Auctions](https://www.johnpye.co.uk/)
 * [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
-* [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [OnBuy](https://www.onbuy.com/gb/)
 * [Rarewaves](https://www.rarewaves.com/) - Vinyl, CD, DVD, Blu-Ray, Books
 * [Richer Sounds](https://www.richersounds.com/) - TVs, Hi-Fi, Home Cinema
@@ -53,7 +59,6 @@
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 * [Temu](https://www.temu.com)
 * [Very](https://www.very.co.uk/)
-* [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
 
 ### Lists
 
@@ -96,7 +101,6 @@
 
 * [Packlink](https://www.packlink.com/en-GB/)
 * [Parcl](https://www.parcl.com/)
-* [WorldShopping](https://www.worldshopping.global/) - Online shopping at Japanese stores
 
 ### Vouchers
 
