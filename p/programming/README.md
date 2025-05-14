@@ -261,6 +261,7 @@
 * [Monorepo Explained](https://monorepo.tools/)
 * [OverAPI.com - Collecting All Cheat Sheets](https://overapi.com/)
 * [Paged Out!](https://pagedout.institute/)
+* [Pocket Flow](https://the-pocket.github.io/PocketFlow-Tutorial-Codebase-Knowledge/) - Turns Codebase into Easy Tutorial ([GitHub](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge))
 * [ProgrammerHumor](https://programmerhumor.io/)
 * [Programming Idioms](https://www.programming-idioms.org/)
 * [punks.org](https://punkx.org/) - Games and puzzles to teach children programming
