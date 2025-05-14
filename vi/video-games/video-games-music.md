@@ -13,16 +13,22 @@
 ### Covers
 
 * [DSC](https://www.youtube.com/@DSC24)
+  * [Astro Bot - I Am Astro Bot](https://www.youtube.com/watch?v=eL61NzgjlcE)
   * [Donkey Kong Country - DK Island Swing](https://www.youtube.com/watch?v=lLIQClbDWWE)
   * [Final Fantasy VII - Let the Battles Begin!](https://www.youtube.com/watch?v=Uq3SandOYJY)
   * [New Super Mario Bros. Wii - Castle](https://www.youtube.com/watch?v=XkBzsTlz6NM)
   * [Phoenix Wright: Ace Attorney - Objection!](https://www.youtube.com/watch?v=LMxZroDDQnE)
   * [Sonic The Hedgehog 2 - Chemical Plant Zone](https://www.youtube.com/watch?v=rfiGIv6yf60)
+  * [StarCraft - Terran 1](https://www.youtube.com/watch?v=L_ypU6auNQc)
+  * [StarCraft - Terran 2](https://www.youtube.com/watch?v=XFeu8McBl-s)
   * [Super Mario 64 - Metallic Mario](https://www.youtube.com/watch?v=EP9tBU9CscY)
   * [Super Mario Galaxy - Rosalina's Observatory](https://www.youtube.com/watch?v=lrMVhcBWIxQ)
   * [Super Mario Land - Staff Roll](https://www.youtube.com/watch?v=ip6XkQDrv90)
   * [Super Mario RPG - Beware The Forest's Mushrooms](https://www.youtube.com/watch?v=KyDFZ6fTAzg)
+  * [The Last of Us - Left Behind](https://www.youtube.com/watch?v=jQ7LC9Yqsq8)
   * [The Last of Us - Main Theme](https://www.youtube.com/watch?v=qQekdNsh6dM)
+  * [The Last of Us - The Path (A New Beginning)](https://www.youtube.com/watch?v=HYrdWrASpIs)
+  * [Wii Party - Main Menu](https://www.youtube.com/watch?v=qcMvzmezQZY)
 * [Earthbound Papas](https://www.wikiwand.com/en/articles/Earthbound_Papas)
   * Dancing Dad
   * [Octave Theory](https://www.youtube.com/watch?v=OPjXprQDE8A\&pp=ygUdb2N0YXZlIHRoZW9yeSBlYXJ0aGJvdWQgcGFwYXM%3D)
