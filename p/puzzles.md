@@ -11,6 +11,7 @@
 * [Couples](https://www.couples.game/)
 * [Brainzilla](https://www.brainzilla.com/)
 * [KrazyDad](https://krazydad.com/) - Printable Puzzles
+* [intotheabyss.net](http://www.intotheabyss.net/) - Solving Christopher Manson's MAZE and the Genre of the Immersive Puzzle
 * [Puzzlip](https://puzzlip.com)
 * [SmartHome](https://smarthome.steviep.xyz/) ([Hacker News thread](https://news.ycombinator.com/item?id=42424508))
 * [ZebraPuzzles.com](https://www.zebrapuzzles.com/)
