@@ -88,7 +88,10 @@
 * [LibreLingo](https://librelingo.app/)
 * [LingQ](https://www.lingq.com/en/)
 * [Memrise](https://www.memrise.com/)
+* [Michel Thomas](https://michelthomas.com/)
 * [Open Culture](https://www.openculture.com/freelanguagelessons) - Free Language Lessons
+* [Phrasing](https://phrasing.app/) - To fluency & beyond!
+* [Pimsleur](https://www.pimsleur.com/)
 * [Readlang](https://readlang.com/) - Read, translate and supercharge your vocabulary
 * [RhinoSpike](https://rhinospike.com/)
 * [Rype](https://www.rypeapp.com/)
