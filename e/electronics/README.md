@@ -1,5 +1,9 @@
 # Electronics
 
+### Articles
+
+* [How to Use a Multimeter](https://www.artofmanliness.com/skills/manly-know-how/multimeter) - The Art of Manliness
+
 ### Books
 
 * [But How Do It Know? - The Basic Principles of Computers for Everyone](https://archive.org/details/jclarkscottbuthowdoitknowthebasicprinciplesofcomputersforeveryonejohnc.scott2009/mode/2up) - J. Clark Scott
