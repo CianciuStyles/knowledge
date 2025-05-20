@@ -79,6 +79,8 @@
 ### Cases
 
 * [boxprotectorshop](https://www.boxprotectors.nl/) - The Netherlands
+* [CustomGameCases.com](https://www.customgamecases.com/) - United States
+* [Foxy Printing](https://foxyprinting.co.uk/collections/all-retro-game-cases) - United Kingdom
 * [Gaming Cave](https://www.ebay.co.uk/str/gamingcave64) - United Kingdom
 * [grailguard](https://grailguard.co.uk/) - United Kingdom
 * [Retro Game Cases](https://www.retrogamecases.com/) - United States
