@@ -492,6 +492,7 @@
 
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
 * [SadNES cITy](https://www.sadnescity.it/)
+* [Translations](https://www.romhacking.net/translations/) - Romhacking.net
 * [Translations Patches](https://cdromance.org/translations/) - CDRomance
 
 ### Walkthroughs
