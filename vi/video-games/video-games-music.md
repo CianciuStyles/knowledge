@@ -200,4 +200,5 @@
 * [VGMHub](https://vgmhub.com/)
 * [Video Game Music Preservation Foundation Wiki](https://vgmpf.com/Wiki/index.php?title=Main_Page)
 * [Videogame Soundtracks](https://vsrecommendedgames.fandom.com/wiki/Videogame_Soundtracks) - /v/'s Recommended Games Wiki
+* [Wayo Records](https://www.wayorecords.com/en/)
 
