@@ -191,10 +191,12 @@
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
 * [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
+* [PSRewired Online Servers](https://psrewired.com/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
 ### Sony PlayStation 3
 
+* [PSRewired Online Servers](https://psrewired.com/)
 * [RPCS3](https://rpcs3.net/) - The Open-source PlayStation 3 Emulator
 
 ### Sony PlayStation 4
@@ -205,6 +207,7 @@
 ### Sony PlayStation Portable
 
 * [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
+* [PSRewired Online Servers](https://psrewired.com/)
 * [r/PSP Wiki](https://www.reddit.com/r/PSP/wiki/index)
   * [Convert PSX Games to PSP Format](https://www.reddit.com/r/PSP/wiki/psx2psp)
 
