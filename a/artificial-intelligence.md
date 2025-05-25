@@ -67,6 +67,8 @@
 
 <figure><img src="https://i.pinimg.com/564x/9d/80/73/9d8073b95053176739ff12142bbac5a0.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Top Channels and Blogs For AI Learning in 2025.gif" alt=""><figcaption></figcaption></figure>
+
 ### Tools
 
 #### Coding
