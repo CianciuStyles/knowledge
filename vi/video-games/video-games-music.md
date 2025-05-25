@@ -74,6 +74,8 @@
   * [Donkey Kong Country - DK Island Swing / Jungle Hijinx](https://www.youtube.com/watch?v=JARfNkd7eoI)
   * [Persona 5 - Last Surprise](https://www.youtube.com/watch?v=RdfPMadOyw0)
   * [Sonic 2 - Acquatic Ruin Zone](https://www.youtube.com/watch?v=eC60qFBZSGg)
+* [NESTALGIA](https://www.youtube.com/@nestalgia.lofimusic)
+  * [Chrono Grooves - A Chrono Trigger Jazz Funk Tribute](https://www.youtube.com/watch?v=0JInXCXCQQA)
 * [RichaadEB](https://www.youtube.com/@RichaadEB)
   * [Super Mario Galaxy - Buoy Base Galaxy](https://www.youtube.com/watch?v=kDG8GfBQ0YY)
   * [Xenoblade Chronicles - You Will Know Our Names](https://www.youtube.com/watch?v=dN2IRxm_4po)
