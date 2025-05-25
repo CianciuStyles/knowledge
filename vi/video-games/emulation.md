@@ -87,8 +87,8 @@
 
 ### Microsoft Xbox One
 
-* XWine1 - Xbox One translation layer
-* [WinDurango ](https://github.com/WinDurango-project/WinDurango)- The worlds first Xbox One compatibility layer for Windows
+* [XWine1](https://github.com/xwine1) - Xbox One translation layer
+* [WinDurango](https://github.com/WinDurango-project/WinDurango) - The worlds first Xbox One compatibility layer for Windows
 
 ### Nintendo 3DS
 
@@ -313,6 +313,7 @@
 
 ## YouTube Channels
 
+* [Blaine Locklair](https://www.youtube.com/@blainelocklair)
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
   * [A closer look at Original Xbox Emulation on Steam Deck](https://www.youtube.com/watch?v=MxzN7jXwohk)
   * [A closer look at Vita3k - the PlayStation Vita Emulator](https://www.youtube.com/watch?v=M7fXcrScNIg)
