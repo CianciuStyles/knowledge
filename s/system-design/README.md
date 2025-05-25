@@ -238,6 +238,8 @@
 
 <figure><img src="../../.gitbook/assets/The System Design Topic Map.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Top 20 System Design Concepts Every Developer Should Know.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) - David Malan, Harvard University
