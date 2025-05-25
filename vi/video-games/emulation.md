@@ -193,6 +193,7 @@
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
 * [PSRewired Online Servers](https://psrewired.com/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
+* [This PS2 Pro Mod Changes Everything! PSBBN Install Guide](https://www.youtube.com/watch?v=LLmJPF-XVxs) - Blaine Locklair
 
 ### Sony PlayStation 3
 
