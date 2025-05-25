@@ -79,6 +79,8 @@ description: https://git-scm.com/
 
 <figure><img src="../.gitbook/assets/Git Commands Cheatsheet.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Git Commands Cheat Sheet.gif" alt=""><figcaption></figcaption></figure>
+
 ### Tools
 
 * [lazygit](https://www.youtube.com/watch?v=4DWKf5RqU-s)
