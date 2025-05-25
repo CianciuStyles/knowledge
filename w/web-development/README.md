@@ -81,6 +81,8 @@
 
 <figure><img src="../../.gitbook/assets/12 Tips for API Security.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/A Cheatsheet on REST API Design Best Practices.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/A Cheatsheet to Build Secure API.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Cheatsheet on Comparing API Architectural Styles.gif" alt=""><figcaption></figcaption></figure>
