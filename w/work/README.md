@@ -13,6 +13,7 @@
 * [Becoming a go-to person gets you promoted. Here's how to do it as a software engineer.](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) - Jordan Cutler
 * [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/) - Jacob Kaplan-Moss
 * [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one) - Tony Schwartz
+* [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Patrick McKenzie
 * FAANG Career Ladder - Ryan Peterman
   * [Junior (L3) to Mid-level (L4)](https://www.developing.dev/p/faang-career-ladder-junior-l3-vs)
   * [Mid-level (L4) to Senior (L5)](https://www.developing.dev/p/faang-career-ladder-mid-level-l4)

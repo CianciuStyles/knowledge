@@ -3,6 +3,7 @@
 ### Articles
 
 * [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) - LessWrong
+* [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better) - Jacob Falkovich, LessWrong
 * [101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/) - Kevin Kelly
 * [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) - Kevin Kelly
 * [20 Characteristics of High-Agency Men](https://www.artofmanliness.com/character/advice/anthropomaximology-20-characteristics-of-high-agency-men) - Brett & Kate McKay, The Art of Manliness
