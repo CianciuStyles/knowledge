@@ -188,4 +188,5 @@
 * [KITCTF](https://kitctf.de/)
 * [MetaCTF](https://metactf.com/)
 * [picoCTF](https://picoctf.org/)
+* [The Flare-On Challenge](https://www.flare-on.com/)
 
