@@ -58,6 +58,7 @@
 ### Blogs
 
 * [Amos Wenger](https://fasterthanli.me/)
+* [Bruce Dawson](https://randomascii.wordpress.com/)
 * [Dan Luu](https://danluu.com/)
 * [Eli Bendersky](https://eli.thegreenplace.net/)
 * [Fabien Sanglard](https://fabiensanglard.net/)
