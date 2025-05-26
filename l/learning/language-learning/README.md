@@ -82,6 +82,7 @@
 * [I Will Teach You A Language](https://iwillteachyoualanguage.com/)
 * [IPA Charts](https://www.yorku.ca/earmstro/ipa/index.html)
 * [Language Transfer](https://www.languagetransfer.org/)
+* [Latudio](https://www.latudio.com/) - Your language buddy
 * [Learn A Language](https://www.learnalanguage.com/)
 * [Lernu](https://lernu.net/it) - Learn Esperanto
 * [Let's Learn Hangul!](http://letslearnhangul.com/)

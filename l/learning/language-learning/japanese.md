@@ -21,6 +21,7 @@
 * [Migaku](https://migaku.com/)
 * [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
+* [TheMoeWay](https://learnjapanese.moe/)
 * [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)
 
