@@ -7,6 +7,7 @@
 * [A Simple 2021 Reboot — My Short Letter to a Friend Who Wants to Get In Shape](https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/) - Tim Ferriss
 * [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html) - Liam Rosen
 * [How to Build Muscle Fast (Training, Diet, and Workouts)](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength/) - Steve Kamb, Nerd Fitness
+* [Muscle Building FAQ](https://www.nerdfitness.com/wp-content/uploads/2025/04/NF-MuscleBuildingFAQ.pdf) - Nerd Fitness
 * [The Complete Guide to Weight Loss for Men](https://www.artofmanliness.com/health-fitness/health/how-to-lose-weight-for-men/) - The Art of Manliness
 * [The Ultimate Guide to Losing Fat and Gaining Muscle (At the Exact Same Time)](https://www.nerdfitness.com/blog/lose-weight-and-build-muscle-or-do-one-then-the-other/) - Nerd Fitness
 * [Why Can't I Lose Weight? (What No One Else Will Tell You)](https://www.nerdfitness.com/blog/why-cant-i-lose-weight-heres-the-truth) - Nerd Fitness
