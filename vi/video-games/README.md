@@ -341,6 +341,7 @@
 * [Finally getting a PS4](https://www.reddit.com/r/patientgamers/comments/5seel8/finally_getting_a_ps4/)
 * [Finally got a PS4, what are the must plays?](https://www.reddit.com/r/patientgamers/comments/447ijv/finally_got_a_ps4_what_are_the_must_plays/)
 * [For those who used a computer between 1995 and 2001, what’s the computer game from that time that sticks with you the most, and why?](https://www.reddit.com/r/AskReddit/comments/1hzglw3/for_those_who_used_a_computer_between_1995_and/)
+* [Gamers of Reddit, what are good videogames to play with your non-gamer girlfriend?](https://www.reddit.com/r/AskReddit/comments/1kv7h2n/gamers_of_reddit_what_are_good_videogames_to_play/)
 * [Gamers of reddit, what is the hardest game you have ever played in your entire life?](https://www.reddit.com/r/AskReddit/comments/4808ps/gamers_of_reddit_what_is_the_hardest_game_you/)
 * [Gamers of Reddit, what video game has the best storyline?](https://www.reddit.com/r/AskReddit/comments/zbjbpq/gamers_of_reddit_what_video_game_has_the_best/)
 * [Gamers who have a potato pc, what is your favorite low-end/old game to play?](https://www.reddit.com/r/patientgamers/comments/bpbb16/gamers_who_have_a_potato_pc_what_is_your_favorite/)
