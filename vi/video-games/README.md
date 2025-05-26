@@ -384,6 +384,7 @@
 * [PC Gamer who just got a ps4 controller. What are some must have games for PC that work really well with a controller?](https://www.reddit.com/r/patientgamers/comments/45zwng/pc_gamer_who_just_got_a_ps4_controller_what_are/)
 * [PS2 games I should look for?](https://www.reddit.com/r/patientgamers/comments/454wk6/ps2_games_i_should_look_for/)
 * [PS3 hidden gems](https://www.reddit.com/r/patientgamers/comments/4n9ve6/ps3_hidden_gems/)
+* [Puzzle games like Her Story that are played as simulations of digital devices?](https://www.reddit.com/r/puzzlevideogames/comments/1kgij87/puzzle_games_like_her_story_that_are_played_as/)
 * [Recently got a orginal xbox any suggestions?](https://www.reddit.com/r/patientgamers/comments/5wvc5t/recently_got_a_orginal_xbox_any_suggestions/)
 * [Recommend a "mindless" game](https://www.reddit.com/r/patientgamers/comments/4u8445/recommend_a_mindless_game/)
 * [Recommend me some horror games with great stories](https://www.reddit.com/r/patientgamers/comments/47dzoy/recommend_me_some_horror_games_with_great_stories/)
