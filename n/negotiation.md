@@ -194,6 +194,7 @@
 * [Negotiating a job offer](https://www.leighthompson.com/negotiating-a-job-offer/) - Leigh Thompson
 * [Salary expectations questions - How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question) - Fearless Salary Negotiation
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Patrick McKenzie
+* [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - Haseeb Qureshi
 
 ### Courses
 
