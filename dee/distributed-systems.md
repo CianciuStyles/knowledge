@@ -33,6 +33,10 @@
 * [Ask HN: Best books on modern distributed systems](https://news.ycombinator.com/item?id=28391738)
 * [Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
 
+### Images
+
+<figure><img src="../.gitbook/assets/Understanding Eventual Consistency.jpg" alt=""><figcaption></figcaption></figure>
+
 ### YouTube Playlists
 
 * [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) - Martin Kleppmann
