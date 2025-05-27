@@ -22,6 +22,7 @@
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign.one
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview) - Tian Pan
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
+* [Modern Hardware Numbers for System Design Interviews (2025)](https://hellointerview.substack.com/p/modern-hardware-numbers-for-system) - Hello Interview
 * [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) - Robert Heaton
 * [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/) - SystemDesign.one
 
