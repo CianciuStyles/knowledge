@@ -64,6 +64,7 @@
   * [2013](https://news.ycombinator.com/item?id=6975638)
   * [2011](https://news.ycombinator.com/item?id=2147034)
 * [What are the best books for professional effectiveness?](https://news.ycombinator.com/item?id=29602228)
+* [What books have been worth your time?](https://news.ycombinator.com/item?id=43611474)
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
 * [What nonfiction books do you keep rereading?](https://news.ycombinator.com/item?id=40277933)
 * [What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
