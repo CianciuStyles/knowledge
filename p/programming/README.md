@@ -219,6 +219,7 @@
   * [450 Stars: A Categorization and Mega-Guide](https://www.reddit.com/r/adventofcode/comments/1gdw4cj/450_stars_a_categorization_and_megaguide/)
   * [HyperNeutrino](https://www.youtube.com/@hyper-neutrino)
   * [What concepts are generally required to be able to solve all AoC tasks?](https://www.reddit.com/r/adventofcode/comments/1hgegw6/what_concepts_are_generally_required_to_be_able/)
+* [Codyssi](https://www.codyssi.com/)
 * [Everybody Codes](https://everybody.codes/)
 * [Project Euler](https://projecteuler.net/)
 
