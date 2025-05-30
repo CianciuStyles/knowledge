@@ -44,30 +44,31 @@
 
 ### Lists
 
-* [Board Games](https://vsrecommendedgames.fandom.com/wiki/Board\_Games) - /v/'s Recommended Games Wiki
-* [Spiel des Jahres Awards](https://www.wikiwand.com/en/Spiel\_des\_Jahres)
+* [Board Games](https://vsrecommendedgames.fandom.com/wiki/Board_Games) - /v/'s Recommended Games Wiki
+* [Spiel des Jahres Awards](https://www.wikiwand.com/en/Spiel_des_Jahres)
 
 ### Reddit
 
 * [r/boardgames](https://www.reddit.com/r/boardgames/)
 * [r/digitaltabletop](https://www.reddit.com/r/digitaltabletop/)
-* [Where to play boardgames online](https://www.reddit.com/r/boardgames/wiki/play\_online)
+* [Where to play boardgames online](https://www.reddit.com/r/boardgames/wiki/play_online)
 * Threads
-  * [Best boardgames to play with your partner](https://www.reddit.com/r/boardgames/comments/1aeg6if/best\_boardgames\_to\_play\_with\_your\_partner/)
-  * [Examples of games that always are a success](https://www.reddit.com/r/boardgames/comments/17rdsfr/exemple\_of\_games\_that\_always\_are\_a\_success/)
-  * [My top 22 games for 2-players](https://www.reddit.com/r/boardgames/comments/yu8qzy/my\_top\_22\_games\_for\_2players/)
-  * [What’s a board game you absolutely love but your average Joe has never heard of it?](https://www.reddit.com/r/boardgames/comments/16cwpkl/whats\_a\_board\_game\_you\_absolutely\_love\_but\_your/)
-  * [What’s the best board game to play with GF, who’s never played board games before?](https://www.reddit.com/r/boardgames/comments/q9azxj/whats\_the\_best\_board\_game\_to\_play\_with\_gf\_whos/)
-  * [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats\_the\_best\_game\_you\_added\_to\_your\_collection/)
-  * [What's the best two player board games in your opinion?](https://www.reddit.com/r/boardgames/comments/16nh9s3/whats\_the\_best\_two\_player\_board\_games\_in\_your/)
-  * [What's your favorite short game?](https://www.reddit.com/r/boardgames/comments/1799k33/whats\_your\_favorite\_short\_game/)
-  * [What's Your Go-To Board Game for New Players?](https://www.reddit.com/r/boardgames/comments/1dd97i3/whats\_your\_goto\_board\_game\_for\_new\_players/)
-  * [What game do you consider to be “flawless”?](https://www.reddit.com/r/boardgames/comments/16s6mvo/what\_game\_do\_you\_consider\_to\_be\_flawless/)
-  * [What is the funniest board game you have played?](https://www.reddit.com/r/boardgames/comments/1gkm7l2/what\_is\_the\_funniest\_board\_game\_you\_have\_played/)
-  * [What is your all time favourite board game?](https://www.reddit.com/r/AskUK/comments/15fo71f/what\_is\_your\_all\_time\_favourite\_board\_game/)
-  * [What is your forever game?](https://www.reddit.com/r/boardgames/comments/1796o3i/what\_is\_your\_forever\_game/)
-  * [What NON-cutthroat games for 2 do you own?](https://www.reddit.com/r/boardgames/comments/15obwh7/what\_noncutthroat\_games\_for\_2\_do\_you\_own/)
-  * [What was the game that turned you into a board gamer?](https://www.reddit.com/r/boardgames/comments/lq6r38/what\_was\_the\_game\_that\_turned\_you\_into\_a\_board/)
+  * [Best boardgames to play with your partner](https://www.reddit.com/r/boardgames/comments/1aeg6if/best_boardgames_to_play_with_your_partner/)
+  * [Examples of games that always are a success](https://www.reddit.com/r/boardgames/comments/17rdsfr/exemple_of_games_that_always_are_a_success/)
+  * [My top 22 games for 2-players](https://www.reddit.com/r/boardgames/comments/yu8qzy/my_top_22_games_for_2players/)
+  * [What’s a board game you absolutely love but your average Joe has never heard of it?](https://www.reddit.com/r/boardgames/comments/16cwpkl/whats_a_board_game_you_absolutely_love_but_your/)
+  * [What’s the best board game to play with GF, who’s never played board games before?](https://www.reddit.com/r/boardgames/comments/q9azxj/whats_the_best_board_game_to_play_with_gf_whos/)
+  * [What’s the best game you added to your collection this year?](https://www.reddit.com/r/boardgames/comments/ko2i2p/whats_the_best_game_you_added_to_your_collection/)
+  * [What's the best two player board games in your opinion?](https://www.reddit.com/r/boardgames/comments/16nh9s3/whats_the_best_two_player_board_games_in_your/)
+  * [What's your favorite short game?](https://www.reddit.com/r/boardgames/comments/1799k33/whats_your_favorite_short_game/)
+  * [What's Your Go-To Board Game for New Players?](https://www.reddit.com/r/boardgames/comments/1dd97i3/whats_your_goto_board_game_for_new_players/)
+  * [What board game made you really dive into the hobby?](https://www.reddit.com/r/boardgames/comments/1kxt6xg/what_board_game_made_you_really_dive_into_the/)
+  * [What game do you consider to be “flawless”?](https://www.reddit.com/r/boardgames/comments/16s6mvo/what_game_do_you_consider_to_be_flawless/)
+  * [What is the funniest board game you have played?](https://www.reddit.com/r/boardgames/comments/1gkm7l2/what_is_the_funniest_board_game_you_have_played/)
+  * [What is your all time favourite board game?](https://www.reddit.com/r/AskUK/comments/15fo71f/what_is_your_all_time_favourite_board_game/)
+  * [What is your forever game?](https://www.reddit.com/r/boardgames/comments/1796o3i/what_is_your_forever_game/)
+  * [What NON-cutthroat games for 2 do you own?](https://www.reddit.com/r/boardgames/comments/15obwh7/what_noncutthroat_games_for_2_do_you_own/)
+  * [What was the game that turned you into a board gamer?](https://www.reddit.com/r/boardgames/comments/lq6r38/what_was_the_game_that_turned_you_into_a_board/)
 
 ### Venues
 
