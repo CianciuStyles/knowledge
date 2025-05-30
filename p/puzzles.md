@@ -1,5 +1,9 @@
 # Puzzles
 
+### Books
+
+* [Maze: Solve The World's Most Challenging Puzzle](https://archive.org/details/mazesolvetheworldsmostchallengingpuzzle1985/mode/2up) - Christopher Manson
+
 ### Jigsaws
 
 * [Unidragon](https://unidragon.eu/) - Wooden Jigsaw Puzzles and Maps
