@@ -31,6 +31,7 @@ description: https://www.rust-lang.org/
 
 * [24 days from node.js to Rust](https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup/) - Jarrod Overson
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Amos Wenger
+* [From C# to Rust: A 42-Day Developer Challenge](https://woodruff.dev/from-c-to-rust-a-42-day-developer-challenge/) - Chris Woody Woodruff
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) - Jesse Lawson
 * [Optimising my Rust solutions for Advent of Code](https://nindalf.com/posts/optimising-rust/) - Krishna Sundarram
 * [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/) - Raul Jordan ([HN thread](https://news.ycombinator.com/item?id=34427604), [Reddit thread](https://www.reddit.com/r/rust/comments/10eu2aw/rust_concepts_i_wish_i_learned_earlier/))
@@ -124,6 +125,7 @@ description: https://www.rust-lang.org/
 * [Leptos](https://leptos.dev/) - Build interactive web applications in Rust
 * [Rust Programming Language](https://www.rust-lang.org/)
   * [2024 State of Rust Survey Result](https://blog.rust-lang.org/2025/02/13/2024-State-Of-Rust-Survey-results.html)
+  * [Rustlings](https://rustlings.rust-lang.org/)
 * [Rustfinity](https://www.rustfinity.com/)
 
 ### YouTube channels
