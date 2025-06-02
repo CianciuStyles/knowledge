@@ -30,6 +30,7 @@
 * [Make JavaScript Games](https://makejsgames.com/)
 * [Procedural Content Generation in Games](https://www.docdroid.net/zReQS98/output-pdf)
 * [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo, Jen Lowe
+* [The Level Design Book](https://book.leveldesignbook.com/)
 
 ### Courses
 
