@@ -14,6 +14,7 @@
 * Hacking Super Monkey Ball - Andrew Eikum
   * [Part 1 – Banana Bunch Values](https://www.smokingonabike.com/2021/01/17/hacking-super-monkey-ball-part-1-banana-bunch-values/)
   * [Part 2 – Decompilation with Ghidra](https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/)
+* [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/) - Silent ([HN thread](https://news.ycombinator.com/item?id=43772311))
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - t0st ([HN thread](https://news.ycombinator.com/item?id=26296339))
 * [HOWTO-Reverse Engineering](https://wiki.scummvm.org/index.php/HOWTO-Reverse_Engineering) - ScummVM
 * [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/) - Andy Hippo
