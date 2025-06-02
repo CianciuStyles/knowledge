@@ -87,6 +87,9 @@ description: https://www.rust-lang.org/
 * [Learn Rust by Building Real Applications](https://www.udemy.com/course/rust-fundamentals/) - Lyubomir Gavadinov
 * [Learning Rust by Working Through the Rustlings Exercises](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722) - Chris Biscardi
 * [The Rust Programming Language](https://frontendmasters.com/courses/rust/) - Richard Feldman
+* [Write Yourself a CLI – A Fast File Finder in Rust](https://github.com/corrode/write-yourself-a-cli) - corrode.dev
+* [Write Yourself A Shell In Rust](https://github.com/corrode/write-yourself-a-shell) - corrode.dev
+* [Write Yourself a Web App in Rust](https://github.com/corrode/write-yourself-a-web-app) - corrode.dev
 
 ### GitHub repositories
 
