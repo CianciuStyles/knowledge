@@ -325,6 +325,7 @@
 * [12 essential puzzle games I recommend to everyone](https://www.reddit.com/r/puzzlevideogames/comments/11gmjgo/12_essential_puzzle_games_i_recommend_to_everyone/)
 * [About to buy a PS4. Suggest some games?](https://www.reddit.com/r/patientgamers/comments/881cln/about_to_buy_a_ps4_suggest_some_games/)
 * [Any 2D Metroidvania-style Games You Like?](https://www.reddit.com/r/patientgamers/comments/6njttl/i_just_finished_ori_and_the_blind_forest_and/)
+* [Are there any good modern point-and-click games that focus on puzzle-solving?](https://www.reddit.com/r/adventuregames/comments/1cdy81s/are_there_any_good_modern_pointandclick_games/)
 * [Are there any iPhone games that are actually worth playing?](https://www.reddit.com/r/gaming/comments/1b72171/are_there_any_iphone_games_that_are_actually/)
 * [Best FPS/shooters for PS3?](https://www.reddit.com/r/patientgamers/comments/4cktui/best_fpsshooters_for_ps3_which_to_avoid/)
 * [Best Indie games of the past 3 years](https://www.reddit.com/r/patientgamers/comments/59p5f5/best_indie_games_of_the_past_3_years/)
