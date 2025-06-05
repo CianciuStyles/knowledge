@@ -4,7 +4,7 @@
 
 ### Twitch Channels
 
-* [United Kingdom Speedruuner Gathering](https://www.twitch.tv/uksg_marathon)
+* [United Kingdom Speedrunner Gathering](https://www.twitch.tv/uksg_marathon)
 
 ### Websites
 
