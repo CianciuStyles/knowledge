@@ -63,6 +63,9 @@
 * [DaddaRuleKonge](https://daddarulekonge.itch.io/)
 * [Masters of Doom](https://smile.amazon.co.uk/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
 * [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
+* [The Video Game Library](https://www.thevideogamelibrary.org/)
+  * [PlayStation 1994-1998](https://www.thevideogamelibrary.org/book/perfect-catalogue-playstation-1994-1998)
+  * [PlayStation 1999-2004](https://www.thevideogamelibrary.org/book/perfect-catalogue-playstation-1999-2004)
 
 ### Browser Games
 
