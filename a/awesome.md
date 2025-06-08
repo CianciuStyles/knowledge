@@ -4,6 +4,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 
 * Awesome Algorithms: [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 * Awesome AppSec: [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+* Awesome arXiv: [https://github.com/artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv)
 * Awesome Awesomeness: [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * Awesome Books: [https://github.com/learn-anything/books](https://github.com/learn-anything/books)
 * Awesome C: [https://notabug.org/koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c)
