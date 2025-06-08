@@ -25,6 +25,7 @@
 
 * [Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
 * [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
+* [How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 
 ### Infographics
 
