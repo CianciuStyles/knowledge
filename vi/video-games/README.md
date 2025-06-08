@@ -315,6 +315,10 @@
 * [UK Retro Game Store Locator](https://www.retrogamesnow.co.uk/retro-store-locator/)
 * [Warners Retro Corner](https://warnersretrocorner.com/)
 
+### Podcasts
+
+* [Watch Out for Fireballs!](https://www.watchoutforfireballs.com/)
+
 ### Quizzes
 
 * [GuessThe.Game](https://guessthe.game/)
