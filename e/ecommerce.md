@@ -33,6 +33,7 @@
 * [Costco](https://www.costco.co.uk/)
 * [Delcampe](https://www.delcampe.net/it/collezionismo/)
 * [DHgate ](https://www.dhgate.com/)- China Wholesale Products
+* [Digikey](https://www.digikey.co.uk/) - Electronic Components Distributor
 * [E5P - Everything 5 Pounds](https://www.everything5pounds.com/en/)
 * [eBay UK](https://www.ebay.co.uk/)
   * [99pbids](https://99pbids.co.uk/)
