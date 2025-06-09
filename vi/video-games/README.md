@@ -245,6 +245,12 @@
 * [Top 100 All-Time Adventure Games](https://adventuregamers.com/articles/view/18643) - Adventure Gamers
 * [Top Ten Games for Every Platform That Matters](https://stupidgamer.com/top-ten-games-for-every-platform-that-matters/)
 
+### Manuals
+
+* Kirkland's Manual Labor
+  * [Nintendo Game Boy Color](https://archive.org/details/kirklands-manual-labor-nintendo-game-boy-color-usa-4k-version/)
+  * [Sony PlayStation 2](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version)
+
 ### Movies
 
 * [Omar World](https://www.youtube.com/playlist?list=PLp5OoSIngkAiIzQvYvkMa7x7GBGzkra08)
