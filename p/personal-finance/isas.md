@@ -12,3 +12,7 @@
   * [Best brokers for stocks and shares ISA in 2025](https://brokerchooser.com/best-brokers/best-brokers-for-stocks-and-shares-isa)
 * [FourStar Fees](https://fourstarfees.com/) - Investment Fee Impact Calculator
 * [IV Calc](https://ivcalc.co.uk/)
+
+### YouTube Videos
+
+* [The Best Stocks & Shares ISA in 2025](https://www.youtube.com/watch?v=WfMfvIieuj0) - Damien Talks Money
