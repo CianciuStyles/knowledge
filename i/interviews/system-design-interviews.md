@@ -80,6 +80,9 @@
 ### YouTube channels
 
 * [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
+  * [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco)
+  * [System Design Was HARD - Until You Knew the Trade-Offs](https://www.youtube.com/watch?v=1nENigGr-a0)
+  * [System Design Was HARD - Until You Knew the Trade-Offs, Part 2](https://www.youtube.com/watch?v=2g1G8Jr88xU)
 * [Hello Interview](https://www.youtube.com/@hello_interview)
 * [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
 * [System Design Fight Club](https://www.youtube.com/channel/UC5_QAB65IbajYkL6hzoY-gg/videos)
@@ -92,6 +95,3 @@
 * [System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA) - ByteByteGo
 * [System Design Interview](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8) - ByteByteGo
 
-### YouTube videos
-
-* [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco) - Sahn Lam, ByteByteGo
