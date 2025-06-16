@@ -54,6 +54,7 @@
 * [What's the toughest bug you ever found and fixed?](https://stackoverflow.com/questions/169713/whats-the-toughest-bug-you-ever-found-and-fixed)
 * [Why you should learn brainf\*ck (or: learn you a brainf\*ck for great good!)](https://skilldrick.co.uk/2011/02/why-you-should-learn-brainfuck-or-learn-you-a-brainfuck-for-great-good/) - Nick Morgan
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/) - John Resig
+* [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/) - Joshua Barretto
 
 ### Blogs
 
