@@ -41,6 +41,7 @@
 * [What show stayed good from start to finish?](https://www.reddit.com/r/AskReddit/comments/12emr13/what_show_stayed_good_from_start_to_finish/)
 * [What show will you never get tired of rewatching?](https://www.reddit.com/r/AskReddit/comments/y6wlhi/what_show_will_you_never_get_tired_of_rewatching/)
 * [What tv show is 10/10 with less than 40 episodes?](https://www.reddit.com/r/AskReddit/comments/1agrty8/what_tv_show_is_1010_with_less_than_40_episodes/)
+* [What TV show is a 10/10 from the first episode to the last episode?](https://www.reddit.com/r/AskReddit/comments/1ldbcub/what_tv_show_is_a_1010_from_the_first_episode_to/)
 * [What TV show managed to be consistently fantastic from the first episode to the finale?](https://www.reddit.com/r/AskReddit/comments/tx65is/what_tv_show_managed_to_be_consistently_fantastic/)
 * [What TV show never had a decline in quality?](https://www.reddit.com/r/AskReddit/comments/z5neg5/what_tv_show_never_had_a_decline_in_quality/)
 * [What TV show would you rate 10/10 that has fewer than 50 episodes?](https://www.reddit.com/r/AskReddit/comments/1f3indl/what_tv_show_would_you_rate_1010_that_has_fewer/)
