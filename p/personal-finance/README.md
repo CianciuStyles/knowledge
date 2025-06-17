@@ -104,9 +104,11 @@
 * [Ask Liz Weston](https://asklizweston.com/)
 * [Bank Account Savings](https://bankaccountsavings.co.uk/)
 * [Black & White FIRE](https://blackandwhitefire.com/) - UK FIRE & Retire Planner
-* [Bogleheads ](https://bogleheads.org/index.php)- Investing Advice
+* [Bogleheads](https://bogleheads.org/index.php) - Investing Advice
   * [Wiki](https://www.bogleheads.org/wiki/Main_Page)
-* [BoringCashCow ](https://boringcashcow.com/)- Discover Boring Businesses that Quietly Rake in the Cash
+* [BoringCashCow](https://boringcashcow.com/) - Discover Boring Businesses that Quietly Rake in the Cash
+* [BoringMoney](https://www.boringmoney.co.uk/)
+  * [Top money tips for couples: 5-step checklist to improving joint finances](https://www.boringmoney.co.uk/learn/articles/top-money-tips-for-couples-5step-checklist-to-improving-joint-finances/)
 * [ChatHMRC](https://chat-hmrc.vercel.app/)
 * [CGTCalculator](https://cgtcalculator.com/)
 * [CompiledSanity](https://cspersonalfinance.io/) - Personal Finance Spreadsheets
