@@ -1,5 +1,10 @@
 # Travel
 
+### Apps
+
+* [Ikuyo!](https://ikuyo.kenrick95.org/landing) - Plan your perfect trip with friends and family
+* [TripJam](https://tripjam.app/) - Plan smarter. Travel together.
+
 ### Articles
 
 * [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/) - Kevin Kelly
