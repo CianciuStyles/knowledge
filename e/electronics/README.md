@@ -54,6 +54,7 @@
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
 * [Kari Lawler](https://www.youtube.com/@karilawler)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
+* [Mend It Mark](https://www.youtube.com/MendItMark)
 * [My Mate VINCE](https://www.youtube.com/user/mymatevince)
 * [Necroware](https://www.youtube.com/@necro_ware/videos)
 * [Nostalgia Nerd](https://www.youtube.com/@Nostalgianerd)
