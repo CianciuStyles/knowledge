@@ -11,6 +11,8 @@
 <figure><img src="https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonic-chart-by-tofugu.jpg" alt=""><figcaption></figcaption></figure>
 
 * [3 months of learning Japanese](https://skerritt.blog/3-months-of-learning-japanese/) - Autumn Skerritt
+* [Cure Dolly script in Markdown](https://kellenok.github.io/cure-script/)
+* [IMABI](https://imabi.org/) - Guided Japanese Mastery
 * [Japanese Learning Hub](https://www.fluentin3months.com/learn/japanese-learning-hub/) - Fluent in 3 Months
 * [Japanese Like a Breeze (JLAB)](https://www.japanese-like-a-breeze.com/)
   * [All Jlab Decks](https://www.japanese-like-a-breeze.com/all-decks/)
@@ -24,6 +26,10 @@
 * [TheMoeWay](https://learnjapanese.moe/)
 * [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)
+
+### YouTube Channels
+
+* [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
 
 ### YouTube Videos
 
