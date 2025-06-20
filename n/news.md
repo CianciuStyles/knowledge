@@ -6,7 +6,7 @@
 * [Current Events on Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events)
 * [Dan Wang](https://danwang.co/)
 * [Emergency and Disaster Information Services](https://rsoe-edis.org/)
-* [Magazedia ](https://en.magazedia.wiki/)- Magazine Encyclopedia
+* [Magazedia](https://en.magazedia.wiki/) - Magazine Encyclopedia
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [News Minimalist](https://www.newsminimalist.com/)
 * [PaperTalk](https://www.papertalk.xyz)
@@ -44,6 +44,7 @@
 
 * [Ars Technica](https://arstechnica.com/)
 * [BleepingComputer](https://www.bleepingcomputer.com/)
+* [Explained from First Principles](https://explained-from-first-principles.com/)
 * [freshnews](https://www.freshnews.org/)
 * [Hackaday](https://hackaday.com/)
 * [Hacker News](https://news.ycombinator.com/)
