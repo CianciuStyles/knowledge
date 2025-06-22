@@ -58,6 +58,7 @@
   * [Bash scripting](cee/command-line/bash-scripting.md)
   * [Grep](cee/command-line/grep.md)
   * [Lsof](cee/command-line/lsof.md)
+  * [Make](cee/command-line/make.md)
   * [Sed](cee/command-line/sed.md)
   * [SSH](cee/command-line/ssh.md)
 * [Competitive Programming](cee/competitive-programming.md)
