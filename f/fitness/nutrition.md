@@ -61,6 +61,8 @@
 
 ### Recipes
 
+* [Carnivore And Keto Flatbread](https://www.youtube.com/watch?v=U6PJhqp2YZI) - LowCarb Abode
+* [Flourless Egg White Keto Tortillas](https://www.youtube.com/watch?v=hEGumHAs0xI) - Cook with Mel
 * [One Pan Mexican Quinoa](https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/) - Damn Delicious
 * [Protein-Packed Breakfast Burritos](https://blog.myfitnesspal.com/protein-packed-breakfast-burritos/) - MyFitnessPal
 
