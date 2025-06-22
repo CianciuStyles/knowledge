@@ -375,5 +375,6 @@
 
 ## YouTube Videos
 
+* [2 Hours of Console Hacking & Homebrew to Conk Out To](https://www.youtube.com/watch?v=_xrkcDPu6Bk)
 * [Recompilation: An Incredible New Way to Keep N64 Games Alive](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
