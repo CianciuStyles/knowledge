@@ -57,6 +57,7 @@
   * [Awk](cee/command-line/awk.md)
   * [Bash scripting](cee/command-line/bash-scripting.md)
   * [Grep](cee/command-line/grep.md)
+  * [Just](cee/command-line/just.md)
   * [Lsof](cee/command-line/lsof.md)
   * [Make](cee/command-line/make.md)
   * [Sed](cee/command-line/sed.md)
