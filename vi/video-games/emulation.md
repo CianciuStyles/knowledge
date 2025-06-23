@@ -21,6 +21,7 @@
 * [Emulator Online](https://emulatoronline.com/)
 * [EmuOS](https://emupedia.net/beta/emuos/)
 * [Internet Arcade](https://archive.org/details/internetarcade)
+* [LEGO Island](https://isle.pizza/)
 * [My Abandonware](https://www.myabandonware.com/)
 * [MyEmulator.online](https://myemulator.online/)
 * [Myrient](https://myrient.erista.me/)
