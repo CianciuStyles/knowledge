@@ -83,7 +83,7 @@
 * [Crafting Interpreters](https://www.craftinginterpreters.com/) - Bob Nystrom
 * [Hacker News Book Map](https://hnbooks.pieterma.es/)
 * [How To Be A Programmer](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf) - Robert R. Lead
-* [How To Design Programs](https://htdp.org/2018-01-06/Book/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+* [How To Design Programs](https://htdp.org/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Making Software](https://www.makingsoftware.com/) - Dan Hollick
 * [Peopleware: Productive Projects and Teams](https://smile.amazon.co.uk/dp/0321934113) - Tom DeMarco, Tim Lister
   * [Notes by Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/books/peopleware/)
