@@ -56,7 +56,8 @@
 * [Stretch 15](https://stretch15.com/) - A free 15 min daily stretch routine to help you avoid aches and pains
 * [StrongLifts](https://stronglifts.com/)
 * [Wandrer](https://wandrer.earth/) - Gamification to encourage walking
-* [Workout.lol ](https://workout.lol/)- The easiest way to create a workout routine
+* [Workout.cool](https://workout.cool/) - Build Your Perfect Workout ([GitHub](https://github.com/Snouzy/workout-cool))
+* [Workout.lol](https://workout.lol/) - The easiest way to create a workout routine
 
 ### YouTube Channels
 
