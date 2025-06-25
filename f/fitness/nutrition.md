@@ -58,6 +58,7 @@
 * [The Health Expert: The One Food (WE ALL EAT) That's Killing Us Slowly: Max Lugavere](https://www.youtube.com/watch?v=It5DFXULOq0) - Diary Of A CEO
 * [The Miracle Doctor: Get Your Sex Life Back, Melt Belly Fat & Heal Your Injury! Dr. Mindy Pelz](https://www.youtube.com/watch?v=e2mQOGzHtQc) - Diary Of A CEO
 * [The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo](https://www.youtube.com/watch?v=Gy_vcL1cpP8) - Diary Of A CEO
+* [This Will Strip Fat Faster Than Anything! Dr Benjamin Bikman, The Insulin Doctor](https://www.youtube.com/watch?v=yMOosHzf8Nk) - Diary Of A CEO
 
 ### Recipes
 
