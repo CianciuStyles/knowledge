@@ -62,6 +62,7 @@ description: https://www.rust-lang.org/
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Rust for Rustaceans](https://rust-for-rustaceans.com/) - Jon Gjengset
 * [Rust in Action](https://www.rustinaction.com/) - Tim McNamara
+* [The Complete Rust Security Handbook: From Safe Code to Unbreakable Systems](https://yevh.github.io/rust-security-handbook/)
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/) - Steve Klabnik and Carol Nichols
