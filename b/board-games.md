@@ -47,6 +47,25 @@
 * [Board Games](https://vsrecommendedgames.fandom.com/wiki/Board_Games) - /v/'s Recommended Games Wiki
 * [Spiel des Jahres Awards](https://www.wikiwand.com/en/Spiel_des_Jahres)
 
+### Online Stores
+
+* [All Rolled Up](https://www.allrolledup.co.uk/)
+* [Athena Games](https://athenagames.com/)
+* [Board Game Extras](https://www.bgextras.co.uk/)
+* [BoardGamePrices](https://boardgameprices.co.uk/)
+* [Chaos Cards](https://www.chaoscards.co.uk/)
+* [Clownfish Games](https://clownfish-games.co.uk/)
+* [Firestorm Games](https://www.firestormgames.co.uk/)
+* [Gamers@Hart](https://gamersathart.co.uk/)
+* [Games Lore](https://www.gameslore.com/)
+* [Kienda](https://kienda.co.uk/)
+* [Leisure Games](https://leisuregames.com/)
+* [Magic Madhouse](https://magicmadhouse.co.uk/)
+* [Meeples Corner](https://meeplescorner.co.uk/)
+* [Thirsty Meeples](https://thirstymeeples.co.uk/)
+* [Travelling Man](https://travellingman.com/)
+* [Wayland Games](https://www.waylandgames.co.uk/)
+
 ### Reddit
 
 * [r/boardgames](https://www.reddit.com/r/boardgames/)
