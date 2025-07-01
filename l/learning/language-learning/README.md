@@ -37,6 +37,7 @@
 * [Anki](https://apps.ankiweb.net/)
   * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 * [Glossarie](https://glossarie.app/)
+* [ISSEN](https://www.issen.com/)
 * [Nuenki](https://nuenki.app/) - Learn a language while you browse the web
 * [Toucan](https://jointoucan.com/) - Learn a new language just by browsing the internet
 * [Vokabeln](https://vokabeln.io/)
