@@ -36,6 +36,7 @@
 * [ADHD UK](https://adhduk.co.uk/)
   * [Right to Choose](https://adhduk.co.uk/right-to-choose/)
 * [Goblin Tools](https://goblin.tools/) - Single-task tools for neurodivergent people with tasks they find overwhelming or difficult
+* [Instant ADHD Support](https://www.adhdhelp.app/en/)
 
 ### YouTube channels
 
