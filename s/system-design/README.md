@@ -228,6 +228,8 @@
 
 <figure><img src="../../.gitbook/assets/10 System Design Trade-offs You Cannot Ignore.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/24 Best Resources To Learn Software Architecture In 2025.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Cheat Sheet for Fault-Tolerant Systems.gif" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/immagine (1).png>)
