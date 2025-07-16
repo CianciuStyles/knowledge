@@ -2,6 +2,11 @@
 
 ## Resources
 
+### Apps
+
+* [audiobookshelf](https://www.audiobookshelf.org/) - Self-hosted audiobook and podcast server
+* [ReadEra](https://readera.org/)
+
 ### Articles
 
 * [100 Books To Read In A Lifetime](https://www.amazon.co.uk/100-best-books/b?ie=UTF8\&node=4656884031) - Amazon UK
