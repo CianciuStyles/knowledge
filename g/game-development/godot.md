@@ -21,6 +21,7 @@ description: https://godotengine.org/
   * [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot)
   * [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
   * [hto/awesome-godot](https://github.com/hto/awesome-godot)
+* [Escoria framework](https://github.com/godot-escoria) - Libre framework for the creation of point-and-click adventure games
 * [gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)
 * [Godot Engine](https://github.com/godotengine/godot)
