@@ -243,6 +243,7 @@
 
 ### Websites
 
+* [/uses](https://uses.tech/) - A list of /uses pages detailing developer setups, gear, software and configs.
 * [30 Seconds Of Code](https://www.30secondsofcode.org/)
 * [Analysis Tools and Linters](https://analysis-tools.dev/) ([GitHub](https://github.com/analysis-tools-dev/static-analysis))
 * [Boot.dev](https://www.boot.dev/) - Learn Backend Development The Smart Way
