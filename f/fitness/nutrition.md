@@ -156,5 +156,6 @@
   * [What If You Start Eating OATS Every Day For 30 Days?](https://www.youtube.com/watch?v=9t38GRin1cg)
 * [Nutrition Made Simple!](https://www.youtube.com/@NutritionMadeSimple)
 * [What I've Learned](https://www.youtube.com/c/WhatIveLearned/videos)
+  * [Does Fasting really Destroy Muscle?](https://www.youtube.com/watch?v=IGZxERG3N88)
   * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)
   * [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)&#x20;
