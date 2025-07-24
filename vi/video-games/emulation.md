@@ -165,6 +165,12 @@
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
+### Sega Saturn
+
+* Archive.org
+  * [Sega Saturn Redump](https://archive.org/download/redump_sega_saturn_202204/)
+* [Pseudo Saturn Kai (PSK) Guide](https://www.reddit.com/r/SegaSaturn/comments/16s104t/pseudo_saturn_kai_psk_guide/)
+
 ### Sony PlayStation
 
 * [Alex Free](https://alex-free.github.io/#psx)
