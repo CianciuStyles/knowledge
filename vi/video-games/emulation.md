@@ -169,6 +169,7 @@
 
 * Archive.org
   * [Sega Saturn Redump](https://archive.org/download/redump_sega_saturn_202204/)
+* [Fenrir](https://www.fenrir-ode.fr/) - Sega Saturn Optical Drive Emulator
 * [Pseudo Saturn Kai (PSK) Guide](https://www.reddit.com/r/SegaSaturn/comments/16s104t/pseudo_saturn_kai_psk_guide/)
 
 ### Sony PlayStation
