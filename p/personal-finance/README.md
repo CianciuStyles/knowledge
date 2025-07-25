@@ -35,19 +35,24 @@
 
 ### Books
 
+* [A Random Walk Down Wall Street](https://www.amazon.co.uk/Random-Walk-Down-Wall-Street/dp/1324035439/) - Burton Malkiel
+* [Common Stocks and Uncommon Profits](https://www.amazon.co.uk/Uncommon-Profits-Writings-Investment-Classics/dp/0471445509/) - Philip Fisher
 * [Early Retirement Extreme](https://www.amazon.co.uk/Early-Retirement-Extreme-Philosophical-Independence/dp/145360121X) - Jacob Lund Fisker
 * [From Zero to Financial Independence in less than 10 years](https://www.amazon.co.uk/Zero-Financial-Independence-less-Years-ebook/dp/B01N6FT93S) - Robert Tracey
 * [Get a Financial Life: Personal Finance in Your Twenties and Thirties](https://smile.amazon.co.uk/dp/1476782385/) - Beth Kobliner
 * [I Will Teach You To Be Rich](https://smile.amazon.co.uk/dp/1523505745/) - Ramit Sethi
 * [Money: A User's Guide](https://smile.amazon.co.uk/dp/0008308314) - Laura Whateley
 * [Smarter Investing: Simpler Decisions for Better Results](https://smile.amazon.co.uk/dp/0273785370/) - Tim Hale
+* [Stocks For The Long Run](https://www.amazon.co.uk/Stocks-Long-Run-Definitive-Investment/dp/1264269803/) - Jeremy Siegel
 * [The Barefoot Investor: The Only Money Guide You'll Ever Need](https://smile.amazon.co.uk/dp/0730324214) - Scott Pape
 * [The Bogleheads’ Guide to Investing](https://smile.amazon.co.uk/dp/1118921283/) - Mel Lindauer, Taylor Larimore, Michael LeBeouf
+* [The Four Pillars of Investing: Lessons for Building a Winning Portfolio](https://www.amazon.co.uk/Four-Pillars-Investing-Building-Portfolio/dp/0071747052) - William Bernstein
 * [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel](https://smile.amazon.co.uk/dp/0060555661/) - Benjamin Graham
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://smile.amazon.co.uk/dp/1119404509/) - John Bogle
 * [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime](https://www.amazon.co.uk/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102) - MJ DeMarco
   * [Summary by Ali Abdaal](https://www.youtube.com/watch?v=Gx2vyi4JcV0)
 * [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://smile.amazon.co.uk/dp/1589795474) - Thomas J. Stanley, William D. Danko
+* [The Richest Man In Babylon](https://www.amazon.co.uk/Richest-Man-Babylon-Original-Classics/dp/1954839499/) - George Clason
 * [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://smile.amazon.co.uk/dp/1533667926) - JL Collins
 * [The Psychology of Money: Timeless lessons on wealth, greed and happiness](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness/dp/0857197681) - Morgan Housel
 * [The Total Money Makeover](https://smile.amazon.co.uk/dp/1595555277/) - Dave Ramsey
