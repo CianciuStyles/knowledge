@@ -118,6 +118,7 @@
 * [Lynda](https://www.lynda.com/)
 * [MasterClass](https://www.masterclass.com/)
 * [Mind Luster](https://www.mindluster.com/)
+* [Mindvalley](https://www.mindvalley.com/)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [OpenCourser](https://opencourser.com/)
 * [OpenLearn](https://www.open.edu/openlearn/)
