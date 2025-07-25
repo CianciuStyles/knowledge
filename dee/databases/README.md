@@ -88,7 +88,7 @@
 * [All Modern Database Models in 5 min](https://random-dev.medium.com/databases-in-5-min-bfd3b9bef86) - RandomDev
 * [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) - Tony Solomonik
 * [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) - Garrett Fidalgo
-* [How Does A Database Work?](https://cstack.github.io/db\_tutorial/) - Connor Stack
+* [How Does A Database Work?](https://cstack.github.io/db_tutorial/) - Connor Stack
 * [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of](https://www.slideshare.net/LukasEder1/how-modern-sql-databases-come-up-with-algorithms-that-you-would-have-never-dreamed-of) - Lukas Eder
 * [Relational Databases Explained](https://architecturenotes.co/p/things-you-should-know-about-databases) - Mahdi Yusuf
 * [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/) - Mahdi Yusuf
@@ -104,11 +104,15 @@
 
 ### Images
 
+<figure><img src="../../.gitbook/assets/Database Schema Design Simplified.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Most Popular Open Source Databases.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Top 6 Database Models.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Top 9 NoSQL DB Use Cases.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Transactions and Concurrency in Databases.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Playgrounds
 
