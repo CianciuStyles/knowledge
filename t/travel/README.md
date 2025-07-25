@@ -32,3 +32,4 @@
 * [SkyScanner](https://www.skyscanner.it/)
 * [The Man in Seat 61](https://www.seat61.com/) - The train travel guide
 * [Where Is This?](https://www.where-is-this.com/)
+* [wheretodrink.beer](https://wheretodrink.beer/)
