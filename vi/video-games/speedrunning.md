@@ -37,6 +37,7 @@
     * [Silent Hill 4: The Room - AnEternalEnigma](https://www.youtube.com/watch?v=_sFUTxKeZ7M)
   * Summer Games Done Quick 2025
     * [BioShock - Gulch2](https://www.youtube.com/watch?v=ra5TGsxW47o)
+    * [Sonic the Hedgehog 2 - SuperSonic](https://www.youtube.com/watch?v=PZQ-Tj5Wwdc)
 * [Italian Speedrun Community](https://www.youtube.com/c/ItalianSpeedrunCommunity/videos)
 * [SpeedCon](https://www.youtube.com/@speedcon_eu)
 * [Summoning Salt](https://www.youtube.com/c/SummoningSalt/videos)
