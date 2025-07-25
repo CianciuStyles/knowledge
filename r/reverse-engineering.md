@@ -50,6 +50,7 @@
 
 * [010 Editor](https://www.sweetscape.com/010editor/)
 * [angr](https://angr.io/)
+* [APKLab](https://apklab.surendrajat.xyz/) - The ultimate Android RE experience right inside your VS Code
 * [Binary Ninja](https://binary.ninja/)
 * [CicoParser](https://github.com/gabonator/Education/tree/master/2021/CicoParser) - set of tools for conversion of IBM PC DOS applications into modern operating systems
 * [Cutter](https://cutter.re/)

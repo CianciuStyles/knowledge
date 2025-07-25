@@ -248,6 +248,7 @@ description: https://www.android.com/
 
 ### GitHub Repositories
 
+* [APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 * [Awesome Android AOSP](https://github.com/Akipe/awesome-android-aosp)
 * [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 * [Better `adb shell`](https://github.com/matan-h/adb-shell)
