@@ -6,6 +6,7 @@
 
 * [A Simple 2021 Reboot — My Short Letter to a Friend Who Wants to Get In Shape](https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/) - Tim Ferriss
 * [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html) - Liam Rosen
+* [How I Turned ChatGPT Into My Personal Nutrition Coach and You Can Too](https://www.artofmanliness.com/health-fitness/fitness/how-i-turned-chatgpt-into-my-personal-nutrition-coach-and-you-can-too/) - Brett McKay, The Art of Manliness
 * [How to Build Muscle Fast (Training, Diet, and Workouts)](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength/) - Steve Kamb, Nerd Fitness
 * [Muscle Building FAQ](https://www.nerdfitness.com/wp-content/uploads/2025/04/NF-MuscleBuildingFAQ.pdf) - Nerd Fitness
 * [The Complete Guide to Weight Loss for Men](https://www.artofmanliness.com/health-fitness/health/how-to-lose-weight-for-men/) - The Art of Manliness
