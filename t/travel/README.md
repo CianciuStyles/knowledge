@@ -30,6 +30,7 @@
 * [NearbyWiki](https://en.nearbywiki.org/map) - Wikipedia places nearby
 * [Rome2Rio](https://www.rome2rio.com/)
 * [SkyScanner](https://www.skyscanner.it/)
+* [Stoutly](https://stoutly.co.uk/) - Where to find Guinness
 * [The Man in Seat 61](https://www.seat61.com/) - The train travel guide
 * [Where Is This?](https://www.where-is-this.com/)
 * [wheretodrink.beer](https://wheretodrink.beer/)
