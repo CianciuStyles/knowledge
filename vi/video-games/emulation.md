@@ -130,6 +130,7 @@
 
 * [Eden](https://eden-emulator.github.io/) - Nintendo Switch Emulator
 * [Sudachi](https://sudachiemu.com/home/) - Nintendo Switch Emulator for Android and PC
+* [switchroot](https://switchroot.org/) - Android and Linux for the Nintendo Switch
 
 ### Nintendo Wii
 
