@@ -19,4 +19,5 @@
 * [intotheabyss.net](http://www.intotheabyss.net/) - Solving Christopher Manson's MAZE and the Genre of the Immersive Puzzle
 * [Puzzlip](https://puzzlip.com)
 * [SmartHome](https://smarthome.steviep.xyz/) ([Hacker News thread](https://news.ycombinator.com/item?id=42424508))
+* [The Escape Roomer](https://theescaperoomer.com/)
 * [ZebraPuzzles.com](https://www.zebrapuzzles.com/)
