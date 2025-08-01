@@ -54,6 +54,7 @@
 * [Royal Botanical Gardens](https://www.kew.org/) - Kew
 * [Royal Observatory](https://www.rmg.co.uk/royal-observatory) - Greenwich
 * [Somerset House](https://www.somersethouse.org.uk/)
+* [SPYGAMES](https://www.spygames.com/) - Covent Garden
 * [The Arch Climbing Wall](https://www.archclimbingwall.com/)
 * [The Bermondsey Beer Mile](https://www.bermondsey-beer-mile.co.uk/)
 * [The Castle Climbing Centre](https://www.castle-climbing.co.uk/)
