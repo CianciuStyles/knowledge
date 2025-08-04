@@ -4,6 +4,7 @@
 
 ### Apps
 
+* [JELU](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 * [audiobookshelf](https://www.audiobookshelf.org/) - Self-hosted audiobook and podcast server
 * [ReadEra](https://readera.org/)
 
