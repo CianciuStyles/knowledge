@@ -130,10 +130,12 @@
 
 * [Breeze PDF](https://breezepdf.com/)
 * [iLovePDF](https://www.ilovepdf.com/)
+* [LuxPDF](https://luxpdf.com/)
 * [PDF24 Tools](https://tools.pdf24.org/en/)
 * [PDFescape](https://www.pdfescape.com/windows/)
 * [Sejda](https://www.sejda.com/)
 * [SmallPDF Tools](https://smallpdf.com/pdf-tools)
+* [Stirling PDF](https://stirlingpdf.io)
 
 ### Printables
 
