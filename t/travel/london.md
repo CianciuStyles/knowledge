@@ -54,7 +54,6 @@
 * [Royal Botanical Gardens](https://www.kew.org/) - Kew
 * [Royal Observatory](https://www.rmg.co.uk/royal-observatory) - Greenwich
 * [Somerset House](https://www.somersethouse.org.uk/)
-* [SPYGAMES](https://www.spygames.com/) - Covent Garden
 * [The Arch Climbing Wall](https://www.archclimbingwall.com/)
 * [The Bermondsey Beer Mile](https://www.bermondsey-beer-mile.co.uk/)
 * [The Castle Climbing Centre](https://www.castle-climbing.co.uk/)
@@ -77,6 +76,11 @@
 * [Kentish Town Car Boot](https://www.kentishtowncarboot.co.uk/)
 * [List of Car Boot Sales in Hertfordshire 2025](https://www.thetouristtrail.org/guides/hertfordshire-guides/car-boot-sales-in-hertfordshire/)
 * [The Carboot Directory](https://carbootdirectory.co.uk/)
+
+### Fun Activities
+
+* [SPYGAMES](https://www.spygames.com/) - Covent Garden
+* [Squid Game: The Experience](https://squidgameexperienceuk.com/) - Royal Victoria Dock
 
 ### Live Music Venues
 
