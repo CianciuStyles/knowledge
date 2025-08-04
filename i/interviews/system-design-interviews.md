@@ -80,6 +80,7 @@
 ### YouTube channels
 
 * [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
+  * [20 System Design Concepts You Must Know - Final Part](https://www.youtube.com/watch?v=uq-JpclPQV4)
   * [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco)
   * [System Design Was HARD - Until You Knew the Trade-Offs](https://www.youtube.com/watch?v=1nENigGr-a0)
   * [System Design Was HARD - Until You Knew the Trade-Offs, Part 2](https://www.youtube.com/watch?v=2g1G8Jr88xU)
