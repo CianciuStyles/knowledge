@@ -32,7 +32,9 @@
 
 ### Remote Companies
 
+* [Automattic](https://automattic.com/jobs/)
 * [Cinder](https://www.cinder.co/careers)
+* [CodeSignal](https://jobs.gem.com/codesignal/)
 * [DuckDuckGo](https://duckduckgo.com/hiring)
 * [Elastic](https://www.elastic.co/about/careers/)
 * [Ghost](https://careers.ghost.org/)
@@ -45,7 +47,9 @@
 * [Remote](https://boards.greenhouse.io/remotecom)
 * [Shopify](https://www.shopify.ca/careers/work-anywhere)
 * [Sourcegraph](https://boards.greenhouse.io/sourcegraph91)
+* [Sumsub](https://careers.sumsub.com/jobs)
 * [Synthesia](https://www.synthesia.io/careers)
+* [Traefik Labs](https://traefik.io/careers)
 
 
 
