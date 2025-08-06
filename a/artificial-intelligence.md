@@ -34,6 +34,7 @@
 * [Artificial Intelligence: A Modern Approach](https://www.wikiwand.com/en/Artificial_Intelligence:_A_Modern_Approach) - Stuart Russell, Peter Norvig
 * [Artificial Intelligence: Foundations of Computational Agents](https://www.artint.info/3e/html/ArtInt3e.html) - David L. Poole, Alan K. Mackworth
 * [GenAI Handbook ](https://genai-handbook.github.io/)- William Brown
+* [LLM Inference Handbook](https://bentoml.com/llm/) - BentoML
 * [The GenAI Guidebook](https://ravinkumar.com/GenAiGuidebook/book_intro.html) - Ravin Kumar
 
 ### Courses
