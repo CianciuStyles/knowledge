@@ -1,5 +1,6 @@
 # Awesome
 
+Awesome Index: [https://awesomeindex.dev/](https://awesomeindex.dev/)\
 Awesome master list: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 * Awesome Algorithms: [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
