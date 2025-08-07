@@ -31,6 +31,8 @@
 * [Algorithms & Data Structures](https://frontendmasters.com/courses/algorithms/) - ThePrimeagen, Frontend Masters
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Kevin Wayne, Robert Sedgewick
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Robert Sedgewick, Kevin Wayne
+* [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) - Tim Roughgarden
+* [Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) - Tim Roughgarden
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms) - Robert Sedgewick
 * [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - Steven Skiena
 * [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) - Rashid Bin Muhammad, Kent State University
