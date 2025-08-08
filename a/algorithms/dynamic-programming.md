@@ -86,6 +86,7 @@
 
 ### Articles
 
+* [A graphical introduction to dynamic programming](https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html) - Avik Das
 * [DP IS EASY! 5 Steps to Think Through DP Questions](https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.) - LeetCode
 * [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/) - Quentin Santos
 * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/) - Oleksii Trekhleb
