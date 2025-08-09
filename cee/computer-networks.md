@@ -4,8 +4,9 @@
 
 ### Books
 
+* [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/) - Peter L Dordal
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall
-* [Computer Networking: A Top Down Approach](https://gaia.cs.umass.edu/kurose\_ross/index.php) - Jim Kurose, Keith Ross
+* [Computer Networking: A Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) - Jim Kurose, Keith Ross
 * [Computer Networks: A Systems Approach](https://systemsapproach.org/books/) - Larry L. Peterson, Bruce S. Davie
 * [High Performance Browser Networking](https://hpbn.co/) - Ilya Grigorik
 * [Interconnections: Bridges, Routers, Switches, and Internetworking Protocols ](https://www.amazon.com/Interconnections-Bridges-Switches-Internetworking-Protocols/dp/0201634481/)- Radia Perlman
@@ -16,8 +17,8 @@
 
 ### Courses
 
-* [Computer Networking: A Top-Down Approach](https://www.youtube.com/playlist?list=PL1ya5dD\_M8uX-BLUF1FEvUNsYWQL5\_l0O) - Jim Kurose
-* [Computer Networks 1 (CS3502)](https://www.youtube.com/playlist?list=PLo80JwUm6hSSwGLJmS\_quaeJgx9SILLiI) - Epic Networks Lab
+* [Computer Networking: A Top-Down Approach](https://www.youtube.com/playlist?list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O) - Jim Kurose
+* [Computer Networks 1 (CS3502)](https://www.youtube.com/playlist?list=PLo80JwUm6hSSwGLJmS_quaeJgx9SILLiI) - Epic Networks Lab
 
 ### GitHub repositories
 
