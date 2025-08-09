@@ -4,6 +4,10 @@
 
 * [Basic Music Theory in \~200 Lines of Python](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python) - Manohar Varga ([HN](https://news.ycombinator.com/item?id=26859907))
 
+### Courses
+
+* [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) - Dr Thomas Butler, University of Edinburgh
+
 ### Software
 
 * [ChordFlow](https://github.com/timvancann/chordflow)
