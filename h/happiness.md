@@ -12,5 +12,6 @@
 
 ### Courses
 
+* [The Science of Happiness](https://www.edx.org/learn/happiness/university-of-california-berkeley-the-science-of-happiness) - Dacher Keltner and Emiliana Simon-Thomas, UC Berkeley
 * [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - Laurie Santos, Yale
   * [Summary by Arvind Batra](http://arvindbatra.blogspot.com/2019/09/the-science-of-well-being-summary.html)
