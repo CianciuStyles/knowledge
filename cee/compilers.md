@@ -72,6 +72,7 @@
 
 ### YouTube Playlists
 
+* [Building a Compiler](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y) - Immo Landwerth (terrajobst)
 * [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs) - Pixeled
 
 ### YouTube Videos
