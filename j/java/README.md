@@ -33,7 +33,7 @@
 
 ### Infographics
 
-<figure><img src="../.gitbook/assets/Roadmap To Learn Java Programming.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Roadmap To Learn Java Programming.gif" alt=""><figcaption></figcaption></figure>
 
 ### Libraries
 

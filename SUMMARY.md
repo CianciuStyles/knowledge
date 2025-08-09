@@ -142,7 +142,8 @@
 
 ## J
 
-* [Java](j/java.md)
+* [Java](j/java/README.md)
+  * [Java Native Interface](j/java/java-native-interface.md)
 * [JavaScript](j/javascript/README.md)
   * [Astro](j/javascript/astro.md)
   * [Bun](j/javascript/bun.md)
