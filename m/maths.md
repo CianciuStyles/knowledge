@@ -58,6 +58,7 @@
   * [Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus)
   * [Part 3 - Integration](https://www.coursera.org/learn/integration-calculus)
   * [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
+* [College Precalculus](https://www.youtube.com/watch?v=Y8oZtFYweTY) - freeCodeCamp
 * [Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis) - Petra Bonfert-Taylor
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 * [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
