@@ -59,6 +59,10 @@ int main() {
 
 * [Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) - Changkun Ou ([GitHub](https://github.com/changkun/modern-cpp-tutorial))
 
+### Courses
+
+* [Learn C++ in 10 hours](https://www.youtube.com/watch?v=GQp1zzTwrIg) - Saldina Nurak
+
 ### Frameworks
 
 * [U++](https://www.ultimatepp.org/index.html) - Cross-Platform App Development Framework
@@ -77,7 +81,7 @@ int main() {
 
 ### Reddit Threads
 
-* [Open source projects with examples of good modern C++](https://www.reddit.com/r/cpp/comments/489f9l/open\_source\_projects\_with\_examples\_of\_good\_modern/)
+* [Open source projects with examples of good modern C++](https://www.reddit.com/r/cpp/comments/489f9l/open_source_projects_with_examples_of_good_modern/)
 
 ### Videos
 
