@@ -20,11 +20,6 @@
 * [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/) - Jonathan Bartlett
 * [The Art of Assembly Language](https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html) - Randall Hyde
 
-### Courses
-
-* [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) - OpenSecurityTraining2
-* [Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about) - OpenSecurityTraining2
-
 ### GitHub Repositories
 
 * [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
