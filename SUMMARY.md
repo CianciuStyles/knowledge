@@ -211,6 +211,7 @@
 * [PHP](p/php.md)
 * [Physics](p/physics.md)
 * [Podcasts](p/podcasts.md)
+* [Poker](p/poker.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Programming](p/programming/README.md)
