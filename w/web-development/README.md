@@ -35,6 +35,7 @@
 * [Getting Real](https://basecamp.com/gettingreal) - Basecamp
 * [High Performance Web Sites: Essential Knowledge for Frontend Engineers](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Oreilly.Steve_.Souders.High_.Performance.Web_.Sites_.Sep_.2007.pdf) - Steve Souders
 * [HTML for People](https://htmlforpeople.com) - Blake Watson
+* [Interneting Is Hard](https://internetingishard.netlify.app/) - Oliver James
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/) - Eve Andersson, Philip Greenspun, Andrew Grumet
 
 ### Code playgrounds
@@ -139,7 +140,6 @@
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 * [HEAD](https://htmlhead.dev/) - A free guide to HTML5 \<head> elements
 * [HTML5 Security Checklist](https://html5sec.org/)
-* [Interneting Is Hard](https://internetingishard.netlify.app/)
 * [Jamstack](https://jamstack.org/) - For fast and secure sites
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - Shay Howe
 * [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator
