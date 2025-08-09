@@ -539,7 +539,7 @@ C.Companion.bar(); // accessing the companion object from Java
 
 #### Object expression
 
-Replaces anonymous classes with multiple methods \(if the anonymous class has a single method, it can be replaced by a lambda expresssion\). This is **not** a singleton.
+Replaces anonymous classes with multiple methods (if the anonymous class has a single method, it can be replaced by a lambda expresssion). This is **not** a singleton.
 
 ```kotlin
 window.addMouseListener(
@@ -639,7 +639,7 @@ recognize('$') // I don't know...
 
 ### Sequences
 
-Allow lazy operations on collections without creating intermediate collections. They will apply "vertical" evaluation \(the first element goes through the whole chain, then the second, etc.\) rather than the "horizontal" evaluation collections will perform. Nothing happens until there is a terminal operation.
+Allow lazy operations on collections without creating intermediate collections. They will apply "vertical" evaluation (the first element goes through the whole chain, then the second, etc.) rather than the "horizontal" evaluation collections will perform. Nothing happens until there is a terminal operation.
 
 ```kotlin
 listOf(1, 2, 3, 4)    // [1, 2, 3, 4]
@@ -703,7 +703,7 @@ var variable2 // mutable
 
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 
-### Online Courses
+### Courses
 
+* [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - freeCodeCamp
 * [Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers) - Coursera
-
