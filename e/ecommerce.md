@@ -10,6 +10,7 @@
 
 ### Japan
 
+* [Buyee](https://buyee.jp/) - Japanese Proxy Service
 * [Japan Centre](https://www.japancentre.com/en) - Largest UK Japanese Supermarket
 * [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [Otaku.co.uk](https://www.otaku.co.uk/) - UK Based Anime/Game Art Books and More...
