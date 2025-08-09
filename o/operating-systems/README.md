@@ -19,6 +19,7 @@
 
 ### Courses
 
+* [Operating Systems Course for Beginners](https://www.youtube.com/watch?v=yK1uBHPdp30) - freeCodeCamp
 * [Operating Systems Engineering](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - MIT OpenCourseWare
 
 ### GitHub Repositories
