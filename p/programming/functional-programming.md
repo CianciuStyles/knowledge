@@ -11,6 +11,7 @@
 
 ### Books
 
+* [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) - Jencel Panic
 * [Learn Haskell by building a blog generator](https://lhbg-book.link/)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/content)
