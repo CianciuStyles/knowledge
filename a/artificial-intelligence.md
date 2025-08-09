@@ -39,6 +39,7 @@
 
 ### Courses
 
+* [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) - Andrew Ng, DeepLearning.ai
 * [Stanford Artificial Intelligence](https://ai.stanford.edu/courses/)
 
 ### Documentaries
