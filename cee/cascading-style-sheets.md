@@ -11,6 +11,10 @@
 * [Refactoring CSS Without Losing Your Mind](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind) - Harry Roberts
 * [The Ultimate Flexbox Cheat Sheet](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html) - Sean Fioritto
 
+### Books
+
+* [Relearn CSS layout: Every Layout](https://every-layout.dev/) - Heydon Pickering and Andy Bell
+
 ### Courses
 
 * [CSS for JavaScript Developers](https://css-for-js.dev/) - Josh W. Comeau
