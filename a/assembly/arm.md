@@ -8,6 +8,10 @@
 
 * [HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to assembly on Apple silicon Macs
 
+### Tutorials
+
+* [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
+
 ### YouTube Playlists
 
 * [Practical ARM Assembly Tutorial Series](https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg) - LaurieWired
