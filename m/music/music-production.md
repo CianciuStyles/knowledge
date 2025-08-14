@@ -2,6 +2,7 @@
 
 ### Books
 
+* [Introduction to Computer Music](https://cmtext.com/) - Jeffrey Hass
 * [The Theory and Technique of Electronic Music](https://msp.ucsd.edu/techniques/latest/book.pdf) - Miller Puckette
 
 ### Software
