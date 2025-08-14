@@ -33,7 +33,10 @@
     * [New Super Mario Bros. - altabiscuit](https://www.youtube.com/watch?v=qie0DjM39zQ)
   * Summer Games Done Quick 2019
     * [Devil May Cry - Maxylobes](https://www.youtube.com/watch?v=WTiEd0bfLZE)
+  * Summer Games Done Quick 2020 Online
+    * [ICO - Beuchi](https://www.youtube.com/watch?v=W-xMQpb9y8k)
   * Summer Games Done Quick 2022
+    * [ICO - SanchoPanda](https://www.youtube.com/watch?v=l2qT_KyxiWg)
     * [Silent Hill 4: The Room - AnEternalEnigma](https://www.youtube.com/watch?v=_sFUTxKeZ7M)
   * Summer Games Done Quick 2025
     * [BioShock - Gulch2](https://www.youtube.com/watch?v=ra5TGsxW47o)
