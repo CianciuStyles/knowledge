@@ -39,6 +39,8 @@
   * Summer Games Done Quick 2022
     * [ICO - SanchoPanda](https://www.youtube.com/watch?v=l2qT_KyxiWg)
     * [Silent Hill 4: The Room - AnEternalEnigma](https://www.youtube.com/watch?v=_sFUTxKeZ7M)
+  * Summer Games Done Quick 2024
+    * [Ratchet & Clank - marathonman](https://www.youtube.com/watch?v=-IVS4Vle2go)
   * Summer Games Done Quick 2025
     * [BioShock - Gulch2](https://www.youtube.com/watch?v=ra5TGsxW47o)
     * [Sonic the Hedgehog 2 - SuperSonic](https://www.youtube.com/watch?v=PZQ-Tj5Wwdc)
