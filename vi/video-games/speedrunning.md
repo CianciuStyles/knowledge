@@ -17,6 +17,7 @@
 * [ESA Speedrunning](https://www.youtube.com/c/ESAMarathon/videos)
 * [Games Done Quick](https://www.youtube.com/c/gamesdonequick/videos)
   * Awesome Games Done Quick 2018
+    * [Metal Gear Solid - plywood](https://www.youtube.com/watch?v=YUARpXbjqug)
     * [Silent Hill - Punchy](https://www.youtube.com/watch?v=_u320GZ-_B8)
   * Awesome Games Done Quick 2019
     * [Grand Theft Auto: Vice City - KZ\_FREW](https://www.youtube.com/watch?v=bO3hhp_EH5w)
