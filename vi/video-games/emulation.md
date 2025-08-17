@@ -198,11 +198,13 @@
   * [MemCard Pro 2 - Smart PS2 Memory Card With Wi-Fi, Micro SD, And OLED Display!](https://www.youtube.com/watch?v=HP8giQ8CbAE)
 * [Open PS2 Loader Compatibility List](http://sx.sytes.net/oplcl/games.aspx)
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
+* [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+  * [I Replaced Free McBoot With THIS, And Won't Go Back](https://www.youtube.com/watch?v=afetcJgUafg) - Macho Nacho Productions
+  * [This PS2 Pro Mod Changes Everything! PSBBN Install Guide](https://www.youtube.com/watch?v=LLmJPF-XVxs) - Blaine Locklair
 * [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
 * [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
 * [PSRewired Online Servers](https://psrewired.com/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
-* [This PS2 Pro Mod Changes Everything! PSBBN Install Guide](https://www.youtube.com/watch?v=LLmJPF-XVxs) - Blaine Locklair
 
 ### Sony PlayStation 3
 
