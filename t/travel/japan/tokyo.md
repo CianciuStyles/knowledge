@@ -4,6 +4,7 @@
 
 * [5 Best areas to stay in Tokyo for first-time visitors](https://travelsmartnote.com/best-areas-to-stay-in-tokyo-for-first-time-visitors/) - Travel Smart Note
 * [5-Day Tokyo Itinerary For The Ultimate Tokyo Experience](https://ilseonthego.com/5-day-tokyo-itinerary/) - Ilse On The Go
+* [The Eater Guide to Tokyo](https://www.eater.com/2017/2/21/14652924/tokyo-best-ramen-sushi-coffee-where-to-eat) - Eater
 * [Tokyo’s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures) - Richard A. Brooks, The Guardian
 * [Tokyo Neapolitan: The New Wave of Japanese Pizza](https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide) - Craig Mod, Eater
 * [Where to Stay in Tokyo \[7 Best Areas to Stay in Tokyo for Tourists\]](https://asiatravelbug.com/blog/where-to-stay-in-tokyo-first-time-best-area-family/) - Asiatravelbug
