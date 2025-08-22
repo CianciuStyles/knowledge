@@ -152,6 +152,7 @@
 ### YouTube Channels
 
 * [Freya Holmér](https://www.youtube.com/c/Acegikmo/videos)
+* [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
 * [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en)
 * [Molly Rocket](https://www.youtube.com/@MollyRocket)
 * [Pirate Software](https://www.youtube.com/@PirateSoftware) (Jason Thor Hall, [Twitch](https://www.twitch.tv/piratesoftware))
