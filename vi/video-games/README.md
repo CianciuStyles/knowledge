@@ -28,6 +28,7 @@
 * [History of Grand Theft Auto](https://www.versionmuseum.com/history-of/grand-theft-auto)
 * [Inside The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html) - Fabien Sanglard
 * [List of best out-of-the-box video output options](https://www.reddit.com/r/gamecollecting/comments/5mgap8/list_of_best_outofthebox_video_output_options/)
+* [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/) - Allison Parrish
 * [Nintendo of Europe coloured triangles](https://www.nanaky.eu/NintendoTriangles.html)
 * Solving The Witness with Z3 - Bickio O'Callahan
   * [Part 1](https://www.techofnote.com/witness-part-1)
