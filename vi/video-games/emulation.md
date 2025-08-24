@@ -171,7 +171,12 @@
 * Archive.org
   * [Sega Saturn Redump](https://archive.org/download/redump_sega_saturn_202204/)
 * [Fenrir](https://www.fenrir-ode.fr/) - Sega Saturn Optical Drive Emulator
+* [Online tool to convert Saturn saves](https://segaxtreme.net/threads/online-tool-to-convert-saturn-saves-saroo-emulator-mister-pseudo-saturn-kai.25751/)
 * [Pseudo Saturn Kai (PSK) Guide](https://www.reddit.com/r/SegaSaturn/comments/16s104t/pseudo_saturn_kai_psk_guide/)
+* [r/SegaSaturn](https://www.reddit.com/r/SegaSaturn/)
+* [Sega Saturn Japanese Model 1 Console セガサターン Teardown and Clean](https://www.youtube.com/watch?v=-uGZ6WsKs40)
+* [Sega Saturn PSU Swap](https://consolemodguides.home.blog/sega-saturn-psu-swap/)
+* [Sega Saturn:UK Forum](https://segasaturngroup.proboards.com/)
 
 ### Sony PlayStation
 
