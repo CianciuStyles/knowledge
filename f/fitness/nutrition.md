@@ -159,5 +159,7 @@
   * [Are you Too Fat or just Too Weak?](https://www.youtube.com/watch?v=seDmwOQtazU)
   * [Does Fasting really Destroy Muscle?](https://www.youtube.com/watch?v=IGZxERG3N88)
   * [Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)
+  * [Intermittent Fasting & Hunger - What the Science says](https://www.youtube.com/watch?v=dFT2IKmwyfg)
   * [Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)
   * [Why is this Healing People?](https://www.youtube.com/watch?v=qFv04wcBt4g)
+  * [You probably need way more Protein](https://www.youtube.com/watch?v=h4ORs9hJfiw)
