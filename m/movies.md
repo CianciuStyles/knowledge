@@ -23,6 +23,7 @@
 * [Name one movie which you can watch again and again and again?](https://www.reddit.com/r/AskReddit/comments/4o1k61/name_one_movie_which_you_can_watch_again_and/)
 * [Reddit, what is a good movie for when you need to escape from reality and maybe cry a little?](https://www.reddit.com/r/AskReddit/comments/5c0rn0/reddit_what_is_a_good_movie_for_when_you_need_to/)
 * [Some movies worth seeing if you like Black Mirror](https://www.reddit.com/r/blackmirror/comments/5a7x74/some_movies_worth_seeing_if_you_like_black_mirror/)
+* [What Animated Movie is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1mx7wu4/what_animated_movie_is_a_1010/)
 * [What are some movies everyone MUST see at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/4ioa4d/what_are_some_movies_everyone_must_see_at_least/)
 * [What are the best 'mind fuck' films to watch?](https://www.reddit.com/r/AskReddit/comments/5hzurh/what_are_the_best_mind_fuck_films_to_watch/) - [2](https://www.reddit.com/r/AskReddit/comments/5kg7xg/what_are_the_best_mind_fuck_films_to_watch/)
 * [What are the most well known British movies that are a must watch?](https://www.reddit.com/r/AskUK/comments/1cfr77j/what_are_the_most_well_known_british_movies_that/)
