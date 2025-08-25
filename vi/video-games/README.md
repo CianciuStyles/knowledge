@@ -562,6 +562,8 @@
 
 ### YouTube Channels
 
+* [Chaos Computer Club](https://www.youtube.com/@mediacccde)
+  * [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI) - Michael Steil
 * [Gaming Broductions](https://www.youtube.com/@GamingBroductions)
   * [The Incredibly Immersive World of PS1 Cutscenes and FMVs](https://www.youtube.com/watch?v=hBNW9sQABdk)
   * [The Magical World of PS1 Pre-Rendered Backgrounds](https://www.youtube.com/watch?v=2O4bAfCc2Zo)
