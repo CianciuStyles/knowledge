@@ -96,6 +96,7 @@
 * [Phrasing](https://phrasing.app/) - To fluency & beyond!
 * [Pimsleur](https://www.pimsleur.com/)
 * [Readlang](https://readlang.com/) - Read, translate and supercharge your vocabulary
+* [Refold](https://refold.la/)
 * [RhinoSpike](https://rhinospike.com/)
 * [Rype](https://www.rypeapp.com/)
 * [Speakly](https://speakly.me/en)
