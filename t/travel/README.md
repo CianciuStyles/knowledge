@@ -4,6 +4,7 @@
 
 * [Ikuyo!](https://ikuyo.kenrick95.org/landing) - Plan your perfect trip with friends and family
 * [TripJam](https://tripjam.app/) - Plan smarter. Travel together.
+* [Wanderlog](https://wanderlog.com/) - One app for all your travel planning needs
 
 ### Articles
 
