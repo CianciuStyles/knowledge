@@ -192,6 +192,7 @@
 * [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) - High Scalability
 * [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/) - SystemDesign
 * [Database Sharding: Concepts and Examples](https://www.mongodb.com/features/database-sharding-explained) - MongoDB
+* [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) - Sean Goedecke
 * [Hashing](https://samwho.dev/hashing/) - Sam Rose
 * [How Amazon S3 Achieves 99.999999999% Durability](https://newsletter.systemdesign.one/p/amazon-s3-durability) - Neo Kim
 * [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
