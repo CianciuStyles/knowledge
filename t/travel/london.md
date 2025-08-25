@@ -228,6 +228,7 @@
 ### Walks
 
 * [Footways](https://footways.london/)
+  * [London Nature Trails](https://footways.london/london-nature-trails)
 * [Geocaching](https://www.geocaching.com/play)
 * [Jenny Draper](https://www.jdraper.co.uk/)
 * [Historic London](https://historiclondontours.com/)
