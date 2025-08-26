@@ -183,13 +183,14 @@
 * [Kavita](https://www.kavitareader.com/) - Self-hosted reading server ([GitHub](https://github.com/Kareadita/Kavita))
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
-* [Momox ](https://www.momox.it/)- Vendi libri usati
+* [Momox](https://www.momox.it/) - Vendi libri usati
 * [Open Library](https://openlibrary.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
   * [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
 * [Readest](https://readest.com/) ([GitHub](https://github.com/readest/readest))
 * [Standard Ebooks](https://standardebooks.org/)
+* [Storytel](https://www.storytel.com)
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
 * [The Neglected Books Page](https://neglectedbooks.com/)
