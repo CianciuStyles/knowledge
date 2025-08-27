@@ -75,6 +75,8 @@
 
 ### Cables & Adapters
 
+* [Bitfunx](https://www.bitfunx.com/)
+* [Games Connection](https://gamesconnection.co.uk/)
 * [Kaico Labs](https://kaicolabs.com/)
 * [Retro Gaming Cables](https://retrogamingcables.co.uk/)
 * [RetroRGB](https://retrorgb.com/)
