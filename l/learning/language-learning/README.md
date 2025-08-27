@@ -97,6 +97,7 @@
 * [Pimsleur](https://www.pimsleur.com/)
 * [Readlang](https://readlang.com/) - Read, translate and supercharge your vocabulary
 * [Refold](https://refold.la/)
+  * [Detailed Roadmaps Archive](https://refold.la/roadmap/)
 * [RhinoSpike](https://rhinospike.com/)
 * [Rype](https://www.rypeapp.com/)
 * [Speakly](https://speakly.me/en)
