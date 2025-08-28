@@ -180,6 +180,7 @@
 * [Five Books](https://fivebooks.com/) - The best books on everything
 * [Four Minute Books](https://fourminutebooks.com/book-summaries/) - Book Summaries
 * [Free Audiobook Search](https://booksearch.party/)
+* [How Long to Read](https://howlongtoread.com/)
 * [Kavita](https://www.kavitareader.com/) - Self-hosted reading server ([GitHub](https://github.com/Kareadita/Kavita))
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts
 * [LibriVox](https://librivox.org/)
