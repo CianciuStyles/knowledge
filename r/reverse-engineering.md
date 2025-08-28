@@ -90,6 +90,7 @@
 
 * [crackmes.one](https://crackmes.one/)
 * [GuidedHacking](https://guidedhacking.com/)
+* [Luca D'Amico](https://www.lucadamico.dev/)
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
   * [GitHub repository](https://github.com/RetroReversing/retroReversing)
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
