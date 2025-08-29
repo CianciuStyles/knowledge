@@ -178,6 +178,7 @@
 * [Sega Saturn Japanese Model 1 Console セガサターン Teardown and Clean](https://www.youtube.com/watch?v=-uGZ6WsKs40)
 * [Sega Saturn PSU Swap](https://consolemodguides.home.blog/sega-saturn-psu-swap/)
 * [Sega Saturn:UK Forum](https://segasaturngroup.proboards.com/)
+* [These Plug N’ Play SEGA Saturn Mods Make Me Happy](https://www.youtube.com/watch?v=tspS_6vT9sA) - Macho Nacho Productions
 
 ### Sony PlayStation
 
