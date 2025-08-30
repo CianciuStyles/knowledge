@@ -34,6 +34,7 @@
   * [Part 7 - Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
   * [Part 8 - How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 * [Neural Networks](https://www.3blue1brown.com/topics/neural-networks) - 3Blue1Brown
+* [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io/2025/05/30/machine-learning-key-math-eqns/) - Chizoba Obasi
 * [Top 10 data mining algorithms in plain English](https://hackerbits.com/data/top-10-data-mining-algorithms-in-plain-english/) - Ray Li
 
 ### Books
