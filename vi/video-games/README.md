@@ -304,6 +304,7 @@
 * [musicMagpie](https://www.musicmagpie.co.uk/store/)
 * [Myretroshop.com](https://www.myretroshop.com/) - Norwich, United Kingdom
 * [Nabbit](https://www.nabbit.co.uk/)
+* [oldskoolconsoles](https://www.oldskoolconsoles.com/) - United Kingdom
 * [Omega's Emporium](https://omegasemporium.com/)
 * [Retro Game Base](https://www.retrogamebase.co.uk/)
 * [Retro Game Shops](https://retrobreak.co.uk/uk-game-shops/)
@@ -540,6 +541,7 @@
 * [Logical Increments](https://www.logicalincrements.com/)
 * [noclip](https://noclip.website/)
 * [No One Lives Forever Download](http://nolfrevival.tk/)
+* [Pix3lmods](https://www.oldskoolconsoles.com/)
 * [Read-Only Memory](https://readonlymemory.com/)
 * [Retro Handhelds](https://retrohandhelds.gg/)
 * [The Digital Antiquarian](https://www.filfre.net/)
