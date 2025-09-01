@@ -102,6 +102,7 @@
 ### Websites
 
 * [Budget Bytes](https://www.budgetbytes.com/)
+* [Eat This Much](https://www.eatthismuch.com/) - The Automatic Meal Planner
 * [Eat This, Not That!](https://www.eatthis.com/)
 * [Examine](https://examine.com/) - Evidence-based Analysis on Supplements & Nutrition
 * [Fit Men Cook](https://fitmencook.com/)
