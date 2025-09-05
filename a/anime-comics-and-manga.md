@@ -25,6 +25,7 @@
 ### Reddit threads
 
 * [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats_the_best_anime_youve_ever_seen/)
+* [What animated TV show is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1n37wwy/what_animated_tv_show_is_a_1010/)
 * [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
 * [What is the greatest animated show of all time?](https://www.reddit.com/r/AskReddit/comments/147bva7/what_is_the_greatest_animated_show_of_all_time/)
 
