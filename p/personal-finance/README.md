@@ -154,6 +154,7 @@
 * [UKPersonalFinance Wiki](https://ukpersonal.finance/)
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
+* [WhatIfInvest](https://www.whatifinvest.com/) - Investment Calculator
 * [Wise Bread](https://www.wisebread.com/)
 * [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
