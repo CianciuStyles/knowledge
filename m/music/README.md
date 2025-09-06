@@ -33,7 +33,8 @@
 * ​[What music album is a true masterpiece from start to finish?](https://www.reddit.com/r/AskReddit/comments/xqi5n6/what_music_album_is_a_true_masterpiece_from_start/)​
 * ​[What song are you currently obsessed with?](https://www.reddit.com/r/AskReddit/comments/w03mt8/what_song_are_you_currently_obsessed_with/)​
 * ​[What song changed your whole taste in music?](https://www.reddit.com/r/AskReddit/comments/17sr711/what_song_changed_your_whole_taste_in_music/)​
-* ​[What song is 10/10, yet hardly anyone has heard of it?](https://www.reddit.com/r/AskReddit/comments/du5j18/what_song_is_1010_yet_hardly_anyone_has_heard_of/)​
+* ​[What song is 10/10, yet hardly anyone has heard of it?](https://www.reddit.com/r/AskReddit/comments/du5j18/what_song_is_1010_yet_hardly_anyone_has_heard_of/)
+* [What song is a 10 out of 10?](https://www.reddit.com/r/AskReddit/comments/1n56oev/what_song_is_a_10_out_of_10/)​
 * ​[What's an album that defined the 90s?](https://www.reddit.com/r/AskReddit/comments/10bcxfh/whats_an_album_that_defined_the_90s/)​
 * ​[What's the best song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/6553ft/whats_the_best_song_youve_ever_heard/)​
 * ​[What's the most beautiful song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/170gtc6/whats_the_most_beautiful_song_youve_ever_heard/)​
