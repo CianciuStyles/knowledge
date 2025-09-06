@@ -106,6 +106,9 @@
 
 ### Databases
 
+* Archive.org
+  * [The Games Machine (Italian)](https://archive.org/details/the-games-machine-italia)
+  * [The Games Machine Magazine (CD and DVDs)](https://archive.org/details/cdrom-gamesmachine)
 * [Co-Optimus](https://www.co-optimus.com/)
 * [Delisted Games](https://delistedgames.com/)
 * [DoesItPlay?](https://www.doesitplay.org/)
