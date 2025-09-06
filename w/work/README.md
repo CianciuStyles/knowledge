@@ -78,6 +78,10 @@
 
 <figure><img src="../../.gitbook/assets/1628964474946.png" alt=""><figcaption><p>Top 50 Brands</p></figcaption></figure>
 
+### Reddit Threads
+
+* [What's the career path to >£200k in London as a software engineer?](https://www.reddit.com/r/HENRYUK/comments/1ghh12y/whats_the_career_path_to_200k_in_london_as_a/)
+
 ### Videos
 
 * [Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST](https://www.youtube.com/watch?v=3_Ue0tweDkE)
