@@ -2,6 +2,10 @@
 
 ## Anime
 
+### Documentaries
+
+* [10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/shows/10yearshayaomiyazaki/) - NHK World Japan
+
 ### Images
 
 <figure><img src="https://i.pinimg.com/736x/e8/a5/d5/e8a5d5b526036abdee372c4b1bb2f867.jpg" alt=""><figcaption></figcaption></figure>
