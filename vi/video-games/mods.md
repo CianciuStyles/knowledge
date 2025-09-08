@@ -90,6 +90,10 @@
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel/)
 * [Thinking with Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
 
+## Rainbow Six 2: Rogue Spear
+
+* [Playing Rainbow Six 2: Rogue Spear in 2020 and Beyond](https://github.com/willroberts/rogue-spear-2020)
+
 ### Resident Evil
 
 * [Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/)
