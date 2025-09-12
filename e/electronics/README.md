@@ -52,6 +52,7 @@
 * [Ben Eater](https://www.youtube.com/c/BenEater/videos)
 * [Branchus Creations](https://www.youtube.com/@BranchusCreations)
 * [CuriousMarc](https://www.youtube.com/c/CuriousMarc/videos)
+* [Electronics Repair School](https://www.youtube.com/@electronicsrepairschool)
 * [Kari Lawler](https://www.youtube.com/@karilawler)
 * [MattKC](https://www.youtube.com/c/MattKC/videos)
 * [Mend It Mark](https://www.youtube.com/MendItMark)
