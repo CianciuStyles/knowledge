@@ -36,7 +36,7 @@
   * [ARM](a/assembly/arm.md)
   * [MIPS](a/assembly/mips.md)
   * [RISC-V](a/assembly/risc-v.md)
-  * [x86](a/assembly/x86.md)
+  * [x86-64](a/assembly/x86.md)
 * [Audio / Video Editing](a/audio-video-editing.md)
 * [Awesome](a/awesome.md)
 * [Azure](a/azure.md)
