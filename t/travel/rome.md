@@ -14,6 +14,10 @@
 
 ## Ice Creams
 
+* [Quale pensate sia la migliore gelateria di Roma?](https://www.reddit.com/r/roma/comments/1ne46il/quale_pensate_sia_la_migliore_gelateria_di_roma/)
+
+
+
 * [La Romana](https://goo.gl/maps/1vzqz3tpPPWpZnAUA) - Piramide
 * [Lubrano](https://goo.gl/maps/SwTQkrRf8jjozBJF6) - Tiburtina
 * [Palazzo del Freddo Giovanni Fassi](https://g.page/Fassi1880?share) - Esquilino
