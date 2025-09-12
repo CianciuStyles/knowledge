@@ -34,3 +34,9 @@
 * [What memberships would you consider a life hack?](https://www.reddit.com/r/AskUK/comments/1dxrjtb/what_memberships_would_you_consider_a_life_hack/)
 * [What takes 30 mins daily but changes life drastically?](https://www.reddit.com/r/LifeProTips/comments/15rtjvi/lpt_request_what_takes_30_mins_daily_but_changes/)
 * [What things can you get for free in the UK that most people think you have to pay for?](https://www.reddit.com/r/AskUK/comments/1d710yk/what_things_can_you_get_for_free_in_the_uk_that/)
+
+### YouTube Channels
+
+* [Dad, how do I?](https://www.youtube.com/@DadhowdoI/)
+* [Dad Advice From Bo](https://www.youtube.com/@DadAdviceFromBo)
+* [HowToBasic](https://www.youtube.com/user/HowToBasic)
