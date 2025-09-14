@@ -283,6 +283,7 @@
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports) - Emulation General Wiki
+* [List of Android ports (Windows based games)](https://www.reddit.com/r/EmulationOnAndroid/comments/1nfzvph/list_of_android_ports_windows_based_games/)
 * [List of game engine recreations](https://www.wikiwand.com/en/articles/List_of_game_engine_recreations) - Wikipedia
 
 
