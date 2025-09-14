@@ -24,6 +24,8 @@
 * [Learn Japanese Now](https://marshallyin.com/)
 * [Migaku](https://migaku.com/)
 * [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
+* [SOAS University of London](https://www.soas.ac.uk/)
+  * [Japanese Beginners Course](https://www.soas.ac.uk/study/find-course/japanese-beginners-course)
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 * [TheMoeWay](https://learnjapanese.moe/)
 * [Tofugu](https://www.tofugu.com/)
