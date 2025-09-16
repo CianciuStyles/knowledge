@@ -139,6 +139,7 @@
 * [SerialStation](https://serialstation.com/)
 * [Snes Central](https://snescentral.com/index.php)
 * [Sonic Retro](https://info.sonicretro.org/)
+* [Super Nintendo (SNES) Games Database](https://superfamicom.org/)
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
   * [Games with anti-piracy methods](https://tcrf.net/Category:Games_with_anti-piracy_methods)
 * [The Game Boy Database](http://gbdb.org/)
