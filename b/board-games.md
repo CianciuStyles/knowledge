@@ -62,6 +62,7 @@
 * [Leisure Games](https://leisuregames.com/)
 * [Magic Madhouse](https://magicmadhouse.co.uk/)
 * [Meeples Corner](https://meeplescorner.co.uk/)
+* [Tabletop Junkie](https://tabletopjunkie.com/)
 * [Thirsty Meeples](https://thirstymeeples.co.uk/)
 * [Travelling Man](https://travellingman.com/)
 * [Wayland Games](https://www.waylandgames.co.uk/)
