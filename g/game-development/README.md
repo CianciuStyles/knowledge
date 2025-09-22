@@ -128,6 +128,7 @@
   * [Pan Docs](https://gbdev.io/pandocs/)
 * [GBDK Showcase](https://gbdk-2020.github.io/gbdk-2020-gallery/)
 * [Homebrew Hub](https://hh.gbdev.io/)
+* [Italian Video Games Database](https://excaliber.it/en/italian-video-games-database/)
 * [Jason Thor Hall](https://www.develop.games/)
 * [Keep Out!](https://www.playkeepout.com/) - Little Workshop
 * [Lazy Foo's Productions](https://lazyfoo.net/)
