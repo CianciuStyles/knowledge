@@ -15,6 +15,7 @@
 
 * ​[Albums where EVERY song is an absolute banger?](https://www.reddit.com/r/Music/comments/w4cdbj/albums_where_every_song_is_an_absolute_banger/)​
 * ​[In your opinion, what is an album with no bad songs?](https://www.reddit.com/r/AskReddit/comments/pqwt7w/in_your_opinion_what_is_an_album_with_no_bad_songs/)
+* [In your opinion, what is the greatest Album of ALL time?](https://www.reddit.com/r/AskReddit/comments/1ntz2p3/in_your_opinion_what_is_the_greatest_album_of_all/)
 * [What 80's album is a 11 out of 10?](https://www.reddit.com/r/AskReddit/comments/1efjrvs/what_80s_album_is_a_11_out_of_10/)
 * [What album can you listen to all the way through?](https://www.reddit.com/r/AskReddit/comments/1g9hijv/what_album_can_you_listen_to_all_the_way_through/)​
 * ​[What album can you listen to front to back without wanting to skip even a single song?](https://www.reddit.com/r/AskReddit/comments/m430pr/what_album_can_you_listen_to_front_to_back/)​
