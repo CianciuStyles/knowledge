@@ -368,6 +368,7 @@
 * [Gamers of reddit, what is the hardest game you have ever played in your entire life?](https://www.reddit.com/r/AskReddit/comments/4808ps/gamers_of_reddit_what_is_the_hardest_game_you/)
 * [Gamers of Reddit, what video game has the best storyline?](https://www.reddit.com/r/AskReddit/comments/zbjbpq/gamers_of_reddit_what_video_game_has_the_best/)
 * [Gamers who have a potato pc, what is your favorite low-end/old game to play?](https://www.reddit.com/r/patientgamers/comments/bpbb16/gamers_who_have_a_potato_pc_what_is_your_favorite/)
+* [Games that have been rated a perfect 10/10 by the majority of the 5 oldest major review outlets](https://www.reddit.com/r/gaming/comments/1ntcweb/games_that_have_been_rated_a_perfect_1010_by_the/)
 * [Games to play Local Co-op with my girlfriend](https://www.reddit.com/r/patientgamers/comments/6iwypk/games_to_play_local_coop_with_my_girlfriend/)
 * [Games to play with your SO?](https://www.reddit.com/r/patientgamers/comments/6upgt9/games_to_play_with_your_so/)
 * [Good games for zoning out and listening to podcasts or music?](https://www.reddit.com/r/patientgamers/comments/6xfrf5/good_games_for_zoning_out_and_listening_to/)
