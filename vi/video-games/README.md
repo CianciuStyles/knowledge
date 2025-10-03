@@ -486,6 +486,7 @@
 * [What video game can you play over and over again and still enjoy it?](https://www.reddit.com/r/AskReddit/comments/51ydvx/what_video_game_can_you_play_over_and_over_again/)
 * [What video game do you consider a masterpiece?](https://www.reddit.com/r/AskReddit/comments/w68jfd/what_video_game_do_you_consider_a_masterpiece/)
 * [What video game is 10/10?](https://www.reddit.com/r/AskReddit/comments/1eg6i5b/what_video_game_is_1010/)
+* [What video game is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1nut981/removed_by_moderator/)
 * [What video game is an absolute 100/100 in your opinion?](https://www.reddit.com/r/AskReddit/comments/y8tz9q/what_video_game_is_an_absolute_100100_in_your/)
 * [What video game left you saying "Fuck Yeah"?](https://www.reddit.com/r/AskReddit/comments/4g30rz/what_video_game_left_you_saying_fuck_yeah/)
 * [What video game to you is a "must play"?](https://www.reddit.com/r/AskReddit/comments/1rd3ci/what_video_game_to_you_is_a_must_play/)
