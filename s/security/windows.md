@@ -19,11 +19,11 @@
   * `SOFTWARE` (mounted on HKEY\_LOCAL\_MACHINE\Software)
   * `SYSTEM` (mounted on HKEY\_LOCAL\_MACHINE\System)
 * The other hives that contain user information are located in:
-  * `C:\Users<username>\NTUSER.DAT` (mounted on HKEY\_CURRENT\_USER when a user logs in)
-  * `C:\Users<username>\AppData\Local\Microsoft\Windows\USRCLASS.DAT` (mounted on HKEY\_CURRENT\_USER\Software\CLASSES)
+  * `C:\Users\<username>\NTUSER.DAT` (mounted on HKEY\_CURRENT\_USER when a user logs in)
+  * `C:\Users\<username>\AppData\Local\Microsoft\Windows\USRCLASS.DAT` (mounted on HKEY\_CURRENT\_USER\Software\CLASSES)
 * Another very important hive is called the AmCache hive, which is located in `C:\Windows\AppCompat\Programs\Amcache.hve` and contains information on programs that were recently run on the system.
 * The transaction logs can be considered as the journal of the changelog of the registry hive, which means that the transaction logs can often have the latest changes in the registry that haven't made their way to the registry hives themselves. The transaction log for each hive is stored as a .LOG file in the same directory as the hive itself. It has the same name as the registry hive, but the extension is .LOG.
-* Registry backups are the opposite of Transaction logs. These are the backups of the registry hives located in the `C:\Windows\System32\Config directory`. These hives are copied to the `C:\Windows\System32\Config\RegBack` directory every ten days.
+* Registry backups are the opposite of Transaction logs. These are the backups of the registry hives located in the `C:\Windows\System32\Config` directory. These hives are copied to the `C:\Windows\System32\Config\RegBack` directory every ten days.
 
 #### Useful registry keys
 
