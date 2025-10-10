@@ -11,6 +11,7 @@
 * [News Minimalist](https://www.newsminimalist.com/)
 * [PaperTalk](https://www.papertalk.xyz)
 * [Positive News](https://www.positive.news/)
+* [Read Something Great](https://www.readsomethinggreat.com/)
 * [Reuters](https://www.reuters.com/)
 * [The Economist](https://www.economist.com/)
 * [Tildes](https://tildes.net/)
