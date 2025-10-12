@@ -97,6 +97,7 @@
   * [YouTube playlist with lectures](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [The Art of HPC](https://theartofhpc.com/) - Victor Eijkhout, Texas Advanced Computing Center
+* [The Debugging Book](https://www.debuggingbook.org/) - Andreas Zeller
 * [Usborne 1980s Computer Books](https://usborne.com/gb/books/computer-and-coding-books)
 
 ### Cheat Sheets
