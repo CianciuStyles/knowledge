@@ -53,6 +53,7 @@
 * [Classic games online](https://playclassic.games/)
 * [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
 * [Diablo](https://d07riv.github.io/diabloweb/)
+* [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
 * [Pitfall!](https://meatfighter.com/pitfall-web/)
 * [PrinceJS](https://princejs.com/)
 * [RobCo Terminal](https://jetholt.com/hacking/)
