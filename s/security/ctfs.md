@@ -8,6 +8,7 @@
 
 ### Articles
 
+* [Bypassing file upload filter using .htaccess file](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7) - Rahul Bogar
 * [Capture The Flag (CTF) Resources For Beginners](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a) - Abdul Issa
 * [CTF Design Guidelines](https://bit.ly/ctf-design)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
