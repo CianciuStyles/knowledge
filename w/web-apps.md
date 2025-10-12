@@ -73,6 +73,14 @@
 * [Day Zero](https://dayzeroproject.com/)
 * [Streak Club](https://streak.club/)
 
+### Image Hosting
+
+* [Catbox](https://catbox.moe/)
+* [Hostr](https://hostr.co/)
+* [ImageFast](https://imagefa.st/upload/)
+* [ImgBB](https://imgbb.com/)
+* [Postimages](https://postimages.org/)
+
 ### Images
 
 * [AI Image Enlarger](https://imglarger.com/)
