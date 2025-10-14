@@ -43,6 +43,7 @@
 
 * [British Academy Games Awards](https://en.wikipedia.org/wiki/British_Academy_Games_Awards)
 * [D.I.C.E. Awards](https://en.wikipedia.org/wiki/D.I.C.E._Awards)
+  * [D.I.C.E. Award for Family Game of the Year](https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Family_Game_of_the_Year)
 * [Game Developers Choice Awards](https://en.wikipedia.org/wiki/Game_Developers_Choice_Awards)
 * [Golden Joystick Awards](https://en.wikipedia.org/wiki/Golden_Joystick_Awards)
 * [The Game Awards](https://en.wikipedia.org/wiki/The_Game_Awards)
