@@ -7,4 +7,6 @@
 
 ### Tools
 
+* [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+* [JADX](https://github.com/skylot/jadx) - Dex to Java decompiler
 * [Quick Android Review Kit](https://github.com/linkedin/qark)
