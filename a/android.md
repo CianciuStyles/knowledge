@@ -252,6 +252,7 @@ description: https://www.android.com/
 * [Awesome Android AOSP](https://github.com/Akipe/awesome-android-aosp)
 * [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 * [Better `adb shell`](https://github.com/matan-h/adb-shell)
+* [PID Cat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [Redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 
 ### Subreddits
