@@ -146,6 +146,10 @@
 * [What is your favorite video game soundtrack?](https://www.reddit.com/r/AskReddit/comments/1cyww3n/what_is_your_favorite_video_game_soundtrack/)
 * [You have to listen to a videogame's soundtrack for the rest of your life. What game are you picking?](https://www.reddit.com/r/AskReddit/comments/1g8po6n/you_have_to_listen_to_a_videogames_soundtrack_for/)
 
+### Remixes
+
+* [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
+
 ### Soundtracks
 
 * [Age of Empires 2](https://www.youtube.com/playlist?list=PL1800E1EFCA1EABE3)
