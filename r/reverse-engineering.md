@@ -94,8 +94,10 @@
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
   * [GitHub repository](https://github.com/RetroReversing/retroReversing)
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
+* [Reversing.kr](http://reversing.kr/)
 * [ReversingHero](https://www.reversinghero.com/)
 * [RootMy.TV](https://rootmy.tv/)
+* [The Flare-On Challenge](https://flare-on.com/)
 
 ### YouTube Channels
 
