@@ -386,6 +386,7 @@
   * [The Xbox Series S is STILL an Emulation Beast - New Updates!](https://www.youtube.com/watch?v=9AUtERZ6tXY)
   * [This $50 PS2 Memory card saves and PLAYS all your games but..](https://www.youtube.com/watch?v=mUJjmyG7FBw)
   * [Turning a $10 Original Xbox into an awesome Emulation device](https://www.youtube.com/watch?v=oTpleBjELZg)
+  * [Why a Hacked PS3 is STILL awesome in 2025.](https://www.youtube.com/watch?v=Fu1EX-eFVvs)
   * [Why a Hacked Xbox 360 is STILL awesome in 2023.](https://www.youtube.com/watch?v=NfdVtJmeXfY)
   * [Why is Nintendo 64 emulation still a broken mess in 2025?](https://www.youtube.com/watch?v=OmKjVpVdHDQ)
   * [Why the Wii U is the best Retro and Emulation console in 2020](https://www.youtube.com/watch?v=HRXwzGh-FoY)
