@@ -191,5 +191,6 @@
 * [KITCTF](https://kitctf.de/)
 * [MetaCTF](https://metactf.com/)
 * [picoCTF](https://picoctf.org/)
+* [Root Me](https://www.root-me.org/en/Challenges/)
 * [The Flare-On Challenge](https://www.flare-on.com/)
 
