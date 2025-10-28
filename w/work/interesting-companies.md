@@ -12,6 +12,7 @@
 * [Atlassian](https://www.atlassian.com/company/careers/all-jobs)
 * [Bloomberg](https://bloomberg.avature.net/careers/SearchJobs)
 * [Canva](https://www.lifeatcanva.com/en/jobs/)
+* [Citadel](https://www.citadel.com/careers/)
 * [Cloudflare](https://www.cloudflare.com/it-it/careers/jobs/)
 * [Databricks](https://www.databricks.com/company/careers)
 * [Datadog](https://careers.datadoghq.com/all-jobs/)
@@ -39,3 +40,4 @@
 * [The Trade Desk](https://careers.thetradedesk.com/jobs)
 * [Uber](https://www.uber.com/gb/en/careers/)
 * [Wise](https://wise.jobs/)
+* [XTX Markets](https://www.xtxmarkets.com/)
