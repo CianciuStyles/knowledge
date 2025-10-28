@@ -175,6 +175,7 @@
 
 ### Websites
 
+* [247CTF](https://247ctf.com/)
 * [316ctf](https://play.316ctf.com/) - Anderson University
 * [CTFlearn](https://ctflearn.com)
 * [CTFtime.org](https://ctftime.org/)
@@ -183,6 +184,7 @@
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
 * [hackArcana](https://hackarcana.com/)
+* [Hacktoria](https://hacktoria.com/) - Story Driven OSINT CTF Events
 * [ImaginaryCTF](https://imaginaryctf.org/) - Daily CTF Challenges for Everyone
   * [Archived Challenges](https://imaginaryctf.org/ArchivedChallenges)
 * [kCTF](https://google.github.io/kctf/) - Kubernetes-based infrastructure for CTF competitions
