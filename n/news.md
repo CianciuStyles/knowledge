@@ -46,6 +46,7 @@
 * [Ars Technica](https://arstechnica.com/)
 * [BleepingComputer](https://www.bleepingcomputer.com/)
 * [Byte - A Visual Archive](https://byte.tsundoku.io/)
+* [DeadStack](https://deadstack.net/)
 * [Explained from First Principles](https://explained-from-first-principles.com/)
 * [freshnews](https://www.freshnews.org/)
 * [Hackaday](https://hackaday.com/)
