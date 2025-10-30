@@ -148,7 +148,10 @@
 
 ### Remixes
 
-* [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
+* [Koopa Keys](https://www.youtube.com/@KoopaKeys0000)
+  * [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
+* [Phantasia Records](https://www.youtube.com/@PhantasiaRecords)
+  * [Donkey Kong Country but it's Japanese Jazz Fusion](https://www.youtube.com/watch?v=N8iJQB_UEyE)
 
 ### Soundtracks
 
