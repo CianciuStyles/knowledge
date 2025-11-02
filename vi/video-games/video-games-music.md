@@ -14,6 +14,7 @@
 
 * [DSC](https://www.youtube.com/@DSC24)
   * [Astro Bot - I Am Astro Bot](https://www.youtube.com/watch?v=eL61NzgjlcE)
+  * [Banjo-Kazooie - Clanker's Cavern](https://www.youtube.com/watch?v=2BUypuQoYik)
   * [Donkey Kong Country - DK Island Swing](https://www.youtube.com/watch?v=lLIQClbDWWE)
   * [Final Fantasy VII - Let the Battles Begin!](https://www.youtube.com/watch?v=Uq3SandOYJY)
   * [New Super Mario Bros. Wii - Castle](https://www.youtube.com/watch?v=XkBzsTlz6NM)
