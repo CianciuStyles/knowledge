@@ -36,6 +36,7 @@
 * [What is the best British tv show you watched?](https://www.reddit.com/r/AskUK/comments/1dw7zmo/what_is_the_best_british_tv_show_you_watched/)
 * [What is the best series you ever watched?](https://www.reddit.com/r/AskReddit/comments/1gfh2qm/what_is_the_best_series_you_ever_watched/)
 * [What is the best TV series of all time?](https://www.reddit.com/r/AskReddit/comments/12gtfu7/what_is_the_best_tv_series_of_all_time/)
+* [What is the single best episode of television you’ve ever seen?](https://www.reddit.com/r/AskReddit/comments/1og0owj/what_is_the_single_best_episode_of_television/)
 * [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello_uk_reddit_what_is_your_favourite_british_tv/)
 * [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what_show_had_you_hooked_after_1_episode/)
 * [What show has never had a bad season?](https://www.reddit.com/r/AskReddit/comments/zlywi9/what_show_has_never_had_a_bad_season/)
