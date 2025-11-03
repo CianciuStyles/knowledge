@@ -79,6 +79,7 @@
 * [Bitfunx](https://www.bitfunx.com/)
 * [Games Connection](https://gamesconnection.co.uk/)
 * [Kaico Labs](https://kaicolabs.com/)
+  * [Amazon Store](https://www.amazon.co.uk/stores/page/8732E88D-B5B1-4888-ADBB-5A676F1F9A09)
 * [Retro Gaming Cables](https://retrogamingcables.co.uk/)
 * [RetroRGB](https://retrorgb.com/)
   * [ElectronPulse PS2 Passthrough HDMI Adapter](https://www.retrorgb.com/electronpulse-ps2-passthrough-hdmi-adapter.html)
