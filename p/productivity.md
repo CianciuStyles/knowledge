@@ -133,6 +133,8 @@
 ### YouTube Channels
 
 * [Ali Abdaal](https://www.youtube.com/@aliabdaal/videos)
+* [Jeff Su](https://www.youtube.com/@JeffSu)
+  * [The Productivity System I Taught to 6,642 Googlers](https://www.youtube.com/watch?v=oO9GLC2iKy8)
 * [Productivity Game](https://www.youtube.com/@ProductivityGame/videos)
 * [Shu Omi](https://www.youtube.com/@ShuOmi_Official/videos)
 * [Simpletivity](https://www.youtube.com/@Simpletivity/videos)
