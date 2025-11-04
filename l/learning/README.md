@@ -44,6 +44,7 @@
 
 ### Articles
 
+* [Doing well in your courses](https://cs.stanford.edu/people/karpathy/advice.html) - Andrej Karpathy
 * [Expiring vs. Long-Term Knowledge](https://collabfund.com/blog/expiring-vs-lt-knowledge/) - Morgan Housel
 * [How Learning Works: Components, Systems, and Loops](https://romandesign.co/how-learning-works-components-systems-and-loops/) - Roman Kudryashov
 * [How to become an expert in anything?](https://newsletter.techworld-with-milan.com/p/how-to-become-an-expert-in-anything) - Dr Milan Milanović
