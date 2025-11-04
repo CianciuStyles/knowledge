@@ -24,6 +24,7 @@ description: https://www.linux.org/
 * Linux on the 7th Generation of Consoles - Lily Siwik
   * [Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
   * [Part 2: Playstation 3](https://www.lilysthings.org/blog/linux-on-ps3/)
+* [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) - 0xkato
 * [Understanding the /etc/shadow File](https://linuxize.com/post/etc-shadow-file/)
 
 ### Books
