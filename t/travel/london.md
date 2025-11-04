@@ -70,6 +70,7 @@
 
 ### Flea Markets
 
+* [Crystal Place Car Boot](https://www.crystalpalaceboot.co.uk/)
 * [eboots](https://eboots.co.uk/) - Find car boot sales near you
 * [findcarboot](https://www.findcarboot.co.uk/) - The UK's Trusted Car Boot Sale Directory
   * [Best Car Boot Sales in London](https://www.findcarboot.co.uk/regions/london/)
