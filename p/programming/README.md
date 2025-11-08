@@ -59,6 +59,7 @@
 ### Blogs
 
 * [Amos Wenger](https://fasterthanli.me/)
+* [Andrew Healey](https://healeycodes.com/)
 * [Bruce Dawson](https://randomascii.wordpress.com/)
 * [Dan Luu](https://danluu.com/)
 * [Eli Bendersky](https://eli.thegreenplace.net/)
