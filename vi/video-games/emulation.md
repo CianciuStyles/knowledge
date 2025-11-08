@@ -98,6 +98,7 @@
 ### Nintendo 3DS
 
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
+* [Azahar](https://azahar-emu.org/) - open-source 3DS emulator based on Citra
 * [Pretendo Network](https://pretendo.network/) - open source replacement for Nintendo servers
 
 ### Nintendo 64
@@ -106,6 +107,7 @@
   * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
   * [Roms Nintendo 64 (EU)](https://archive.org/details/roms-nintendo-64-eu)
 * [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) - The Legend of Zelda Majora's Mask PC port
+* [gopher64](https://github.com/gopher64/gopher64) - Nintendo 64 Emulator
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
 * [Simple 64](https://simple64.github.io/) - Nintendo 64 Emulator
 * [SummerCart64](https://summercart64.dev/)
@@ -183,6 +185,7 @@
 * [Sega Saturn PSU Swap](https://consolemodguides.home.blog/sega-saturn-psu-swap/)
 * [Sega Saturn:UK Forum](https://segasaturngroup.proboards.com/)
 * [These Plug N’ Play SEGA Saturn Mods Make Me Happy](https://www.youtube.com/watch?v=tspS_6vT9sA) - Macho Nacho Productions
+* [Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
 
 ### Sony PlayStation
 
@@ -213,7 +216,7 @@
   * [I Replaced Free McBoot With THIS, And Won't Go Back](https://www.youtube.com/watch?v=afetcJgUafg) - Macho Nacho Productions
   * [This PS2 Pro Mod Changes Everything! PSBBN Install Guide](https://www.youtube.com/watch?v=LLmJPF-XVxs) - Blaine Locklair
 * [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
-* [PS2Wide ](http://ps2wide.net/)- Widescreen Hex Codes And Patches
+* [PS2Wide](http://ps2wide.net/) - Widescreen Hex Codes And Patches
 * [PSRewired Online Servers](https://psrewired.com/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
@@ -374,6 +377,7 @@
   * [RPCS3 PS3 emulator just got updated... and its awesome!](https://www.youtube.com/watch?v=X-qxSyBr6cs)
   * [Sega Saturn Games are running on the Nintendo Switch...](https://www.youtube.com/watch?v=YiKBw2RGcow)
   * [The BEST Emulators of 2023](https://www.youtube.com/watch?v=sVPot6-YbsM)
+  * [The BEST Emulators of 2025](https://www.youtube.com/watch?v=UWyLNwpBZYU)
   * [The Current State of Original Xbox Emulation on the PC](https://www.youtube.com/watch?v=aiWH4TcFCAY)
   * [The Current State of PlayStation 4 Emulation on the PC](https://www.youtube.com/watch?v=012PptHgl3s)
   * [The Impossible Port Marathon](https://www.youtube.com/watch?v=Cda-tw7TV_c)
