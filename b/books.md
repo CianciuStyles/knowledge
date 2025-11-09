@@ -105,6 +105,7 @@
 
 ### Recommendations
 
+* [Book Recommendations](https://book.sv/)
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
 * [Hacker News Books](https://hackernewsbooks.com/)
 * [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
