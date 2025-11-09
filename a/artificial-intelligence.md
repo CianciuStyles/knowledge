@@ -105,6 +105,8 @@
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
+* [Moving AI Lab](https://movingai.com/index.html) - University of Alberta
+  * [Snakebird - Anhinga](https://movingai.com/snakebird.html)
 * [OpenAI ChatGPT](https://chat.openai.com/auth/login)
 * [OpenAI Gym](https://gym.openai.com/)
 * [OpenAI Sora](https://openai.com/sora)
