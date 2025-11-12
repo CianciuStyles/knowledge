@@ -127,6 +127,7 @@
 * [gbdev.io](https://gbdev.io/) - Game Boy Development Community
   * [Pan Docs](https://gbdev.io/pandocs/)
 * [GBDK Showcase](https://gbdk-2020.github.io/gbdk-2020-gallery/)
+* [Hacker News Games](https://hackernews.games/) - A curated catalog of 413 games created by the Hacker News community
 * [Homebrew Hub](https://hh.gbdev.io/)
 * [Italian Video Games Database](https://excaliber.it/en/italian-video-games-database/)
 * [Jason Thor Hall](https://www.develop.games/)
