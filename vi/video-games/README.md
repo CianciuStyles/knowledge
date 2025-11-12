@@ -136,6 +136,7 @@
 * [RetroCollect](https://www.retrocollect.com/)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
+* [Sakatore](https://www.satakore.com/) - Sega Saturn Collection
 * [SCPH @ PlayStation](https://maru-chang.com/hard/scph/index.php/eldest_son/english/)
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [SEGA-Dreamcast.com](https://www.sega-dreamcast.com/softpal.htm)
