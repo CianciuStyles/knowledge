@@ -44,3 +44,7 @@
 * [Steve's 3D Solutions](https://www.etsy.com/uk/shop/Steves3DSolutions) - Canada
 * [SyncoplayRetroGaming](https://www.etsy.com/uk/shop/SyncoplayRetroGaming) - United States
 * [TrophyBit](https://www.etsy.com/uk/shop/TrophyBit) - United States
+
+### YouTube Videos
+
+* [Prusa MINI - Changing the Filament](https://www.youtube.com/watch?v=HnPeZxVaX9o)
