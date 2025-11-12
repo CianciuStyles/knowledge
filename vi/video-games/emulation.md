@@ -181,6 +181,7 @@
 * [Pseudo Saturn Kai (PSK) Guide](https://www.reddit.com/r/SegaSaturn/comments/16s104t/pseudo_saturn_kai_psk_guide/)
 * [r/SegaSaturn](https://www.reddit.com/r/SegaSaturn/)
 * [SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
+* [Saturn details](https://gdemu.wordpress.com/details/saturn-details/)
 * [Sega Saturn Japanese Model 1 Console セガサターン Teardown and Clean](https://www.youtube.com/watch?v=-uGZ6WsKs40)
 * [Sega Saturn PSU Swap](https://consolemodguides.home.blog/sega-saturn-psu-swap/)
 * [Sega Saturn:UK Forum](https://segasaturngroup.proboards.com/)
