@@ -31,6 +31,7 @@
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/edit#gid=0)
+* [E. W. Dijkstra Archive](https://www.cs.utexas.edu/~EWD/)
 * [Historical Computer Science articles](https://francoatmega.github.io/historical-computer-science-articles/) ([GitHub](https://github.com/francoatmega/historical-computer-science-articles))
 * [Learn computer science by writing code](https://csprimer.com/)
 * [Papers We Love](https://paperswelove.org/)
