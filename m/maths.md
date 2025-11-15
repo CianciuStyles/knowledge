@@ -67,6 +67,7 @@
 
 ### GitHub Repositories
 
+* [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books)
 * [Math As Code](https://github.com/Jam3/math-as-code)
 
 ### Hacker News threads
