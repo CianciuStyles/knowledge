@@ -80,6 +80,7 @@ description: https://www.rust-lang.org/
 * [nom](https://crates.io/crates/nom) - A byte-oriented, zero-copy, parser combinators library
 * [pest](https://crates.io/crates/pest) - The elegant parser
 * [ratatui](https://crates.io/crates/ratatui/) - A library that's all about cooking up terminal user interfaces
+  * [App Showcase](https://ratatui.rs/showcase/apps/)
 * [rayon](https://crates.io/crates/rayon) - Simple work-stealing parallelism for Rust
 * [regex](https://crates.io/crates/regex) - An implementation of regular expressions for Rust
 
