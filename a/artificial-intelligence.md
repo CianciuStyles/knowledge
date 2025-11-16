@@ -82,6 +82,7 @@
 * [Aider](https://aider.chat/) - AI pair programming in your terminal
 * [bolt.new](https://bolt.new/)
 * [Cursor](https://www.cursor.com/) - The AI Code Editor
+* [DeepWiki](https://deepwiki.com/) - AI documentation you can talk to
 * [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer
 * [LM Studio](https://lmstudio.ai/) - Local AI on your computer
 
