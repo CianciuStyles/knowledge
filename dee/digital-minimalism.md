@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Apps
+
+* [kaiZen](https://thekaizenapp.com/) - The Unbreakable Screen-Time App
+
 ### Articles
 
 * [4 Lessons From a 4-Week Social Media Fast](https://www.artofmanliness.com/articles/4-lessons-from-a-4-week-social-media-fast/) - The Art of Manliness
