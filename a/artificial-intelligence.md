@@ -85,6 +85,7 @@
 * [DeepWiki](https://deepwiki.com/) - AI documentation you can talk to
 * [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer
 * [LM Studio](https://lmstudio.ai/) - Local AI on your computer
+* [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal
 
 #### General
 
