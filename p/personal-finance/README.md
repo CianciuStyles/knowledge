@@ -65,6 +65,10 @@
 * [Build Wealth by Investing in Index Funds](https://courses.personalfinanceclub.com/courses/take/build-wealth-by-investing-in-index-funds-2022/) - Jeremy Schneider, Personal Finance Club
 * [How to Money Like a Millionaire](https://www.personalfinanceclub.com/how-to-money-like-a-millionaire/) - Jeremy Schneider, Personal Finance Club
 
+### GitHub Repositories
+
+* [UK Capital Gains Calculator](https://github.com/KapJI/capital-gains-calculator)
+
 ### Hacker News Threads
 
 * [Alternative ways to make money with coding and system skills?](https://news.ycombinator.com/item?id=33619650)
