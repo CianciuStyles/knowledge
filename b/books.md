@@ -152,6 +152,7 @@
 * [What was your most 'can't-put-down' book that you've ever read?](https://www.reddit.com/r/AskReddit/comments/94i67o/what_was_your_most_cantputdown_book_that_youve/)
 * [What’s a book everyone should read at least once in their lives?](https://www.reddit.com/r/AskReddit/comments/nvl2dd/whats_a_book_everyone_should_read_at_least_once/)
 * [What’s a book that completely broke your brain—in a good way?](https://www.reddit.com/r/books/comments/1j9jyd5/whats_a_book_that_completely_broke_your_brainin_a/)
+* [What's the best book you've ever read?](https://www.reddit.com/r/AskReddit/comments/1p37pip/whats_the_best_book_youve_ever_read/)
 * [What's the book that has made you laugh out loud the most?](https://www.reddit.com/r/books/comments/5pgmwr/whats_the_book_that_has_made_you_laugh_out_loud/)
 * [What’s the most life-changing book you’ve read?](https://www.reddit.com/r/AskReddit/comments/1gnioxm/whats_the_most_lifechanging_book_youve_read/)
 * [Which book to film adaptation hasn't been made yet which you think can be a big box office hit?](https://www.reddit.com/r/AskReddit/comments/a0izhl/which_book_to_film_adaptation_hasnt_been_made_yet/)
