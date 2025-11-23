@@ -538,6 +538,7 @@
 * [Amstream Arcade](https://www.antstream.com/)
 * [Backbone Mobile Gaming](https://backbone.com)
 * [Balamb Garden](https://balambgdn.neocities.org/)
+* [Bazzite](https://bazzite.gg/) - The next generation of Linux gaming
 * [controller.wtf](https://controller.wtf/) - Discover MFi Games for iOS
 * [DOS Game Club](https://www.dosgameclub.com/)
 * [Draknek & Friends](https://www.draknek.org/)
