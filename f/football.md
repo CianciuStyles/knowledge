@@ -12,6 +12,7 @@
 * [Football Target](https://www.footballtarget.com/full-match-replay-video/)
 * [Footballia](https://footballia.net/)
 * [Full Match HD](https://fullmatch-download.blogspot.com/)
+* [Full Match Replays](https://www.fullmatch-replay.org/)
 * [FullMatchShows](https://fullmatchshows.com/)
 
 ### Highlights
