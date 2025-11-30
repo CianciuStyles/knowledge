@@ -41,6 +41,7 @@
 ### Reddit Threads
 
 * [The most important DECISION you made that helped you improve your LIFE?](https://www.reddit.com/r/LifeProTips/comments/12h8tpx/lpt_the_most_important_decision_you_made_that/)
+* [What brands have kept quality high?](https://www.reddit.com/r/AskUK/comments/1p3q2ce/opposite_post_of_yesterday_what_brands_have_kept/)
 * [What improved your quality of life so much, you wish you did it sooner?](https://www.reddit.com/r/AskReddit/comments/pbzt5b/what_improved_your_quality_of_life_so_much_you/)
 * [What is the best life advice you would give?](https://www.reddit.com/r/productivity/comments/v7odql/what_is_the_best_life_advice_you_would_give/)
 * [What item under £200 has completely revolutionised your life?](https://www.reddit.com/r/AskUK/comments/1oszw71/what_item_under_200_has_completely_revolutionised/)
