@@ -81,6 +81,10 @@
 * [StatsBomb](https://statsbomb.com/)
   * [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 
+### YouTube Channels
+
+* [VHS ROMA](https://www.youtube.com/@vhsroma9861)
+
 ### YouTube Playlists
 
 * [Sunday League Strolls](https://www.youtube.com/playlist?list=PLRMA6QjsiV3VnXjrE1N8XIVkf4nulvKPl)
