@@ -24,6 +24,7 @@
   * [StarCraft - Terran 2](https://www.youtube.com/watch?v=XFeu8McBl-s)
   * [Super Mario 64 - Metallic Mario](https://www.youtube.com/watch?v=EP9tBU9CscY)
   * [Super Mario Galaxy - Rosalina's Observatory](https://www.youtube.com/watch?v=lrMVhcBWIxQ)
+  * [Super Mario Galaxy - Starbit Festival](https://www.youtube.com/watch?v=xNQ9iAQ8HwQ)
   * [Super Mario Galaxy 2 - Puzzle Plank Galaxy](https://www.youtube.com/watch?v=1MJrQCPFQ4c)
   * [Super Mario Land - Staff Roll](https://www.youtube.com/watch?v=ip6XkQDrv90)
   * [Super Mario RPG - Beware The Forest's Mushrooms](https://www.youtube.com/watch?v=KyDFZ6fTAzg)
