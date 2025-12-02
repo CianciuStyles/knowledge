@@ -110,6 +110,8 @@
   * [The Black Mages](https://www.youtube.com/playlist?list=PL791B01E6602D3324)
   * [The Black Mages II: The Skies Above](https://www.youtube.com/playlist?list=PL125507E54B9774C4)
   * [The Black Mages III: Darkness and Starlight](https://www.youtube.com/playlist?list=PL73447158BA990897)
+* [ToxicxEternity](https://www.youtube.com/@ToxicxEternity)
+  * [Street Fighter EX3 - STRONGER (Garuda's Theme)](https://www.youtube.com/watch?v=s62goJHQuCw)
 
 ### Databases
 
