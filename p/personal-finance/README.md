@@ -101,12 +101,6 @@
 * [r/ItaliaPersonalFinance](https://www.reddit.com/r/ItaliaPersonalFinance/)
 * [r/UKPersonalFinance](https://www.reddit.com/r/UKPersonalFinance/)
 
-### Videos
-
-* [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
-* [Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk) - Chamath Palihapitiya
-* [Vanguard Index Funds for Beginners](https://www.youtube.com/watch?v=aL-GgWkA25Q) - James Shack
-
 ### Websites
 
 * [AccountingCoach](https://www.accountingcoach.com/) - Learn Accounting for free
@@ -132,6 +126,7 @@
   * [Lifetime ISA](https://www.gov.uk/lifetime-isa)
   * [Self Assessment: detailed information](https://www.gov.uk/topic/personal-tax/self-assessment)
   * [Selling goods or services on a digital platform](https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform)
+* [Head for Points](https://www.headforpoints.com/)
 * [Interactive Brokers UK](https://www.interactivebrokers.co.uk/en/home.php)
 * [Interactive Investor](https://www.ii.co.uk/) - The UK's number one flat-fee investment platform
 * [Investopedia](https://www.investopedia.com/)
@@ -175,6 +170,7 @@
   * [Should You Pay Off Your Mortgage or Invest? (A 50-year historical backtest)](https://www.youtube.com/watch?v=9MfCVkRvjQs)
   * [The 3 Big Mortgage Mistakes EVERYONE Makes](https://www.youtube.com/watch?v=AjLlS_Qofcw)
   * [The Optimal Order For Investing Your Money](https://www.youtube.com/watch?v=10mC6XXChZI)
+  * [Vanguard Index Funds for Beginners](https://www.youtube.com/watch?v=aL-GgWkA25Q)
   * [Vanguard Lifestrategy Funds Explained | The only fund you will ever need? (Investing for beginners)](https://www.youtube.com/watch?v=lGQ9KyQq8Jw)
   * [Why Holding Cash Now is a Terrible Idea (if you ever want to retire)](https://www.youtube.com/watch?v=oeob9z27-gA)
 * [MeaningfulMoney](https://www.youtube.com/@MeaningfulMoney/videos)
@@ -191,4 +187,6 @@
 
 ### YouTube Videos
 
+* [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) - William Ackman
+* [Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk) - Chamath Palihapitiya
 * [The Simple Path To Wealth](https://www.youtube.com/watch?v=T71ibcZAX3I) - JL Collins, Talks at Google
