@@ -157,3 +157,4 @@
 * [Dynamic Programming](https://www.youtube.com/watch?v=6h6Fi6AQiRM) - NPTEL
 * [Dynamic Programming and Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk) - Stanford CS221
 * [Dynamic Programming for people who hate it](https://www.youtube.com/watch?v=OW2-fcoFNps) - Coding Patterns
+* [How Memoisation Helps with Recursive Problems in Python](https://www.youtube.com/watch?v=JXUOMsFBDXQ) - Computerphile
