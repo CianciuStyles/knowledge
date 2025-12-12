@@ -155,6 +155,7 @@
 * [Koopa Keys](https://www.youtube.com/@KoopaKeys0000)
   * [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
 * [iridium beats](https://www.youtube.com/@iridiumbeats)
+  * [Final Fantasy VII \~ City Pop Soundtrack](https://www.youtube.com/watch?v=ZN3iJZ6wxPM)
   * [Final Fantasy VIII \~ City Pop / Jazz Fusion Soundtrack](https://www.youtube.com/watch?v=sXdQDV3CwgY)
 * [Phantasia Records](https://www.youtube.com/@PhantasiaRecords)
   * [Donkey Kong Country but it's Japanese Jazz Fusion](https://www.youtube.com/watch?v=N8iJQB_UEyE)
