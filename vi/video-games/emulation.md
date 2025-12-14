@@ -274,6 +274,7 @@
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
 * [Starfox 64](https://github.com/sonicdcer/sf64)
 * [Super Mario 64](https://github.com/n64decomp/sm64)
+* [Super Mario 64 (DualShock Version)](https://github.com/malucard/sm64-psx)
 * [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp)
 * [Super Metroid](https://github.com/strager/supermetroid)
 * [Super Smash Bros Melee](https://github.com/doldecomp/melee)
