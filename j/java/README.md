@@ -50,6 +50,7 @@
 
 * [Baeldung](https://www.baeldung.com/)
 * [CheerpJ](https://cheerpj.com/) - Run Java in Modern Browsers
+* [Java Advent Calendar](https://www.javaadvent.com/)
 * [Java decompiler online](http://www.javadecompilers.com/)
 * [Java Design Patterns](https://java-design-patterns.com/)
 * [Java Developer Tutorials and Training](https://www.oracle.com/java/technologies/jdtt-jsp.html) - Oracle
