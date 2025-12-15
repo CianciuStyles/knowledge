@@ -4,6 +4,7 @@
 
 ### Alternative Frontends
 
+* [ilumu](https://www.ilumu.com/) - YouTube
 * [Imginn](https://imginn.com/) - Instagram
 * [Invidious](https://api.invidious.io/) - YouTube
 * [nitter](https://nitter.net/) - Twitter
