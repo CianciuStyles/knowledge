@@ -83,6 +83,7 @@ description: https://www.python.org/
 * [Python Wats](https://github.com/cosmologicon/pywat)
 * [Pytudes](https://github.com/norvig/pytudes) - Peter Norvig
   * [Advent of Code 2025](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+  * [Advent of Code 2025: The AI LLM Edition](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 * [uncompyle6](https://github.com/rocky/python-uncompyle6/) - Python decompiler
 
 ### Hacker News threads
