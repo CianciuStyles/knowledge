@@ -96,6 +96,7 @@
 * [Favourite ethnic food in London](https://www.google.com/maps/@51.5041307,-0.4742993,10z/data=!4m3!11m2!2sueNe9IxNjaTEzWStqi-321dXUYxDJQ!3e3?entry=ttu\&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D)
 * [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
 * [Live Tube Map](https://www.londonunderground.live/)
+* [London Food Map](https://laurenleek.eu/food-map) - Lauren Leek
 * [London pub quiz map](https://www.google.com/maps/d/u/0/viewer?mid=1ZdJNXQSj6ZlrqLNSFQO0wzI4kFelWfY\&ll=51.476955129155%2C-0.016030664151402974\&z=10)
 * [Pint Prices](https://www.pint-prices.com/)
 * [r/London Food](https://www.google.com/maps/d/u/0/viewer?mid=1hvE-Owf4cRfPxofAtK-vMKASCWZpj-k\&ll=51.536716756666415%2C-0.1571249449310308\&z=11)
