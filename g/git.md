@@ -85,6 +85,7 @@ description: https://git-scm.com/
 
 * [lazygit](https://www.youtube.com/watch?v=4DWKf5RqU-s)
   * [15 Lazygit Features In Under 15 Minutes](https://www.youtube.com/watch?v=CPLdltN7wgE)
+  * [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/) - Bartłomiej Płotka
 
 ### Videos
 
