@@ -21,4 +21,5 @@
 * [Puzzlip](https://puzzlip.com)
 * [SmartHome](https://smarthome.steviep.xyz/) ([Hacker News thread](https://news.ycombinator.com/item?id=42424508))
 * [The Escape Roomer](https://theescaperoomer.com/)
+* [Tiled Words](https://tiledwords.com/)
 * [ZebraPuzzles.com](https://www.zebrapuzzles.com/)
