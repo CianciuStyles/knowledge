@@ -59,6 +59,7 @@
   * [HN Popularity Contest](https://refactoringenglish.com/tools/hn-popularity/) - The highest-ranking personal blogs of Hacker News
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
+  * [What Is HackerNews Working On?](https://waywo.eamag.me/)
 * [Lobste.rs](https://lobste.rs/)
 * [Mark Ellis Reviews](https://markellisreviews.com/)
 * [Nonio](https://non.io/)
