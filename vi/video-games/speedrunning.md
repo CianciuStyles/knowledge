@@ -26,6 +26,8 @@
     * [Resident Evil 5 - DECosmic and AvuKamu](https://www.youtube.com/watch?v=9VQa5vV9TTg)
   * Awesome Games Done Quick 2024
     * [Resident Evil 2 Remake No Damage - CarcinogenSDA](https://www.youtube.com/watch?v=Rbh5K9sJC-w\&t=2797s)
+  * Awesome Games Done Quick 2025
+    * [Call of Duty 4: Modern Warfare](https://www.youtube.com/watch?v=1PLtrQi-Q1w) - bryonato
   * Games Done Quick Express 2018
     * [Resident Evil 2 - Bawkbasoup](https://www.youtube.com/watch?v=BkKE5t4cw24\&t=3355s)
   * Games Done Quick Express 2019
