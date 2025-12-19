@@ -236,6 +236,7 @@
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers_essential_games_list_xbox_one/)
 * [Complete Edition Central](https://www.playstationtrophies.org/forum/topic/297967-complete-edition-central/) - PlayStationTrophies.org
 * [Cultured Vultures](https://www.youtube.com/@CulturedVultures)
+  * [1 HOUR of PS1 Hidden Gems YOU Should Play](https://www.youtube.com/watch?v=PgQ2xPHUG-A)
   * [50 BEST GameCube Games of All Time](https://www.youtube.com/watch?v=QNpcuPNrUrM)
   * [50 BEST GBA Games of All Time](https://www.youtube.com/watch?v=VEtxcrSAp_A)
   * [50 BEST N64 Games of All Time](https://www.youtube.com/watch?v=ewoO0B5WarA)
@@ -248,6 +249,8 @@
   * [50 BEST SNES Games of All Time](https://www.youtube.com/watch?v=jV1jRqnMU0U)
   * [50 BEST Steam Deck Games YOU Should Play (2025 Edition)](https://www.youtube.com/watch?v=4OJ1vc6aH5o)
   * [50 BEST Xbox Games of All Time](https://www.youtube.com/watch?v=vjlGItxV5Fw)
+  * [PS1 Games That Aged BEAUTIFULLY](https://www.youtube.com/watch?v=jJfIY3Y_Veg)
+  * [SNES Games That Aged Beautifully](https://www.youtube.com/watch?v=YMyokk03tjI)
 * [Kotaku](https://kotaku.com/)
   * [The 14 Best Games For The Sega Dreamcast](https://kotaku.com/the-best-dreamcast-games-1835926847)
   * [The 14 Best Games For The Xbox One](https://kotaku.com/the-12-best-games-for-the-xbox-one-1500422046)
