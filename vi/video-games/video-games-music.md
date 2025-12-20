@@ -8,6 +8,7 @@
 ### Concerts
 
 * [PlayStation - The Concert](https://www.playstation.com/en-gb/theconcert/)
+* [Press Play LIVE: Massive All-Star VGM Charity Concert](https://www.youtube.com/watch?v=e0T712hiW7I)
 * [UNDERTALE 5th Anniversary Concert](https://www.youtube.com/watch?v=srZdDAJbHfc)
 
 ### Covers
