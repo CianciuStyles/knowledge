@@ -580,6 +580,7 @@
 * [Bandipedia](https://crashbandicoot.fandom.com/wiki/Bandipedia:Main_Page) - Crash Bandicoot Wiki
 * [BioShock Wiki](https://bioshock.fandom.com/wiki/BioShock_Wiki)
 * [ConsoleMods Wiki](https://consolemods.org/wiki/Main_Page)
+* [Final Fantasy Wiki](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Wiki)
 * [GTA Wiki](https://gta.fandom.com/wiki/Main_Page)
 * [Nukapedia ](https://fallout.fandom.com/wiki/Fallout_Wiki)- Fallout Wiki
 * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
