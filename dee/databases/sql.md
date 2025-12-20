@@ -34,7 +34,8 @@
 
 ### Websites
 
-* [Advent of SQL](https://adventofsql.com/)
+* [Advent of SQL 2024](https://adventofsql.com/)
+* [Advent of SQL 2025](https://www.dbpro.app/advent-of-sql) - DB Pro
 * [Human to SQL Translator](https://www.sqltranslate.app/)
 * [Lost at SQL](https://lost-at-sql.therobinlord.com/) - SQL learning game
 * [Select Star SQL](https://selectstarsql.com/)
