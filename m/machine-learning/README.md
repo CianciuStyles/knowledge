@@ -42,6 +42,7 @@
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) - Chip Huyen
 * [Learning From Data](https://amlbook.com/) - Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
+* [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems](https://mlsysbook.ai/) - Vijay Janapa Reddi
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - Christopher M. Bishop
 * [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Kevin Patrick Murphy
 * [The Elements of Statistical Learning](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
