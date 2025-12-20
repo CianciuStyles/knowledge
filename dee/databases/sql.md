@@ -31,6 +31,8 @@
 ### Tools
 
 * [Harlequin](https://harlequin.sh/) - the SQL IDE for your terminal
+* [Lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go
+* [sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases
 
 ### Websites
 
