@@ -41,6 +41,7 @@
 * [BitterKittenGaming](https://www.etsy.com/uk/shop/BitterKittenGaming) - United States
 * [Collings Cavern](https://www.etsy.com/uk/shop/CollingsCavern) - United Kingdom
 * [GDSCreationsUK](https://www.etsy.com/uk/shop/GDSCreationsUK) - United Kingdom
+* [GoronenDruck](https://www.etsy.com/uk/shop/GoronenDruck) - Germany
 * [MintPrintUK](https://www.etsy.com/uk/shop/MintPrintUK) - United Kingdom
 * [R2D3Productions](https://www.etsy.com/uk/shop/R2D3Productions) - Canada
 * [RetroCyberMonkey](https://www.etsy.com/uk/shop/RetroCyberMonkey) - United Kingdom
