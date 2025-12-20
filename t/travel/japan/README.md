@@ -25,6 +25,8 @@
 
 <figure><img src="https://i.pinimg.com/736x/21/ec/16/21ec16774ff91a4d07a4565fc90302c9.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Planning A Japan Trip.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Maps
 
 * [Nara](https://www.google.com/maps/d/u/0/viewer?mid=1nlU6I4YXqk_kpIead4gSmOT-jnTtYUU\&ll=34.65272545711532%2C135.7913266\&z=13)
