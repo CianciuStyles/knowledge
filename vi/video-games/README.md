@@ -249,6 +249,7 @@
   * [50 BEST SNES Games of All Time](https://www.youtube.com/watch?v=jV1jRqnMU0U)
   * [50 BEST Steam Deck Games YOU Should Play (2025 Edition)](https://www.youtube.com/watch?v=4OJ1vc6aH5o)
   * [50 BEST Xbox Games of All Time](https://www.youtube.com/watch?v=vjlGItxV5Fw)
+  * [50 BEST Xbox 360 Games of All Time](https://www.youtube.com/watch?v=JXEI5BQSIcc)
   * [PS1 Games That Aged BEAUTIFULLY](https://www.youtube.com/watch?v=jJfIY3Y_Veg)
   * [SNES Games That Aged Beautifully](https://www.youtube.com/watch?v=YMyokk03tjI)
 * [Kotaku](https://kotaku.com/)
