@@ -21,6 +21,7 @@
 * [A Beginner's Guide to Hiking](https://www.nerdfitness.com/blog/hiking/) - Nerd Fitness
 * [Ab exercises you should be doing](https://imgur.com/a/Fkql2)
 * [Body Recomposition: How to Lose Fat and Gain Muscle at the Same Time](https://physiqonomics.com/body-recomposition/) - Physiqonomics
+* [Building Muscle Handbook](https://www.julian.com/guide/muscle) - Julian Shapiro
 * [Cardio or Weights: What’s Better for Fat Loss?](https://physiqonomics.com/cardio-or-weights/) - Physiqonomics
 * [Does Fasted Training Burn More Fat?](https://physiqonomics.com/fasted-training/) - Physiqonomics
 * [Greyskull LP](https://www.powerliftingtowin.com/greyskull-lp/)
