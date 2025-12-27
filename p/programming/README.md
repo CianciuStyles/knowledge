@@ -99,6 +99,8 @@
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [The Art of HPC](https://theartofhpc.com/) - Victor Eijkhout, Texas Advanced Computing Center
 * [The Debugging Book](https://www.debuggingbook.org/) - Andreas Zeller
+* [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Dave Thomas and Andrew Hunt
+  * [Notes by Armand Halbert](https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html)
 * [Usborne 1980s Computer Books](https://usborne.com/gb/books/computer-and-coding-books)
 
 ### Cheat Sheets
