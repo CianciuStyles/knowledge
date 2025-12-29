@@ -98,6 +98,7 @@
 
 * [Anki](https://apps.ankiweb.net/)
   * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
+* [Hashcards](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [Quizlet](https://quizlet.com)
 * [selfstudi.com](https://selfstudi.com/) - Turn YouTube Playlists into Courses for Self Study
 * [SmarterHumans.ai](https://www.smarterhumans.ai/) - AI-Powered Learning with Deep-Linked Flashcards
