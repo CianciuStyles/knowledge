@@ -1,5 +1,9 @@
 # Performance
 
+### Articles
+
+* [Performance Hints](https://abseil.io/fast/hints.html) - Jeff Dean, Sanjay Ghemawat
+
 ### Blogs
 
 * [Johnny's Software Lab](https://johnnysswlab.com/)
