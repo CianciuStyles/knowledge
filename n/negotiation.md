@@ -196,6 +196,11 @@
 * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Patrick McKenzie
 * [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - Haseeb Qureshi
 
+### Books
+
+* [Never Split The Difference](https://www.blackswanltd.com/never-split-the-difference) - Chris Voss
+  * [Notes by Anna Shipman](https://www.annashipman.co.uk/jfdi/never-split-the-difference.html)
+
 ### Courses
 
 * [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator ](https://www.coursera.org/learn/negotiation)- Barry Nalebuff
