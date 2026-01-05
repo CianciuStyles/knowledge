@@ -28,6 +28,7 @@ description: https://www.python.org/
 * [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) - Mike Driscoll
 * [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - Victor Skvortsov
 * [Python Classes, namedtuples and \_\_slots\_\_](https://maurodec.com/blog/classes-namedtuples-slots/) - Mauro de Carvalho
+* [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/) - Michael Kennedy
 * [Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) - Glyph Lefkowitz ([Reddit thread](https://www.reddit.com/r/Python/comments/4xnip4/python_packaging_is_good_now/))
 * [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/) - Nicholas Hairs
 * [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals) - Abhinav Upadhyay
