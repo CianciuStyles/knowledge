@@ -169,6 +169,7 @@
 
 ### Ideas for projects
 
+* [73 Programming Project Ideas to Inspire and Challenge You](https://codecrafters.io/blog/programming-project-ideas) - CodeCrafters
 * [Books like “Crafting interpreters” or “The ray tracer challenge”?](https://news.ycombinator.com/item?id=31571734)
 * [Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 * Build your own SQLite - Geoffrey Copin
