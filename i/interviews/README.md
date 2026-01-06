@@ -77,6 +77,7 @@
 
 ### Websites
 
+* [AlgoDrill](https://algodrill.io/) - Stop blanking out during technical interviews
 * [BFE.dev](https://bigfrontend.dev/) - prepare for Front End interviews
 * [Big Interview](https://googlecerts.biginterview.com/) - Grow with Google
 * [Gainlo](https://www.gainlo.co/#!/) - Mock interviews with professionals
@@ -91,7 +92,7 @@
 * [Meet a Pro](https://www.meetapro.com/) - Mock interviews with professionals
 * [Onsites.fyi](https://www.onsites.fyi/)
 * [Pramp](https://www.pramp.com/#/) - Practice mock interviews
-* [PrepVerse ](https://prepverse.github.io/)- The Complete FAANG Preparation ([GitHub](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation))
+* [PrepVerse](https://prepverse.github.io/) - The Complete FAANG Preparation ([GitHub](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation))
 
 ### YouTube Playlists
 
