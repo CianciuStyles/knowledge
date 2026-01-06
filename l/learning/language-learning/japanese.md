@@ -22,6 +22,7 @@
 * [KanaDojo](https://kanadojo.com/)
 * [Kanji Koohii](https://kanji.koohii.com/)
 * [Learn Japanese Now](https://marshallyin.com/)
+* [Lingoku](https://lingoku.ai/learn-japanese) - The Most Efficient Way to Learn Japanese Online
 * [Migaku](https://migaku.com/)
 * [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
 * [SOAS University of London](https://www.soas.ac.uk/)
