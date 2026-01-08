@@ -15,6 +15,7 @@
 * [Aha! Puzzles](https://www.ahapuzzles.com/)
 * [Couples](https://www.couples.game/)
 * [Brainzilla](https://www.brainzilla.com/)
+* [Escape Team](https://www.escape-team.com/) - An escape room to print at home
 * [KrazyDad](https://krazydad.com/) - Printable Puzzles
 * [intotheabyss.net](http://www.intotheabyss.net/) - Solving Christopher Manson's MAZE and the Genre of the Immersive Puzzle
 * [Puzzleship](https://www.puzzleship.com/)
