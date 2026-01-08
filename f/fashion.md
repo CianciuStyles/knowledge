@@ -12,6 +12,7 @@
 * [Everlane](https://www.everlane.com/)
 * [GU](https://www.gu-global.com/)
 * [Lands' End](https://www.landsend.co.uk/)
+* [Matalan](https://www.matalan.co.uk/)
 * [MUJI](https://uk.muji.eu/)
 * [SUITSUPPLY](https://suitsupply.com/en-gb/)
 * [Thousand Miles](https://thousandmiles.co.uk/)
@@ -33,15 +34,19 @@
 
 #### Models
 
-* [Allbirds Wool Runner Mizzles](https://www.allbirds.co.uk/products/mens-wool-runner-mizzles-natural-black)
-* [New Balance 574](https://www.newbalance.co.uk/pd/574/ML574V2-19566.html)
+* [Allbirds](https://www.allbirds.co.uk)
+  * [Wool Runner Mizzles](https://www.allbirds.co.uk/products/mens-wool-runner-mizzles-natural-black)
+* [New Balance](https://www.newbalance.co.uk/)
+  * [574](https://www.newbalance.co.uk/pd/574/ML574V2-19566.html)
+* [On](https://www.on.com/en-gb)
+  * [Cloud 6](https://www.on.com/en-gb/shop/shoes/cloud)
+* [Veja](https://www.veja-store.com/en_gb/)
+  * [Campo](https://www.veja-store.com/en_gb/men-campo)
 
 #### Shops
 
-* [On](https://www.on.com/en-gb)
 * [Sarenza](https://www.sarenza.it/)
 * [Shopbop](https://www.shopbop.com/)
 * [Solaris Sport](https://www.solarissport.com/it/)
 * [Spartoo](https://www.spartoo.it/)
-* [Veja](https://www.veja-store.com/en_gb/)
 * [Zalando](https://www.zalando.it/uomo-home/)
