@@ -88,6 +88,8 @@
 
 <figure><img src="../../.gitbook/assets/12 Skills That Will Pay You Forever.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Top 100 YouTube Channels.png" alt=""><figcaption></figcaption></figure>
+
 ### Reddit threads
 
 * [What hobby doesn't require massive amount of time and money but is a lot of fun?](https://www.reddit.com/r/AskReddit/comments/5llwzm/what_hobby_doesnt_require_massive_amount_of_time/)
