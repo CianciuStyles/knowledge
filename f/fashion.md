@@ -50,3 +50,9 @@
 * [Solaris Sport](https://www.solarissport.com/it/)
 * [Spartoo](https://www.spartoo.it/)
 * [Zalando](https://www.zalando.it/uomo-home/)
+
+### Subreddits
+
+* [MaleFashion](https://www.reddit.com/r/malefashion/)
+* [MaleFashionAdvice](https://www.reddit.com/r/malefashionadvice/)
+* [RawDenim](https://www.reddit.com/r/rawdenim/)
