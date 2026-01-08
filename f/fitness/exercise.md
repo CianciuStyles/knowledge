@@ -40,6 +40,10 @@
 
 * [How do I get fit and healthy as a software engineer?](https://news.ycombinator.com/item?id=28561238)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/If You Had To Pick Only 5 Exercises.png" alt=""><figcaption></figcaption></figure>
+
 ### Videos
 
 * [Beginner Flexibility Routine](https://www.youtube.com/watch?v=qULTwquOuT4) - MadFit
