@@ -69,6 +69,10 @@
 * [Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
 * [How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 
+### Images
+
+<figure><img src="../../.gitbook/assets/If I Resterted Learning Machine Learning In 2025 - My Roadmap.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### Websites
 
 * [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) - Microsoft ([GitHub](https://github.com/microsoft/ML-For-Beginners))
