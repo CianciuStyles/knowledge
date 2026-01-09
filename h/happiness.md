@@ -9,6 +9,7 @@
 ### Articles
 
 * [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) - Adam Mastroianni
+* [The Most Important Question of Your Life](https://markmanson.net/question) - Mark Manson
 
 ### Courses
 
