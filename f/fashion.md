@@ -7,16 +7,24 @@
 ### Clothes
 
 * [Abercrombie & Fitch](https://www.abercrombie.com/)
+* [Burton](https://www.burton.co.uk/)
 * [Crew Clothing Company](https://www.crewclothing.co.uk/)
 * [Colorful Standard](https://colorfulstandard.com/en-gb)
 * [Everlane](https://www.everlane.com/)
 * [GU](https://www.gu-global.com/)
 * [Lands' End](https://www.landsend.co.uk/)
+* [Marks & Spencer](https://www.marksandspencer.com/)
+  * [Slim Fit 360 Flex Stretch Jeans](https://www.marksandspencer.com/slim-fit-360-flex-stretch-jeans/p/clp60685381?color=MEDIUMBLUE)
+  * [Slim Fit Smart Stretch Trousers](https://www.marksandspencer.com/slim-fit-twill-stretch-suit-trousers/p/clp60716778#intid=crosssell_altfit_T703005M_P60716761)
 * [Matalan](https://www.matalan.co.uk/)
 * [MUJI](https://uk.muji.eu/)
+* [Next](https://www.next.co.uk/)
+* [Paul Smith](https://www.paulsmith.com/uk)
+* [SPOKE London](https://spoke-london.com/)
 * [SUITSUPPLY](https://suitsupply.com/en-gb/)
 * [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
+* [Wrangler](https://eu.wrangler.com/uk-en/home)
 
 ### Infographics
 
