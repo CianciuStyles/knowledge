@@ -105,6 +105,10 @@
   * [Notes by Michael Parker](https://github.com/mgp/book-notes/blob/master/the-seven-habits-of-highly-effective-people.markdown)
   * [What I learned from reading the 7 Habits of Highly Effective People](https://www.reddit.com/r/productivity/comments/mxltoz/what_i_learned_from_reading_the_7_habits_of/)
 
+### GitHub Repositories
+
+* [Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile
+
 ### Hacker News Threads
 
 * [How do I find energy to work on hobbies after the work day ends?](https://news.ycombinator.com/item?id=26500021)
