@@ -85,5 +85,6 @@
 * [Addic7ed](https://www.addic7ed.com/)
 * [Lazyday.tv](https://lazyday.tv/)
 * [Series Graph](https://seriesgraph.com/) - Show episodes ratings by episode graphed
+* [SeriesScores](https://seriesscores.com/)
 * [subtitulamos.tv](https://www.subtitulamos.tv/)
 * [What To Watch On TV](https://whattowatchon.tv/)
