@@ -45,6 +45,7 @@
 * [Little Man Computer](https://peterhigginson.co.uk/lmc/) - CPU Simulator
 * [NAND](https://nand.arhan.sh/) - logic simulator suite made entirely from NAND gates ([GitHub](https://github.com/ArhanChaudhary/NAND))
 * [Online Karnaugh Map Solver](http://32x8.com/index.html)
+* [The Apple Falls](https://jeevan.life/theapplefalls) - Learn electronics from scratch through immersive, interactive simulations
 
 ### YouTube Channels
 
