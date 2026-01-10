@@ -163,6 +163,10 @@
 * [SimonDev](https://www.youtube.com/@simondev758)
   * [Three.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PLRL3Z3lpLmH0aqLDbfh0ZmnDkpXPDnTau)
 
+### YouTube Playlists
+
+* [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) - MaiZure's Stuff
+
 ### YouTube Videos
 
 * [Building Games for Old Retro 1985 Hardware is fun!](https://www.youtube.com/watch?v=n5fBdYuIKqg) - Modern Vintage Gamer
