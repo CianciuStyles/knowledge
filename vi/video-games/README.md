@@ -575,6 +575,7 @@
 * [The Digital Antiquarian](https://www.filfre.net/)
   * [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [The Genesis Temple](https://genesistemple.com)
+* [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
 
 ### Wikis
 
