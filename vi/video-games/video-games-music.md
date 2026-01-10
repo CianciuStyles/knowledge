@@ -126,6 +126,7 @@
 
 * [FIFA Soundtracks 1998-2011](https://canadianpredsfan.blogspot.com/2011/08/eas-fifa-soundtrak-1998-2011.html)
 * [The 100 best video game soundtracks of all time](https://www.factmag.com/2015/04/28/the-100-greatest-video-game-soundtracks-best-ost/)
+* [Video games scored by Tim Follin](https://en.wikipedia.org/wiki/Category:Video_games_scored_by_Tim_Follin)
 
 ### Medleys
 
