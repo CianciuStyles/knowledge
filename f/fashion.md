@@ -11,6 +11,7 @@
 * [Crew Clothing Company](https://www.crewclothing.co.uk/)
 * [Colorful Standard](https://colorfulstandard.com/en-gb)
 * [Everlane](https://www.everlane.com/)
+* [Fred Perry](https://www.fredperry.com)
 * [GU](https://www.gu-global.com/)
 * [Lands' End](https://www.landsend.co.uk/)
 * [Marks & Spencer](https://www.marksandspencer.com/)
@@ -25,6 +26,7 @@
 * [Thousand Miles](https://thousandmiles.co.uk/)
 * [Uniqlo](https://www.uniqlo.com/uk/en/home)
 * [Wrangler](https://eu.wrangler.com/uk-en/home)
+* [Zara](https://www.zara.com/uk/)
 
 ### Infographics
 
@@ -32,6 +34,12 @@
 * [Tie Knots](https://i.imgur.com/GdlushV.png)
 * [Visual Guide to the Ideal Color Pairing](https://i.imgur.com/ZEq8FHc.jpg)
 * [Visual Guide to Understanding Common Suit Features](https://i.imgur.com/XPIptk3.jpg)
+
+### Outlets
+
+* [Flannels](https://www.flannels.com/)
+* [Get The Label](https://www.getthelabel.com/)
+* [MandM](https://www.mandmdirect.com/)
 
 ### Perfumes
 
