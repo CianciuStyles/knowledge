@@ -8,6 +8,7 @@
 ### Books
 
 * [Computer Architecture: A Quantitative Approach](https://dl.acm.org/doi/epdf/10.5555/1999263) - John L. Hennessy, David A. Patterson
+* [Computer Science: An Overview](https://github.com/Mohammed-3tef/Computer_Science_Books/blob/08c55e40377f0ebc071c89beab398689e5eb539a/Computer%20Science%20An%20Overview%2C%2013th%20Edition.pdf) - J. Glenn Brooksheak, Dennis Brylow
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Alfred V. Aho, Jeffrey D. Ullman
 
 ### Courses
