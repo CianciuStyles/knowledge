@@ -21,6 +21,7 @@
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com/) - Svetlin Nakov, PhD
 * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography) - David Wong
+* [Serious Cryptograph](https://www.kea.nu/files/textbooks/humblesec/seriouscrytography.pdf) - Jean-Philippe Aumasson
 * [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek
 * [Understanding Cryptography](https://www.cryptography-textbook.com/) - Christof Paar, Jan Pelzl, Tim Güneysu
 
