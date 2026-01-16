@@ -110,3 +110,7 @@
 ### YouTube Channels
 
 * [Luca Lampariello](https://www.youtube.com/c/LucaLampariello/videos)
+
+### YouTube Videos
+
+* [The EASIEST way to learn Korean (Hangeul story)](https://www.youtube.com/watch?v=z5WiqAu2R44)
