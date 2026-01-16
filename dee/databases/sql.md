@@ -11,6 +11,7 @@
 
 ### Books
 
+* [Sams Teach Yourself SQL in 10 Minutes](https://forta.com/books/0135182794/) - Ben Forta
 * [Use The Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com/) - Markus Winand
 
 ### GitHub Repositories
