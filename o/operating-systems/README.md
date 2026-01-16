@@ -13,6 +13,7 @@
 * [Operating System Design: The Xinu Approach](https://www.amazon.co.uk/Operating-System-Design-Approach-Second-ebook/dp/B00UVB2YA2) - Douglas Comer
 * [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/) - Seiya Nuta
 * [Operating Systems: From 0 To 1](https://github.com/tuhdo/os01) - Tu Do
+* [Operating Systems: Internals and Design Principles](https://dpvipracollege.ac.in/wp-content/uploads/2023/01/Operating-Systems-Internals-and-Design-Principles-6th.pdf) - William Stallings
 * [The intermezzOS Book](https://intermezzos.github.io/book/)
 * [The little book about OS development](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
 * [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell
