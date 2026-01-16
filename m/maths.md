@@ -48,6 +48,8 @@
   * [YouTube playlist](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 * [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up) - M. Vygodsky
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
+  * [YouTube playlist (Fall 2010)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+  * [YouTube playlist (Spring 2024)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d)
 * [Topics in Algebra](https://marinazahara22.files.wordpress.com/2013/10/i-n-herstein-topics-in-algebra-2nd-edition-1975-wiley-international-editions-john-wiley-and-sons-wie-1975.pdf) - I. N. Herstein
 * [Understanding Analysis](https://homel.vsb.cz/~ulc0011/Abbott%20-%20Understanding%20Analysis.pdf) - Stephen Abbott
 

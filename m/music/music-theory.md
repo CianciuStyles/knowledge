@@ -19,6 +19,7 @@
 * [Dmitri Tymoczko](https://dmitri.mycpanel.princeton.edu/teaching.html)
 * [Furmanczyk Academy of Music](https://howtoplaypiano.ca/learn-free-music-theory)
 * [JazzIn](https://jazzln.vercel.app/)
+* [Lend Me Your Ears](https://lend-me-your-ears.specr.net/) - A musical ear training game
 * [Lightnote](https://www.lightnote.co/) - Interactive Music Theory Sessions
 * [musictheory.net](https://www.musictheory.net/)
 * [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby W. Rush
