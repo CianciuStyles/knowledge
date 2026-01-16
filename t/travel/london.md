@@ -10,6 +10,7 @@
 
 ### Board Games Cafès
 
+* [Bad Moon Cafe](https://www.badmooncafe.co.uk/) - Borough and Holloway Road
 * [Draughts](https://www.draughtslondon.com/) - Hackney and Waterloo
 
 ### Charity Shops
