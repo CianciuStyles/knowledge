@@ -361,6 +361,7 @@
   * [Homebrew on a $99 Nintendo New 2DSXL Handheld](https://www.youtube.com/watch?v=DfbJC6M20TY)
   * [Homebrew Wars : Original Xbox vs Nintendo Wii](https://www.youtube.com/watch?v=F0EZQsFulJs)
   * [How NESticle changed NES Emulation forever](https://www.youtube.com/watch?v=Yo54FZJkIMQ)
+  * [I get it now..Android Emulation is INSANE](https://www.youtube.com/watch?v=GRRQ8tXuf7A)
   * [I played Gears of War 3 on the PlayStation PS3...](https://www.youtube.com/watch?v=5YQk0fl_dSo)
   * [I wrote the Emulators and Homebrew YOU played on the Original Xbox - A Look Back!](https://www.youtube.com/watch?v=x7FmelyC70Y)
   * [Jailbreaking a PS3 Slim in 2024 - Preserve your entire PS3 collection.](https://www.youtube.com/watch?v=BkHBEpiF9FI)
