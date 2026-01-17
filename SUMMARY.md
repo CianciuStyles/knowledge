@@ -31,6 +31,8 @@
 * [Android](a/android.md)
 * [Anime, Comics & Manga](a/anime-comics-and-manga.md)
 * [APIs](a/apis.md)
+* [Art](a/art/README.md)
+  * [M.C. Escher](a/art/m.c.-escher.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 * [Assembly](a/assembly/README.md)
   * [ARM](a/assembly/arm.md)
