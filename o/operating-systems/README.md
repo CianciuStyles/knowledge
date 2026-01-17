@@ -48,6 +48,10 @@
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [You're the OS!](https://plbrault.github.io/youre-the-os/) - Pier-Luc Brault ([GitHub](https://github.com/plbrault/youre-the-os))
 
-### YouTube channels
+### YouTube Channels
 
 * [Andreas Kling](https://www.youtube.com/c/AndreasKling/videos) - SerenityOS
+
+### YouTube Playlists
+
+* [Making an OS (x86)](https://www.youtube.com/playlist?list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M) - Daedalus Community
