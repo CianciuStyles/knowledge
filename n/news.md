@@ -57,6 +57,7 @@
   * [Hacker News Readings](https://hackernews-readings-613604506318.us-west1.run.app/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
+  * [HN Personal Websites](https://hnpwd.github.io/)
   * [HN Popularity Contest](https://refactoringenglish.com/tools/hn-popularity/) - The highest-ranking personal blogs of Hacker News
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
   * [Lindy HN](https://hn.lindylearn.io/) - The best Hacker News posts from 132 to 2022
