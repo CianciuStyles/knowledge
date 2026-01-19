@@ -54,6 +54,7 @@
   * [Ask Hacker News Weekly](https://www.daemonology.net/hn-weekly-ask/)
   * [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)
   * [Best of Show HN](https://bestofshowhn.com/)
+  * [blogs.hn](https://blogs.hn/)
   * [Hacker News Readings](https://hackernews-readings-613604506318.us-west1.run.app/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
