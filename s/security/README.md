@@ -53,6 +53,10 @@
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [SkullSecurity](https://www.skullsecurity.org/)
 
+### Books
+
+* [Computer Security: Principles and Practice](https://unidel.edu.ng/focelibrary/books/Computer%20Security%20_%20Principles%20-%20WILLIAM%20STALLINGS_2089.pdf) - William Stallings, Lawrie Brown
+
 ### Bug Bounty Programs
 
 * [HackerOne](https://www.hackerone.com/)
