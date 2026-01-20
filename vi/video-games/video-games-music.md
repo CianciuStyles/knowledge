@@ -159,6 +159,7 @@
 * [iridium beats](https://www.youtube.com/@iridiumbeats)
   * [Final Fantasy VII \~ City Pop Soundtrack](https://www.youtube.com/watch?v=ZN3iJZ6wxPM)
   * [Final Fantasy VIII \~ City Pop / Jazz Fusion Soundtrack](https://www.youtube.com/watch?v=sXdQDV3CwgY)
+  * [Super Mario Galaxy \~ City Pop Soundtrack](https://www.youtube.com/watch?v=twma-SElHzI)
 * [Phantasia Records](https://www.youtube.com/@PhantasiaRecords)
   * [Donkey Kong Country but it's Japanese Jazz Fusion](https://www.youtube.com/watch?v=N8iJQB_UEyE)
 
