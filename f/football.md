@@ -46,6 +46,8 @@
 ### Radios
 
 * [Radio Romanista](https://radioromanista.it/)
+  * [L'Ora Giuliva 05/01/2026](https://romanista.audio.one/podcasts/lora-giuliva-inutili-e-nervosetti-05012026/54365/episodes/1565083)
+  * [L'Ora Giuliva 20/01/2026](https://romanista.audio.one/podcasts/lora-giuliva-una-sigla-sibaritica-e-laddio-a-bailey-20012026/54399/episodes/1585900)
 * [Radio TV Serie A](https://www.legaseriea.it/it/radiotv)
 * [Retesport](https://www.retesport.it/)
 
