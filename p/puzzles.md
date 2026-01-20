@@ -14,6 +14,7 @@
 ### Websites
 
 * [Aha! Puzzles](https://www.ahapuzzles.com/)
+* [Connections](https://connectionsgame.org/)
 * [Couples](https://www.couples.game/)
 * [Brainzilla](https://www.brainzilla.com/)
 * [Escape Team](https://www.escape-team.com/) - An escape room to print at home
