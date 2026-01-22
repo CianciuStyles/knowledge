@@ -13,5 +13,6 @@
 
 ### Websites
 
+* [Brain Hurricane](https://app.brainhurricane.ai/) - AI-Powered Idea Discovery Platform
 * [Checklist of Negative and Positive Distortions](https://feelinggood.com/wp-content/uploads/2014/01/checklist-of-negative-and-positive-distortions.pdf) - David D. Burns, MD
-* [Untools ](https://untools.co/)- Tools for better thinking
+* [Untools](https://untools.co/) - Tools for better thinking
