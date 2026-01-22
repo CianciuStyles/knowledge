@@ -63,6 +63,12 @@
 * [Fluent In 3 Months](https://www.fluentin3months.com/) - Benny Lewis
   * [Summary by Four Minute Books](https://fourminutebooks.com/fluent-in-3-months-summary/)
 
+### Subreddits
+
+* [r/Languagelearning](https://www.reddit.com/r/languagelearning/)
+  * [FAQ](https://www.reddit.com/r/languagelearning/wiki/faq)
+  * [Resources](https://www.reddit.com/r/languagelearning/wiki/resources)
+
 ### Videos
 
 * [How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) - Chris Lonsdale
