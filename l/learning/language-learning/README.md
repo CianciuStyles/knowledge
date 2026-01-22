@@ -120,3 +120,4 @@
 ### YouTube Videos
 
 * [The EASIEST way to learn Korean (Hangeul story)](https://www.youtube.com/watch?v=z5WiqAu2R44)
+* [The Language Master, a film about Michel Thomas](https://www.youtube.com/watch?v=mr_NUWhYASg)
