@@ -14,6 +14,7 @@
 
 * [35 Things To Know Before Visiting Japan For The First Time](https://fouraroundtheworld.com/things-to-know-before-visiting-japan/) - Four Around The World
 * [A 9 Day Itinerary for Your First Trip to Japan!](https://www.samanthaminor.com/post/2019/05/31/a-9-day-itinerary-for-your-first-trip-to-japan) - Samantha Minor
+* [Japan in 7 Days - The Jack's Flight Club Itinerary](https://members.jacksflightclub.com/articles/japan-in-7-days-jacks-itinerary) - Jack's Flight Club
 * [Overtourism in Japan, and How it Hurts Small Businesses](https://craigmod.com/ridgeline/210/) - Craig Mod
 * [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/) - Patrick McKenzie
 
