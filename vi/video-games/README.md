@@ -541,6 +541,7 @@
 
 * [Games Translator](https://www.gamestranslator.it/) - Italian Community
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
+* [LockeWorld](http://lockeworld.altervista.org/index.html)
 * [Mumble Translations](https://mumble.romhacking.it/)
 * [SadNES cITy](https://www.sadnescity.it/)
 * [Translations](https://www.romhacking.net/translations/) - Romhacking.net
