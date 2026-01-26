@@ -29,7 +29,7 @@
   * Awesome Games Done Quick 2025
     * [Call of Duty 4: Modern Warfare](https://www.youtube.com/watch?v=1PLtrQi-Q1w) - bryonato
   * Games Done Quick Express 2018
-    * [Resident Evil 2 - Bawkbasoup](https://www.youtube.com/watch?v=BkKE5t4cw24\&t=3355s)
+    * [Resident Evil 2 - Bawkbasoup](https://www.youtube.com/watch?v=BkKE5t4cw24)
   * Games Done Quick Express 2019
     * [Resident Evil 3: Nemesis - WOLFDNC](https://www.youtube.com/watch?v=L6DXqS30WIU)
   * Summer Games Done Quick 2016
