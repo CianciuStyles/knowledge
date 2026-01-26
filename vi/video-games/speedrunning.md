@@ -36,6 +36,7 @@
     * [New Super Mario Bros. - altabiscuit](https://www.youtube.com/watch?v=qie0DjM39zQ)
   * Summer Games Done Quick 2019
     * [Devil May Cry - Maxylobes](https://www.youtube.com/watch?v=WTiEd0bfLZE)
+    * [Resident Evil 2 - Bawkbasoup](https://www.youtube.com/watch?v=K0CFIymKnZo)
   * Summer Games Done Quick 2020 Online
     * [ICO - Beuchi](https://www.youtube.com/watch?v=W-xMQpb9y8k)
   * Summer Games Done Quick 2022
