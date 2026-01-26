@@ -543,6 +543,7 @@
 * [I Figli di Gaucci Productions](https://www.figlidigaucci.eu/index.php?pid=11)
 * [LockeWorld](http://lockeworld.altervista.org/index.html)
 * [Mumble Translations](https://mumble.romhacking.it/)
+* [OldGamesItalia](https://www.oldgamesitalia.net/traduzioni)
 * [SadNES cITy](https://www.sadnescity.it/)
 * [Translations](https://www.romhacking.net/translations/) - Romhacking.net
 * [Translations Patches](https://cdromance.org/translations/) - CDRomance
