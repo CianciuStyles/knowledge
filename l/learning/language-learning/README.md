@@ -99,6 +99,8 @@
 * [Little Language Lessons](https://labs.google/lll/en) - Google Labs
 * [Memrise](https://www.memrise.com/)
 * [Michel Thomas](https://michelthomas.com/)
+* [Mondecast](https://mondecast.com/)
+  * [How To Learn a Foreign Language](https://mondecast.com/language-guide/introduction/)
 * [Open Culture](https://www.openculture.com/freelanguagelessons) - Free Language Lessons
 * [Phrasing](https://phrasing.app/) - To fluency & beyond!
 * [Pimsleur](https://www.pimsleur.com/)
