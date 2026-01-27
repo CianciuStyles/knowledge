@@ -76,6 +76,7 @@
 
 ### Websites
 
+* [All Language Resources](https://www.alllanguageresources.com/)
 * [Couchsurfing](https://www.couchsurfing.com/)
 * [Dreaming Spanish](https://www.dreamingspanish.com/) - Learn with Comprehensible Input
 * [Fluent](https://fluent.im/)
