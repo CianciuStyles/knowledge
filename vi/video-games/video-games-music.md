@@ -170,7 +170,7 @@
 * [Chrono Trigger](https://www.youtube.com/playlist?list=OLAK5uy_kOFWziQDh7okS3iyuKk4mkFNVdbxmHBqA)
 * [Deltarune](https://www.youtube.com/watch?v=i15tvBmKGoQ)
 * [DOOM 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E)
-* [Final Fantasy VII](https://www.youtube.com/watch?v=-1ZBWUnYPbA)
+* [Final Fantasy VII](https://www.youtube.com/playlist?list=OLAK5uy_mvDV7aOFHvvOJRUGGoyxNBDIVb49Mbu1k)
 * [Final Fantasy VIII](https://www.youtube.com/playlist?list=OLAK5uy_l8szd2J3qmAUvscgOZOgyE9uV9gkxdw3w)
 * [Final Fantasy IX](https://www.youtube.com/playlist?list=OLAK5uy_lcCsVT2tRqwUyC6ZdsPi8s6yF_mQxxPi8)
 * [Final Fantasy XIII](https://www.youtube.com/playlist?list=OLAK5uy_nLO-c6V4RwcO9Cv4W0S0ham5qNnoYWj3I)
