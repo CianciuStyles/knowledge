@@ -187,6 +187,7 @@
 * [No One Lives Forever 2](https://www.youtube.com/watch?v=tWzNvwuFZ70)
 * [NOTAM of WIND](https://www.youtube.com/watch?v=vNFRUg5yEmo)
 * [Ori and the Blind Forest](https://www.youtube.com/playlist?list=PLxbIk89I7mKuYQcurk0mK-h2Fo_aR1ss7)
+* [Paper Mario: Sticker Star](https://www.youtube.com/watch?v=jywQdlqtmBo)
 * [Racing Lagoon](https://www.youtube.com/playlist?list=PLhUEOosVlT05SUcZ2x9R5JQiLB4vfFLb6)
 * [Rayman Legends](https://www.youtube.com/playlist?list=PLu6_FOgZp3egJe-02-26CGY2st7KaGwRX)
 * [Rayman Origins](https://www.youtube.com/playlist?list=PLu6_FOgZp3ehJZrmfkibTJX12vX6-L_Ug)
