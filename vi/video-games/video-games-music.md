@@ -175,6 +175,7 @@
 * [Final Fantasy IX](https://www.youtube.com/playlist?list=OLAK5uy_lcCsVT2tRqwUyC6ZdsPi8s6yF_mQxxPi8)
 * [Final Fantasy XIII](https://www.youtube.com/playlist?list=OLAK5uy_nLO-c6V4RwcO9Cv4W0S0ham5qNnoYWj3I)
 * [Final Fantasy XV](https://www.youtube.com/playlist?list=OLAK5uy_mq0kd5pjQL8FR2rvKOYUhO8eyC0COqWcw)
+* [Final Fantasy XVI](https://www.youtube.com/playlist?list=PLOLBWlPQqPks3QoCfi_ehxbXcqvk3fpWn)
 * [Grand Theft Auto: Vice City](https://www.youtube.com/playlist?list=PLffQpMcmLcI-3REhsGllOcwoAsYrQ9bra)
 * [Grim Fandango](https://www.youtube.com/watch?v=5-K8R1hDG9E)
 * [Hotline Miami](https://www.youtube.com/watch?v=oKD-MVfC9Ag)
