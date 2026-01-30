@@ -193,6 +193,7 @@
   * [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [Public Books Database](https://www.publicbooks.org/public-books-database/)
 * [Readest](https://readest.com/) ([GitHub](https://github.com/readest/readest))
+* [Shelvy](https://shelvybooks.com/) - Your personal bookshelf, beautifully organised
 * [Standard Ebooks](https://standardebooks.org/)
 * [Storytel](https://www.storytel.com)
 * [Summaries.com](https://summaries.com/)
