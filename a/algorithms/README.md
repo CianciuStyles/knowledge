@@ -22,6 +22,8 @@
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://cleveralgorithms.com/nature-inspired/) - Jason Brownlee
 * [Introduction to Algorithms](https://smile.amazon.co.uk/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein
 * [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20\[Manber%201989-01-11].pdf) - Udi Manber
+* [Mazes for Programmers](http://mazesforprogrammers.com/) - Jamis Buck
+  * [Maze Algorithms](https://www.jamisbuck.org/mazes/)
 * [The Algorithm Design Manual](https://smile.amazon.co.uk/Algorithm-Design-Manual-Computer-Science/dp/3030542580/) - Steven Skiena
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
