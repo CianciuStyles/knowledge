@@ -7,6 +7,7 @@
 ### Models
 
 * [BESTA to SKADIS Mount Adapter](https://www.printables.com/model/1486349-besta-to-skadis-mount-adapter)
+* [Gameboy cartridge tray](https://www.printables.com/model/177257-gameboy-cartridge-tray)
 * [N64 Region Free Cartridge Bracket](https://www.printables.com/model/220173-n64-region-free-cartridge-bracket)
 * [PlayStation 1 Case Cover Support](https://www.printables.com/model/1174336-playstation-1-case-cover-support)
 * [PlayStation 1/2 Memory Card Holder](https://www.printables.com/model/403806-playstation-12-memory-card-holder-parameterizable/files)
