@@ -32,6 +32,11 @@
 * [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)
 
+### Subreddits
+
+* [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
+  * [My list of comprehensible Japanese channels](https://www.reddit.com/r/LearnJapanese/comments/18wf1w2/my_list_of_comprehensible_japanese_channels/)
+
 ### YouTube Channels
 
 * [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
