@@ -40,6 +40,7 @@
 
 ### YouTube Channels
 
+* [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese)
 * [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
 
 ### YouTube Videos
