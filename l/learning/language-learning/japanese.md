@@ -36,6 +36,7 @@
 
 * [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
   * [My list of comprehensible Japanese channels](https://www.reddit.com/r/LearnJapanese/comments/18wf1w2/my_list_of_comprehensible_japanese_channels/)
+  * [The /r/LearnJapanese Wiki](https://www.reddit.com/r/LearnJapanese/wiki/index)
 
 ### YouTube Channels
 
