@@ -137,6 +137,7 @@
 
 ### PDF Tools
 
+* [BentoPDF](https://p.opnxng.com/)
 * [Breeze PDF](https://breezepdf.com/)
 * [iLovePDF](https://www.ilovepdf.com/)
 * [LuxPDF](https://luxpdf.com/)
