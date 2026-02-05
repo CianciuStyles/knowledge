@@ -69,6 +69,7 @@
   * [The Legend of Zelda - Gerudo Valley](https://www.youtube.com/watch?v=YTsfGm1SP1c)
   * [Undertale - Hopes and Dreams](https://www.youtube.com/watch?v=hiIIdFNuo7E)
 * [GaMetal](https://www.youtube.com/@JonnyAtma)
+  * [Ace Combat 2 - Rising High](https://www.youtube.com/watch?v=nHS8naNhH7s)
   * [Phoenix Wright: Ace Attorney - Cornered](https://www.youtube.com/watch?v=xZpwfcw4NkQ)
   * [R4: Ridge Racer Type 4 - Move Me](https://www.youtube.com/watch?v=lW9NCklRI1E)
   * [Super Mario Galaxy - Gusty Garden Galaxy feat. String Player Gamer](https://www.youtube.com/watch?v=I2MtA3_p_5M)
