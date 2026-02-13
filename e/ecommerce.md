@@ -32,6 +32,7 @@
 * [Cable Monkey](https://www.cablemonkey.co.uk/)
 * [Catawiki](https://www.catawiki.com/) - The Online Marketplace with Weekly Auctions
 * [CCL Online](https://www.cclonline.com/)
+* [CorporateSpec](https://corporatespec.com/) - Refurbished Branded Office Chairs
 * [Costco](https://www.costco.co.uk/)
 * [Delcampe](https://www.delcampe.net/it/collezionismo/)
 * [DHgate ](https://www.dhgate.com/)- China Wholesale Products
