@@ -30,6 +30,8 @@
 
 ### Infographics
 
+<figure><img src="../.gitbook/assets/The Best Color Combinations.jpg" alt=""><figcaption></figcaption></figure>
+
 * [How Your Suit Should Fit](https://i.imgur.com/JtVT7Tx.jpg)
 * [Tie Knots](https://i.imgur.com/GdlushV.png)
 * [Visual Guide to the Ideal Color Pairing](https://i.imgur.com/ZEq8FHc.jpg)
