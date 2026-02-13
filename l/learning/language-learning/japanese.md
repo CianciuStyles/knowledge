@@ -32,6 +32,32 @@
 * [Tofugu](https://www.tofugu.com/)
 * [WaniKani](https://www.wanikani.com/)
 
+### Books
+
+#### English
+
+* Genki - Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, Kyoko Tokashiki
+  * [Volume I](https://www.amazon.co.uk/Genki-Third-Integrated-Elementary-Japanese/dp/4789017303/260-2629885-2745453?pd_rd_w=ZR4oa\&content-id=amzn1.sym.ec630614-3f9e-4b7f-ba9a-fe89f8e4113f\&pf_rd_p=ec630614-3f9e-4b7f-ba9a-fe89f8e4113f\&pf_rd_r=5XZMDDG3YF5R6WVBET8T\&pd_rd_wg=is3DV\&pd_rd_r=bd3c05a5-bda0-4a81-86c0-eb71d166884a\&pd_rd_i=4789017303\&psc=1)
+  * [Volume II](https://www.amazon.co.uk/Genki-Integrated-Elementary-Japanese-Textbook-dp-478901732X/dp/478901732X)
+
+#### Italian
+
+* Corso di lingua giapponese - Silvana De Maio, Carolina Negri, Junichi Oue
+  * [Volume 1](https://www.hoeplieditore.it/universita/articolo/corso-di-lingua-giapponese-silvana-de-maio/opera/0272)
+  * [Volume 2](https://www.hoeplieditore.it/universita/articolo/corso-di-lingua-giapponese-silvana-de-maio/9788820336646/0272)
+  * [Volume 3](https://www.hoeplieditore.it/universita/articolo/corso-di-lingua-giapponese-silvana-de-maio/9788820336653/0272)
+* [Grammatica giapponese](https://www.hoeplieditore.it/universita/articolo/grammatica-giapponese-matilde-mastrangelo/9788820367275/0889) - Matilde Mastrangelo, Naoko Ozawa, Mariko Saito (Autore)
+
+#### Japanese
+
+* Minna No Nihongo - 3A Network
+  * [Volume I](https://www.amazon.co.uk/gp/product/4883196038)
+    * [Traduzione e Note grammaticali - Italiano](https://www.amazon.it/gp/product/4883196356)
+    * [Translation & Grammar Notes - English](https://www.amazon.co.uk/Minna-Nihongo-2nd-ver-Translation/dp/4883196046/260-2629885-2745453)
+  * [Volume II](https://www.amazon.co.uk/gp/product/4883196461)
+    * [Traduzione e Note grammaticali - Italiano](https://www.amazon.it/gp/product/4883196976)
+    * [Translation & Grammar Notes - English](https://www.amazon.co.uk/gp/product/488319664X)
+
 ### Subreddits
 
 * [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
