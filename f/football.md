@@ -87,6 +87,11 @@
 
 ### YouTube Channels
 
+* [Cronache Di Spogliatoio](https://www.youtube.com/@CRONACHEDISPOGLIATOIO)
+  * [La Storia Di Fabio Caressa](https://www.youtube.com/watch?v=jdxZpC6BF0U)
+  * [La Storia Di Paolo Condò](https://www.youtube.com/watch?v=RrfVAaG-OqY)
+  * [La Storia Di Riccardo Trevisani](https://www.youtube.com/watch?v=Knzzjz8WtAU)
+  * [La Storia Di Sandro Piccinini](https://www.youtube.com/watch?v=ZkWT6aJeQPw)
 * [VHS ROMA](https://www.youtube.com/@vhsroma9861)
 
 ### YouTube Playlists
