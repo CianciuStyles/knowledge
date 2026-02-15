@@ -112,6 +112,7 @@
 * [HN Books](https://yahnd.com/books/)
 * [Librarian AI](https://www.librarian-ai.com/)
 * [Most Recommended Books](https://mostrecommendedbooks.com/)
+* [Odd Lots Books](https://odd-lots-books.netlify.app/)
 * [Read This Twice](https://www.readthistwice.com/) - Books worth reading twice
 * [Reddit Reads](https://www.redditreads.com/)
 * [Shepherd](https://shepherd.com/)
