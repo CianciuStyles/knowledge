@@ -69,6 +69,8 @@
   * [Remapping ScratchpadRam](https://fobes.dev/ps2/detecting-emu-spr-mapping)
   * [The VU0 Pipeline](https://fobes.dev/ps2/detecting-emu-vu0-pipeline)
   * [When 1\*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
+* Dolphin Emulator
+  * [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
 * Hacking the Xbox 360 Hypervisor - Ryan Miceli
   * [Part 1: System Overview](https://icode4.coffee/?p=1047)
   * [Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
