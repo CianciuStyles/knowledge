@@ -9,6 +9,7 @@
 * [Magazedia](https://en.magazedia.wiki/) - Magazine Encyclopedia
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [News Minimalist](https://www.newsminimalist.com/)
+* [ooh.directory](https://ooh.directory/) - a place to find good blogs that interest you
 * [PaperTalk](https://www.papertalk.xyz)
 * [Positive News](https://www.positive.news/)
 * [Read Something Great](https://www.readsomethinggreat.com/)
