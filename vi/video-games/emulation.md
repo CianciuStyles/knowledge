@@ -53,6 +53,7 @@
 * [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
 * [Classic games online](https://playclassic.games/)
 * [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
+* [Descent](https://mrdoob.github.io/three-descent/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
 * [Pitfall!](https://meatfighter.com/pitfall-web/)
