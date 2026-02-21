@@ -242,6 +242,7 @@
 * [Red Team Development and Operations](https://redteam.guide/)
 * [Red Team Notes](https://www.ired.team/)
 * [Reversing.kr](http://reversing.kr/)
+* [Roppers Academy](https://www.roppers.org/) - The Best Place to Take Your First Steps Into Security
 * [SANS](https://www.sans.org/uk_en/) - UK Cybersecurity Courses & Training
 * [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - Paul Jerimy
 * [Security List](https://security-list.js.org/#/) ([GitHub](https://github.com/Lissy93/personal-security-checklist))
