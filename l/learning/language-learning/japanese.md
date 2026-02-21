@@ -19,7 +19,7 @@
 * [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system
   * [Japanese Language Proficiency Test](https://jpdb.io/vocabulary-list/924/japanese-language-proficiency-test)
 * [Kaishi 1.5k](https://github.com/donkuri/Kaishi) - modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary
-* [KanaDojo](https://kanadojo.com/)
+* [KanaDojo](https://kanadojo.com/) ([GitHub](https://github.com/lingdojo/kana-dojo))
 * [Kanji Koohii](https://kanji.koohii.com/)
 * [Learn Japanese Now](https://marshallyin.com/)
 * [Lingoku](https://lingoku.ai/learn-japanese) - The Most Efficient Way to Learn Japanese Online
