@@ -104,6 +104,10 @@
 
 ## Resources
 
+### App
+
+* [Loop Habit Tracker](https://loophabits.org/)
+
 ### Articles
 
 * [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/) - Andreas Kling
@@ -142,6 +146,7 @@
 
 ### Websites
 
+* [Atomic Habits Calendar](https://atomichabits-calendar.com/)
 * [Tiny Habits Recipe Maker](https://recipemaker.tinyhabits.com/tiny-habits)
 
 ### YouTube videos
