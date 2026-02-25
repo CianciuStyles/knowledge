@@ -55,6 +55,7 @@ description: https://www.python.org/
 * [Serious Python](https://nostarch.com/seriouspython) - Julien Danjou
 * [Slither Into Python](https://www.slitherintopython.com/)
 * [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+* [ThePythonBook](https://www.pythoncompiler.io/python/) - PythonCompiler.io
 * Think Python: How to Think Like a Computer Scientist - Allen B. Downey
   * [Second Edition - version 2.4.0](https://greenteapress.com/thinkpython2/html/index.html)
   * [Third Edition](https://allendowney.github.io/ThinkPython/)
