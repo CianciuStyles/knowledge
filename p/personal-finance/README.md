@@ -151,7 +151,9 @@
 * [Rebel Donegans](https://rebeldonegans.com/)
 * [Taxcafe](https://www.taxcafe.co.uk/) - UK Tax Planning Books
 * [TaxRanked](https://taxranked.com/) - Low-Tax Countries for Self-Employed
+* [The Money Charity](https://themoneycharity.org.uk/) - Financial Wellbeing + Financial Education
 * [UKPersonalFinance Wiki](https://ukpersonal.finance/)
+  * [Recommended Resources](https://ukpersonal.finance/recommended-resources/)
 * [Vanguard](https://www.vanguardinvestor.co.uk/)
 * [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
 * [WhatIfInvest](https://www.whatifinvest.com/) - Investment Calculator
