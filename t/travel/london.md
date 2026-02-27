@@ -106,6 +106,7 @@
 * [London pub quiz map](https://www.google.com/maps/d/u/0/viewer?mid=1ZdJNXQSj6ZlrqLNSFQO0wzI4kFelWfY\&ll=51.476955129155%2C-0.016030664151402974\&z=10)
 * [Pint Prices](https://www.pint-prices.com/)
 * [r/London Food](https://www.google.com/maps/d/u/0/viewer?mid=1hvE-Owf4cRfPxofAtK-vMKASCWZpj-k\&ll=51.536716756666415%2C-0.1571249449310308\&z=11)
+* [Toilet Map](https://www.toiletmap.org.uk/)
 * [World restaurants in London](https://www.google.com/maps/d/viewer?mid=1xBzcs9QcsCTMI4Gu3MMK8wgG0TY8Fc0\&ll=51.50258894399866%2C-0.09630980000000289\&z=10)
 
 ### Movies
