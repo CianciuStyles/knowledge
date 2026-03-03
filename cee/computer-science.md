@@ -41,3 +41,4 @@
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [The Centre for Computing History](https://www.computinghistory.org.uk/)
   * [Books](https://www.computinghistory.org.uk/sec/383/Books/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
