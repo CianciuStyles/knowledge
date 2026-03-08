@@ -37,7 +37,6 @@
 ### GitHub Repositories
 
 * [Awesome Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing)
-* [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - LaurieWired
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
@@ -57,16 +56,20 @@
 * [Cutter](https://cutter.re/)
 * [Dependency Walker](https://www.dependencywalker.com/)
 * [dnSpy ](https://github.com/dnSpy/dnSpy)- .NET debugger and assembly editor
-* [Frida ](https://frida.re/)- A world-class dynamic instrumentation toolkit
+* [Frida](https://frida.re/) - A world-class dynamic instrumentation toolkit
   * [frida-trace](https://frida.re/docs/frida-trace/) - tool for dynamically tracing function calls
 * [GDB](https://www.sourceware.org/gdb/)
   * [pwndbg](https://github.com/pwndbg/pwndbg)
 * [Ghidra](https://ghidra-sre.org/)
   * [ghidra\_psx\_ldr ](https://github.com/lab313ru/ghidra_psx_ldr)- Sony Playstation PSX executables loader for GHIDRA
   * [Ghidra Emotion Engine: Reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) - An extension for Ghidra that adds support for the PlayStation 2
+  * [GhidrAssist](https://github.com/jtang613/GhidrAssist) - Jason Tang
+  * [GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) - Jason Tang
+  * [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - Laurie Kirk ([Fork by Benjamin Ethington](https://github.com/bethington/ghidra-mcp))
+  * [ReVa](https://github.com/cyberkaida/reverse-engineering-assistant) - Ghidra MCP Server for AI-Powered Reverse Engineering
 * [IDA Freeware](https://hex-rays.com/ida-free/)
 * [IDA Pro](https://hex-rays.com/ida-pro/)
-* [ILSpy ](https://github.com/icsharpcode/ILSpy)- .NET decompiler
+* [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET decompiler
 * [ImHex](https://imhex.werwolv.net/) - Free and Open Source Hex Editor
 * [OllyDbg](https://www.ollydbg.de/)
 * [PE Explorer](https://www.pe-explorer.com/)
