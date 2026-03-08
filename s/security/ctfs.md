@@ -180,6 +180,7 @@
 * [CTFlearn](https://ctflearn.com)
 * [CTFtime.org](https://ctftime.org/)
 * [CTF Sites](https://ctfsites.github.io/)
+* [Cyber Security Challenge Germany (CSCG)](https://play.cscg.live/)
 * [Exploit Education](http://exploit.education/)
 * [exploit-exercises.com](https://exploit-exercises.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com/beginners-quest)
