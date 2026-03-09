@@ -13,6 +13,7 @@
 * [N64 Region Free Cartridge Bracket](https://www.printables.com/model/220173-n64-region-free-cartridge-bracket)
 * [PlayStation 1 Case Cover Support](https://www.printables.com/model/1174336-playstation-1-case-cover-support)
 * [PlayStation 1/2 Memory Card Holder](https://www.printables.com/model/403806-playstation-12-memory-card-holder-parameterizable/files)
+* [PS2HDMI Stand](https://www.printables.com/model/267009-ps2hdmi-stand)
 * [SKADIS Xbox One Controller Holder](https://makerworld.com/it/models/23755-skadis-xbox-one-controller-holder)
 * [UK Shopping Trolley Token](https://cults3d.com/en/3d-model/home/uk-shopping-trolley-token-12-sided-pound-coin-shape-tesco-token)
 * [Video Game Cartridge Trays (Multiple Consoles/Handhelds)](https://www.printables.com/model/94765-video-game-cartridge-trays-multiple-consoleshandhe)
