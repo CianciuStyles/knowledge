@@ -56,6 +56,7 @@
 * [Descent](https://mrdoob.github.io/three-descent/)
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
+* [Mega Man](https://www.megamangames.net/)
 * [Pitfall!](https://meatfighter.com/pitfall-web/)
 * [PrinceJS](https://princejs.com/)
 * [RobCo Terminal](https://jetholt.com/hacking/)
