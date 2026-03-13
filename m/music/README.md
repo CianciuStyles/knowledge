@@ -35,6 +35,7 @@
 * ​[What song are you currently obsessed with?](https://www.reddit.com/r/AskReddit/comments/w03mt8/what_song_are_you_currently_obsessed_with/)​
 * ​[What song changed your whole taste in music?](https://www.reddit.com/r/AskReddit/comments/17sr711/what_song_changed_your_whole_taste_in_music/)​
 * ​[What song is 10/10, yet hardly anyone has heard of it?](https://www.reddit.com/r/AskReddit/comments/du5j18/what_song_is_1010_yet_hardly_anyone_has_heard_of/)
+* [What song is a 10/10 with absolutely no flaws?](https://www.reddit.com/r/AskReddit/comments/1rplfyw/what_song_is_a_1010_with_absolutely_no_flaws/)
 * [What song is a 10 out of 10?](https://www.reddit.com/r/AskReddit/comments/1n56oev/what_song_is_a_10_out_of_10/)​
 * ​[What's an album that defined the 90s?](https://www.reddit.com/r/AskReddit/comments/10bcxfh/whats_an_album_that_defined_the_90s/)
 * [What’s an album that’s 10/10 no skips?​](https://www.reddit.com/r/AskReddit/comments/1o5m3ey/whats_an_album_thats_1010_no_skips/)
