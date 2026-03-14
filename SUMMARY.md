@@ -240,6 +240,7 @@
 * [Regular Expressions](r/regular-expressions.md)
 * [Relationships](r/relationships.md)
 * [Reverse Engineering](r/reverse-engineering.md)
+* [Rugby](r/rugby.md)
 * [Rust](r/rust/README.md)
   * [Cargo](r/rust/cargo.md)
 
