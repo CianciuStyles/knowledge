@@ -355,6 +355,7 @@
 * [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer/videos)
   * [A closer look at Original Xbox Emulation on Steam Deck](https://www.youtube.com/watch?v=MxzN7jXwohk)
   * [A closer look at Vita3k - the PlayStation Vita Emulator](https://www.youtube.com/watch?v=M7fXcrScNIg)
+  * [After 12 Years, The Xbox One has finally been hacked](https://www.youtube.com/watch?v=Evi6IDgjPD0)
   * [Another look at the Sony PSP GO Handheld in 2018](https://www.youtube.com/watch?v=3HfaAlS7ons)
   * [Any Xbox 360 can now be hacked with just a USB Flash Drive](https://www.youtube.com/watch?v=IUK__yGXmds)
   * [Dolphin has been ported to the Xbox..and its AWESOME](https://www.youtube.com/watch?v=HJHb3ZJXJfw)
