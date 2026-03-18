@@ -78,6 +78,7 @@
 * [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) - Microsoft ([GitHub](https://github.com/microsoft/ML-For-Beginners))
 * [Machine Learning Video Library](https://work.caltech.edu/library/index.html) - Professor Yaser Abu-Mostafa, California Institute of Technology
 * [ML Code Challenges](https://www.deep-ml.com/)
+* [StatQuest!!!](https://statquest.org/index.html) - An epic journey through data science, statistics, machine learning, neural networks, and AI
 
 ### YouTube playlists
 
