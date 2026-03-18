@@ -1,5 +1,19 @@
 # Rugby
 
+### DailyMotion Channels
+
+* [Your Rugby Catchup](https://www.dailymotion.com/user/TheRugbyCatchup)
+
+### Subreddits
+
+* [r/rugbyunion](https://www.reddit.com/r/rugbyunion)
+
+### Websites
+
+* [Planet Rugby](https://www.planetrugby.com/)
+* [RugbyPass](https://www.rugbypass.com/)
+* [World Rugby](https://www.world.rugby/)
+
 ### YouTube Videos
 
 * [Every Weird Rugby Rule Explained in 17 minutes](https://www.youtube.com/watch?v=5i4gBjBDk9c) - The Explainer Rugby
