@@ -4,6 +4,12 @@
 
 * [Your Rugby Catchup](https://www.dailymotion.com/user/TheRugbyCatchup)
 
+### Magazines
+
+* [Rugby Journal](https://www.therugbyjournal.com/)
+* [Rugby World](https://www.rugbyworld.com/)
+* [The Rugby Paper](https://www.therugbypaper.co.uk/)
+
 ### Subreddits
 
 * [r/rugbyunion](https://www.reddit.com/r/rugbyunion)
