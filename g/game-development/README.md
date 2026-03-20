@@ -22,6 +22,7 @@
 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/) - Fletcher Dunn, Ian Parbery
 * [Books for Game Developers](https://mrelusive.com/books/books.html)
+* [Classic Games Programming on the NES](https://tony-cruise.github.io/ProgammingForTheNES.html) - Tony Cruise
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly
 * [Game AI Pro](https://www.gameaipro.com/)
 * [Game Boy: Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) - gekkio
