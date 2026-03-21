@@ -76,6 +76,7 @@
 * [What's a movie you recommend to everyone, no matter who the person is?](https://www.reddit.com/r/AskReddit/comments/5zqo8o/whats_a_movie_you_recommend_to_everyone_no_matter/)
 * [What’s a must-watch Cult classic British movie?](https://www.reddit.com/r/AskUK/comments/1d4144o/whats_a_mustwatch_cult_classic_british_movie/)
 * [What’s considered a “kid’s movie” but is still very enjoyable to watch as an adult?](https://www.reddit.com/r/AskReddit/comments/13lgp2e/whats_a_considered_a_kids_movie_but_is_still_very/)
+* [What's the Best 10/10 Sci-fi movie ever?](https://www.reddit.com/r/AskReddit/comments/1rz5hrx/whats_the_best_1010_scifi_movie_ever/)
 * [What’s the best comedy movie you have ever watched?](https://www.reddit.com/r/AskReddit/comments/11r9k9u/whats_the_best_comedy_movie_you_have_ever_watched/)
 * [What's the Best ever UK film?](https://www.reddit.com/r/AskUK/comments/1m6jri8/whats_the_best_ever_uk_film/)
 * [What's the best movie you've seen that no one has heard of?](https://www.reddit.com/r/AskReddit/comments/4shky9/whats_the_best_movie_youve_seen_that_no_one_has/)
