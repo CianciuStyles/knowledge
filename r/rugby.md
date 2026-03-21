@@ -13,6 +13,7 @@
 ### Subreddits
 
 * [r/rugbyunion](https://www.reddit.com/r/rugbyunion)
+* [r/YourRugbyCatchup](https://www.reddit.com/r/YourRugbyCatchup/)
 
 ### Websites
 
