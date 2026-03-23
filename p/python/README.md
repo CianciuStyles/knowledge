@@ -108,24 +108,25 @@ description: https://www.python.org/
 
 ### Libraries
 
-* [Arcade ](https://api.arcade.academy/en/latest/index.html)- game development
+* [Arcade](https://api.arcade.academy/en/latest/index.html) - game development
 * [bandit](https://bandit.readthedocs.io/en/latest/) - security issue scanner
 * [CustomTkinter](https://customtkinter.tomschimansky.com/) - UI library based on Tkinter
 * [Dear PyGui](https://dearpygui.readthedocs.io/en/latest/) - GUI toolkit built with Dear ImGui
 * [docopt](https://docopt.org/) - command-line interface description language
 * [Flet](https://flet.dev/) - web-based UI powered by Flutter
 * [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+* [memory\_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 * [MkDocs](https://www.mkdocs.org/) - project documentation with Markdown
 * [NiceGUI](https://nicegui.io/) - web-based UI
 * [Nuitka](https://nuitka.net/) - Python to executable compiler
 * [peewee](https://docs.peewee-orm.com/en/latest/index.html) - simple and small ORM
 * [Poetry](https://python-poetry.org/) - dependency management and packaging
-* [py2wasm ](https://github.com/wasmerio/py2wasm)- Python to Wasm compiler
+* [py2wasm](https://github.com/wasmerio/py2wasm) - Python to Wasm compiler
   * [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler) - Syrus Akbary, Wasmer
 * [pydantic](https://docs.pydantic.dev/latest/) - data validation
 * [PySide6](https://pypi.org/project/PySide6/) - Qt for Python
 * [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-* [ReactPy ](https://github.com/reactive-python/reactpy)- It's React, but in Python
+* [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 * [Sanic](https://sanicframework.org/en/) - async web server/framework
 * [Sphinx](https://www.sphinx-doc.org/en/master/index.html) - documentation generator
 * [Streamlit](https://streamlit.io/) - web-based UI
