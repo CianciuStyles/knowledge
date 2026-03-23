@@ -15,6 +15,8 @@
   * `strace -o <output-file>` will redirect the output to the specified `<output-file>`
   * `strace -p <pid>` will list the system calls for a live process
   * `strace -s <num-chars>` will show the first `<num-chars>` characters of each string
+  * `strace -z` will only show system calls that returned without an error code
+  * `strace -Z` will only show system calls that returned with an error code
 
 ## Resources
 
