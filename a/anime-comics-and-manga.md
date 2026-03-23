@@ -5,6 +5,7 @@
 ### Documentaries
 
 * [10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/shows/10yearshayaomiyazaki/) - NHK World Japan
+* [Never-Ending Man: Hayao Miyazaki](https://www.imdb.com/title/tt6848624/)
 
 ### Images
 
@@ -28,6 +29,7 @@
 
 ### Reddit threads
 
+* [What's the best 10/10 anime ever?](https://www.reddit.com/r/AskReddit/comments/1rzhhoe/whats_the_best_1010_anime_ever/)
 * [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats_the_best_anime_youve_ever_seen/)
 * [What animated TV show is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1n37wwy/what_animated_tv_show_is_a_1010/)
 * [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
