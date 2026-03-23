@@ -66,6 +66,7 @@
   * [Make](cee/command-line/make.md)
   * [Sed](cee/command-line/sed.md)
   * [SSH](cee/command-line/ssh.md)
+  * [Strace](cee/command-line/strace.md)
 * [Competitive Programming](cee/competitive-programming.md)
 * [Compilers](cee/compilers.md)
 * [Computer Graphics](cee/computer-graphics/README.md)
