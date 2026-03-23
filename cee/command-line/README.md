@@ -40,6 +40,7 @@
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
 * [gron](https://github.com/tomnomnom/gron/) - Make JSON greppable!
+* [nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ### Websites
