@@ -65,6 +65,7 @@
 * [Eli Bendersky](https://eli.thegreenplace.net/)
 * [Fabien Sanglard](https://fabiensanglard.net/)
 * [Fabrice Bellard](https://bellard.org/)
+* [growingSWE](https://growingswe.com/blog)
 * [Jeff Atwood](https://blog.codinghorror.com/)
 * [Jess Frazelle](https://blog.jessfraz.com/)
 * [Julia Evans](https://jvns.ca/)
