@@ -216,6 +216,7 @@
 * [Physics](p/physics.md)
 * [Podcasts](p/podcasts.md)
 * [Poker](p/poker.md)
+* [Probability](p/probability.md)
 * [Procrastination](p/procrastination.md)
 * [Productivity](p/productivity.md)
 * [Programming](p/programming/README.md)
