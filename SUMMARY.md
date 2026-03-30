@@ -64,6 +64,7 @@
   * [Just](cee/command-line/just.md)
   * [Lsof](cee/command-line/lsof.md)
   * [Make](cee/command-line/make.md)
+  * [Ripgrep](cee/command-line/ripgrep.md)
   * [Sed](cee/command-line/sed.md)
   * [SSH](cee/command-line/ssh.md)
   * [Strace](cee/command-line/strace.md)
