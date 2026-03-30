@@ -19,6 +19,7 @@
 
 * [Planet Rugby](https://www.planetrugby.com/)
 * [RugbyPass](https://www.rugbypass.com/)
+  * [RugbyPass TV](https://rugbypass.tv/home)
 * [World Rugby](https://www.world.rugby/)
 
 ### YouTube Videos
