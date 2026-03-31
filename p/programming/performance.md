@@ -20,6 +20,17 @@
 * [Computer, Enhance!](https://www.computerenhance.com/) - Casey Muratori
 * [Performance Ninja Class](https://products.easyperf.net/perf-ninja) - Denis Bakhvalov
 
+### Tools
+
+* [Valgrind](https://valgrind.org/)
+  * [Cachegrind](https://valgrind.org/docs/manual/cg-manual.html): a high-precision tracing profiler
+  * [Callgrind](https://valgrind.org/docs/manual/cl-manual.html): a call-graph generating cache and branch prediction profiler
+  * [DHAT](https://valgrind.org/docs/manual/dh-manual.html): a dynamic heap analysis tool
+  * [DRD](https://valgrind.org/docs/manual/drd-manual.html): a thread error detector
+  * [Helgrind](https://valgrind.org/docs/manual/hg-manual.html): a thread error detector
+  * [Massif](https://valgrind.org/docs/manual/ms-manual.html): a heap profiler
+  * [Memcheck](https://valgrind.org/docs/manual/mc-manual.html): a memory error detector
+
 ### Websites
 
 * [Advent of CodSpeed](https://codspeed.io/advent)
