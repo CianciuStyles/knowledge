@@ -421,6 +421,7 @@
 ### Articles
 
 * [10 Postgres tips for beginners](https://postgres.ai/blog/20230722-10-postgres-tips-for-beginners) - Nikolay Samokhvalov, Postgres.ai
+* [EXPLAIN's Other Superpowers](https://richyen.com/postgres/2026/03/23/explain_options.html) - Richard Yen
 * [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/) - Drew Silcock
 * [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/) - Drew Silcock
 * [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) - Ethan McCue
