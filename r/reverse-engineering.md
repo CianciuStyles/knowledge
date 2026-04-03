@@ -22,6 +22,9 @@
 * [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/) - banteg
 * [Reverse engineering an illegal IPTV application on the Google Play Store](https://github.com/benhamad/blog/blob/main/2024-04-12-dramalive.md) - Chaker Benhamad
 * [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/) - ssno
+* Reverse Engineering Crazy Taxi - Will Greenberg
+  * [Part 1 - Introduction & archive reversing](https://wretched.computer/post/crazytaxi)
+  * [Part 2 - Reversing shape files](https://wretched.computer/post/crazytaxi2)
 * [Tony Hawk’s Pro Strcpy](https://icode4.coffee/?p=954) - I Code 4 Coffee
 
 ### Books
