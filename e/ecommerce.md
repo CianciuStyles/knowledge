@@ -44,6 +44,7 @@
   * [BayCrazy](https://www.baycrazy.com/)
   * [bidkit](https://www.bidkit.com/) - helping you find brilliant deals on eBay
   * [FatFingers](http://www.fatfingers.com/) - eBay typos, misspelling & spelling mistakes
+  * [Gixen](https://www.gixen.com) - Free eBay Auction Sniper
   * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour
   * [No Bids](https://nobids.net/) - find items with no bids
   * [PicClick](https://picclick.co.uk/)
