@@ -15,7 +15,7 @@
 * [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [Otaku.co.uk](https://www.otaku.co.uk/) - UK Based Anime/Game Art Books and More...
 * [WorldShopping](https://www.worldshopping.global/) - Online shopping at Japanese stores
-* [ZenMarket ](https://zenmarket.jp/en/)- Buy from Japanese websites worldwide
+* [ZenMarket](https://zenmarket.jp/en/) - Buy from Japanese websites worldwide
 
 ### Marketplaces
 
@@ -40,7 +40,9 @@
 * [E5P - Everything 5 Pounds](https://www.everything5pounds.com/en/)
 * [eBay UK](https://www.ebay.co.uk/)
   * [99pbids](https://99pbids.co.uk/)
+  * [BargainChecker](http://www.bargainchecker.com/) - find eBay Misspellings & eBay Typos bargains
   * [BayCrazy](https://www.baycrazy.com/)
+  * [bidkit](https://www.bidkit.com/) - helping you find brilliant deals on eBay
   * [FatFingers](http://www.fatfingers.com/) - eBay typos, misspelling & spelling mistakes
   * [Lastminute Auction](https://www.lastminute-auction.com/uk/) - Auctions at most £1 ending in 1 hour
   * [No Bids](https://nobids.net/) - find items with no bids
@@ -55,6 +57,7 @@
 * [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
 * [OnBuy](https://www.onbuy.com/gb/)
+* [Preloved](https://www.preloved.co.uk/) - Free Classified Ads
 * [Rarewaves](https://www.rarewaves.com/) - Vinyl, CD, DVD, Blu-Ray, Books
 * [Richer Sounds](https://www.richersounds.com/) - TVs, Hi-Fi, Home Cinema
 * [SCAN UK](https://www.scan.co.uk/) - PC Components and online computer shop
