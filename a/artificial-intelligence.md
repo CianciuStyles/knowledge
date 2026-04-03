@@ -90,9 +90,14 @@
 #### General
 
 * [ChatGPT](https://chat.openai.com/) - OpenAI
+* [Claude](https://claude.ai) - Anthropic
+  * [Claude Code Leaks](https://www.ccleaks.com/)
+  * [Claude Code Prompts](https://ccprompts.info/)
+  * [Claude Code Unpacked](https://ccunpacked.dev/)
 * [DeepSeek](https://www.deepseek.com/)
 * [Gemini](https://gemini.google.com) - Google
 * [Grok](https://grok.com/)
+* [Pi](https://pi.dev/)
 
 ### Reading Lists
 
