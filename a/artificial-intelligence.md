@@ -112,6 +112,7 @@
 * [CodePal.ai](https://codepal.ai/) - Generate Code Online with AI
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [fast.ai](https://www.fast.ai/)
+* [Glama](https://glama.ai/mcp/servers) - Popular MCP Servers
 * [Learn Prompting](https://learnprompting.org/) - Your Guide to Communicating with Artificial Intelligence
 * [Moving AI Lab](https://movingai.com/index.html) - University of Alberta
   * [Snakebird - Anhinga](https://movingai.com/snakebird.html)
@@ -121,6 +122,7 @@
 * [Phind](https://www.phind.com/) - AI search engine for developers
 * [Prompt Engineering Guide ](https://www.promptingguide.ai/)([GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide))
 * [Prompt library](https://docs.anthropic.com/claude/prompt-library) - Anthropic
+* [PulseMCP](https://www.pulsemcp.com/servers) - MCP Server Directory
 * [Smithery](https://smithery.ai/) - The fastest way to extend your AI
 * [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/) - A low-code way to learn AI
 
