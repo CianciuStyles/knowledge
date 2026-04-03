@@ -116,6 +116,7 @@
 * [Phind](https://www.phind.com/) - AI search engine for developers
 * [Prompt Engineering Guide ](https://www.promptingguide.ai/)([GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide))
 * [Prompt library](https://docs.anthropic.com/claude/prompt-library) - Anthropic
+* [Smithery](https://smithery.ai/) - The fastest way to extend your AI
 * [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/) - A low-code way to learn AI
 
 ### YouTube Videos
