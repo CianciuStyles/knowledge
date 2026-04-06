@@ -116,6 +116,10 @@
 * [Verbling](https://www.verbling.com/it) - Find language tutors
 * [Yomitan](https://yomitan.wiki/) - Powerful and versatile pop-up dictionary for language learning
 
+### Wikipedia Articles
+
+* [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
+
 ### YouTube Channels
 
 * [Luca Lampariello](https://www.youtube.com/c/LucaLampariello/videos)
