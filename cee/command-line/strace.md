@@ -20,6 +20,11 @@
 
 ## Resources
 
+### Articles
+
+* [Strace: The Lost Chapter](http://price.mit.edu/blog/2010/08/strace-the-lost-chapter/) - Greg Price
+* [Strace - The Sysadmin's Microscope](https://web.archive.org/web/20200213190655/https://blogs.oracle.com/linux/strace-the-sysadmins-microscope-v2) - Greg Price
+
 ### Websites
 
 * [Julia Evans](https://jvns.ca/categories/strace/)
