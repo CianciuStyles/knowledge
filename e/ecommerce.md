@@ -50,6 +50,7 @@
   * [PicClick](https://picclick.co.uk/)
   * [Typofindr](https://typofindr.com/) - search for typos and misspellings
   * [WatchCount](http://www.watchcount.com/)
+* [eBid](https://www.ebid.net/uk/) - Online Auction and Fixed Price Marketplace
 * [Ebuyer](https://www.ebuyer.com/)
 * [ElekDirect](https://www.elekdirect.co.uk/) - the AO outlet store
 * [Gumtree](https://www.gumtree.com/)
