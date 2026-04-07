@@ -118,7 +118,7 @@ rg --sort path "pattern"
 rg --sort modified "pattern"
 ```
 
-Output Formatting
+### Output Formatting
 
 ```bash
 # Force colored output (even when piping)
