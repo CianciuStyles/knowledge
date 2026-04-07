@@ -79,6 +79,7 @@
 * [Geizhals (EU)](https://geizhals.eu/)
 * [Idealo](https://www.idealo.co.uk/)
 * [PriceRunner UK](https://www.pricerunner.com/)
+* [PriceSpy UK](https://pricespy.co.uk/)
 * [Skinflint (UK)](https://skinflint.co.uk/)
 
 ### Product Reviews
