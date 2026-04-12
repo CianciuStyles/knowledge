@@ -50,6 +50,7 @@
 
 * [Anthropic courses](https://github.com/anthropics/courses)
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [Claude How-To](https://github.com/luongnv89/claude-howto) - Master Claude Code in a Weekend
 * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Real time face swap and one-click video deepfake with only a single image
 * [FaceFusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 * [GuppyLM](https://github.com/arman-bd/guppylm) - A \~9M parameter LLM that talks like a small fish
