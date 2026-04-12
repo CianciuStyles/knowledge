@@ -22,6 +22,7 @@
 * [7dayshop](https://www.7dayshop.com/)
 * [AliExpress](https://www.aliexpress.com/)
 * [Amazon UK](https://smile.amazon.co.uk/)
+  * [Amazon Resale Discount Finder](https://www.moneysavingexpert.com/amazon-warehouse-discount-finder/)
   * [CamelCamelCamel](https://uk.camelcamelcamel.com/) - Price tracker
   * [Keepa](https://keepa.com) - Amazon Price Tracker
   * [LowLow](https://lowlow.bot/) - Never miss a price drop
