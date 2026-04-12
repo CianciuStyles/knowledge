@@ -19,10 +19,6 @@
 * [Reddit where are the best non-tourist places to visit in Europe?](https://www.reddit.com/r/AskReddit/comments/65184x/reddit_where_are_the_best_nontourist_places_to/)
 * [What are your favourite places in Europe for a weekend trip?](https://www.reddit.com/r/AskUK/comments/191x9b3/what_are_your_favourite_places_in_europe_for_a/)
 
-### Subreddits
-
-* [r/Travelwithkids](https://www.reddit.com/r/Travelwithkids/)
-
 ### Websites
 
 * [AirBnB](https://www.airbnb.it/)

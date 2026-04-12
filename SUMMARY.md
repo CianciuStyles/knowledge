@@ -286,6 +286,7 @@
     * [Okinawa](t/travel/japan/okinawa.md)
     * [Osaka](t/travel/japan/osaka.md)
     * [Tokyo](t/travel/japan/tokyo.md)
+  * [Kids](t/travel/kids.md)
   * [London](t/travel/london.md)
   * [Rome](t/travel/rome.md)
 * [TV Series & Programmes](t/tv-series-and-programmes.md)
