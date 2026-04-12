@@ -12,6 +12,7 @@
 
 * [ChordFlow](https://github.com/timvancann/chordflow)
 * [MuseScore](https://musescore.org/) - Free music composition and notation software
+* [Soundslice](https://www.soundslice.com/) - Create living sheet music
 
 ### Websites
 
