@@ -15,6 +15,7 @@
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
 * [LLM Knowledge Dump](https://dandavis.dev/llm-knowledge-dump.html) - Dan Davis
 * [LLM Visualization](https://bbycroft.net/llm) - Brendan Bycroft
+* [MicroGPT explained interactively](https://growingswe.com/blog/microgpt) - growingSWE
 * [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the) - Noah Smith
 * [The AI Revolution - Part 1: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Tim Urban, Wait But Why
 * [The AI Revolution - Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) - Tim Urban, Wait But Why
