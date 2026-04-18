@@ -27,6 +27,7 @@
 * [eSIMDB](https://esimdb.com/) - Find and Compare Best Travel eSIM for Your Trip
 * [FlightAware](https://www.flightaware.com/) - Flight Tracker
 * [Going](https://www.going.com/) - Flight Alerts, Mistake Fares & Cheap Tickets
+* [Guide world](https://guide.world/)
 * [Home Exchange](https://www.homeexchange.com/)
 * [House of Voyage](https://houseofvoyage.co.uk/) - Corporate Travel & Luxury Holidays
 * [NearbyWiki](https://en.nearbywiki.org/map) - Wikipedia places nearby
