@@ -255,6 +255,7 @@
 * [Awesome Game Decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
+* [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
