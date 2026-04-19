@@ -70,6 +70,8 @@
   * [Gabriele](https://www.subito.it/utente/788438) - Videogiochi
 * [Temu](https://www.temu.com)
 * [Very](https://www.very.co.uk/)
+* [Vinted](https://www.vinted.co.uk/)
+  * [lorenzoguagnano](https://www.vinted.it/member/74793667) - Videogiochi
 
 ### Lists
 
