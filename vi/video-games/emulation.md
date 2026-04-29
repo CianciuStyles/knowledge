@@ -76,6 +76,7 @@
 * Hacking the Xbox 360 Hypervisor - Ryan Miceli
   * [Part 1: System Overview](https://icode4.coffee/?p=1047)
   * [Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
+* [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) ([HN thread](https://news.ycombinator.com/item?id=47691730)) - Bryan Keller
 
 ## Consoles
 
