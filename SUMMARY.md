@@ -89,6 +89,8 @@
   * [PostgreSQL](dee/databases/postgresql.md)
   * [SQL](dee/databases/sql.md)
   * [SQLite](dee/databases/sqlite.md)
+* [Debugging](dee/debugging/README.md)
+  * [rr](dee/debugging/rr.md)
 * [Design Patterns](dee/design-patterns.md)
 * [Digital Minimalism](dee/digital-minimalism.md)
 * [Distributed Systems](dee/distributed-systems.md)
