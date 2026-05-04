@@ -75,6 +75,8 @@
 
 * [9:05](https://adamcadre.ac/if/905.html) - Adam Cadre
 * [SmartHome](https://smarthome.steviep.xyz/)
+* [Type Help](https://william-rous.itch.io/type-help) - William Rous
+  * [Gradual Hints](https://dfabulich.github.io/type-help-hints.html)
 
 ### Cables & Adapters
 
