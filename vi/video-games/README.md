@@ -325,6 +325,7 @@
   * [GOG Database](https://www.gogdb.org/)
 * [HARDOFF](https://www.hardoff.co.jp/) - Japan
 * [Hobbyarcade](https://www.hobbyarcadeshop.com/) - Roma, Italy
+* [Il Mercante dei Navigli](https://www.ilmercantedeinavigli.it/it/) - Milano, Italy
 * [Il Paradiso dei Videogiochi](https://ilparadisodeivideogiochishop.com/) - Roma, Italy
 * [Indie Retro](https://indieretro.co.uk/)
 * [IsThereAnyDeal](https://isthereanydeal.com/)
