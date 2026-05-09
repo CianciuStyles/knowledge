@@ -19,6 +19,7 @@
 * [Maccy](https://maccy.app/)
 * [MacPorts](https://www.macports.org/)
 * [Rectangle](https://rectangleapp.com/)
+* [WhatCable](https://whatcable.uk/) - Know what your USB-C cable can really do ([GitHub](https://github.com/darrylmorley/whatcable))
 
 ### Websites
 
