@@ -57,6 +57,7 @@
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
 * [Mega Man](https://www.megamangames.net/)
+* [Mythic Master](https://mythic.up.railway.app) - Tetra Master clone
 * [Pitfall!](https://meatfighter.com/pitfall-web/)
 * [PrinceJS](https://princejs.com/)
 * [RobCo Terminal](https://jetholt.com/hacking/)
