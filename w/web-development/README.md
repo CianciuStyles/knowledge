@@ -150,6 +150,7 @@
 * [Performance Tooling Today](https://www.perf-tooling.today/)
 * [Scrimba](https://scrimba.com/allcourses?price=free)
 * [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+* [Tech Independence](https://sive.rs/ti) - Derek Sivers
 * [The Front-End Checklist](https://frontendchecklist.io/)
 * [The Odin Project](https://www.theodinproject.com/) - Your Career in Web Development Starts Here
 * [The Twelve-Factor App](https://12factor.net/) - Adam Wiggins
