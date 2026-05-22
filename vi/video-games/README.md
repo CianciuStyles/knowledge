@@ -239,6 +239,7 @@
   * [Wii U](https://www.reddit.com/r/patientgamers/comments/6i8e8o/rpatientgamers_essential_games_list_wii_u/)
   * [Xbox 360](https://www.reddit.com/r/patientgamers/comments/6bam0p/rpatientgamers_essential_games_list_xbox_360/)
   * [Xbox One](https://www.reddit.com/r/patientgamers/comments/6lds6j/rpatientgamers_essential_games_list_xbox_one/)
+* [Boomer Shooter Database](https://docs.google.com/spreadsheets/d/e/2PACX-1vR7Apvz0rZa2H_3eKmdBLgXUK4myY-FdVQFbu-DPdozP4yWjE3PicUBvlrYgZAOMRBXLueCEGIHJv_O/pubhtml#gid=84085887)
 * [Complete Edition Central](https://www.playstationtrophies.org/forum/topic/297967-complete-edition-central/) - PlayStationTrophies.org
 * [Cultured Vultures](https://www.youtube.com/@CulturedVultures)
   * [1 HOUR of PS1 Hidden Gems YOU Should Play](https://www.youtube.com/watch?v=PgQ2xPHUG-A)
