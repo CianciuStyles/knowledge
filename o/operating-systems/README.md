@@ -45,6 +45,7 @@
 * [netboot.xyz](https://netboot.xyz/)
 * [OSDev](https://wiki.osdev.org/Main_Page)
 * [Project Oberon](https://www.projectoberon.com/)
+* [The Virtual OS Museum](https://virtualosmuseum.org/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [You're the OS!](https://plbrault.github.io/youre-the-os/) - Pier-Luc Brault ([GitHub](https://github.com/plbrault/youre-the-os))
 
