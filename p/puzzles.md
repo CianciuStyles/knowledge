@@ -19,6 +19,9 @@
 * [Brainzilla](https://www.brainzilla.com/)
 * [Escape Team](https://www.escape-team.com/) - An escape room to print at home
 * [KrazyDad](https://krazydad.com/) - Printable Puzzles
+* [Infinite Puzzles](https://www.infinitepuzzles.com/)
+  * [Parity](https://www.infinitepuzzles.com/game/parity)
+  * [Sun and Moon](https://www.infinitepuzzles.com/game/tango)
 * [intotheabyss.net](http://www.intotheabyss.net/) - Solving Christopher Manson's MAZE and the Genre of the Immersive Puzzle
 * [Puzzleship](https://www.puzzleship.com/)
 * [Puzzlip](https://puzzlip.com)
