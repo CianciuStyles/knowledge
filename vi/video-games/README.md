@@ -481,6 +481,7 @@
 * [What's an unknown masterpiece you want everyone to play, no questions asked, completely blind?](https://www.reddit.com/r/patientgamers/comments/y55gc3/whats_an_unknown_masterpiece_you_want_everyone_to/)
 * [What's one game you would give a 10/10?](https://www.reddit.com/r/gaming/comments/1clpx10/whats_one_game_you_would_give_a_1010/)
 * [What's the best 2 player games to play with a significant other?](https://www.reddit.com/r/AskReddit/comments/8adw0f/whats_the_best_2_player_games_to_play_with_a/)
+* [What's the best video game ever created?](https://www.reddit.com/r/AskReddit/comments/1tsuxz3/whats_the_best_video_game_ever_created/)
 * [What's the most replayable single-player game you've ever seen?](https://www.reddit.com/r/patientgamers/comments/149ntnm/whats_the_most_replayable_singleplayer_game_youve/)
 * [What's the game you can complete again and again without ever getting tired of?](https://www.reddit.com/r/patientgamers/comments/6vuqez/whats_the_game_you_can_complete_again_and_again/)
 * [What's your all time favorite video game ?](https://www.reddit.com/r/AskReddit/comments/u452b6/whats_your_all_time_favorite_video_game/)
