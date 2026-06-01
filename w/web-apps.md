@@ -61,6 +61,7 @@
 * [DropSend](https://www.dropsend.com/)
 * [FilePizza](https://file.pizza/)
 * [JustBeamIt](https://justbeamit.com/)
+* [NoUSB.co](https://nousb.co/)
 * [Snapdrop](https://snapdrop.net/)
 * [ToffeeShare](https://toffeeshare.com/)
 
