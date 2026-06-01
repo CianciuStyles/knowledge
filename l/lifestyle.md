@@ -54,6 +54,7 @@
 * [What purchase has had the biggest effect on improving your life?](https://www.reddit.com/r/LifeProTips/comments/17s60og/lpt_request_what_purchase_has_had_the_biggest/)
 * [What small purchase have you made that has had a significant impact on your life?](https://www.reddit.com/r/LifeProTips/comments/124qbv1/lpt_request_what_small_purchase_have_you_made/)
 * [What uncommon items do you recommend having to improve lifestyle?](https://www.reddit.com/r/LifeProTips/comments/16s6skk/lpt_request_what_uncommon_items_do_you_recommend/)
+* [What’s a purchase under 100 bucks that genuinely improved your life?](https://www.reddit.com/r/AskReddit/comments/1tp9pdc/whats_a_purchase_under_100_bucks_that_genuinely/)
 
 ### Websites
 
