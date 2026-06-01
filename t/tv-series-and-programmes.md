@@ -25,6 +25,7 @@
 * [What's a great TV show that nobody talks about?](https://www.reddit.com/r/AskReddit/comments/s0tjvz/whats_a_great_tv_show_that_nobody_talks_about/)
 * [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
 * [What's a tv series that is a 10/10 NOBODY knows?](https://www.reddit.com/r/AskReddit/comments/1qefou9/whats_a_tv_series_that_is_a_1010_nobody_knows/)
+* [What’s a TV show you can rewatch forever?](https://www.reddit.com/r/AskReddit/comments/1trxrmp/whats_a_tv_show_you_can_rewatch_forever/)
 * [What's the best single episode of a sitcom ever?](https://www.reddit.com/r/AskReddit/comments/1onqm2x/whats_the_best_single_episode_of_a_sitcom_ever/)
 * [What’s the best TV show you’ve ever watched?](https://www.reddit.com/r/AskReddit/comments/1ok70h7/whats_the_best_tv_show_youve_ever_watched/?utm_source=share\&utm_medium=mweb3x\&utm_name=mweb3xcss\&utm_term=1)
 * [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats_the_goat_of_all_sitcoms/)
