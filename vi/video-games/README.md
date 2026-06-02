@@ -520,6 +520,7 @@
 * [What video game left you saying "Fuck Yeah"?](https://www.reddit.com/r/AskReddit/comments/4g30rz/what_video_game_left_you_saying_fuck_yeah/)
 * [What video game to you is a "must play"?](https://www.reddit.com/r/AskReddit/comments/1rd3ci/what_video_game_to_you_is_a_must_play/)
 * [What videogame was a 10/10 for you?](https://www.reddit.com/r/AskReddit/comments/594kzl/what_videogame_was_a_1010_for_you/)
+* [What videogame would you call a masterpiece?](https://www.reddit.com/r/AskReddit/comments/1tu78g7/what_videogame_would_you_call_a_masterpiece/)
 * [What would you say your GOTY game is for each year since 2010?](https://www.reddit.com/r/patientgamers/comments/8l2kyb/what_would_you_say_your_goty_game_is_for_each/)
 * [Which game is genuinely a masterpiece to you?](https://www.reddit.com/r/patientgamers/comments/dx5yu4/which_game_is_genuinely_a_masterpiece_to_you/)
 * [Which Steam game for less than $10 should everyone have?](https://www.reddit.com/r/AskReddit/comments/627u0e/which_steam_game_for_less_than_10_should_everyone/)
