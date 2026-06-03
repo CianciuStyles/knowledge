@@ -218,6 +218,7 @@
 * [5 places to see incredible views of the London skyline](https://www.timeout.com/london/things-to-do/places-to-see-incredible-views-of-the-london-skyline-for-free) - TimeOut
 * [Bite Me](https://londonish.substack.com/s/bite-me) - londonish
 * [diamond geezer](https://diamondgeezer.blogspot.com/2015_04_01_diamondgeezer_archive.html)
+  * [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) ([HN thread](https://news.ycombinator.com/item?id=48343714))
 * [Fanzo](https://www.fanzo.com/en) - Live Sports on TV at your nearest sport bar
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
