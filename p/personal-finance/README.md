@@ -85,6 +85,7 @@
 
 ### Reddit Threads
 
+* [Can we build a complete list of UK high earner tax and benefit cliffs?](https://www.reddit.com/r/HENRYUK/comments/1t5dwzs/can_we_build_a_complete_list_of_uk_high_earner/)
 * [Last day of the tax year is today (5 April), has everyone optimised their personal tax position?!](https://www.reddit.com/r/UKPersonalFinance/comments/twsgmn/last_day_of_the_tax_year_is_today_5_april_has/)
 * [Once you’ve maxed your ISA](https://www.reddit.com/r/FIREUK/comments/1der9id/one_youve_maxed_your_isa/)
 * [Ways to supplement your income here in the UK](https://www.reddit.com/r/UKPersonalFinance/comments/yx2ns4/ways_to_supplement_your_income_here_in_the_uk/)
