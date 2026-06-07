@@ -84,6 +84,7 @@
 
 * [Aider](https://aider.chat/) - AI pair programming in your terminal
 * [bolt.new](https://bolt.new/)
+* [Brain Hurricane](https://app.brainhurricane.ai/) - AI-Powered Idea Discovery Platform
 * [Cursor](https://www.cursor.com/) - The AI Code Editor
 * [DeepWiki](https://deepwiki.com/) - AI documentation you can talk to
 * [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer
