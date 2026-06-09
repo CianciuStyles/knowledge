@@ -30,6 +30,7 @@
 * [What’s the best TV show you’ve ever watched?](https://www.reddit.com/r/AskReddit/comments/1ok70h7/whats_the_best_tv_show_youve_ever_watched/?utm_source=share\&utm_medium=mweb3x\&utm_name=mweb3xcss\&utm_term=1)
 * [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats_the_goat_of_all_sitcoms/)
 * [What's the most epic tv series you’ve watched and would recommend to anyone?](https://www.reddit.com/r/AskReddit/comments/1ix0ung/whats_the_most_epic_tv_series_youve_watched_and/)
+* [What's the perfect 10/10 show you've ever watched?](https://www.reddit.com/r/AskReddit/comments/1tzyk2d/whats_the_perfect_1010_show_youve_ever_watched/)
 * [What's the Quintessential British TV Show Everyone Should Watch?](https://www.reddit.com/r/AskUK/comments/1ebu4bf/whats_the_quintessential_british_tv_show_everyone/)
 * [What are your favorite British TV shows of the last decade?](https://www.reddit.com/r/AskUK/comments/s0sp21/what_are_your_favorite_british_tv_shows_of_the/)
 * [What are your top 10 UK sitcoms?](https://www.reddit.com/r/AskUK/comments/1kwrdg5/what_are_your_top_10_uk_sitcoms/)
