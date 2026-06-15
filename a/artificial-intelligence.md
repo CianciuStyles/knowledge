@@ -4,6 +4,7 @@
 
 ### Articles
 
+* [25 AI Concepts People Use But Don’t Really Understand](https://thecuriousmak.substack.com/p/25-ai-concepts-people-use-but-dont) - Tech With Mak
 * [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) - Parand Tony Darugar
 * [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html) - Parand Tony Darugar
 * [Building an LLM from Scratch](https://bclarkson-code.com/) - Benedict Clarkson
