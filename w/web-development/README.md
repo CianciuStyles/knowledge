@@ -60,6 +60,7 @@
 
 ### Frameworks
 
+* [Astro](https://astro.build/)
 * [htmx](https://htmx.org/)
 * [Svelte](https://svelte.dev/)
 
