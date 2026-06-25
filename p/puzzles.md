@@ -23,6 +23,7 @@
   * [Parity](https://www.infinitepuzzles.com/game/parity)
   * [Sun and Moon](https://www.infinitepuzzles.com/game/tango)
 * [intotheabyss.net](http://www.intotheabyss.net/) - Solving Christopher Manson's MAZE and the Genre of the Immersive Puzzle
+* [Puzzle Lair](https://puzzlelair.com/) - Logic Puzzles, Set Fresh Every Morning
 * [Puzzleship](https://www.puzzleship.com/)
 * [Puzzlip](https://puzzlip.com)
 * [SmartHome](https://smarthome.steviep.xyz/) ([Hacker News thread](https://news.ycombinator.com/item?id=42424508))
