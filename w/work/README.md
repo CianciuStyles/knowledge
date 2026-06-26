@@ -81,6 +81,7 @@
 
 ### Reddit Threads
 
+* [For engineers who successfully made Senior/Staff: what evidence actually mattered in the promotion packet?](https://www.reddit.com/r/ExperiencedDevs/comments/1u3x58v/for_engineers_who_successfully_made_seniorstaff/)
 * [What's the career path to >£200k in London as a software engineer?](https://www.reddit.com/r/HENRYUK/comments/1ghh12y/whats_the_career_path_to_200k_in_london_as_a/)
 
 ### Videos
