@@ -96,6 +96,7 @@
 ### Websites
 
 * [crackmes.one](https://crackmes.one/)
+* [Decomp Academy](https://decomp-academy.dev/) - Learn Matching Decompilation of Retro Games
 * [GuidedHacking](https://guidedhacking.com/)
 * [Luca D'Amico](https://www.lucadamico.dev/)
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
