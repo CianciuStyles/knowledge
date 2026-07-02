@@ -25,7 +25,8 @@
 ### Reddit threads
 
 * [If you are lonely / in need for new friends](https://www.reddit.com/r/london/comments/1cu0sjd/if_you_are_lonely_in_need_for_new_friends/)
-* [Men of reddit, what’s the biggest green flag in a woman?](https://www.reddit.com/r/AskReddit/comments/15oczn3/men_of_reddit_whats_the_biggest_green_flag_in_a/)
+* [Men in happy marriages, what is that one secret to a happy marriage that works for you?](https://www.reddit.com/r/AskReddit/comments/1u9hdj3/men_in_happy_marriages_what_is_that_one_secret_to/)
+* [Men of Reddit, what’s the biggest green flag in a woman?](https://www.reddit.com/r/AskReddit/comments/15oczn3/men_of_reddit_whats_the_biggest_green_flag_in_a/)
 * [What are some 'can't go wrong' gifts for women?](https://www.reddit.com/r/AskUK/comments/zc3wnk/what_are_some_cant_go_wrong_gifts_for_women/)
 * [What's something men think doesn’t impress women, but actually does?](https://www.reddit.com/r/AskReddit/comments/1pst6ep/whats_something_men_think_doesnt_impress_women/)
 * [What's something women think impresses men but actually doesn't?](https://www.reddit.com/r/AskReddit/comments/1ps7j5f/whats_something_women_think_impresses_men_but/)
