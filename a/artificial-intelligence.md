@@ -106,6 +106,7 @@
 
 ### Reading Lists
 
+* [30 papers](https://30papers.com/)
 * [List of papers given to John Carmack by Ilya Sutskever](https://punkx.org/jackdoe/30.html) - [2](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 * [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers) - Latent Space
 
