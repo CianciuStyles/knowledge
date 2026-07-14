@@ -234,6 +234,7 @@
 
 ### Sony PlayStation 3
 
+* [PS Online Network Emulated](https://www.psone.online/)
 * [PSRewired Online Servers](https://psrewired.com/)
 * [RPCS3](https://rpcs3.net/) - The Open-source PlayStation 3 Emulator
 
