@@ -24,6 +24,10 @@
   * [Summary by Michael Parker](https://github.com/mgp/book-notes/blob/master/java-concurrency-in-practice.markdown)
 * [Java for small teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/)
 
+### Documentaries
+
+* [The Java Story - The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
+
 ### GitHub repositories
 
 * [Awesome Java](https://github.com/akullpp/awesome-java)
