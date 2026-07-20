@@ -28,6 +28,7 @@
 * [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that) - Adaobi Adibe
 * [How To Make Your Boss Adore You](https://www.askamanager.org/2014/08/how-to-make-your-boss-adore-you.html) - Ask A Manager
 * [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) - Apoorva Govind, Valley Girl Newsletter
+* [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/) - Michael Lynch
 * [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - Benjamin Artz, Amanda Goodall, Andrew J. Oswald
 * [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/) - Vadim Kravcenko
 * [Mid Career Stuckness](https://www.subbu.org/articles/2023/mid-career-stuckness/) - Subbu Allamaraju
