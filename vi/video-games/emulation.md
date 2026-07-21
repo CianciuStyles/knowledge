@@ -243,6 +243,11 @@
 * [chiaki-ng](https://streetpea.github.io/chiaki-ng/) - Free and Open Source PlayStation Remote Play Client
 * [ShadPS4](https://shadps4.net/) ([GitHub](https://github.com/shadps4-emu/shadPS4)) - PS4 emulator for PC
 
+### Sony PlayStation 5
+
+* [Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
+* [SharpEmu](https://sharpemu.app/) ([GitHub](https://github.com/sharpemu/sharpemu)) - An experimental PlayStation 5 emulator for Windows, Linux and macOS
+
 ### Sony PlayStation Portable
 
 * [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
@@ -392,6 +397,7 @@
   * [PlayStation 4 Emulation is getting better and better](https://www.youtube.com/watch?v=oqcWTwTXYoA)
   * [PlayStation 4 Emulation on the PC has hit a huge milestone](https://www.youtube.com/watch?v=KZvSEdFGyxE)
   * [PlayStation 4 emulation on the PC is here](https://www.youtube.com/watch?v=yIMseCc9tZY)
+  * [PlayStation 5 Emulation on the PC Is Here](https://www.youtube.com/watch?v=j8UtATA2oMc)
   * [RPCS3 PlayStation 3 emulation on the PC is seriously impressive](https://www.youtube.com/watch?v=ljJ8DKEy69c)
   * [RPCS3 PS3 emulator just got updated... and its awesome!](https://www.youtube.com/watch?v=X-qxSyBr6cs)
   * [Sega Saturn Games are running on the Nintendo Switch...](https://www.youtube.com/watch?v=YiKBw2RGcow)
