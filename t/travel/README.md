@@ -14,6 +14,11 @@
 
 * [The Cheapest Destinations Blog](https://www.cheapestdestinationsblog.com/)
 
+### Luggage
+
+* [Monos](https://monos.uk/)
+* [Tripp](https://www.tripp.co.uk/)
+
 ### Reddit Threads
 
 * [Reddit where are the best non-tourist places to visit in Europe?](https://www.reddit.com/r/AskReddit/comments/65184x/reddit_where_are_the_best_nontourist_places_to/)
