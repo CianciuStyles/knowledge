@@ -34,6 +34,7 @@
 * [What’s the best anime you ever watched and why?](https://www.reddit.com/r/AskReddit/comments/1si5uxn/whats_the_best_anime_you_ever_watched_and_why/)
 * [What animated TV show is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1n37wwy/what_animated_tv_show_is_a_1010/)
 * [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
+* [What is an anime you consider an absolute 10/10 masterclass from start to finish?](https://www.reddit.com/r/AskReddit/comments/1v30vkt/what_is_an_anime_you_consider_an_absolute_1010/)
 * [What is the greatest animated show of all time?](https://www.reddit.com/r/AskReddit/comments/147bva7/what_is_the_greatest_animated_show_of_all_time/)
 
 ### Websites
