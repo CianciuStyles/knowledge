@@ -17,6 +17,7 @@
 ### Luggage
 
 * [Monos](https://monos.uk/)
+  * [Check-In Medium (4.34 KG)](https://monos.uk/products/check-in-medium)
 * [Tripp](https://www.tripp.co.uk/)
   * [Escape Large (3.6 KG)](https://www.tripp.co.uk/tripp-escape-slate-large-suitcase/p4282)
   * [Holiday 8 Large (4.2 KG)](https://www.tripp.co.uk/tripp-holiday-8-slate-large-suitcase/p3981)
