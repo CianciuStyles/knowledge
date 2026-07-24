@@ -99,6 +99,7 @@
   * [Claude Code Leaks](https://www.ccleaks.com/)
   * [Claude Code Prompts](https://ccprompts.info/)
   * [Claude Code Unpacked](https://ccunpacked.dev/)
+  * [Claude Cookbook](https://platform.claude.com/cookbook/)
 * [DeepSeek](https://www.deepseek.com/)
 * [Gemini](https://gemini.google.com) - Google
 * [Grok](https://grok.com/)
