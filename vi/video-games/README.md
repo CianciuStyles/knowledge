@@ -269,6 +269,13 @@
   * [The Best PS5 Games](https://www.ign.com/articles/the-best-ps5-games)
 * [List of video games considered the best](https://en.wikipedia.org/wiki/List_of_video_games_considered_the_best) - Wikipedia
 * [Lista Videogiochi Multilingua](https://www.gamesvillage.it/forum/showthread.php?931741-12-Lista-Videogiochi-Multilingua) - GamesVillage
+* [NPR](https://www.npr.org/)
+  * [The best games of 2021 chosen by NPR](https://www.npr.org/2021/12/18/1065266627/best-games-2021)
+  * [Best games of 2022 chosen by NPR](https://www.npr.org/2022/12/16/1143120382/2022-best-games)
+  * [The best games of 2023, picked by the NPR staff](https://www.npr.org/2023/07/18/1187554727/best-new-video-games-xbox-ps5-nintendo-2023)
+  * [The best games of 2024, picked by NPR's staff](https://www.npr.org/2024/07/16/g-s1-9554/best-games-2024-picked-by-npr-staff)
+  * [The best games of 2025, picked by NPR's staff](https://www.npr.org/2025/12/03/nx-s1-5627036/best-games-2025-npr)
+  * [The best games of 2026 so far, picked by NPR's staff](https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr)
 * [PC Gamer](https://www.pcgamer.com/uk/)
   * [The top 100 PC games](https://www.pcgamer.com/games/the-top-100-pc-games-2024/)
 * [Polygon](https://www.polygon.com/)
