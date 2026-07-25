@@ -118,6 +118,7 @@
 * [Shepherd](https://shepherd.com/)
 * [The 50 Best Science Fiction And Fantasy Books Of The Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade) - NPR
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) - LessWrong
+* [The Book Prize Index](https://book-prize-index.vercel.app/) - A searchable index of nonfiction book prizes
 * [The Book Seer](https://bookseer.com/) - What should I read next
 * [The Greatest Books](https://thegreatestbooks.org/)
 * [The StoryGraph](https://app.thestorygraph.com/)
