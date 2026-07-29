@@ -19,7 +19,8 @@
 * [What 80's album is a 11 out of 10?](https://www.reddit.com/r/AskReddit/comments/1efjrvs/what_80s_album_is_a_11_out_of_10/)
 * [What album can you listen to all the way through?](https://www.reddit.com/r/AskReddit/comments/1g9hijv/what_album_can_you_listen_to_all_the_way_through/)​
 * ​[What album can you listen to front to back without wanting to skip even a single song?](https://www.reddit.com/r/AskReddit/comments/m430pr/what_album_can_you_listen_to_front_to_back/)​
-* ​[What album do you enjoy every song on?](https://www.reddit.com/r/AskReddit/comments/2ta8yv/what_album_do_you_enjoy_every_song_on/)​
+* ​[What album do you enjoy every song on?](https://www.reddit.com/r/AskReddit/comments/2ta8yv/what_album_do_you_enjoy_every_song_on/)
+* [What album is 10/10, start to finish?](https://www.reddit.com/r/AskReddit/comments/1v6m6r9/what_album_is_1010_start_to_finish/)​
 * ​[What album is a 10/10?](https://www.reddit.com/r/AskReddit/comments/geylde/what_album_is_a_1010/)​
 * ​[What album would you rate 10/10?](https://www.reddit.com/r/AskReddit/comments/49oogt/what_album_would_you_rate_1010/)​
 * ​[What are some albums that have ZERO bad songs?](https://www.reddit.com/r/AskReddit/comments/11728l7/what_are_some_albums_that_have_zero_bad_songs/)​
