@@ -79,6 +79,7 @@
 * [What’s a movie that will have you laughing from beginning to finish?](https://www.reddit.com/r/AskReddit/comments/1j8crgs/whats_a_movie_that_will_have_you_laughing_from/)
 * [What's a movie you can watch a million times and never get bored of?](https://www.reddit.com/r/AskReddit/comments/1rpg69y/whats_a_movie_you_can_watch_a_million_times_and/)
 * [What's a movie you recommend to everyone, no matter who the person is?](https://www.reddit.com/r/AskReddit/comments/5zqo8o/whats_a_movie_you_recommend_to_everyone_no_matter/)
+* [What's a movie you think is a 10/10 from start to finish?](https://www.reddit.com/r/AskReddit/comments/1vcay7r/whats_a_movie_you_think_is_a_1010_from_start_to/)
 * [What’s a must-watch Cult classic British movie?](https://www.reddit.com/r/AskUK/comments/1d4144o/whats_a_mustwatch_cult_classic_british_movie/)
 * [What’s considered a “kid’s movie” but is still very enjoyable to watch as an adult?](https://www.reddit.com/r/AskReddit/comments/13lgp2e/whats_a_considered_a_kids_movie_but_is_still_very/)
 * [What's the Best 10/10 Sci-fi movie ever?](https://www.reddit.com/r/AskReddit/comments/1rz5hrx/whats_the_best_1010_scifi_movie_ever/)
