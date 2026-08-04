@@ -26,7 +26,7 @@
 
 <figure><img src="https://pbs.twimg.com/media/FU0mrVXX0AA9Ukk.jpg:large" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/The Football Map of Italy.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/The Football Map of Italy.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Marketplaces
 

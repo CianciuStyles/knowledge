@@ -118,7 +118,8 @@
   * [Nutrition](f/fitness/nutrition.md)
   * [Weight Loss](f/fitness/weight-loss.md)
 * [Focus](f/focus.md)
-* [Football](f/football.md)
+* [Football](f/football/README.md)
+  * [Goalkeeping](f/football/goalkeeping.md)
 
 ## G
 
