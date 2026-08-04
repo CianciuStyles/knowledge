@@ -28,6 +28,7 @@
 * [What’s a TV show you can rewatch forever?](https://www.reddit.com/r/AskReddit/comments/1trxrmp/whats_a_tv_show_you_can_rewatch_forever/)
 * [What's one TV series everyone should watch in their lifetime?](https://www.reddit.com/r/AskReddit/comments/1uov436/whats_one_tv_series_everyone_should_watch_in/)
 * [What's the best single episode of a sitcom ever?](https://www.reddit.com/r/AskReddit/comments/1onqm2x/whats_the_best_single_episode_of_a_sitcom_ever/)
+* [What's the best single season of TV you’ve ever seen?](https://www.reddit.com/r/AskReddit/comments/1vdtl0u/whats_the_best_single_season_of_tv_youve_ever_seen/)
 * [What’s the best TV show you’ve ever watched?](https://www.reddit.com/r/AskReddit/comments/1ok70h7/whats_the_best_tv_show_youve_ever_watched/?utm_source=share\&utm_medium=mweb3x\&utm_name=mweb3xcss\&utm_term=1)
 * [What’s the Goat of all sitcoms?](https://www.reddit.com/r/AskReddit/comments/1980zu6/whats_the_goat_of_all_sitcoms/)
 * [What's the most epic tv series you’ve watched and would recommend to anyone?](https://www.reddit.com/r/AskReddit/comments/1ix0ung/whats_the_most_epic_tv_series_youve_watched_and/)
