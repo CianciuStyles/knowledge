@@ -71,6 +71,7 @@
   * [2013](https://news.ycombinator.com/item?id=6975638)
   * [2011](https://news.ycombinator.com/item?id=2147034)
 * [What are the best books for professional effectiveness?](https://news.ycombinator.com/item?id=29602228)
+* [What book do you consider a "flawless masterpiece" that you desperately want to recommend to everyone?](https://www.reddit.com/r/AskReddit/comments/1vdbbv3/what_book_do_you_consider_a_flawless/)
 * [What books have been worth your time?](https://news.ycombinator.com/item?id=43611474)
 * [What is the best book you read in 2020?](https://news.ycombinator.com/item?id=25590522)
 * [What nonfiction books do you keep rereading?](https://news.ycombinator.com/item?id=40277933)
