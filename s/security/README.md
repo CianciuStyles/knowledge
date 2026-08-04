@@ -185,14 +185,15 @@
 * [Metasploit](https://www.metasploit.com/)
   * [Metasploit Documentation](https://docs.metasploit.com/)
 * [Nessus](https://www.tenable.com/products/nessus) - Vulnerability Assessment
+* [Penelope](https://github.com/brightio/penelope) - Shell Handler
 * [Pupy](https://github.com/n1nj4sec/pupy/) - C2 and post-exploitation framework
 * [pwncat](https://pwncat.org/) ([GitHub](https://github.com/cytopia/pwncat))
 * pwntools ([docs](https://docs.pwntools.com/en/stable/), [GitHub](https://github.com/Gallopsled/pwntools))
 * [Security Tools](https://tools.tldr.run/)
 * [SharpExfiltrate](https://github.com/Flangvik/SharpExfiltrate) - Modular C# framework to exfiltrate loot over secure and trusted channels
 * [ShellPop](https://github.com/0x00-0x00/shellpop)
-* [Tails ](https://tails.net)- Portable operating system that protects against surveillance and censorship
-* [Unshackle ](https://github.com/Fadi002/unshackle)- Password Bypass Tool
+* [Tails](https://tails.net) - Portable operating system that protects against surveillance and censorship
+* [Unshackle](https://github.com/Fadi002/unshackle) - Password Bypass Tool
 
 ### Videos
 
