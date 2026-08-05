@@ -183,6 +183,7 @@
 
 ### Sega Saturn
 
+* [1995 SEGA Saturn Repair & Restoration](https://retrorepairsandrefurbs.com/2024/02/29/1995-sega-saturn-repair-restoration/) - Adam's Vintage Computer Restorations
 * Archive.org
   * [Sega Saturn Redump](https://archive.org/download/redump_sega_saturn_202204/)
 * [Fenrir](https://www.fenrir-ode.fr/) - Sega Saturn Optical Drive Emulator
