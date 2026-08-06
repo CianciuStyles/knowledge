@@ -75,6 +75,7 @@
 * [Matthieu Cneude](https://thevaluable.dev/)
 * [Patrick McKenzie](https://kalzumeus.com/)
 * [Rachel Kroll](https://rachelbythebay.com/)
+* [Sean Goedecke](https://www.seangoedecke.com/)
 
 ### Books
 
