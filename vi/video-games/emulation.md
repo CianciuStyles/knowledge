@@ -224,6 +224,7 @@
   * [MemCard Pro 2 - Smart PS2 Memory Card With Wi-Fi, Micro SD, And OLED Display!](https://www.youtube.com/watch?v=HP8giQ8CbAE)
 * [Open PS2 Loader Compatibility List](http://sx.sytes.net/oplcl/games.aspx)
 * [OPL Widescreen Cheats](https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats)
+* [PS2 Hard Drive Compatibility Chart](https://ps2drives.x-pec.com/)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
 * [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
   * [I Replaced Free McBoot With THIS, And Won't Go Back](https://www.youtube.com/watch?v=afetcJgUafg) - Macho Nacho Productions
