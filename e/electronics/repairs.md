@@ -4,6 +4,7 @@
 * [RetroSix Wiki](https://retrosix.wiki/wiki/retrosix-wiki)
   * Sega Saturn
     * [Laser Tuning](https://retrosix.wiki/wiki/laser-tuning-sega-saturn)
+* [Sega CD Model 2 Repair Notes](https://yesterware.blogspot.com/2018/03/sega-cd-model-2-repair-notes.html)
 * [What I've Learned Fixing Optical Drives](https://yesterware.blogspot.com/2020/10/what-ive-learned-fixing-optical-drives.html)
 
 ### HP Pavilion Gaming 15 AK010nr
