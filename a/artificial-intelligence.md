@@ -100,6 +100,7 @@
   * [Claude Code Prompts](https://ccprompts.info/)
   * [Claude Code Unpacked](https://ccunpacked.dev/)
   * [Claude Cookbook](https://platform.claude.com/cookbook/)
+  * [i-have-adhd](https://github.com/ayghri/i-have-adhd) - ADHD-friendly output.
 * [DeepSeek](https://www.deepseek.com/)
 * [Gemini](https://gemini.google.com) - Google
 * [Grok](https://grok.com/)
