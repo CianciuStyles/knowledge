@@ -10,6 +10,7 @@
 * [Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) - Daniel Kleinstein
 * [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) - Alicia Sykes
 * [Entering text in the terminal is complicated ](https://jvns.ca/blog/2024/07/08/readline/)- Julia Evans
+* [htop explained](https://peteris.rocks/blog/htop/) - Pēteris Ņikiforovs
 * [Illustrated Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/) - Christian Hofstede-Kuhn
 * [Some Cool Terminal Things I've Found Recently](https://www.neilmacy.co.uk/blog/some-cool-terminal-things) - Neil Macy
