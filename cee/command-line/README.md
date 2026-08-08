@@ -39,6 +39,7 @@
 * [Atuin](https://atuin.sh/) - Magical shell history
 * [autojump](https://github.com/wting/autojump) - Easily navigate directories from the command line
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
+* [btop](https://github.com/aristocratos/btop) - A monitor of resources
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy Finder
 * [gron](https://github.com/tomnomnom/gron/) - Make JSON greppable!
 * [nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing
