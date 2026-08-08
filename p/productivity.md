@@ -142,3 +142,7 @@
 * [Productivity Game](https://www.youtube.com/@ProductivityGame/videos)
 * [Shu Omi](https://www.youtube.com/@ShuOmi_Official/videos)
 * [Simpletivity](https://www.youtube.com/@Simpletivity/videos)
+
+### YouTube Videos
+
+* [David Allen: Getting Things Done](https://www.youtube.com/watch?v=Qo7vUdKTlhk) - Talks @ Google
