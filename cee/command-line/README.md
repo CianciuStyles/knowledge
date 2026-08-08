@@ -47,6 +47,7 @@
 ### Websites
 
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) ([GitHub](https://github.com/onceupon/Bash-Oneliner))
+* [Clink](https://mridgers.github.io/clink/) - Powerful Bash-style command line editing for cmd.exe
 * [Command Challenge](https://cmdchallenge.com/)
 * [Command Line Interface Guidelines](https://clig.dev/)
 * [Crontool](https://tool.crontap.com/cronjob-debugger) - crontab expressions editor online
