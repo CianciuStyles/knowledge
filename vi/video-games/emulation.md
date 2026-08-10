@@ -422,6 +422,7 @@
   * [Why is Nintendo 64 emulation still a broken mess in 2025?](https://www.youtube.com/watch?v=OmKjVpVdHDQ)
   * [Why the Wii U is the best Retro and Emulation console in 2020](https://www.youtube.com/watch?v=HRXwzGh-FoY)
   * [Why YOU need a Modded Xbox 360 in 2018 - The History, Custom Dashboards, Emulators, and More!](https://www.youtube.com/watch?v=8gduINQMxd0)
+  * [Xbox 360 Emulation on Android is Insane](https://www.youtube.com/watch?v=qsPbsoG9YpU)
   * [Xbox 360 Emulation on the PC with Xenia takes a huge step forward](https://www.youtube.com/watch?v=xCuu-TMquhk)
   * [Xenia UWP has been ported...to the Xbox](https://www.youtube.com/watch?v=pSN81y9RyEk)
   * [Xenia Xbox 360 Emulation on Steam Deck is impressive](https://www.youtube.com/watch?v=qVDCPUczUiM)
