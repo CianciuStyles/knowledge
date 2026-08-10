@@ -64,6 +64,8 @@
 
 ### Images
 
+<figure><img src="../.gitbook/assets/Free Anthropic Learning Roadmap.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.pinimg.com/736x/1d/4c/1b/1d4c1bd555b1ea346d6b67b2b47648a3.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ChatGPT Cheat Sheet.jpeg" alt=""><figcaption></figcaption></figure>
