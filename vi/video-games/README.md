@@ -481,6 +481,7 @@
 * [What is your favorite video game of all time?](https://www.reddit.com/r/AskReddit/comments/4ybf7r/what_is_your_favorite_video_game_of_all_time/)
 * [What is your favourite pre 2005 PC game?](https://www.reddit.com/r/AskReddit/comments/4dlhgd/what_is_your_favourite_pre_2005_pc_game/)
 * [What is your favourite pre-2005 computer game?](https://www.reddit.com/r/AskReddit/comments/3xau6v/what_is_your_favourite_pre2005_computer_game/)
+* [What’s a 10/10 video game in your opinion everyone should play?](https://www.reddit.com/r/AskReddit/comments/1vl4hmn/whats_a_1010_video_game_in_your_opinion_everyone/)
 * [What's a 9.9/10 game to you, almost perfect with one minor gripe?](https://www.reddit.com/r/gaming/comments/1lvroyn/whats_a_9910_game_to_you_almost_perfect_with_one/)
 * [What's a game everyone NEEDS to play in their lifetime?](https://www.reddit.com/r/gaming/comments/t6vhpi/whats_a_game_everyone_needs_to_play_in_their/)
 * [What's a game that's in your all-time top-5 that wouldn't be in most others' top-5?](https://www.reddit.com/r/patientgamers/comments/54gvrq/whats_a_game_thats_in_your_alltime_top5_that/)
