@@ -21,6 +21,7 @@
   * [Staff (L6) vs Senior Staff (L7)](https://www.developing.dev/p/faang-career-ladder-staff-l6-vs-senior)
 * [Finding a New Software Developer Job ](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)- Henrik Warne
 * [From Microsoft Intern to Meta Staff Engineer: Raviraj Achar](https://www.developing.dev/p/from-microsoft-intern-to-meta-staff) - Ryan Peterman, The Developing Dev
+* [Get Up to Speed Unbelievably Fast: A Practical Guide to Rapid Onboarding](https://alifeengineered.substack.com/p/get-up-to-speed-unbelievably-fast-712) - Steve Huynh
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - Julia Evans
 * [Great management and leadership books for the technical track ](https://ntietz.com/blog/great-management-and-leadership-books-for-the-technical-track/)- Nicole Tietz
 * [Guida Galattica al profilo LinkedIn](https://guidopenta.github.io/galactic-linkedin-profile-guide/) ([English version](https://guidopenta.github.io/galactic-linkedin-profile-guide/english.html)) - Guido Penta
