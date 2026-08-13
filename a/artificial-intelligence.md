@@ -12,6 +12,7 @@
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) - DeepMind
 * [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) - Ben Thompson, Stratechery
 * [How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) - Gergely Orosz
+* [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/) - 0xkato
 * [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) - Miguel Grinberg
 * [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) - Ethan Mollick
 * [LLM Knowledge Dump](https://dandavis.dev/llm-knowledge-dump.html) - Dan Davis
