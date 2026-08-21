@@ -38,6 +38,7 @@
 
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 * [Fast](https://fast.com) - Internet speed test
+* [Internet Speed Test](https://speed.cloudflare.com/) - Cloudflare
 * [OpenSpeedTest](https://openspeedtest.com/)
 
 ### Date and Time
