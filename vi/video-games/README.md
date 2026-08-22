@@ -266,6 +266,8 @@
   * [The 20 Best Games For Sony's PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
   * [The 20 Best Horror Games Of The Last 20 Years](https://kotaku.com/best-horror-games-ps5-xbox-steam-pc-silent-hill-2-1851671021)
   * [The Bests](https://kotaku.com/tag/the-bests)
+* [How Difficult Is It?](https://www.howdifficultisit.com/)
+  * [The Hardest Puzzle Games of All Time, Ranked by Player Votes](https://www.howdifficultisit.com/articles/hardest-puzzle-games-of-all-time)
 * [IGN](https://www.ign.com/)
   * [The Best PS5 Games](https://www.ign.com/articles/the-best-ps5-games)
 * [List of video games considered the best](https://en.wikipedia.org/wiki/List_of_video_games_considered_the_best) - Wikipedia
@@ -455,6 +457,7 @@
 * [We should make a master list of older games that still hold up today.](https://www.reddit.com/r/patientgamers/comments/4wzz6m/we_should_make_a_master_list_of_older_games_that/)
 * [What are genuinely great mobile games?](https://www.reddit.com/r/gaming/comments/1d8n5qg/what_are_genuinely_great_mobile_games/)
 * [What are old games (20+ years old) that, disregarding any nostalgia, still hold up very well today?](https://www.reddit.com/r/patientgamers/comments/15ehw29/what_are_old_games_20_years_old_that_disregarding/)
+* [What are some games that are really fun to 100%?](https://www.reddit.com/r/gaming/comments/1vsu03r/what_are_some_games_that_are_really_fun_to_100/)
 * [What are some good co-op games for the PS3?](https://www.reddit.com/r/patientgamers/comments/8k9lwu/what_are_some_good_coop_games_for_the_ps3/)
 * [What are some good FPS games with stellar single player story?](https://www.reddit.com/r/patientgamers/comments/6wldhz/what_are_some_good_fps_games_with_stellar_single/)
 * [What are some good old games that cheer you up?](https://www.reddit.com/r/patientgamers/comments/5bzol5/what_are_some_good_old_games_that_cheer_you_up/)
