@@ -304,6 +304,7 @@
 * [Video Games](vi/video-games/README.md)
   * [Decompilations & Disassemblies](vi/video-games/decompilations-and-disassemblies.md)
   * [Emulation](vi/video-games/emulation.md)
+  * [In-Browser & Web Games](vi/video-games/in-browser-and-web-games.md)
   * [Mods](vi/video-games/mods.md)
   * [Music](vi/video-games/video-games-music.md)
   * [Speedrunning](vi/video-games/speedrunning.md)

@@ -50,21 +50,8 @@
 
 
 
-* [Bad Time Simulator (Sans Fight)](https://jcw87.github.io/c2-sans-fight/)
-* [Classic games online](https://playclassic.games/)
-* [Counter-Strike 1.6 online](https://play-cs.com/en/servers)
-* [Descent](https://mrdoob.github.io/three-descent/)
-* [Diablo](https://d07riv.github.io/diabloweb/)
 * [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
-* [Mega Man](https://www.megamangames.net/)
 * [Mythic Master](https://mythic.up.railway.app) - Tetra Master clone
-* [Pitfall!](https://meatfighter.com/pitfall-web/)
-* [PrinceJS](https://princejs.com/)
-* [RobCo Terminal](https://jetholt.com/hacking/)
-* [Super Mario 64 on the Web!](https://28klotlucas2.github.io/Mario64webgl/)
-* [Super Monkey Ball](https://monkeyball-online.pages.dev/)
-* [Tekken 3](https://3tekken.com/)
-* [wipEout](https://phoboslab.org/wipegame/) - Dominic Szablewski ([Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout))
 
 ## Articles
 
