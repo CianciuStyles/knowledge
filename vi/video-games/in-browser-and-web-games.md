@@ -18,3 +18,4 @@
 
 * [Classic games online](https://playclassic.games/)
 * [Mega Man](https://www.megamangames.net/)
+* [Retro Boy](https://samthecoder.com/retroboy/)
