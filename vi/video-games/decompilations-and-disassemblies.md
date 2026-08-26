@@ -36,7 +36,9 @@
 * [Resident Evil Gaiden](https://github.com/wowjinxy/RE-Gaiden)
 * [Resident Evil – Code: Veronica X](https://github.com/FedericoMilesi/recvx2c)
 * [Severed Chains](https://legendofdragoon.org/projects/severed-chains/) ([GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)) - Legend of Dragoon decompiled, reverse engineered, and ported to Java
-* [Silent Hill](https://sh1pc.com/) ([GitHub](https://github.com/shdecompilations/silent-hill-decomp))
+* Silent Hill
+  * [Silent Hill Decompilation Project](https://github.com/shdecompilations/silent-hill-decomp)
+  * [Silent Hill PC Port](https://sh1pc.com/) ([GitHub](https://github.com/SlickAmogus/silent-hill-decomp))
 * [Starflight-Reverse](https://github.com/s-macke/starflight-reverse)
 * [Sonic 1](https://github.com/sonicretro/s1disasm)
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
