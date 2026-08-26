@@ -117,6 +117,11 @@
 
 * [Sanitarium HD Patcher](https://github.com/Schtee/SanitariumHDPatcher)
 
+### Silent Hill
+
+* [Silent Hill DuckStation HD Textures 2.0](https://gbatemp.net/threads/silent-hill-duckstation-hd-textures-2-0.672174/)
+* [UHD Enhanced Cutscenes (for SlickAmogus SHPC Port)](https://gamebanana.com/mods/688001)
+
 ### Silent Hill 2
 
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - A project designed to enhance Silent Hill 2 (SH2) graphics and audio for the PC ([GitHub](https://github.com/elishacloud/Silent-Hill-2-Enhancements))
