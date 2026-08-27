@@ -9,7 +9,6 @@
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
-*
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
 ### Individual Game Projects
@@ -57,3 +56,7 @@
 * [Zelda3 ](https://github.com/snesrev/zelda3)- reverse engineered clone of Zelda 3 - A Link to the Past
   * [zelda3-android](https://github.com/Waterdish/zelda3-android) - A port of Zelda3 to Android
   * [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) - An all-purpose GUI tool to download, extract, compile, and launch Zelda 3 on PC
+
+### Subreddits
+
+* [r/decomps](https://www.reddit.com/r/decomps/)
