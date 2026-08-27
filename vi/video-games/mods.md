@@ -56,9 +56,13 @@
 
 * [GALAH's FIFA 3D Patches](https://fifa.galahs.com.au/)
 
-### Grand Theft Auto III
+### Final Fantasy VII
 
-* [OpenRW ](https://openrw.org/)- A Grand Theft Auto III re-implementation ([GitHub](https://github.com/rwengine/openrw))
+* [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
+
+### Final Fantasy VIII
+
+* [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 
 ### Grim Fandango
 

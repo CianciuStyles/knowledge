@@ -307,6 +307,7 @@
   * [In-Browser & Web Games](vi/video-games/in-browser-and-web-games.md)
   * [Mods](vi/video-games/mods.md)
   * [Music](vi/video-games/video-games-music.md)
+  * [Ports & Engine Recreations](vi/video-games/ports-and-engine-recreations.md)
   * [Speedrunning](vi/video-games/speedrunning.md)
   * [Warzone](vi/video-games/warzone.md)
 
