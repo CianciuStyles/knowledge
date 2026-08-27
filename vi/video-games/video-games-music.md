@@ -149,6 +149,7 @@
 
 ### Reddit Threads
 
+* [Games with 10/10 soundtracks](https://www.reddit.com/r/gaming/comments/1vxkoqe/games_with_1010_soundtracks/)
 * [Videogame music that should play when you get home discussion](https://www.reddit.com/r/gamemusic/comments/7wvz0h/videogame_music_that_should_play_when_you_get/)
 * [What are some of the greatest video game OST's with no lyrics? Looking for as many hours as possible across all genres for study/work focus.](https://www.reddit.com/r/gamemusic/comments/3gq6jy/what_are_some_of_the_greatest_video_game_osts/)
 * [What are the most specifically 'beautiful' game soundtracks you have ever heard? Not action packed.](https://www.reddit.com/r/patientgamers/comments/6r494v/what_are_the_most_specifically_beautiful_game/)
