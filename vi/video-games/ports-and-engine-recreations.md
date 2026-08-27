@@ -2,6 +2,7 @@
 
 ### API Compatibility Wrappers
 
+* [Aurora](https://github.com/encounter/aurora) - source-level GameCube & Wii compatibility layer
 * [D3D9On12](https://github.com/microsoft/D3D9On12) - Microsoft
 * [dgVoodoo 2](https://dege.freeweb.hu/dgVoodoo2/) - implementation of old graphics API's for Windows 7 and later version
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
@@ -12,9 +13,11 @@
 ### Directories & Lists
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
+* [Awesome, unofficial PC ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)
 * [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports) - Emulation General Wiki
 * [List of Android ports (Windows based games)](https://www.reddit.com/r/EmulationOnAndroid/comments/1nfzvph/list_of_android_ports_windows_based_games/)
 * [List of game engine recreations](https://www.wikiwand.com/en/articles/List_of_game_engine_recreations) - Wikipedia
+* [List of unofficial ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports) - PCGamingWiki
 
 ### Engine Recreations & Source Ports
 
@@ -35,6 +38,7 @@
 * [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Notr
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
+* [OpenPete](https://openpete.com/) - A native PC port of Spyro the Dragon
 * [OpenRA](https://www.openra.net) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
 * [OpenRW](https://openrw.org/) - A Grand Theft Auto III re-implementation ([GitHub](https://github.com/rwengine/openrw))
