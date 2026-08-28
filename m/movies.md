@@ -50,6 +50,7 @@
 * [What movie from 2000-present would you consider a modern classic?](https://www.reddit.com/r/AskReddit/comments/8mf39r/what_movie_from_2000present_would_you_consider_a/)
 * [What movie from the past 10 years is a must-see?](https://www.reddit.com/r/AskReddit/comments/70emha/what_movie_from_the_past_10_years_is_a_mustsee/)
 * [What movie had you laughing so hard you couldn’t breathe?](https://www.reddit.com/r/AskReddit/comments/1uz4xcd/what_movie_had_you_laughing_so_hard_you_couldnt/)
+* [What movie has absolutely zero flaws from start to finish?](https://www.reddit.com/r/AskReddit/comments/1vztblr/what_movie_has_absolutely_zero_flaws_from_start/)
 * [What movie has made you laugh the hardest?](https://www.reddit.com/r/AskReddit/comments/3xb4xw/what_movie_has_made_you_laugh_the_hardest/)
 * [What movie is 10/10 but hardly anyone has seen it?](https://www.reddit.com/r/AskReddit/comments/dul32y/what_movie_is_1010_but_hardly_anyone_has_seen_it/)
 * [What movie is 10/10 with literally no bad parts?](https://www.reddit.com/r/AskReddit/comments/1rpq4me/what_movie_is_1010_with_literally_no_bad_parts/)
