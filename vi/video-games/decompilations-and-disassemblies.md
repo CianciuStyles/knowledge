@@ -8,6 +8,14 @@
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
+* [PSXRecomp](https://github.com/mstan/psxrecomp) - A general-purpose static recompiler for the PlayStation 1
+  * [ApeEscapeRecomp](https://github.com/mstan/ApeEscapeRecomp)
+  * [MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp)
+  * [MegaManX5Recomp](https://github.com/mstan/MegaManX5Recomp)
+  * [MegaManX6Recomp](https://github.com/mstan/MegaManX6Recomp)
+  * [Tekken3Recomp](https://github.com/fabioap-cpu/Tekken3Recomp)
+  * [TombaRecomp](https://github.com/mstan/TombaRecomp)
+  * [Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
