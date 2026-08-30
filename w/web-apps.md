@@ -105,6 +105,7 @@
 * [Unsplash](https://unsplash.com/) - Photos for everyone
 * [Waifu2x](https://waifu2x.me/) - Image upscaler
 * [Vector Magic](https://vectormagic.com/) - Vectorise images
+* [Vectorpea](https://www.vectorpea.com/) - Online Vector Editor
 
 ### Mail & SMS
 
