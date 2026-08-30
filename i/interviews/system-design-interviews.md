@@ -60,6 +60,10 @@
 * [System Design Interview Questions](https://github.com/sid24rane/System-Design-Interview-Questions)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+### Newsletters
+
+* [System Design Nuggets](https://designgurus.substack.com/) - Arslan Ahmad
+
 ### Reddit Threads
 
 * [How I approach Systems Design Interviews](https://www.reddit.com/r/ExperiencedDevs/comments/s5sw1h/how_i_approach_systems_design_interviews/)

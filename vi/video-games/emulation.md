@@ -247,6 +247,7 @@
 
 * [r/Emulation](https://www.reddit.com/r/emulation/)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid/)
+  * [What controller do you guys use for your phone](https://i.redd.it/5qahzrxu5clh1.jpeg)
 * [r/EmulationOnPC](https://www.reddit.com/r/EmulationOnPC/)
 
 ## YouTube Channels
