@@ -6,17 +6,22 @@
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
+  * [DK64 Rekongpiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ([website](https://dk64recomp.com/))
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
+* [NESRecomp](https://github.com/mstan/nesrecomp) - NES game static recompiler ecosystem
 * [PSXRecomp](https://github.com/mstan/psxrecomp) - A general-purpose static recompiler for the PlayStation 1
   * [ApeEscapeRecomp](https://github.com/mstan/ApeEscapeRecomp)
   * [MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp)
   * [MegaManX5Recomp](https://github.com/mstan/MegaManX5Recomp)
   * [MegaManX6Recomp](https://github.com/mstan/MegaManX6Recomp)
+  * [PSXRecomp Ports](https://github.com/Alexbeav/psxrecomp-ports) - Unofficial noncommercial PlayStation recompilation releases
   * [Tekken3Recomp](https://github.com/fabioap-cpu/Tekken3Recomp)
+  * [Street Fighter Alpha 3 Recompiled](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp)
   * [TombaRecomp](https://github.com/mstan/TombaRecomp)
   * [Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
+* [RetComM Launcher](https://github.com/TechnicallyComputers/RetComM-Launcher) - A frontend for updating, managing, and distributing static recompilations
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
 ### Individual Game Projects
@@ -31,6 +36,7 @@
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
+* [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) ([fork](https://github.com/zydezu/Wiicompiled))
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
@@ -41,6 +47,7 @@
 * [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
 * [ReBandicoot](https://github.com/2010kohtep/ReBandicoot) - Attempts to reverse engineer the Crash Bandicoot N. Sane Trilogy game
 * [Resident Evil Gaiden](https://github.com/wowjinxy/RE-Gaiden)
+* [Resident Evil Gaiden: Recompiled](https://github.com/sergiomanzur/regaiden-recomp)
 * [Resident Evil – Code: Veronica X](https://github.com/FedericoMilesi/recvx2c)
 * [Severed Chains](https://legendofdragoon.org/projects/severed-chains/) ([GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)) - Legend of Dragoon decompiled, reverse engineered, and ported to Java
 * Silent Hill
