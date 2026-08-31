@@ -11,6 +11,7 @@
 ### Channels
 
 * [Japan 4K](https://www.youtube.com/user/keikaikeikaikeikai/videos)
+* [Japan Walk \[Together Walk\]](https://www.youtube.com/@japan_walk)
 * [Nippon Wandering TV](https://www.youtube.com/c/NIPPONWANDERINGTV/videos)
 * [Rambalac](https://www.youtube.com/c/Rambalac/videos)
 
@@ -59,4 +60,3 @@
 * [New York City - Rain at 3AM](https://www.youtube.com/watch?v=21HKaqA1rpo)
 * [New York City - Snow at 9PM](https://www.youtube.com/watch?v=cOan6RRvOi4)
 * [Olympic National Forest, Washington State](https://www.youtube.com/watch?v=6jGX1oUADhg)
-
