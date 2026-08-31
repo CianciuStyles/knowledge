@@ -4,6 +4,7 @@
 
 * [Awesome Game Decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
+* [Github Launcher](https://github.com/SirDiabo/GithubLauncher)
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
   * [DK64 Rekongpiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ([website](https://dk64recomp.com/))
@@ -21,6 +22,7 @@
   * [TombaRecomp](https://github.com/mstan/TombaRecomp)
   * [Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
+* [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher)
 * [RetComM Launcher](https://github.com/TechnicallyComputers/RetComM-Launcher) - A frontend for updating, managing, and distributing static recompilations
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
