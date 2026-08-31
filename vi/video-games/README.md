@@ -244,6 +244,7 @@
 * [Complete Edition Central](https://www.playstationtrophies.org/forum/topic/297967-complete-edition-central/) - PlayStationTrophies.org
 * [Cultured Vultures](https://www.youtube.com/@CulturedVultures)
   * [1 HOUR of PS1 Hidden Gems YOU Should Play](https://www.youtube.com/watch?v=PgQ2xPHUG-A)
+  * [100 BEST PS1 Games of All Time](https://www.youtube.com/watch?v=gIEhIO7XjI0)
   * [50 BEST GameCube Games of All Time](https://www.youtube.com/watch?v=QNpcuPNrUrM)
   * [50 BEST GBA Games of All Time](https://www.youtube.com/watch?v=VEtxcrSAp_A)
   * [50 BEST N64 Games of All Time](https://www.youtube.com/watch?v=ewoO0B5WarA)
