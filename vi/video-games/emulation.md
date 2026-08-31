@@ -87,10 +87,6 @@
 * [XenDroid](https://github.com/rfandango/XenDroid) - Android Xbox 360 Emulator
 * [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
 
-### Microsoft Xbox One
-
-*
-
 ### Nintendo 3DS
 
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
@@ -141,6 +137,7 @@
 * [LetterBomb](https://please.hackmii.com/)
 * [ModMii for Windows](https://modmii.github.io/)
 * [Wii Guide](https://wii.guide/)
+* [Wii's Image Quality Is Fixed in 2023](https://www.youtube.com/watch?v=tzJth1XFCBU)
 * [WiiBrew](https://wiibrew.org/wiki/Main_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
