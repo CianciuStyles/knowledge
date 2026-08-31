@@ -32,6 +32,8 @@
     * [Resident Evil 2 - Bawkbasoup](https://www.youtube.com/watch?v=BkKE5t4cw24)
   * Games Done Quick Express 2019
     * [Resident Evil 3: Nemesis - WOLFDNC](https://www.youtube.com/watch?v=L6DXqS30WIU)
+  * GDQ @ PAX West 2024
+    * [Titanfall 2 - ClipBoardGuy](https://www.youtube.com/watch?v=IfFkiN5TDo0)
   * Summer Games Done Quick 2016
     * [New Super Mario Bros. - altabiscuit](https://www.youtube.com/watch?v=qie0DjM39zQ)
   * Summer Games Done Quick 2019
