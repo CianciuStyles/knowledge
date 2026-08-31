@@ -50,6 +50,8 @@
 
 * [EmuDevz - The Neees Emulator](https://afska.github.io/emudevz/#/)
 * [Mythic Master](https://mythic.up.railway.app) - Tetra Master clone
+* [OpenTriad](https://github.com/benjaminfoo/OpenTriad) - Triple Triad reimplementation
+* [Triple Triad re-made with Godot](https://github.com/crystal-bit/triple-triad-godot)
 
 ## Articles
 
