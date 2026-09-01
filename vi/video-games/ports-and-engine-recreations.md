@@ -30,6 +30,7 @@
 * [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 * [EDuke32](https://www.eduke32.com/) - Duke3D for Windows, Linux, and MacOS
+* [Gears of War 2: Hollow](https://www.moddb.com/mods/gears-of-war-2-hollow/downloads/gears-of-war-2-hollow-launcher) - PC Port
 * [GemRB](https://gemrb.org/) - Portable open-source implementation of Bioware’s Infinity Engine
 * [Memoria](https://github.com/Albeoris/Memoria) - Community rewrite of Final Fantasy IX's game engine
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
