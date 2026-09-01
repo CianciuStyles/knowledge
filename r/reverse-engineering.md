@@ -25,6 +25,7 @@
 * Reverse Engineering Crazy Taxi - Will Greenberg
   * [Part 1 - Introduction & archive reversing](https://wretched.computer/post/crazytaxi)
   * [Part 2 - Reversing shape files](https://wretched.computer/post/crazytaxi2)
+* [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) - WerWolv
 * [Tony Hawk’s Pro Strcpy](https://icode4.coffee/?p=954) - I Code 4 Coffee
 
 ### Books
