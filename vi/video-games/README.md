@@ -138,6 +138,7 @@
   * [PlayStation LightSpan Master List](https://game-rave.com/?p=121)
   * [PlayStation Long Box Master List](https://game-rave.com/?page_id=135)
 * [PriceCharting](https://www.pricecharting.com/)
+* [PS2IODB](https://ps2iodb.com/) - PlayStation 2 Icons Open Database
 * [RetroCollect](https://www.retrocollect.com/)
 * [Retroedicola Videoludica](https://www.retroedicola.com/)
 * [Retromags - The Vintage Video Game Magazine Archive](https://www.retromags.com/)
