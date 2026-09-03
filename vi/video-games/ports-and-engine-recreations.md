@@ -61,3 +61,7 @@
 ### Reddit Threads
 
 * [I am making a list of source ports on android](https://www.reddit.com/r/AndroidGaming/comments/g0sw0k/i_am_making_a_list_of_source_ports_on_android/)
+
+### Subreddits
+
+* [r/AndroidNativePorts](https://www.reddit.com/r/AndroidNativePorts/)
