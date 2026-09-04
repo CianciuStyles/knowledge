@@ -59,7 +59,8 @@
   * [Hacker News Readings](https://hackernews-readings-613604506318.us-west1.run.app/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
-  * [HN Hall of Fame](https://www.orangecrumbs.com/hall/) - Browse legendaryy Hacker News links
+  * [HN Hall of Fame](https://www.orangecrumbs.com/hall/) - Browse legendary Hacker News links
+  * [HN Match](https://hnmatchmaker.com/) - Hacker News Job Matchmaking
   * [HN Personal Websites](https://hnpwd.github.io/)
   * [HN Popularity Contest](https://refactoringenglish.com/tools/hn-popularity/) - The highest-ranking personal blogs of Hacker News
   * [hndex](https://hndex.org/) - a search engine for finding articles posted to hacker news
