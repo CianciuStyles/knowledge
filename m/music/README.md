@@ -67,3 +67,7 @@
 * [The Nostalgia Machine](https://thenostalgiamachine.com/)
 * [Top 40 Charts](https://top40-charts.com/)
 * [Tunefind](https://top40-charts.com/)
+
+### YouTube Channels
+
+* [Chill Notes Tokyo](https://www.youtube.com/@ChillNotesTokyo)
