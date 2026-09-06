@@ -44,7 +44,7 @@
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
-* [Perfect Dark](https://github.com/n64decomp/perfect_dark)
+* [Perfect Dark](https://github.com/n64decomp/perfect_dark) ([fork](https://github.com/perfect-dark-pc-port/perfect_dark))
 * [Pikmin](https://github.com/projectPiki/pikmin)
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
 * [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
