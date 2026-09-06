@@ -21,5 +21,6 @@
 ### Web Emulation Services
 
 * [Classic games online](https://playclassic.games/)
+* [DOS Zone](https://dos.zone/)
 * [Mega Man](https://www.megamangames.net/)
 * [Retro Boy](https://samthecoder.com/retroboy/)
