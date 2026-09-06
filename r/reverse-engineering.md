@@ -18,6 +18,7 @@
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - t0st ([HN thread](https://news.ycombinator.com/item?id=26296339))
 * [HOWTO-Reverse Engineering](https://wiki.scummvm.org/index.php/HOWTO-Reverse_Engineering) - ScummVM
 * [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/) - Andy Hippo
+* [On solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) - jestoph
 * [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html) - Tom Mason
 * [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/) - banteg
 * [Reverse engineering an illegal IPTV application on the Google Play Store](https://github.com/benhamad/blog/blob/main/2024-04-12-dramalive.md) - Chaker Benhamad
