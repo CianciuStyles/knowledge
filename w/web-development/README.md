@@ -80,6 +80,7 @@
 * [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
 * [Netlify](https://www.netlify.com/)
 * [pico.sh](https://pico.sh/)
+* [statichost](https://www.statichost.eu/)
 * [tiiny.host](https://tiiny.host/)
 * [Vercel](https://vercel.com/)
 
