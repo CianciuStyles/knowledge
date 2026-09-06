@@ -7,6 +7,8 @@
 * [Descent](https://mrdoob.github.io/three-descent/) - mrdoob
 * [Diablo](https://d07riv.github.io/diabloweb/)
 * [Doom](https://mrdoob.github.io/three-doom/) - mrdoob
+* [GTA 3](https://quenq.com/apps/gta-3-online/)
+* [GTA Vice City](https://quenq.com/apps/vice-city-online/)
 * [Murder at the Roundhouse!](https://sinnottbj.itch.io/murder-at-the-roundhouse) - sinnottbj
 * [PrinceJS](https://princejs.com/)
 * [Quake](https://mrdoob.github.io/three-quake/) - mrdoob
