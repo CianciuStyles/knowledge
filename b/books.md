@@ -204,6 +204,7 @@
 * [Storytel](https://www.storytel.com)
 * [Summaries.com](https://summaries.com/)
 * [The Book Bundle](https://www.thebookbundle.com/)
+* [The Hugo Award](https://www.thehugoawards.org/)
 * [The Neglected Books Page](https://neglectedbooks.com/)
 * [thebookguide](https://www.thebookguide.info/)
 * [Used Book Search.co.uk](https://www.usedbooksearch.co.uk/)
