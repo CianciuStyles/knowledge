@@ -139,6 +139,7 @@
 * [What book could you just not put down after picking up?](https://www.reddit.com/r/books/comments/53pknz/what_book_could_you_just_not_put_down_after/)
 * [What book do you love so much that you have read it 5+ times?](https://www.reddit.com/r/books/comments/4kmwl3/what_book_do_you_love_so_much_that_you_have_read/)
 * [What book do you think every person should read at least once?](https://www.reddit.com/r/AskReddit/comments/13jg2oc/what_book_do_you_think_every_person_should_read/)
+* [What book is a 10/10 and worth reading?](https://www.reddit.com/r/AskReddit/comments/1w9rq3j/what_book_is_a_1010_and_worth_reading/)
 * [What book should everyone on the planet read?](https://www.reddit.com/r/books/comments/4x5ljx/what_book_should_everyone_on_the_planet_read/)
 * [What book would recommend to read?](https://www.reddit.com/r/AskReddit/comments/5mjiqp/serious_what_book_would_recommend_to_read/)
 * [What books do you find yourself re-reading?](https://www.reddit.com/r/books/comments/526iku/what_books_do_you_find_yourself_rereading/)
