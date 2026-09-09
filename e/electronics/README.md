@@ -7,6 +7,7 @@
 ### Books
 
 * [But How Do It Know? - The Basic Principles of Computers for Everyone](https://archive.org/details/jclarkscottbuthowdoitknowthebasicprinciplesofcomputersforeveryonejohnc.scott2009/mode/2up) - J. Clark Scott
+* [Complete Electronics Self-Teaching Guide with Projects](https://www.amazon.co.uk/Complete-Electronics-Self-Teaching-Guide-Projects-ebook/dp/B008K9AH6A) - Earl Boysen, Harry Kybett ([website](https://www.buildinggadgets.com/complete-electronics.htm))
 * [Getting Started In Electronics](https://www.zpag.net/Electroniques/Kit/Getting_Started_in_Electronics_-_3ed_-_\[Forrest_M.Mims].pdf) - Forrest M. Mims, III
 * [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) - Tony R. Kuphaldt
 * [Open Circuits - The Inner Beauty of Electronic Components](https://opencircuitsbook.com/) - Windell Oskay, Eric Schlaepfer
