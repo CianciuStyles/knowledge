@@ -254,6 +254,7 @@ description: https://www.android.com/
 * [Better `adb shell`](https://github.com/matan-h/adb-shell)
 * [PID Cat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [Redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
+* [Repurpose Your Old Android Phone](https://github.com/mayukh4/linux-android)
 
 ### Subreddits
 
