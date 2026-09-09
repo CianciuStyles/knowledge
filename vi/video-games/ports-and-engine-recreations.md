@@ -36,7 +36,8 @@
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
 * [openblack](https://github.com/openblack/openblack) - open-source game engine that supports playing Black & White (2001)
-* [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Notr
+* [OpenGOAL](https://opengoal.dev/) - Reviving the Language that Brought us the Jak and Daxter Series
+* [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Night of the Raven
 * [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenPete](https://openpete.com/) - A native PC port of Spyro the Dragon
