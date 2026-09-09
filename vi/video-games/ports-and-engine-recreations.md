@@ -56,6 +56,7 @@
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine)) - Modern "Jedi Engine" replacement
 * [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996)
 * [TR2X](https://github.com/LostArtefacts/TR2X) - Open source re-implementation of Tomb Raider 2
+* [TriAevum](https://github.com/coccofresco/TriAevum/) - Experimental native PC recompilation runtime for Ocarina of Time 3D
 * [Xash3D FWGS](https://github.com/fwgs/xash3d-fwgs) - Open source re-implementation of Half-Life
 
 ### Reddit Threads
