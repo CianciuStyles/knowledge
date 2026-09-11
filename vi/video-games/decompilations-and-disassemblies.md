@@ -9,6 +9,7 @@
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
   * [DK64 Rekongpiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ([website](https://dk64recomp.com/))
+  * [Snap64 Recomp](https://github.com/JackandBeans/Snap64Recomp)
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
 * [NESRecomp](https://github.com/mstan/nesrecomp) - NES game static recompiler ecosystem
