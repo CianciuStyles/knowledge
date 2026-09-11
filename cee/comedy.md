@@ -16,3 +16,10 @@
 * [Quarter-Life Crisis (2020)](https://www.imdb.com/title/tt11738792)
 * [Look At You (2022)](https://www.imdb.com/title/tt18096250)
 * [Have It All (2024)](https://www.imdb.com/title/tt30796334)
+
+## Resources
+
+### Reddit threads
+
+* [What is the best stand up comedy special you’ve ever watched?](https://www.reddit.com/r/AskReddit/comments/1wc1ox7/what_is_the_best_stand_up_comedy_special_youve/)
+
