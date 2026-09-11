@@ -25,6 +25,8 @@
 * [c1](https://github.com/wurlyfox/c1) - Port of Crash Bandicoot to C
 * [Cannonball](https://github.com/djyt/cannonball) - An Enhanced OutRun Engine
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
+* [Crash Team Racing: High Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) - Advanced sourceport of Crash Team Racing
+* [CTR Native](https://github.com/CTR-tools/ctr-native) - A native PC port of Crash Team Racing
 * [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 * [DevilutionX](https://github.com/diasurgical/devilutionx) - Diablo build for modern operating systems
 * [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
