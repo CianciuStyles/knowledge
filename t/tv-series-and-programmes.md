@@ -44,6 +44,7 @@
 * [What is the best TV series of all time?](https://www.reddit.com/r/AskReddit/comments/12gtfu7/what_is_the_best_tv_series_of_all_time/)
 * [What is the single best episode of television you’ve ever seen?](https://www.reddit.com/r/AskReddit/comments/1og0owj/what_is_the_single_best_episode_of_television/)
 * [What Is Your Favourite British TV Series?](https://www.reddit.com/r/AskUK/comments/u4v5em/hello_uk_reddit_what_is_your_favourite_british_tv/)
+* [What new show is absolute 10/10?](https://www.reddit.com/r/AskReddit/comments/1wanbqm/what_new_show_is_absolute_1010/)
 * [What series do you consider is a 10/10 from start to finish?](https://www.reddit.com/r/AskReddit/comments/1upddb1/what_series_do_you_consider_is_a_1010_from_start/)
 * [What series is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1oso35j/what_series_is_a_1010/)
 * [What show had you hooked after 1 episode?](https://www.reddit.com/r/AskReddit/comments/v50hb0/what_show_had_you_hooked_after_1_episode/)
