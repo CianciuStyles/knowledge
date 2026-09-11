@@ -80,3 +80,4 @@
 ### Subreddits
 
 * [r/decomps](https://www.reddit.com/r/decomps/)
+* [r/recomps](https://www.reddit.com/r/recomps/)
