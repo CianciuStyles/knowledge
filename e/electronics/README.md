@@ -28,6 +28,7 @@
 * [Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
 * [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 * [How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
+* [Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840)
 
 ### Infographics
 
@@ -47,6 +48,7 @@
 * [NAND](https://nand.arhan.sh/) - logic simulator suite made entirely from NAND gates ([GitHub](https://github.com/ArhanChaudhary/NAND))
 * [Online Karnaugh Map Solver](http://32x8.com/index.html)
 * [The Apple Falls](https://jeevan.life/theapplefalls) - Learn electronics from scratch through immersive, interactive simulations
+* [Tools Database](https://pwunkz14.github.io/SolderingToolsPicker/)
 
 ### YouTube Channels
 
