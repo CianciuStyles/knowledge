@@ -136,6 +136,7 @@
   * [Nintendo Wii Europe 3/3 S-Z](https://archive.org/details/rr-nintendo-wii-e3)
 * [LetterBomb](https://please.hackmii.com/)
 * [ModMii for Windows](https://modmii.github.io/)
+* [r/WiiHacks](https://www.reddit.com/r/WiiHacks/)
 * [Wii Guide](https://wii.guide/)
 * [Wii's Image Quality Is Fixed in 2023](https://www.youtube.com/watch?v=tzJth1XFCBU)
 * [WiiBrew](https://wiibrew.org/wiki/Main_Page)
