@@ -14,6 +14,7 @@
 
 ## Ice Creams
 
+* [Miglior gelateria di Roma](https://www.reddit.com/r/roma/comments/1wdhm3i/miglior_gelateria_di_roma/)
 * [Quale pensate sia la migliore gelateria di Roma?](https://www.reddit.com/r/roma/comments/1ne46il/quale_pensate_sia_la_migliore_gelateria_di_roma/)
 
 
