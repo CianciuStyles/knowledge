@@ -69,16 +69,6 @@
 
 ## Consoles
 
-### Atari Jaguar
-
-* [BigPEmu](https://www.richwhitehouse.com/jaguar/) - Atari Jaguar Emulator
-
-### Microsoft Xbox
-
-* [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
-* [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
-  * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
-
 ### Microsoft Xbox 360
 
 * [360 Hack Pack](https://alex-free.github.io/360-hack-pack/) - Everything you need to hack an Xbox 360, ready to be copied onto a USB drive in one download!
@@ -113,14 +103,7 @@
 * [Gearboy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch
 * [Retro Boy](https://smparsons.github.io/retroboy/) - Game Boy emulator that can be played on the web ([GitHub](https://github.com/smparsons/retroboy))
 
-### Nintendo GameCube
 
-* Archive.org
-  * [Nintendo GameCube Europe & Japan](https://archive.org/details/rr-nintendo-gamecube)
-  * [Redump - Nintendo GameCube - Europe](https://archive.org/details/gamecubeeuroperedump)
-* [GC-Forever Wiki](https://gc-forever.com/wiki/index.php?title=Main_Page)
-* [How to unlock the GameCube for $6 with the SD2SP2 Pro](https://www.youtube.com/watch?v=ieIaLnxtvYI) - Coulter Peterson
-* [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
 ### Nintendo Switch
 

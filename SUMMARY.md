@@ -302,6 +302,7 @@
 * [Virtual Tours](vi/virtual-tours.md)
 * [Vim](vi/vim.md)
 * [Video Games](vi/video-games/README.md)
+  * [Consoles](vi/video-games/consoles.md)
   * [Decompilations & Disassemblies](vi/video-games/decompilations-and-disassemblies.md)
   * [Emulation](vi/video-games/emulation.md)
   * [In-Browser & Web Games](vi/video-games/in-browser-and-web-games.md)
