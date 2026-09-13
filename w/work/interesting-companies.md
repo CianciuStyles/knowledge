@@ -39,5 +39,6 @@
 * [Stripe](https://stripe.com/jobs/search)
 * [The Trade Desk](https://careers.thetradedesk.com/jobs)
 * [Uber](https://www.uber.com/gb/en/careers/)
+* [Wikimedia Foundation](https://wikimediafoundation.org/jobs/)
 * [Wise](https://wise.jobs/)
 * [XTX Markets](https://www.xtxmarkets.com/)
