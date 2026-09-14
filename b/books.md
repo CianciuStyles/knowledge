@@ -35,6 +35,7 @@
 * [Alex Vermeer](https://alexvermeer.com/bookshelf/)
 * [Bill Gates](https://www.gatesnotes.com/Books)
 * [Derek Sivers](https://sive.rs/book)
+  * [Watching the English by Kate Fox](https://sive.rs/book/WatchingTheEnglish)
 * [HN Reads](https://hnreads.com/)
   * [Top 40 books of 2023](https://hnreads.com/post/top40_2023/)
 * [James Clear](https://jamesclear.com/best-books)
