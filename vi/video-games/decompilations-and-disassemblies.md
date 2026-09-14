@@ -26,6 +26,7 @@
   * [Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
 * [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher)
+* [RecompOne](https://github.com/BlackLabelHQ/RecompOne) - PSX Static Recompiler and Runtime
 * [RetComM Launcher](https://github.com/TechnicallyComputers/RetComM-Launcher) - A frontend for updating, managing, and distributing static recompilations
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
@@ -45,6 +46,7 @@
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4)
 * [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
+* [OpenSpideyPS1](https://github.com/GTTeancum/OpenSpideyPS1) - Native recompilations of Neversoft's PlayStation Spider-Man games
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
 * [Perfect Dark](https://github.com/n64decomp/perfect_dark) ([fork](https://github.com/perfect-dark-pc-port/perfect_dark))
 * [Pikmin](https://github.com/projectPiki/pikmin)
