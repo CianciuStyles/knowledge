@@ -29,6 +29,11 @@
 * [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher)
 * [RecompOne](https://github.com/BlackLabelHQ/RecompOne) - PSX Static Recompiler and Runtime
 * [RetComM Launcher](https://github.com/TechnicallyComputers/RetComM-Launcher) - A frontend for updating, managing, and distributing static recompilations
+* [SNESRecomp](https://github.com/RetroPortingToolKit/snesrecomp) - Super Nintendo (SNES) game static recompiler ecosystem
+  * [DKC1Recomp](https://github.com/elliotttate/DKC1Recomp)
+  * [MegaManXSNESRecomp](https://github.com/mstan/MegaManXSNESRecomp)
+  * [SuperMarioWorldRecomp](https://github.com/mstan/SuperMarioWorldRecomp)
+  * [ZeldaAlttPSNESRecomp](https://github.com/mstan/ZeldaAlttPSNESRecomp)
 * [Zelda Reverse Engineering Team](https://zelda64.dev/)
 
 ### Individual Game Projects
@@ -40,6 +45,7 @@
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp), [Overview](https://sotn.dev/))
 * [Descent 3](https://github.com/kevinbentley/Descent3)
+* [Donkey Kong Country](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly)
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
@@ -49,6 +55,8 @@
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [OpenSpideyPS1](https://github.com/GTTeancum/OpenSpideyPS1) - Native recompilations of Neversoft's PlayStation Spider-Man games
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
+* [Parasite Eve II Decompilation](https://github.com/GabeRealB/parasite-eve-2-decomp)
+* [Parasite Eve II HD Remaster](https://github.com/faligame/Parasite-Eve-2-HD-Remaster)
 * [Perfect Dark](https://github.com/n64decomp/perfect_dark) ([fork](https://github.com/perfect-dark-pc-port/perfect_dark))
 * [Pikmin](https://github.com/projectPiki/pikmin)
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
