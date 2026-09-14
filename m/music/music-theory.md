@@ -23,6 +23,7 @@
 * [JazzIn](https://jazzln.vercel.app/)
 * [Lend Me Your Ears](https://lend-me-your-ears.specr.net/) - A musical ear training game
 * [Lightnote](https://www.lightnote.co/) - Interactive Music Theory Sessions
+* [Musicca](https://www.musicca.com/) - Learn music theory for free
 * [musictheory.net](https://www.musictheory.net/)
 * [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby W. Rush
 * [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) - Robert Hutchinson
