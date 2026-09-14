@@ -10,7 +10,9 @@
 
 ### Japan
 
+* [akibashipping](https://akibashipping.com/) - Free shipping from Japan
 * [Buyee](https://buyee.jp/) - Japanese Proxy Service
+* [CDJapan](https://www.cdjapan.co.jp/)
 * [Japan Centre](https://www.japancentre.com/en) - Largest UK Japanese Supermarket
 * [Mercari](https://jp.mercari.com/en) - Japan's largest marketplace
 * [Otaku.co.uk](https://www.otaku.co.uk/) - UK Based Anime/Game Art Books and More...
