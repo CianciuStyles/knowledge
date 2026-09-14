@@ -12,10 +12,32 @@
 
 ## Microsoft Xbox 360
 
+### Emulators
+
+* [XenDroid](https://github.com/rfandango/XenDroid) - Android Xbox 360 Emulator
+
+### Exploits
+
 * [360 Hack Pack](https://alex-free.github.io/360-hack-pack/) - Everything you need to hack an Xbox 360, ready to be copied onto a USB drive in one download!
 * [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
 * [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe) - Xbox 360 executable designed to apply freedom-unlocking patches based on xeBuild to the kernel and hypervisor
-* [XenDroid](https://github.com/rfandango/XenDroid) - Android Xbox 360 Emulator
+
+### Reddit threads
+
+* [Dusting off the Xbox 360 - what are the best games I have missed?](https://www.reddit.com/r/patientgamers/comments/4cpdvx/dusting_off_the_xbox_360_what_are_the_best_games/)
+* [Long time PC gamer, just got a 360 for next to nothing. Any interesting console exclusives I should pick up](https://www.reddit.com/r/patientgamers/comments/4myhcp/xbox_360_long_time_pc_gamer_just_got_a_360_for/)
+* [Recommend some xbox 360 games](https://www.reddit.com/r/patientgamers/comments/56a20r/recommend_some_xbox_360_games/)
+
+### Subreddits
+
+* [r/360hacks](https://www.reddit.com/r/360hacks/)
+* [r/x360Collectors](https://www.reddit.com/r/X360Collectors/)
+* [r/xbox360](https://www.reddit.com/r/xbox360/)
+* [r/xbox360games](https://www.reddit.com/r/xbox360games/)
+* [r/Xbox360Support](https://www.reddit.com/r/Xbox360Support/)
+
+### Websites
+
 * [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
 
 ## Nintendo 3DS
