@@ -16,6 +16,7 @@
 * [Ports decomp/recomp](https://portsdr.com/)
 * [PSXRecomp](https://github.com/mstan/psxrecomp) - A general-purpose static recompiler for the PlayStation 1
   * [ApeEscapeRecomp](https://github.com/mstan/ApeEscapeRecomp)
+  * [Crash2Recomp](https://github.com/Zumbo06/Crash2Recomp)
   * [MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp)
   * [MegaManX5Recomp](https://github.com/mstan/MegaManX5Recomp)
   * [MegaManX6Recomp](https://github.com/mstan/MegaManX6Recomp)
