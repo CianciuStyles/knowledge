@@ -1,16 +1,16 @@
 # Consoles
 
-### Atari Jaguar
+## Atari Jaguar
 
 * [BigPEmu](https://www.richwhitehouse.com/jaguar/) - Atari Jaguar Emulator
 
-### Microsoft Xbox
+## Microsoft Xbox
 
 * [ENDGAME](https://github.com/XboxDev/endgame-exploit) - A Dashboard Exploit for the Original Xbox
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
   * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
-### Microsoft Xbox 360
+## Microsoft Xbox 360
 
 * [360 Hack Pack](https://alex-free.github.io/360-hack-pack/) - Everything you need to hack an Xbox 360, ready to be copied onto a USB drive in one download!
 * [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
@@ -18,13 +18,13 @@
 * [XenDroid](https://github.com/rfandango/XenDroid) - Android Xbox 360 Emulator
 * [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
 
-### Nintendo 3DS
+## Nintendo 3DS
 
 * [3DS Hacks Guide](https://3ds.hacks.guide/)
 * [Azahar](https://azahar-emu.org/) - open-source 3DS emulator based on Citra
 * [Pretendo Network](https://pretendo.network/) - open source replacement for Nintendo servers
 
-### Nintendo 64
+## Nintendo 64
 
 * Archive.org
   * [Nintendo 64 Full Regional Upload](https://archive.org/details/Nintendo64FullRegionalUploadByGhostware)
@@ -33,18 +33,18 @@
 * [Simple 64](https://simple64.github.io/) - Nintendo 64 Emulator
 * [SummerCart64](https://summercart64.dev/)
 
-### Nintendo DS
+## Nintendo DS
 
 * [List of all DS homebrew](https://www.gamebrew.org/wiki/List_of_all_DS_homebrew)
 
-### Nintendo Game Boy
+## Nintendo Game Boy
 
 * Archive.org
   * [Game Boy Collection](https://archive.org/download/game-boy-collection)
 * [Gearboy](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch
 * [Retro Boy](https://smparsons.github.io/retroboy/) - Game Boy emulator that can be played on the web ([GitHub](https://github.com/smparsons/retroboy))
 
-### Nintendo GameCube
+## Nintendo GameCube
 
 * Archive.org
   * [Nintendo GameCube Europe & Japan](https://archive.org/details/rr-nintendo-gamecube)
@@ -55,13 +55,13 @@
 * [r/GameCube](https://www.reddit.com/r/Gamecube/)
 * [Swiss](https://github.com/emukidid/swiss-gc) - The swiss army knife of GameCube homebrew
 
-### Nintendo Switch
+## Nintendo Switch
 
 * [Eden](https://eden-emulator.github.io/) - Nintendo Switch Emulator
 * [Sudachi](https://sudachiemu.com/home/) - Nintendo Switch Emulator for Android and PC
 * [switchroot](https://switchroot.org/) - Android and Linux for the Nintendo Switch
 
-### Nintendo Wii
+## Nintendo Wii
 
 * Archive.org
   * [Nintendo Wii Europe 1/3 A-K](https://archive.org/details/rr-nintendo-wii-e1)
@@ -75,21 +75,21 @@
 * [WiiBrew](https://wiibrew.org/wiki/Main_Page)
 * [Wiimmfi](https://wiimmfi.de/) - open source implementation of the Nintendo Wi-Fi Connection (WFC)
 
-### Nintendo Wii U
+## Nintendo Wii U
 
 * [Cemu](https://cemu.info/) - Wii U Emulator
 
-### Sega Dreamcast
+## Sega Dreamcast
 
 * Archive.org
   * [Sega Dreamcast](https://archive.org/details/redump.dc.revival)
 * [Flycast](https://github.com/flyinghead/flycast) - Multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 
-### Sega Master System
+## Sega Master System
 
 * [Gearsystem ](https://github.com/drhelius/Gearsystem)- Sega Master System / Game Gear / SG-1000 emulator for macOS, Windows, Linux, BSD and RetroArch
 
-### Sega Mega Drive
+## Sega Mega Drive
 
 * Archive.org
   * [Sega Mega Drive Europe](https://archive.org/details/sega-mega-drive-europe)
@@ -97,7 +97,7 @@
 * [Helios](https://github.com/fedex81/helios) - A Java-based Sega Mega Drive/Genesis emulator
 * [Nuked MD](https://github.com/nukeykt/Nuked-MD) - Cycle accurate Mega Drive emulator
 
-### Sega Saturn
+## Sega Saturn
 
 * [1995 SEGA Saturn Repair & Restoration](https://retrorepairsandrefurbs.com/2024/02/29/1995-sega-saturn-repair-restoration/) - Adam's Vintage Computer Restorations
 * Archive.org
@@ -114,19 +114,33 @@
 * [These Plug N’ Play SEGA Saturn Mods Make Me Happy](https://www.youtube.com/watch?v=tspS_6vT9sA) - Macho Nacho Productions
 * [Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
 
-### Sony PlayStation
+## Sony PlayStation
 
 * [Alex Free](https://alex-free.github.io/#psx)
 * Archive.org
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
-* [FreePSXBoot](https://github.com/brad-lin/FreePSXBoot)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
 * [PS1 Tutorial: Install FreePSXBoot (TonyHax) using PS2 with FreeMCBoot for Backups/Regionfree](https://www.youtube.com/watch?v=BUH6l1nZmpY) - Wobbling Pixels
+
+### Exploits
+
+* [FreePSXBoot](https://github.com/brad-lin/FreePSXBoot)
 * [Tonyhax International](https://alex-free.github.io/tonyhax-international/) - The Ultimate Backup CD-R/Import Disc Loader Soft-Mod Solution For The Original PlayStation & Early Models Of PlayStation 2
 * [Unirom](https://unirom.github.io/) - Bootdisc, Firmware, Shell for PSX
 
-### Sony PlayStation 2
+### Reddit threads
+
+* [Best PS1 RPGs?](https://www.reddit.com/r/patientgamers/comments/57uy78/best_ps1_rpgs/)
+* [I got around and bought a PS1 in a garage sale, best games to start with?](https://www.reddit.com/r/patientgamers/comments/4jve1g/i_got_around_and_bought_a_ps1_in_a_garage_sale/)
+* [PS1 hidden gems? (no JRPG/fighting)](https://www.reddit.com/r/psx/comments/1wahvb4/ps1_hidden_gems_no_jrpgfighting/)
+
+### Subreddits
+
+* [r/ps1](https://www.reddit.com/r/ps1/)
+* [r/psx](https://www.reddit.com/r/psx/)
+
+## Sony PlayStation 2
 
 * Archive.org
   * [Sony Playstation 2 Europe 1/3 A-G](https://archive.org/details/rr-sony-playstation-2)
@@ -151,29 +165,29 @@
 * [r/ps2homebrew](https://www.reddit.com/r/ps2homebrew/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
 
-### Sony PlayStation 3
+## Sony PlayStation 3
 
 * [PS Online Network Emulated](https://www.psone.online/)
 * [PSRewired Online Servers](https://psrewired.com/)
 * [RPCS3](https://rpcs3.net/) - The Open-source PlayStation 3 Emulator
 
-### Sony PlayStation 4
+## Sony PlayStation 4
 
 * [chiaki-ng](https://streetpea.github.io/chiaki-ng/) - Free and Open Source PlayStation Remote Play Client
 * [ShadPS4](https://shadps4.net/) ([GitHub](https://github.com/shadps4-emu/shadPS4)) - PS4 emulator for PC
 
-### Sony PlayStation 5
+## Sony PlayStation 5
 
 * [Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 * [SharpEmu](https://sharpemu.app/) ([GitHub](https://github.com/sharpemu/sharpemu)) - An experimental PlayStation 5 emulator for Windows, Linux and macOS
 
-### Sony PlayStation Portable
+## Sony PlayStation Portable
 
 * [ARK-4](https://github.com/PSP-Archive/ARK-4) - custom firmware
 * [PSRewired Online Servers](https://psrewired.com/)
 * [r/PSP Wiki](https://www.reddit.com/r/PSP/wiki/index)
   * [Convert PSX Games to PSP Format](https://www.reddit.com/r/PSP/wiki/psx2psp)
 
-### Sony PlayStation Vita
+## Sony PlayStation Vita
 
 * [Vita3K](https://vita3k.org/) - PlayStation Vita Emulator
