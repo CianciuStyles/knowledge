@@ -98,6 +98,7 @@
 
 * [Budget Brews](https://budgetbrews.netlify.app/)
 * [Busy Boozer](https://busyboozer.com/)
+* [Crumbs map of London restaurants](https://www.crumbsapp.co.uk/discover)
 * [Ethnic Food Recommendations](https://www.google.com/maps/d/viewer?ll=51.59413215119853%2C-0.6189512999999858\&z=8\&mid=1Uq_uwLNXy8OYC6MjDretfGYVSG1OdpI9)
 * [Favourite ethnic food in London](https://www.google.com/maps/@51.5041307,-0.4742993,10z/data=!4m3!11m2!2sueNe9IxNjaTEzWStqi-321dXUYxDJQ!3e3?entry=ttu\&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D)
 * [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
@@ -153,7 +154,9 @@
 
 ### Reddit Threads
 
+* [A map of \~1,000 London restaurants worth eating at (because I'm done doom scrolling Google Maps)](https://www.reddit.com/r/LondonFood/comments/1wcckur/a_map_of_1000_london_restaurants_worth_eating_at/)
 * [Best Biryani in London?](https://www.reddit.com/r/london/comments/1bldm01/best_biryani_in_london/)
+* [Best pizza in London?](https://www.reddit.com/r/LondonFood/comments/1w8arhz/best_pizza_in_london/)
 * [Cheap eats in central London](https://www.reddit.com/r/london/comments/1gnwqpb/cheap_eats_in_central_london/)
 * [Favourite London walks?](https://www.reddit.com/r/london/comments/1aixwhw/favourite_london_walks/)
 * [Fun, inexpensive things to do while living in London](https://www.reddit.com/r/london/comments/15mbbcm/fun_inexpensive_things_to_do_while_living_in/)
@@ -203,8 +206,9 @@
 
 ### Subreddits
 
-* [r/London](https://www.reddit.com/r/london/)
-  * [Wiki](https://www.reddit.com/r/london/wiki/index)
+* [r/cheaplondon](https://www.reddit.com/r/cheaplondon/)
+* [r/London](https://www.reddit.com/r/london/) ([Wiki](https://www.reddit.com/r/london/wiki/index))
+* [r/LondonFood](https://www.reddit.com/r/LondonFood/)
 * [r/LondonFootballMeetup](https://www.reddit.com/r/londonfootballmeetup/)
 * [r/LondonSocialClub](https://www.reddit.com/r/LondonSocialClub/)
 
