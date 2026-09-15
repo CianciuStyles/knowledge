@@ -25,6 +25,7 @@
 ### Reddit threads
 
 * [What made you lose a significant amount of weight?](https://www.reddit.com/r/AskReddit/comments/1h3qyip/what_made_you_lose_a_significant_amount_of_weight/)
+* [What is the best exercise to lose weight?](https://www.reddit.com/r/AskReddit/comments/1was01p/what_is_the_best_exercise_to_lose_weight/)
 
 ### YouTube Videos
 
