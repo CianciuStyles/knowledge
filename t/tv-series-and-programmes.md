@@ -23,6 +23,7 @@
 * [Favourite British Game shows of all time?](https://www.reddit.com/r/AskUK/comments/s0hcd7/favourite_british_game_shows_of_all_time/)
 * [What's a great TV show from that past that people may have missed?](https://www.reddit.com/r/AskUK/comments/127dg9b/whats_a_great_tv_show_from_that_past_that_people/)
 * [What's a great TV show that nobody talks about?](https://www.reddit.com/r/AskReddit/comments/s0tjvz/whats_a_great_tv_show_that_nobody_talks_about/)
+* [What’s a series 100% worth binging?](https://www.reddit.com/r/AskReddit/comments/1wgmho8/whats_a_series_100_worth_binging/)
 * [What's a show that has never had a bad episode?](https://www.reddit.com/r/AskReddit/comments/oo0dcr/whats_a_show_that_has_never_had_a_bad_episode/)
 * [What's a tv series that is a 10/10 NOBODY knows?](https://www.reddit.com/r/AskReddit/comments/1qefou9/whats_a_tv_series_that_is_a_1010_nobody_knows/)
 * [What’s a TV show you can rewatch forever?](https://www.reddit.com/r/AskReddit/comments/1trxrmp/whats_a_tv_show_you_can_rewatch_forever/)
