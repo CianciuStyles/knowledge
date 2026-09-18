@@ -144,6 +144,7 @@
 * [What book should everyone on the planet read?](https://www.reddit.com/r/books/comments/4x5ljx/what_book_should_everyone_on_the_planet_read/)
 * [What book would recommend to read?](https://www.reddit.com/r/AskReddit/comments/5mjiqp/serious_what_book_would_recommend_to_read/)
 * [What books do you find yourself re-reading?](https://www.reddit.com/r/books/comments/526iku/what_books_do_you_find_yourself_rereading/)
+* [What is a 100/10 book that everyone should read?](https://www.reddit.com/r/AskReddit/comments/1whbdtd/what_is_a_10010_book_that_everyone_should_read/)
 * [What is a book everyone must read?](https://www.reddit.com/r/AskReddit/comments/4h8zag/what_is_a_book_everyone_must_read/)
 * [What is that one book, that absolutely changed your life?](https://www.reddit.com/r/AskReddit/comments/m7nz9t/what_is_that_one_book_that_absolutely_changed/)
 * [What is the best book you’ve ever read?](https://www.reddit.com/r/AskReddit/comments/14ihoen/what_is_the_best_book_youve_ever_read/)
