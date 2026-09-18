@@ -18,10 +18,12 @@
 * [Reducing salary just under £100k to get free childcare](https://www.reddit.com/r/HENRYUK/comments/1ca8zy5/reducing_salary_just_under_100k_to_get_free/)
 * [The HENRY guide to childcare subsidies and when it's worth sacrificing below £100k](https://www.reddit.com/r/HENRYUK/comments/1j76zl8/the_henry_guide_to_childcare_subsidies_and_when/)
 * [What nursery looks like pre 100k and post 100k](https://i.redd.it/mkaljmbpqpze1.jpeg)
+* [What’s something your parents or grandparents did that you now realize was low-key genius parenting?](https://www.reddit.com/r/AskReddit/comments/1whyxie/whats_something_your_parents_or_grandparents_did/)
 
 ### Websites
 
 * [EnjoyBenefits](https://www.enjoybenefits.co.uk/staff-benefits-savings/workplace-nursery-benefit/) - Workplace Nursery Benefit
+* [Koru Kids](https://www.korukids.co.uk/) - Find nannies in London
 * [Pathways.org](https://pathways.org)
 * [Pregnant Then Screwed](https://pregnantthenscrewed.com/)
 * [Tax-Free Childcare](https://www.childcarechoices.gov.uk/tax-free-childcare)
