@@ -114,6 +114,8 @@
   * [Foods That Help Headache and Migraine Relief](https://nutritionfacts.org/video/foods-that-help-headache-and-migraine-relief/)
 * [OpenNutrition](https://www.opennutrition.app/)
 * [Protein Ranking Calculator](https://proteinatlas.ca/tools/protein-ranker/)
+* [Red Pen Reviews](https://www.redpenreviews.org/) - Expert Reviews of Nutrition Books
+  * [Our Reviews](https://www.redpenreviews.org/reviews/?sort=overall_desc)
 * [The Keto Shop](https://theketoshop.co.uk/)
 
 ### YouTube Channels
