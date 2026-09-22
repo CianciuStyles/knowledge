@@ -161,18 +161,21 @@
 
 ### Remixes
 
-* [Koopa Keys](https://www.youtube.com/@KoopaKeys0000)
-  * [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
 * [heavymachinegun](https://www.youtube.com/@heavymachinegun-h6b)
   * [Street Fighter EX Plus Alpha Soundtrack \~ City Pop](https://www.youtube.com/watch?v=xLwxnHcegN4)
 * [iridium beats](https://www.youtube.com/@iridiumbeats)
   * [Final Fantasy VII \~ City Pop Soundtrack](https://www.youtube.com/watch?v=ZN3iJZ6wxPM)
   * [Final Fantasy VIII \~ City Pop / Jazz Fusion Soundtrack](https://www.youtube.com/watch?v=sXdQDV3CwgY)
   * [Super Mario Galaxy \~ City Pop Soundtrack](https://www.youtube.com/watch?v=twma-SElHzI)
+* [Koopa Keys](https://www.youtube.com/@KoopaKeys0000)
+  * [Memories Of Raccoon City - A Tribute to Resident Evil 2](https://www.youtube.com/watch?v=Yxy39PPQ2CE)
 * [Nintendo Dreams](https://www.youtube.com/@NintendoDreams)
   * [Crash Bandicoot | Deep House & Vaporwave OST](https://www.youtube.com/watch?v=8dWFKIG11OI)
 * [Phantasia Records](https://www.youtube.com/@PhantasiaRecords)
   * [Donkey Kong Country but it's Japanese Jazz Fusion](https://www.youtube.com/watch?v=N8iJQB_UEyE)
+* [RETROSCAPE FM](https://www.youtube.com/@RETROSCAPEFM)
+  * [R4: RIDGE RACER TYPE 4 (1998) OST | Guitar Chill Mix](https://www.youtube.com/watch?v=YTnob5wt3RA)
+  * [R4: RIDGE RACER TYPE 4 OST | KEYS VERSION](https://www.youtube.com/watch?v=fzs-IRCd078)
 
 ### Soundtracks
 
