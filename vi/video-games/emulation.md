@@ -114,6 +114,7 @@
   * [PlayStation 4 Emulation on the PC has hit a huge milestone](https://www.youtube.com/watch?v=KZvSEdFGyxE)
   * [PlayStation 4 emulation on the PC is here](https://www.youtube.com/watch?v=yIMseCc9tZY)
   * [PlayStation 5 Emulation on the PC Is Here](https://www.youtube.com/watch?v=j8UtATA2oMc)
+  * [PS5 Emulation Just Got Serious...](https://www.youtube.com/watch?v=20ISFkug3jQ)
   * [RPCS3 PlayStation 3 emulation on the PC is seriously impressive](https://www.youtube.com/watch?v=ljJ8DKEy69c)
   * [RPCS3 PS3 emulator just got updated... and its awesome!](https://www.youtube.com/watch?v=X-qxSyBr6cs)
   * [Sega Saturn Games are running on the Nintendo Switch...](https://www.youtube.com/watch?v=YiKBw2RGcow)
