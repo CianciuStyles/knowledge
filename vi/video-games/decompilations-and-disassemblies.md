@@ -9,6 +9,7 @@
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
   * [DK64 Rekongpiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ([website](https://dk64recomp.com/))
+  * [Ogre Battle 64: Person of Lordly Caliber](https://github.com/lfarroco/ogre-battle-64-recomp)
   * [Snap64 Recomp](https://github.com/JackandBeans/Snap64Recomp)
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
@@ -62,6 +63,7 @@
 * [Pikmin 2](https://github.com/projectPiki/pikmin2)
 * [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond)
 * [ReBandicoot](https://github.com/2010kohtep/ReBandicoot) - Attempts to reverse engineer the Crash Bandicoot N. Sane Trilogy game
+* [Resident Evil 4 (GameCube)](https://github.com/adonis-singh/re4)
 * [Resident Evil Gaiden](https://github.com/wowjinxy/RE-Gaiden)
 * [Resident Evil Gaiden: Recompiled](https://github.com/sergiomanzur/regaiden-recomp)
 * [Resident Evil – Code: Veronica X](https://github.com/FedericoMilesi/recvx2c)
