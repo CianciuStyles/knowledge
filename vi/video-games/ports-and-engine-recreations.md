@@ -50,6 +50,7 @@
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
 * [OpenTomb](https://opentomb.github.io/) ([GitHub](https://github.com/opentomb/opentomb)) - a Cross-Platform reimplementation of classic Tomb Raider 1-5 engines
 * [PortForge](https://github.com/zamiba/portforge-app) - A desktop application for managing and launching game ports
+* [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) - A lightweight library/installer for native "recomp" and source-port builds of console games, for Windows
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive_reversing)) - Abe's Oddysee / Exoddus for modern platforms
 * [RBDoom-3-BFG ](https://github.com/RobertBeckebans/RBDOOM-3-BFG/)- modernization effort of DOOM-3-BFG
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
