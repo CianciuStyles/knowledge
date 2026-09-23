@@ -43,6 +43,7 @@
 * [Animal Forest](https://github.com/zeldaret/af)
 * [Asteroids](https://github.com/nmikstas/asteroids-disassembly)
 * [Banjo-Kazooie](https://github.com/n64decomp/banjo-kazooie)
+* [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) ([wiki](https://github.com/Druthulu/BFM-decomp/wiki))
 * [Carmageddon](https://github.com/dethrace-labs/dethrace)
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp), [Overview](https://sotn.dev/))
 * [Descent 3](https://github.com/kevinbentley/Descent3)
