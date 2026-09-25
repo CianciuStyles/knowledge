@@ -58,6 +58,17 @@
 
 ### Final Fantasy VII
 
+* [7th Heaven](https://7thheaven.rocks/) - The Ultimate Mod Manager for Final Fantasy VII PC
+  * [\[Tsunamods\] Cosmo Memory](https://forums.qhimm.com/index.php?topic=20475.0)
+  * [\[Tsunamods\] Echo-S](https://discord.gg/tsunamods-community-277610501721030656)
+  * [\[Tsunamods\] Enhanced Stock UI](http://forums.qhimm.com/index.php?topic=19120.0)
+  * [60/30 FPS Gameplay](https://github.com/tangtang95/ff7-60fps-mod)
+  * [Caledor Italian ReTranslation](https://forums.qhimm.com/index.php?topic=18903)
+  * [Cosmos Limit Break](https://forums.qhimm.com/index.php?topic=21686.0)
+  * [ESUI Italian ReTranslation Addon](https://forums.qhimm.com/index.php?topic=19880.0)
+  * [NinoStyle Battle Models](https://www.nexusmods.com/finalfantasy7/mods/4?tab=description)
+  * [NinoStyle Chibi Field Models](https://www.nexusmods.com/finalfantasy7/mods/4?tab=description)
+  * [NinoStyle HD Field Models](https://www.nexusmods.com/finalfantasy7/mods/4?tab=description)
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
 
 ### Final Fantasy VIII
