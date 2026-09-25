@@ -181,6 +181,7 @@
   * [I Replaced Free McBoot With THIS, And Won't Go Back](https://www.youtube.com/watch?v=afetcJgUafg) - Macho Nacho Productions
   * [This PS2 Pro Mod Changes Everything! PSBBN Install Guide](https://www.youtube.com/watch?v=LLmJPF-XVxs) - Blaine Locklair
 * [PCSX2](https://pcsx2.net/) - open source PlayStation 2 Emulator
+* [PS2 Homebrew Store](https://ps2homebrewstore.com/)
 * [PS2Wide](http://ps2wide.net/) - Widescreen Hex Codes And Patches
 * [PSRewired Online Servers](https://psrewired.com/)
 * [r/PCSX2](https://www.reddit.com/r/PCSX2/)
