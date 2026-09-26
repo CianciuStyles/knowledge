@@ -140,6 +140,7 @@
 
 * [Alex Free](https://alex-free.github.io/#psx)
 * Archive.org
+  * [PAL Sony PlayStation 1 RAW 1200 DPI Cover Scans](https://archive.org/details/PAL_PS1_CoverScans)
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
