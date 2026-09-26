@@ -14,11 +14,13 @@
 
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [Awesome, unofficial PC ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)
+* [Decompilations & Recompilations](https://thegamingemporium.com/categories/decompilations-recompilations/) - The Gaming Emporium
 * [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports) - Emulation General Wiki
 * [List of Android ports (Windows based games)](https://www.reddit.com/r/EmulationOnAndroid/comments/1nfzvph/list_of_android_ports_windows_based_games/)
 * [List of game engine recreations](https://www.wikiwand.com/en/articles/List_of_game_engine_recreations) - Wikipedia
 * [List of unofficial ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports) - PCGamingWiki
 * [recomp.board](https://recomp.fyi/) - Who’s recompiling what.
+* [Recompendium](https://nio03.github.io/unricopie/en/)
 
 ### Engine Recreations & Source Ports
 

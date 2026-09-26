@@ -4,6 +4,7 @@
 
 * [Alexbeav's PS1 Recomps](https://alexbeav.github.io/psxrecomp-ports/)
 * [Awesome Game Decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)
+* [Decompilations & Recompilations](https://thegamingemporium.com/categories/decompilations-recompilations/) - The Gaming Emporium
 * [Decompiled Retail Console Games](https://www.retroreversing.com/source-code/decompiled-retail-console-games)
 * [Github Launcher](https://github.com/SirDiabo/GithubLauncher)
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
