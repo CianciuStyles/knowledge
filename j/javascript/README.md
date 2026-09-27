@@ -45,6 +45,8 @@
 
 * [ECMAScript 6 - New Features: Overview & Comparison](https://es6-features.org/#Constants)
 * [JSON For You](https://json4u.com/) - Visualize and process JSON in seconds ([GitHub](https://github.com/loggerhead/json4u))
+* [Obfuscator.io](https://obfuscator.io/)
+* [Obfuscator.io Deobfuscator](https://obf-io.deobfuscate.io/) - A tool to undo obfuscation performed by obfuscator.io
 * [p5.js](https://p5js.org/)
 * [Patterns.dev](https://www.patterns.dev/)
 * [Simplified JavaScript jargon](https://jargon.js.org/)
