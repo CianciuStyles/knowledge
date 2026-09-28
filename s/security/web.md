@@ -29,6 +29,11 @@
 * [MetaDefender Cloud](https://metadefender.opswat.com/)
 * [VirusTotal](https://www.virustotal.com)
 
+#### Web Shells
+
+* [b374k shell](https://github.com/b374k/b374k)
+* [p0wny-shell](https://github.com/flozz/p0wny-shell)
+
 ### Websites
 
 * [abuse.ch](https://abuse.ch/) - Fighting malware and botnets
