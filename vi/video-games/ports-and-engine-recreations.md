@@ -12,6 +12,7 @@
 
 ### Directories & Lists
 
+* [Android Ports](https://docs.google.com/spreadsheets/u/0/d/1GrLXvVH_xEsbUadDLo_dSlFkYdj6GTeXyRfdyy3-CGU/htmlview)
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [Awesome, unofficial PC ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)
 * [Decompilations & Recompilations](https://thegamingemporium.com/categories/decompilations-recompilations/) - The Gaming Emporium
