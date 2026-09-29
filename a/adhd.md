@@ -16,6 +16,10 @@
 * [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
 * [Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
 
+### Images
+
+<figure><img src="../.gitbook/assets/Weird ADHD tricks your therapist made you try.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Podcasts
 
 * [The ADHD Doctor: “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen](https://www.youtube.com/watch?v=ycTZ_t-aiuU) - Diary Of A CEO
