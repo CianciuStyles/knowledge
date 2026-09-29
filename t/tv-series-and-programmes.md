@@ -12,6 +12,8 @@
 
 <figure><img src="../.gitbook/assets/Ranking The Best TV Shows Of All Time.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/The New York Times - The Best 100 TV Shows.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### IPTV Playlists
 
 * [Free TV](https://github.com/Free-TV/IPTV)
