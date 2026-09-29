@@ -21,6 +21,10 @@
 
 ### Images
 
+<figure><img src="../.gitbook/assets/6-Month New Life Plan.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/9 Habits I Used To Unfuck Myself.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/20 Self-Reflection Questions to Improve Your Life and Work.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/How To Change Your Life In 6 Months.jpg" alt=""><figcaption></figcaption></figure>
