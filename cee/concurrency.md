@@ -21,6 +21,7 @@
 ### Books
 
 * [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.co.uk/dp/1491941197) - Katherine Cox-Buday
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Java Concurrency in Practice](https://www.amazon.co.uk/dp/0321349601) - Brian Goetz
 * [The Little Book Of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) - Allen B. Downey
 
