@@ -13,6 +13,7 @@
 * [Resident Evil Series Prototypes](https://archive.org/details/resident-evil-series-prototypes)
 * [Rocksmith 2014](https://cs.rin.ru/forum/viewtopic.php?f=10\&t=63705\&start=2865\&sid=e40b0518f0fa811095856105c168e85f)
 * [Romhacking.net](https://www.romhacking.net/)
+* [RomHackPatcher](https://romhackpatcher.com/)
 * [Super Metroid VARIA Randomizer, Solver and Trackers](https://randommetroidsolver.pythonanywhere.com/)
 * [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
 * [Tony Hawk's Pro Strcpy](https://github.com/grimdoomer/TonyHawksProStrcpy) - Code execution exploit for Tony Hawk's video game series
