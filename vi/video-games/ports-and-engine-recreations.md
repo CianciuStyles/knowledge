@@ -33,8 +33,9 @@
 * [CTR Native](https://github.com/CTR-tools/ctr-native) - A native PC port of Crash Team Racing
 * [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 * [DevilutionX](https://github.com/diasurgical/devilutionx) - Diablo build for modern operating systems
-* [dhewm3 ](https://dhewm3.org/)- Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
+* [dhewm3](https://dhewm3.org/) - Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
+* [Dusklight](https://twilitrealm.dev/) - reverse-engineered reimplementation of Twilight Princess ([GitHub](https://github.com/TwilitRealm/dusklight))
 * [EDuke32](https://www.eduke32.com/) - Duke3D for Windows, Linux, and MacOS
 * [Gears of War 2: Hollow](https://www.moddb.com/mods/gears-of-war-2-hollow/downloads/gears-of-war-2-hollow-launcher) - PC Port
 * [GemRB](https://gemrb.org/) - Portable open-source implementation of Bioware’s Infinity Engine
@@ -60,6 +61,8 @@
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 * [ScummVM](https://www.scummvm.org/) ([GitHub](https://github.com/scummvm/scummvm))
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+* [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - Mario Kart reimplementation
+* [Starship](https://github.com/HarbourMasters/Starship) - StarFox 64 PC Port
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * [Syndicate Wars](https://github.com/swfans/swars) - Alternative binary for the classic Bullfrog game
 * [The Force Engine ](https://theforceengine.github.io/)([GitHub](https://github.com/luciusDXL/TheForceEngine)) - Modern "Jedi Engine" replacement
