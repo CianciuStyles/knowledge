@@ -31,6 +31,8 @@
 * [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher)
 * [RecompOne](https://github.com/BlackLabelHQ/RecompOne) - PSX Static Recompiler and Runtime
 * [RetComM Launcher](https://github.com/TechnicallyComputers/RetComM-Launcher) - A frontend for updating, managing, and distributing static recompilations
+* [ReXGlue](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
+  * [Gears of War: Judgment for PC](https://github.com/OverkillLabs2/gears-judgment-recomp)
 * [SNESRecomp](https://github.com/RetroPortingToolKit/snesrecomp) - Super Nintendo (SNES) game static recompiler ecosystem
   * [DKC1Recomp](https://github.com/elliotttate/DKC1Recomp)
   * [MegaManXSNESRecomp](https://github.com/mstan/MegaManXSNESRecomp)
