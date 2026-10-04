@@ -75,6 +75,7 @@
 * Threads
   * [Best boardgames to play with your partner](https://www.reddit.com/r/boardgames/comments/1aeg6if/best_boardgames_to_play_with_your_partner/)
   * [Examples of games that always are a success](https://www.reddit.com/r/boardgames/comments/17rdsfr/exemple_of_games_that_always_are_a_success/)
+  * [Just a tierlist of games I played. Things are subject for change. Most of it was in the last year](https://i.redd.it/i2sncwo8hosh1.png)
   * [My top 22 games for 2-players](https://www.reddit.com/r/boardgames/comments/yu8qzy/my_top_22_games_for_2players/)
   * [The r/boardgames Favourite Games! I compiled \~200 of your top 5s to get this (extremely unofficial) list](https://www.reddit.com/r/boardgames/comments/1qvzkgq/the_rboardgames_favourite_games_i_compiled_200_of/)
   * [What’s a board game you absolutely love but your average Joe has never heard of it?](https://www.reddit.com/r/boardgames/comments/16cwpkl/whats_a_board_game_you_absolutely_love_but_your/)
