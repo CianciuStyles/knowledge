@@ -32,3 +32,5 @@
 ### Websites
 
 * [Dirty COW](https://dirtycow.ninja/) - Privilege escalation vulnerability in the Linux Kernel
+* [Linux Privilege Escalation](https://juggernaut-sec.com/category/linux-privilege-escalation/) - Juggernaut Pentesting Academy
+  * [Fail2Ban](https://juggernaut-sec.com/fail2ban-lpe/)
