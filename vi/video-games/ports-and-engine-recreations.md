@@ -15,6 +15,7 @@
 * [Android Ports](https://docs.google.com/spreadsheets/u/0/d/1GrLXvVH_xEsbUadDLo_dSlFkYdj6GTeXyRfdyy3-CGU/htmlview)
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
 * [Awesome, unofficial PC ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)
+* [Community Android Ports](https://fe2rr.github.io/)
 * [Decompilations & Recompilations](https://thegamingemporium.com/categories/decompilations-recompilations/) - The Gaming Emporium
 * [Game engine recreations and source ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports) - Emulation General Wiki
 * [List of Android ports (Windows based games)](https://www.reddit.com/r/EmulationOnAndroid/comments/1nfzvph/list_of_android_ports_windows_based_games/)
