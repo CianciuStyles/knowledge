@@ -546,6 +546,7 @@
 
 * [Adventure's Planet](https://www.adventuresplanet.it/)
 * [GameRankings Archived Scores Browser](https://gr.blade.sk/#/)
+* [Game Mag Ratings](https://neurocontrarian.github.io/game-mag-ratings/) - video games scores from retro magazines
 * [MetaCritic](https://www.metacritic.com/game)
 * [OpenCritic](https://opencritic.com/)
 * [Polygon](https://www.polygon.com/)
