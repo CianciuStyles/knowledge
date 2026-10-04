@@ -35,6 +35,7 @@
 * [What is a 10/10 great movie that originally came out 20+ years ago?](https://www.reddit.com/r/AskReddit/comments/1bbcpkz/what_is_a_1010_great_movie_that_originally_came/)
 * [What is a lesser-known but good movie?](https://www.reddit.com/r/AskReddit/comments/tnnjy1/what_is_a_lesserknown_but_good_movie/)
 * [What is a movie that is actually scary (preferably one that doesn't rely solely on jump scares)?](https://www.reddit.com/r/AskReddit/comments/9g5hhy/what_is_a_movie_that_is_actually_scary_preferably/)
+* [What is a movie you think is a 10/10, but rarely see anyone talking about?](https://www.reddit.com/r/AskReddit/comments/1wtklya/what_is_a_movie_you_think_is_a_1010_but_rarely/)
 * [What is a movie you would legitimatley call a masterpiece?](https://www.reddit.com/r/AskReddit/comments/41gexj/what_is_a_movie_you_would_legitimatley_call_a/)
 * [What is a perfect, 10/10 movie?](https://www.reddit.com/r/AskReddit/comments/1tzorbs/what_is_a_perfect_1010_movie/)
 * [What is the funniest movie you have ever watched?](https://www.reddit.com/r/AskReddit/comments/564tpu/what_is_the_funniest_movie_you_have_ever_watched/)
