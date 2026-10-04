@@ -54,6 +54,7 @@
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
 * [OpenTomb](https://opentomb.github.io/) ([GitHub](https://github.com/opentomb/opentomb)) - a Cross-Platform reimplementation of classic Tomb Raider 1-5 engines
+* [Open Nectar](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) - Pikmin Native PC/Android Port
 * [PortForge](https://github.com/zamiba/portforge-app) - A desktop application for managing and launching game ports
 * [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) - A lightweight library/installer for native "recomp" and source-port builds of console games, for Windows
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive_reversing)) - Abe's Oddysee / Exoddus for modern platforms
