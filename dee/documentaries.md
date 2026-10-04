@@ -19,6 +19,7 @@
 * [What is the best documentary you have seen?](https://www.reddit.com/r/AskReddit/comments/1j58iaa/what_is_the_best_documentary_you_have_seen/)
 * [What is the most chilling documentary you have ever watched?](https://www.reddit.com/r/AskReddit/comments/4x85gt/what_is_the_most_chilling_documentary_you_have/)
 * [What is the most heartbreaking UK documentary you’ve watched?](https://www.reddit.com/r/AskUK/comments/1nyublb/what_is_the_most_heartbreaking_uk_documentary/)
+* [What video essay/documentary on YouTube is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1ww6ka8/what_video_essaydocumentary_on_youtube_is_a_1010/)
 * [What was the best documentary you ever watched?](https://www.reddit.com/r/AskReddit/comments/1wtkemj/what_was_the_best_documentary_you_ever_watched/)
 * [What's the best documentary ever?](https://www.reddit.com/r/AskReddit/comments/1v1n5kh/whats_the_best_documentary_ever/)
 * [What’s the best documentary you have ever watched?](http://reddit.com/r/AskReddit/comments/1uuehad/whats_the_best_documentary_you_have_ever_watched/)
