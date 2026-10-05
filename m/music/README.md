@@ -31,7 +31,8 @@
 * [What is an absolute 10/10 album?](https://www.reddit.com/r/AskReddit/comments/1i8fqky/what_is_an_absolute_1010_album/)
 * ​[What is an album where EVERY song is good?](https://www.reddit.com/r/AskReddit/comments/ebdh8c/what_is_an_album_where_every_song_is_good/)​
 * ​[What is that one album that you think is pure hits no misses?](https://www.reddit.com/r/AskReddit/comments/ovlsun/what_is_that_one_album_that_you_think_is_pure/)​
-* ​[What is your favorite LONG song (over 7 minutes)?](https://www.reddit.com/r/AskReddit/comments/qm82cg/what_is_your_favorite_long_song_over_7_minutes/)​
+* ​[What is your favorite LONG song (over 7 minutes)?](https://www.reddit.com/r/AskReddit/comments/qm82cg/what_is_your_favorite_long_song_over_7_minutes/)
+* [What is your favourite 'One Hit Wonder'?](https://www.reddit.com/r/AskUK/comments/1wv68i1/what_is_your_favourite_one_hit_wonder/)​
 * ​[What music album is a true masterpiece from start to finish?](https://www.reddit.com/r/AskReddit/comments/xqi5n6/what_music_album_is_a_true_masterpiece_from_start/)​
 * ​[What song are you currently obsessed with?](https://www.reddit.com/r/AskReddit/comments/w03mt8/what_song_are_you_currently_obsessed_with/)​
 * ​[What song changed your whole taste in music?](https://www.reddit.com/r/AskReddit/comments/17sr711/what_song_changed_your_whole_taste_in_music/)​
