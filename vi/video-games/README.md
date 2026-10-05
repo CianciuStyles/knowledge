@@ -474,6 +474,7 @@
 * [What games can you binge for hours upon hours?](https://www.reddit.com/r/patientgamers/comments/8ys9ln/what_games_can_you_binge_for_hours_upon_hours/)
 * [What games were you so enraptured by that you beat them extremely quickly?](https://www.reddit.com/r/patientgamers/comments/5dngl2/what_games_were_you_so_enraptured_by_that_you/)
 * [What is a free pc game that everyone should get?](https://www.reddit.com/r/AskReddit/comments/5bmivn/what_is_a_free_pc_game_that_everyone_should_get/)
+* [What is in your opinion the best video game of all time?](https://www.reddit.com/r/AskReddit/comments/1wm37lb/what_is_in_your_opinion_the_best_video_game_of/)
 * [What is Must play games on ps3 2016?](https://www.reddit.com/r/patientgamers/comments/4udh6a/what_is_must_play_games_on_ps3_2016/)
 * [What is the best video game for couples to play?](https://www.reddit.com/r/AskReddit/comments/cw4za2/what_is_the_best_video_game_for_couples_to_play/)
 * [What is the oldest PC game you would describe as "having aged well"?](https://www.reddit.com/r/patientgamers/comments/6wsr3w/what_is_the_oldest_pc_game_you_would_describe_as/)
