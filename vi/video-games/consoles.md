@@ -144,7 +144,6 @@
   * [Sony Playstation (Europe)](https://archive.org/download/rr-sony-playstation/europe/)
   * [Sony Playstation (Italy)](https://archive.org/download/rr-sony-playstation/europe/italy/)
 * [Playstation cue and sbi files collection](https://github.com/opsxcq/psx-cue-sbi-collection)
-* [PS1 Tutorial: Install FreePSXBoot (TonyHax) using PS2 with FreeMCBoot for Backups/Regionfree](https://www.youtube.com/watch?v=BUH6l1nZmpY) - Wobbling Pixels
 
 ### Exploits
 
@@ -162,6 +161,11 @@
 
 * [r/ps1](https://www.reddit.com/r/ps1/)
 * [r/psx](https://www.reddit.com/r/psx/)
+
+### YouTube Videos
+
+* [20 BEST Selling PS1 Games of All Time](https://www.youtube.com/watch?v=W7kzCDmle8U) - Cultured Vultures
+* [PS1 Tutorial: Install FreePSXBoot (TonyHax) using PS2 with FreeMCBoot for Backups/Regionfree](https://www.youtube.com/watch?v=BUH6l1nZmpY) - Wobbling Pixels
 
 ## Sony PlayStation 2
 
