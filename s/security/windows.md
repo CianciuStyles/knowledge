@@ -73,6 +73,7 @@
 
 ### Tools
 
+* [FLARE-VM](https://github.com/mandiant/flare-vm)
 * [Magnet DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/)
 * [Registry Explorer](https://ericzimmerman.github.io/#!index.md) - Eric Zimmerman
 
