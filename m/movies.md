@@ -38,6 +38,7 @@
 * [What is a movie you think is a 10/10, but rarely see anyone talking about?](https://www.reddit.com/r/AskReddit/comments/1wtklya/what_is_a_movie_you_think_is_a_1010_but_rarely/)
 * [What is a movie you would legitimatley call a masterpiece?](https://www.reddit.com/r/AskReddit/comments/41gexj/what_is_a_movie_you_would_legitimatley_call_a/)
 * [What is a perfect, 10/10 movie?](https://www.reddit.com/r/AskReddit/comments/1tzorbs/what_is_a_perfect_1010_movie/)
+* [What is an old movie (70s or earlier) that is still a 10/10 for you?](https://www.reddit.com/r/AskReddit/comments/1wybofs/what_is_an_old_movie_70s_or_earlier_that_is_still/)
 * [What is the funniest movie you have ever watched?](https://www.reddit.com/r/AskReddit/comments/564tpu/what_is_the_funniest_movie_you_have_ever_watched/)
 * [What is the most re-watchable movie?](https://www.reddit.com/r/AskReddit/comments/148nads/what_is_the_most_rewatchable_movie/)
 * [What is the scariest film that doesn't resort to cheap jump scares?](https://www.reddit.com/r/AskReddit/comments/55ng8w/what_is_the_scariest_film_that_doesnt_resort_to/) - [2](https://www.reddit.com/r/AskReddit/comments/9lcjo3/what_is_the_scariest_film_that_doesnt_resort_to/)
