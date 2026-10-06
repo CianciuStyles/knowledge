@@ -82,6 +82,8 @@
 * [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Mario 64 (DualShock Version)](https://github.com/malucard/sm64-psx)
 * [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp)
+* [Super Mario Sunshine](https://github.com/chasem-dev/sms-english)
+  * [Native PC port](https://github.com/TekRantGaming/sms-pc-port)
 * [Super Metroid](https://github.com/strager/supermetroid)
 * [Super Smash Bros Melee](https://github.com/doldecomp/melee)
 * [Tetris](https://github.com/CelestialAmber/TetrisNESDisasm)
