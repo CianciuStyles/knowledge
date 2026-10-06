@@ -10,8 +10,10 @@
 * [N64: Recompiled](https://github.com/N64Recomp/N64Recomp)
   * [Banjo: Recompiled](https://github.com/BanjoRecomp/BanjoRecomp) ([website](https://banjorecomp.com/))
   * [DK64 Rekongpiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ([website](https://dk64recomp.com/))
+  * [Dr. Mario 64 Recomp](https://github.com/theboy181/drmario64_recomp_plus)
   * [Ogre Battle 64: Person of Lordly Caliber](https://github.com/lfarroco/ogre-battle-64-recomp)
   * [Snap64 Recomp](https://github.com/JackandBeans/Snap64Recomp)
+  * [Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp)
   * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
 * [NESRecomp](https://github.com/mstan/nesrecomp) - NES game static recompiler ecosystem
@@ -60,6 +62,7 @@
 * [OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC) - An open source, clean-room reverse engineered re-implementation of Crash Bandicoot: Wrath Of Cortex
 * [OpenSpideyPS1](https://github.com/GTTeancum/OpenSpideyPS1) - Native recompilations of Neversoft's PlayStation Spider-Man games
 * [Paper Mario](https://papermar.io/) ([GitHub](https://github.com/pmret/papermario))
+* [Paper Mario DX](https://github.com/bates64/papermario-dx)
 * [Parasite Eve II Decompilation](https://github.com/GabeRealB/parasite-eve-2-decomp)
 * [Parasite Eve II HD Remaster](https://github.com/faligame/Parasite-Eve-2-HD-Remaster)
 * [Perfect Dark](https://github.com/n64decomp/perfect_dark) ([fork](https://github.com/perfect-dark-pc-port/perfect_dark))
@@ -78,6 +81,7 @@
 * [Starflight-Reverse](https://github.com/s-macke/starflight-reverse)
 * [Sonic 1](https://github.com/sonicretro/s1disasm)
 * [Sonic 2](https://github.com/sonicretro/s2disasm)
+* [Sonic Advance Trilogy](https://github.com/SAT-R/sa2)
 * [Starfox 64](https://github.com/sonicdcer/sf64)
 * [Super Mario 64](https://github.com/n64decomp/sm64)
 * [Super Mario 64 (DualShock Version)](https://github.com/malucard/sm64-psx)
@@ -100,3 +104,7 @@
 
 * [r/decomps](https://www.reddit.com/r/decomps/)
 * [r/recomps](https://www.reddit.com/r/recomps/)
+
+### Websites
+
+* [Decompedia](https://decomp.wiki/)

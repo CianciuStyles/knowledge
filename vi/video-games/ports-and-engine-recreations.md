@@ -40,6 +40,7 @@
 * [EDuke32](https://www.eduke32.com/) - Duke3D for Windows, Linux, and MacOS
 * [Gears of War 2: Hollow](https://www.moddb.com/mods/gears-of-war-2-hollow/downloads/gears-of-war-2-hollow-launcher) - PC Port
 * [GemRB](https://gemrb.org/) - Portable open-source implementation of Bioware’s Infinity Engine
+* [Lighthouse](https://github.com/HarbourMasters/Lighthouse) - Banjo-Kazooie PC port
 * [Memoria](https://github.com/Albeoris/Memoria) - Community rewrite of Final Fantasy IX's game engine
 * [NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 * [openage](https://openage.sft.mx/) ([GitHub](https://github.com/SFTtech/openage/)) - Free cross-platform RTS engine providing "Age of Empires"- style game mechanics
@@ -56,6 +57,7 @@
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
 * [OpenTomb](https://opentomb.github.io/) ([GitHub](https://github.com/opentomb/opentomb)) - a Cross-Platform reimplementation of classic Tomb Raider 1-5 engines
 * [Open Nectar](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) - Pikmin Native PC/Android Port
+* [PaperBoat](https://github.com/HarbourMasters/PaperBoat) - Paper Mario 64 port
 * [PortForge](https://github.com/zamiba/portforge-app) - A desktop application for managing and launching game ports
 * [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) - A lightweight library/installer for native "recomp" and source-port builds of console games, for Windows
 * [R.E.L.I.V.E. Engine](https://aliveteam.github.io/) ([GitHub](https://github.com/AliveTeam/alive_reversing)) - Abe's Oddysee / Exoddus for modern platforms
