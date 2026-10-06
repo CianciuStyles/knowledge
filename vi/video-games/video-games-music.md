@@ -3,6 +3,7 @@
 ### Articles
 
 * [Collecting Anime/Video Game Soundtracks](https://animangapop.co.uk/collecting-anime-and-video-game-soundtracks/) - Animangapop
+* [The 27 Best Sega Genesis Soundtracks](https://www.greatestgamemusic.com/the-best-sega-genesis-music/)
 * [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass) - Gustavo Pezzi
 
 ### Concerts
