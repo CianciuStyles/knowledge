@@ -79,6 +79,7 @@
 ### Final Fantasy VIII
 
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII
+* [Junction VIII](https://www.tsunamods.com/junction-viii/) - The Ultimate Mod Manager for Final Fantasy VIII PC ([GitHub](https://github.com/tsunamods-codes/Junction-VIII))
 
 ### Grim Fandango
 
