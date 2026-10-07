@@ -601,6 +601,9 @@
 * [No One Lives Forever Download](http://nolfrevival.tk/)
 * [Pix3lmods](https://www.oldskoolconsoles.com/)
 * [Read-Only Memory](https://readonlymemory.com/)
+* [RetroAtlas](https://retroatlas.org/) - Interactive maps of retro games
+  * [Kula World Map](https://kulaworld.retroatlas.org) - Interactive map of the Kula World (Roll Away) game ([GitHub](https://github.com/RetroAtlas/KulaWorldMap))
+  * [Oddworld Map](https://oddworldmap.com)
 * [Retro Handhelds](https://retrohandhelds.gg/)
 * [The Digital Antiquarian](https://www.filfre.net/)
   * [Half-Life](https://www.filfre.net/2024/12/half-life/)
