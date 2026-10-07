@@ -18,6 +18,7 @@
 * [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
 * [NESRecomp](https://github.com/mstan/nesrecomp) - NES game static recompiler ecosystem
 * [Ports decomp/recomp](https://portsdr.com/)
+* [PSPRecomp](https://github.com/jessicanataliagta/PSPRecomp) - A static recompilation framework for PSP software
 * [PSXRecomp](https://github.com/mstan/psxrecomp) - A general-purpose static recompiler for the PlayStation 1
   * [ApeEscapeRecomp](https://github.com/mstan/ApeEscapeRecomp)
   * [Crash2Recomp](https://github.com/Zumbo06/Crash2Recomp)
