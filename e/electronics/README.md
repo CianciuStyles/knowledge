@@ -65,6 +65,7 @@
 * [Nostalgia Nerd](https://www.youtube.com/@Nostalgianerd)
 * [Odd Tinkering](https://www.youtube.com/@OddTinkering)
 * [RestoFix](https://www.youtube.com/@restofix)
+* [Retro ER](https://www.youtube.com/@retro_er)
 * [Sayaka's Digital Attic](https://www.youtube.com/@Sayakas_Digital_Attic)
 * [StezStix Fix?](https://www.youtube.com/c/StezStixFix/videos)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections/videos)
