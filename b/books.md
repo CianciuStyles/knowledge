@@ -166,6 +166,7 @@
 * [What’s the most addictive book you’ve ever read?](https://www.reddit.com/r/AskReddit/comments/1w3t348/whats_the_most_addictive_book_youve_ever_read/)
 * [What’s the most life-changing book you’ve read?](https://www.reddit.com/r/AskReddit/comments/1gnioxm/whats_the_most_lifechanging_book_youve_read/)
 * [Which book to film adaptation hasn't been made yet which you think can be a big box office hit?](https://www.reddit.com/r/AskReddit/comments/a0izhl/which_book_to_film_adaptation_hasnt_been_made_yet/)
+* [Which fantasy novel is a 10/10 read?](https://www.reddit.com/r/AskReddit/comments/1wi6ist/which_fantasy_novel_is_a_1010_read/)
 
 ### Subreddits
 
