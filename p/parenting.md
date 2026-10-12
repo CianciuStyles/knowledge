@@ -2,6 +2,7 @@
 
 ### Articles
 
+* [Field-Tested Advice for Time-Crunched Dads](https://www.artofmanliness.com/social/fatherhood/field-tested-advice-for-time-crunched-dads/) - The Art of Manliness
 * [The 4 Parenting Styles (And Which One Is Best)](https://www.artofmanliness.com/people/fatherhood/parenting-styles/) - The Art of Manliness
 * [The madness of the £100,000 childcare tax trap](https://archive.ph/zZcio) - Financial Times ([Reddit thread](https://www.reddit.com/r/HENRYUK/comments/1jgakuf/the_madness_of_the_100000_childcare_tax_trap/))
 
