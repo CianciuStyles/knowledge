@@ -38,6 +38,7 @@
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 * [Dusklight](https://twilitrealm.dev/) - reverse-engineered reimplementation of Twilight Princess ([GitHub](https://github.com/TwilitRealm/dusklight))
 * [EDuke32](https://www.eduke32.com/) - Duke3D for Windows, Linux, and MacOS
+* [Estacado](https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp) - A native PC recompilation of The Darkness (Xbox 360)
 * [Gears of War 2: Hollow](https://www.moddb.com/mods/gears-of-war-2-hollow/downloads/gears-of-war-2-hollow-launcher) - PC Port
 * [GemRB](https://gemrb.org/) - Portable open-source implementation of Bioware’s Infinity Engine
 * [Lighthouse](https://github.com/HarbourMasters/Lighthouse) - Banjo-Kazooie PC port
