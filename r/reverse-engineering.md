@@ -105,6 +105,7 @@
 * [RetroReversing](https://www.retroreversing.com/) - Retro Reverse Engineering
   * [GitHub repository](https://github.com/RetroReversing/retroReversing)
   * [Playstation 1 Games with Debug Symbols](https://www.retroreversing.com/ps1-debug-symbols)
+* [Reverse Engineer Anything](https://rea.tools/) ([GitHub](https://github.com/morluto/rea))
 * [Reversing.kr](http://reversing.kr/)
 * [ReversingHero](https://www.reversinghero.com/)
 * [RootMy.TV](https://rootmy.tv/)
