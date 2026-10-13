@@ -21,6 +21,7 @@
 * [360 Hack Pack](https://alex-free.github.io/360-hack-pack/) - Everything you need to hack an Xbox 360, ready to be copied onto a USB drive in one download!
 * [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
 * [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe) - Xbox 360 executable designed to apply freedom-unlocking patches based on xeBuild to the kernel and hypervisor
+* [Peer Pressure](https://github.com/grimdoomer/Xbox360PeerPressure) - Persistent softmod exploit for Xbox 360
 
 ### Reddit threads
 
@@ -39,6 +40,10 @@
 ### Websites
 
 * [Xbox 360](https://consolemods.org/wiki/Category:Xbox_360) - ConsoleMods Wiki
+
+### YouTube Videos
+
+* [Peer Pressure - The "Impossible" Xbox 360 Softmod is here](https://www.youtube.com/watch?v=58dIVtwpOZE) - Modern Vintage Gamer
 
 ## Nintendo 3DS
 
