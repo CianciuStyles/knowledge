@@ -194,9 +194,16 @@
 * [PS2 Homebrew Store](https://ps2homebrewstore.com/)
 * [PS2Wide](http://ps2wide.net/) - Widescreen Hex Codes And Patches
 * [PSRewired Online Servers](https://psrewired.com/)
-* [r/PCSX2](https://www.reddit.com/r/PCSX2/)
-* [r/ps2homebrew](https://www.reddit.com/r/ps2homebrew/)
 * [The Great PS2 AIO Guide](https://www.psx-place.com/threads/tutorial-the-great-ps2-aio-guide.30219/) - PSX-Place
+
+### Subreddits
+
+* [PCSX2](https://www.reddit.com/r/PCSX2/)
+* [r/ps2homebrew](https://www.reddit.com/r/ps2homebrew/)
+
+### YouTube Videos
+
+* [100 BEST PS2 Games of All Time](https://www.youtube.com/watch?v=9mLr-Nda2F0) - Cultured Vultures
 
 ## Sony PlayStation 3
 
