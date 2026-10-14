@@ -33,6 +33,7 @@
 * [What's the best Anime you've ever seen?](https://www.reddit.com/r/AskReddit/comments/wb6au0/whats_the_best_anime_youve_ever_seen/)
 * [What’s the best anime you ever watched and why?](https://www.reddit.com/r/AskReddit/comments/1si5uxn/whats_the_best_anime_you_ever_watched_and_why/)
 * [What animated TV show is a 10/10?](https://www.reddit.com/r/AskReddit/comments/1n37wwy/what_animated_tv_show_is_a_1010/)
+* [Which animated TV shows other than Disney and Ghibli, that feel mature, would you recommend for adults to watch?](https://www.reddit.com/r/AskReddit/comments/1wz2wb3/which_animated_tv_shows_other_than_disney_and/)
 * [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
 * [What anime movie is 10/10?](https://www.reddit.com/r/AskReddit/comments/1wddj3b/what_anime_movie_is_1010/)
 * [What is an anime you consider an absolute 10/10 masterclass from start to finish?](https://www.reddit.com/r/AskReddit/comments/1v30vkt/what_is_an_anime_you_consider_an_absolute_1010/)
