@@ -51,6 +51,7 @@
 
 ### GitHub Repositories
 
+* [AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
 * [adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration
 * [BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 * [Cain & Abel ](https://github.com/xchwarze/Cain)- password recovery tool for Microsoft Operating Systems
