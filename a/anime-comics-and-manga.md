@@ -36,6 +36,7 @@
 * [Which animated TV shows other than Disney and Ghibli, that feel mature, would you recommend for adults to watch?](https://www.reddit.com/r/AskReddit/comments/1wz2wb3/which_animated_tv_shows_other_than_disney_and/)
 * [What anime is must watch anime?](https://www.reddit.com/r/AskReddit/comments/y2rqge/what_anime_is_must_watch_anime/)
 * [What anime movie is 10/10?](https://www.reddit.com/r/AskReddit/comments/1wddj3b/what_anime_movie_is_1010/)
+* [What cartoon was a 10/10 masterpiece, but somehow got completely erased from collective pop culture memory?](https://www.reddit.com/r/AskReddit/comments/1whpq6h/what_cartoon_was_a_1010_masterpiece_but_somehow/)
 * [What is an anime you consider an absolute 10/10 masterclass from start to finish?](https://www.reddit.com/r/AskReddit/comments/1v30vkt/what_is_an_anime_you_consider_an_absolute_1010/)
 * [What is the greatest animated show of all time?](https://www.reddit.com/r/AskReddit/comments/147bva7/what_is_the_greatest_animated_show_of_all_time/)
 
