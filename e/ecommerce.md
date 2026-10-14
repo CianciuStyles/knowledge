@@ -59,6 +59,7 @@
 * [Gumtree](https://www.gumtree.com/)
   * [James](https://www.gumtree.com/profile/accounts/64150f5924beac33bc8d87ac3291da28) - office chairs
 * [John Pye Auctions](https://www.johnpye.co.uk/)
+* Kenable - cables, networking peripherals, power products
 * [Laptops Direct](https://www.laptopsdirect.co.uk/)
 * [Low Cost Mini PCs](https://lowcostminipcs.com/uk/)
 * [OnBuy](https://www.onbuy.com/gb/)
