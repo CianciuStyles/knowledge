@@ -64,6 +64,7 @@
 * [What movie is an absolute blast from start to finish?](https://www.reddit.com/r/AskReddit/comments/15txr5g/what_movie_is_an_absolute_blast_from_start_to/)
 * [What movie is so incredibly good that it's almost painful to watch?](https://www.reddit.com/r/AskReddit/comments/1cu1hs4/what_movie_is_so_incredibly_good_that_its_almost/)
 * [What movie is unexpectedly brilliant?](https://www.reddit.com/r/AskReddit/comments/71aqe6/what_movie_is_unexpectedly_brilliant/)
+* [What movie made you laugh out loud the whole time?](https://www.reddit.com/r/AskReddit/comments/1x5bonw/what_movie_made_you_laugh_out_loud_the_whole_time/)
 * [What movie will you never get tired of watching?](https://www.reddit.com/r/AskReddit/comments/15ts5qm/what_movie_will_you_never_get_tired_of_watching/)
 * [What movie really is rewatchable hundred times?](https://www.reddit.com/r/AskReddit/comments/1b4mfzk/what_movie_really_is_rewatchable_hundred_times/)
 * [What movies should definitely be watched without knowing anything about them?](https://www.reddit.com/r/AskReddit/comments/48baf5/what_movies_should_definitely_be_watched_without/)
