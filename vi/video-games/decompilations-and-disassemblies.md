@@ -106,6 +106,10 @@
 * [r/decomps](https://www.reddit.com/r/decomps/)
 * [r/recomps](https://www.reddit.com/r/recomps/)
 
+### Tools
+
+* [decomp.wtf](https://decomp.wtf/) - What the function?
+
 ### Websites
 
 * [Decompedia](https://decomp.wiki/)
