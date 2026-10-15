@@ -3,6 +3,7 @@
 Awesome Index: [https://awesomeindex.dev/](https://awesomeindex.dev/)\
 Awesome master list: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
+* Awesome AI Game Dev Tools: [https://github.com/SubmitGame/awesome-ai-game-dev-tools](https://github.com/SubmitGame/awesome-ai-game-dev-tools)
 * Awesome Algorithms: [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 * Awesome AppSec: [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * Awesome arXiv: [https://github.com/artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv)
