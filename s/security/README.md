@@ -113,6 +113,7 @@
 * [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 * [Awesome Wordlists](https://github.com/gmelodie/awesome-wordlists)
 * [Cheatsheets](https://github.com/RedefiningReality/Cheatsheets) - RedefiningReality
+* [Command Injection Payload List](https://github.com/payload-box/command-injection-payload-list)
 * [Companies hiring remote](https://github.com/jaegeral/companies-hiring-security-remote)
 * [corkami/formats](https://github.com/corkami/formats) - file formats
 * [corkami/pics](https://github.com/corkami/pics) - posters, drawings

@@ -16,6 +16,7 @@
 * [JavaScript Security Cookbook](https://github.com/rajamsrgit/JavaScriptSecurityCookbook)
 * [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 * [phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file
+* [XSS Hunter Express](https://github.com/mandatoryprogrammer/xsshunter-express)
 
 ### Cheat Sheets
 
