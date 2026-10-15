@@ -167,6 +167,7 @@
 * [Non-UK born Londoners, what's the best restaurant of your native cuisine that you know in London?](https://www.reddit.com/r/london/comments/ovpobh/nonuk_born_londoners_whats_the_best_restaurant_of/) - [2](https://www.reddit.com/r/london/comments/952fob/nonuk_born_londoners_whats_the_best_restaurant_of/)
 * [Places in London that you take your friends to when visiting the city, and that they all eventually love?](https://www.reddit.com/r/london/comments/17tov4v/places_in_london_that_you_take_your_friends_to)
 * [Pubs with cracking customer service](https://www.reddit.com/r/london/comments/1940fcq/pubs_with_cracking_customer_service/)
+* [The Best Pizza in London](https://www.reddit.com/r/LondonFood/comments/1x50qqb/the_best_pizza_in_london/)
 * [Underrated Restaurants in London that aren't Too Expensive!](https://www.reddit.com/r/london/comments/skxwrp/underrated_restaurants_in_london_that_arent_too/)
 * [What are your favourite London cheap eats?](https://www.reddit.com/r/london/comments/185b1of/what_are_your_favourite_london_cheap_eats)
 * [What is that one underrated thing about London that we don’t appreciate enough?](https://www.reddit.com/r/london/comments/198tt6o/what_is_that_one_underrated_thing_about_london/)
