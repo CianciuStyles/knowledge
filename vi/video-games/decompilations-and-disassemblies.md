@@ -112,4 +112,5 @@
 
 ### Websites
 
+* [Decomp Buddy](https://decompbuddy.com/) - Every decomp. One click away.
 * [Decompedia](https://decomp.wiki/)
