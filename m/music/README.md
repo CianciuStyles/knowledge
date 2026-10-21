@@ -56,6 +56,7 @@
 
 * [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com/)
 * [Bandcamp](https://bandcamp.com/)
+* [BestAlbums.xyz](https://bestalbums.xyz/) - The best albums of all time
 * [Chosic](https://www.chosic.com/) - Discover new music
 * [Discogs](https://www.discogs.com/) - Music Database and Marketplace
 * [Gnoosic](https://www.gnoosic.com/) - Discover new music
