@@ -88,6 +88,10 @@
 * [Sudachi](https://sudachiemu.com/home/) - Nintendo Switch Emulator for Android and PC
 * [switchroot](https://switchroot.org/) - Android and Linux for the Nintendo Switch
 
+## Nintendo Switch 2
+
+* [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) - Sammy Hajhamid
+
 ## Nintendo Wii
 
 * Archive.org
