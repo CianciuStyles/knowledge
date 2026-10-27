@@ -90,7 +90,13 @@
 
 ## Nintendo Switch 2
 
+### Articles
+
 * [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) - Sammy Hajhamid
+
+### YouTube Videos
+
+* [Yes The Switch 2 Has Been Hacked - Let's Talk About It](https://www.youtube.com/watch?v=8Z4RkfBjvGg) - Modern Vintage Gamer
 
 ## Nintendo Wii
 
