@@ -59,12 +59,12 @@
 
 ### File Sharing
 
-* [DropSend](https://www.dropsend.com/)
 * [FilePizza](https://file.pizza/)
 * [JustBeamIt](https://justbeamit.com/)
 * [NoUSB.co](https://nousb.co/)
-* [Snapdrop](https://snapdrop.net/)
-* [ToffeeShare](https://toffeeshare.com/)
+* [SwissTransfer](https://www.swisstransfer.com/en) - up to 50 GB
+* [ToffeeShare](https://toffeeshare.com/) - no file size, peer-to-peer
+* [Wormhole](https://wormhole.app/) - up to 10 GB
 
 ### Fonts
 
