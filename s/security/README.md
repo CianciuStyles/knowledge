@@ -241,6 +241,7 @@
   * [OWASP Testing Guide](https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 * [Privacy Tools](https://www.privacytools.io/)
 * [pwn.college](https://pwn.college/)
+* [pwn.watch](https://pwn.watch/) - Live Security Incidents
 * [Pwnable.kr](https://pwnable.kr/)
 * [Red Team Development and Operations](https://redteam.guide/)
 * [Red Team Notes](https://www.ired.team/)
