@@ -18,6 +18,7 @@
   * [All Jlab Decks](https://www.japanese-like-a-breeze.com/all-decks/)
 * [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system
   * [Japanese Language Proficiency Test](https://jpdb.io/vocabulary-list/924/japanese-language-proficiency-test)
+* [JPLT Sensei](https://jlptsensei.com/) - Learn Japanese & Study for the JLPT
 * [Kaishi 1.5k](https://github.com/donkuri/Kaishi) - modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary
 * [KanaDojo](https://kanadojo.com/) ([GitHub](https://github.com/lingdojo/kana-dojo))
 * [Kanji Koohii](https://kanji.koohii.com/)
@@ -25,6 +26,7 @@
 * [Lingoku](https://lingoku.ai/learn-japanese) - The Most Efficient Way to Learn Japanese Online
 * [Migaku](https://migaku.com/)
 * [Recommended Books](https://www.mlcjapanese.co.jp/recommended_books.html) - MLC Japanese Language School in Tokyo
+* [renshuu.org](https://www.renshuu.org/)
 * [SOAS University of London](https://www.soas.ac.uk/)
   * [Japanese Beginners Course](https://www.soas.ac.uk/study/find-course/japanese-beginners-course)
 * [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
