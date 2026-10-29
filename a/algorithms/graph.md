@@ -2,6 +2,11 @@
 
 ## Graph
 
+### Books
+
+* [Graph Theory And Its Applications](https://www.amazon.co.uk/Graph-Theory-Applications-Textbooks-Mathematics/dp/1032475951/) - Jonathan L. Gross, Jay Yellen, Mark Anderson
+* [Start Doing Graph Theory](https://vertex.degree/) - Mikhail Lavrov
+
 ### Websites
 
 * [Google Maps Explained](https://www.secretsofmaps.com/)
