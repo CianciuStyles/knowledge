@@ -6,6 +6,7 @@
 
 * [800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island) - Alberto Marnetto
 * [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall
+* [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world) - Andrew Healey
 * [Exploring Tokimeki Memorial](https://tetracorp.github.io/tokimeki-memorial/) - Tetracorp
 * Fixing the Loading in Myst IV: Revelation - Anthony Kleine ([HN thread](https://news.ycombinator.com/item?id=42372565))
   * [Part 1](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
