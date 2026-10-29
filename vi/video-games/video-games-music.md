@@ -176,6 +176,7 @@
 * [Phantasia Records](https://www.youtube.com/@PhantasiaRecords)
   * [Donkey Kong Country but it's Japanese Jazz Fusion](https://www.youtube.com/watch?v=N8iJQB_UEyE)
 * [RETROSCAPE FM](https://www.youtube.com/@RETROSCAPEFM)
+  * [Persona 5 OST | Guitar Chill Mix (1 Hour)](https://www.youtube.com/watch?v=KvwtdVvS3EA)
   * [R4: RIDGE RACER TYPE 4 (1998) OST | Guitar Chill Mix](https://www.youtube.com/watch?v=YTnob5wt3RA)
   * [R4: RIDGE RACER TYPE 4 OST | KEYS VERSION](https://www.youtube.com/watch?v=fzs-IRCd078)
 
