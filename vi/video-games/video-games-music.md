@@ -152,10 +152,12 @@
 
 * [Games with 10/10 soundtracks](https://www.reddit.com/r/gaming/comments/1vxkoqe/games_with_1010_soundtracks/)
 * [Most emotional battle theme(s) you've heard?](https://www.reddit.com/r/gamemusic/comments/1wltjnf/most_emotional_battle_themes_youve_heard/)
+* [Racing game soundtracks recommendations?](https://www.reddit.com/r/gamemusic/comments/1xcvo7u/racing_game_soundtracks_recommendations/)
 * [Top 10 Video Game OSTs](https://www.reddit.com/r/gamemusic/comments/1wa8htc/top_10_video_game_osts/)
 * [Videogame music that should play when you get home discussion](https://www.reddit.com/r/gamemusic/comments/7wvz0h/videogame_music_that_should_play_when_you_get/)
 * [What are some of the greatest video game OST's with no lyrics? Looking for as many hours as possible across all genres for study/work focus.](https://www.reddit.com/r/gamemusic/comments/3gq6jy/what_are_some_of_the_greatest_video_game_osts/)
 * [What are the most specifically 'beautiful' game soundtracks you have ever heard? Not action packed.](https://www.reddit.com/r/patientgamers/comments/6r494v/what_are_the_most_specifically_beautiful_game/)
+* [What game on the SNES has the best soundtrack?](https://www.reddit.com/r/AskReddit/comments/1xg1aa0/what_game_on_the_snes_has_the_best_soundtrack/)
 * [What is the best videogame soundtrack in your opinion?](https://www.reddit.com/r/AskReddit/comments/6omsga/what_is_the_best_videogame_soundtrack_in_your/)
 * [What is your favorite video game soundtrack?](https://www.reddit.com/r/AskReddit/comments/1cyww3n/what_is_your_favorite_video_game_soundtrack/)
 * [Which videogame soundtrack is 10/10?](https://www.reddit.com/r/AskReddit/comments/1vj3cte/which_videogame_soundtrack_is_1010/)
