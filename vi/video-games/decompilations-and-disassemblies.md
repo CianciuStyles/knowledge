@@ -30,6 +30,7 @@
   * [Street Fighter Alpha 3 Recompiled](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp)
   * [TombaRecomp](https://github.com/mstan/TombaRecomp)
   * [Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
+* [ps2-native-recomp](https://github.com/exoteric33/ps2-native-recomp)
 * [PS2Recomp](https://github.com/ran-j/PS2Recomp) - PlayStation 2 Static Recompiler
 * [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher)
 * [RecompOne](https://github.com/BlackLabelHQ/RecompOne) - PSX Static Recompiler and Runtime
