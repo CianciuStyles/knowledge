@@ -125,6 +125,7 @@
 * [Hacking Books](https://github.com/tanc7/hacking-books)
 * [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 * [How To Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) - Veeral Patel
+* [Impacket](https://github.com/fortra/impacket) - a collection of Python classes for working with network protocols
 * [Offensive Reverse Shell (Cheat Sheet)](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet)
 * [OSCP Survival Guide](https://github.com/CyberSecurityUP/OSCP-Survival-Guide)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
