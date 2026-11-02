@@ -55,6 +55,7 @@
 * [Castlevania: Symphony of the Night decompilation](https://sotn.xee.dev/) ([GitHub](https://github.com/Xeeynamo/sotn-decomp), [Overview](https://sotn.dev/))
 * [Descent 3](https://github.com/kevinbentley/Descent3)
 * [Donkey Kong Country](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly)
+* [Fallout: New Vegas](https://fnvdecomp.com/)
 * [Goldeneye 007](https://github.com/n64decomp/007)
 * [Legacy of Kain: Soul Reaver](https://github.com/Gh0stBlade/KAIN2)
 * [Mario Kart 64](https://github.com/n64decomp/mk64)
