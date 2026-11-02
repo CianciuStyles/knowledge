@@ -1,5 +1,9 @@
 # Consoles
 
+### YouTube Videos
+
+* [Failed Consoles (That Didn't Deserve To)](https://www.youtube.com/watch?v=JU_c4G0JzL4) - Cultured Vultures
+
 ## Atari Jaguar
 
 * [BigPEmu](https://www.richwhitehouse.com/jaguar/) - Atari Jaguar Emulator
