@@ -6,6 +6,7 @@
 * [D3D9On12](https://github.com/microsoft/D3D9On12) - Microsoft
 * [dgVoodoo 2](https://dege.freeweb.hu/dgVoodoo2/) - implementation of old graphics API's for Windows 7 and later version
 * [dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls
+* [nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Windows
 * [XWine1](https://github.com/xwine1) - Xbox One translation layer
 * [WinDurango](https://github.com/WinDurango-project/WinDurango) - The worlds first Xbox One compatibility layer for Windows
