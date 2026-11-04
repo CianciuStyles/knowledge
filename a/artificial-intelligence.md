@@ -63,6 +63,10 @@
 * [Learn to Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms)
 * [llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
+### Hacker News Threads
+
+* [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
+
 ### Images
 
 <figure><img src="../.gitbook/assets/Free Anthropic Learning Roadmap.jpg" alt=""><figcaption></figcaption></figure>
