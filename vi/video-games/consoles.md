@@ -14,6 +14,11 @@
 * [Insignia](https://insignia.live/) - Free replacement for Microsoft's servers for the original Xbox
   * [How to Setup Insignia on a Stock Original Xbox](https://www.youtube.com/watch?v=cgc7mBG3Alg) - MrMario2011
 
+### Emulators
+
+* [hakuX](https://github.com/rfandango/hakuX) - Xbox emulator for Android
+  * [hakuX Setup Guide](https://www.joeysretrohandhelds.com/guides/hakux-setup-guide/) - Joey's Retro Handhelds
+
 ## Microsoft Xbox 360
 
 ### Emulators
