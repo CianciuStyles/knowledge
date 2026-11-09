@@ -34,6 +34,9 @@
 ### Courses
 
 * [City Lit](https://www.citylit.ac.uk/)
+* [Mary Ward Centre](https://www.marywardcentre.ac.uk/) - Adult Part Time and Evening Courses
+* [Morley College](https://morleycollege.ac.uk/)
+* [WM College](https://www.wmcollege.ac.uk/) - Courses for adults in Camden
 
 ### Cycling
 
@@ -105,6 +108,7 @@
 * [Live Tube Map](https://www.londonunderground.live/)
 * [London Food Map](https://laurenleek.eu/food-map) - Lauren Leek
 * [London pub quiz map](https://www.google.com/maps/d/u/0/viewer?mid=1ZdJNXQSj6ZlrqLNSFQO0wzI4kFelWfY\&ll=51.476955129155%2C-0.016030664151402974\&z=10)
+* [London's Water Fountains](https://apps.london.gov.uk/water-fountains/)
 * [Pint Prices](https://www.pint-prices.com/)
 * [r/London Food](https://www.google.com/maps/d/u/0/viewer?mid=1hvE-Owf4cRfPxofAtK-vMKASCWZpj-k\&ll=51.536716756666415%2C-0.1571249449310308\&z=11)
 * [Toilet Map](https://www.toiletmap.org.uk/)
