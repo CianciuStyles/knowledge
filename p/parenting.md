@@ -10,6 +10,10 @@
 
 * [Be Prepared: A Practical Handbook for New Dads](https://www.amazon.co.uk/Be-Prepared-Practical-Handbook-Dads/dp/B001O9BXV6) - Gary Greenberg
 
+### Hacker News threads
+
+* [What's your favorite children's books?](https://news.ycombinator.com/item?id=50037859)
+
 ### Reddit threads
 
 * [At what pension size or income did you stop sacrificing down to 100k and why?](https://www.reddit.com/r/HENRYUK/comments/1jdahdb/at_what_pension_size_or_income_did_you_stop/)
