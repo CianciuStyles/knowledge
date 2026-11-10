@@ -111,6 +111,7 @@
 ### Tools
 
 * [decomp.wtf](https://decomp.wtf/) - What the function?
+* [Game Decompilation Skill For Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude)
 
 ### Websites
 
