@@ -14,6 +14,7 @@
 
 ### Reddit Threads
 
+* [Need some documentaries to watch, what are your 10/10 documentaries?](https://www.reddit.com/r/AskReddit/comments/1xou5ta/need_some_documentaries_to_watch_what_are_your/)
 * [What are some "must-see" documentaries?](https://www.reddit.com/r/AskReddit/comments/4iqp7f/what_are_some_mustsee_documentaries/)
 * [What documentary is 10/10?](https://www.reddit.com/r/AskReddit/comments/1w9no26/what_documentary_is_1010/)
 * [What is the best documentary you have seen?](https://www.reddit.com/r/AskReddit/comments/1j58iaa/what_is_the_best_documentary_you_have_seen/)
