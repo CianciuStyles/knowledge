@@ -36,6 +36,7 @@
 ### Hacker News threads
 
 * [Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
+* [What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425)
 
 ### Videos
 
