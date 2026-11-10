@@ -25,6 +25,7 @@
 ### Reddit threads
 
 * [If you are lonely / in need for new friends](https://www.reddit.com/r/london/comments/1cu0sjd/if_you_are_lonely_in_need_for_new_friends/)
+* [Married men of Reddit, what's the hardest thing about being a husband?](https://www.reddit.com/r/AskReddit/comments/1xonw2g/married_men_of_reddit_whats_the_hardest_thing/)
 * [Men in happy marriages, what is that one secret to a happy marriage that works for you?](https://www.reddit.com/r/AskReddit/comments/1u9hdj3/men_in_happy_marriages_what_is_that_one_secret_to/)
 * [Men of Reddit, what’s the biggest green flag in a woman?](https://www.reddit.com/r/AskReddit/comments/15oczn3/men_of_reddit_whats_the_biggest_green_flag_in_a/)
 * [What are some 'can't go wrong' gifts for women?](https://www.reddit.com/r/AskUK/comments/zc3wnk/what_are_some_cant_go_wrong_gifts_for_women/)
