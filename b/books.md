@@ -111,6 +111,7 @@
 * [Book Recommendations](https://book.sv/)
 * [Collectoral for Hacker News](https://www.collectoral.com/group/hacker-news)
 * [Hacker News Books](https://hackernewsbooks.com/)
+* [HackerBooks](https://hackerbooks.org/) - Books mentioned in Hacker News comments
 * [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 * [HN Books](https://yahnd.com/books/)
 * [Librarian AI](https://www.librarian-ai.com/)

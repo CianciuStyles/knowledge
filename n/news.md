@@ -56,6 +56,7 @@
   * [Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)
   * [Best of Show HN](https://bestofshowhn.com/)
   * [blogs.hn](https://blogs.hn/)
+  * [HackerBooks](https://hackerbooks.org/) - Books mentioned in Hacker News comments
   * [Hacker News Readings](https://hackernews-readings-613604506318.us-west1.run.app/)
   * [Hacker Updates](https://www.hackerupdates.com/)
   * [HackerTube](https://hackertube.org/)
