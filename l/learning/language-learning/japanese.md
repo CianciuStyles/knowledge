@@ -66,6 +66,10 @@
   * [My list of comprehensible Japanese channels](https://www.reddit.com/r/LearnJapanese/comments/18wf1w2/my_list_of_comprehensible_japanese_channels/)
   * [The /r/LearnJapanese Wiki](https://www.reddit.com/r/LearnJapanese/wiki/index)
 
+### Websites
+
+* [JIVX](https://jivx.com/yt) - Practice Japanese from YouTube videos
+
 ### YouTube Channels
 
 * [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese)
