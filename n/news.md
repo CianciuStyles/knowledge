@@ -58,8 +58,9 @@
   * [blogs.hn](https://blogs.hn/)
   * [Hacker News Readings](https://hackernews-readings-613604506318.us-west1.run.app/)
   * [Hacker Updates](https://www.hackerupdates.com/)
+  * [HackerTube](https://hackertube.org/)
   * [HackerTV](https://hackertv.org/) - The videos Hacker News keeps telling each other to watch
-  * [HackYourNews ](https://hackyournews.com/)- AI summaries of the top HN stories
+  * [HackYourNews](https://hackyournews.com/) - AI summaries of the top HN stories
   * [HN Hall of Fame](https://www.orangecrumbs.com/hall/) - Browse legendary Hacker News links
   * [HN Match](https://hnmatchmaker.com/) - Hacker News Job Matchmaking
   * [HN Personal Websites](https://hnpwd.github.io/)
