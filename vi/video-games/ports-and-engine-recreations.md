@@ -67,6 +67,7 @@
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 * [ScummVM](https://www.scummvm.org/) ([GitHub](https://github.com/scummvm/scummvm))
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - The Legend of Zelda Ocarina Of Time PC port
+* [SMS Launcher](https://github.com/chasem-dev/sms-launcher) - Super Mario Sunshine Native PC Port Launcher
 * [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - Mario Kart reimplementation
 * [Starship](https://github.com/HarbourMasters/Starship) - StarFox 64 PC Port
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
