@@ -194,4 +194,6 @@
 * [picoCTF](https://picoctf.org/)
 * [Root Me](https://www.root-me.org/en/Challenges/)
 * [The Flare-On Challenge](https://www.flare-on.com/)
+* [ZeroBox](https://ctftracker.com/) - CTF tracker for HTB & THM
+  * [GitHub repository](https://github.com/0xdnd/ctf-tracker)
 
