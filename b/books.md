@@ -144,6 +144,7 @@
 * [What book is a 10/10 and worth reading?](https://www.reddit.com/r/AskReddit/comments/1w9rq3j/what_book_is_a_1010_and_worth_reading/)
 * [What book should everyone on the planet read?](https://www.reddit.com/r/books/comments/4x5ljx/what_book_should_everyone_on_the_planet_read/)
 * [What book would recommend to read?](https://www.reddit.com/r/AskReddit/comments/5mjiqp/serious_what_book_would_recommend_to_read/)
+* [What books are absolute masterpieces, 10/10?](https://www.reddit.com/r/AskReddit/comments/1xup4fj/what_books_are_absolute_masterpieces_1010/)
 * [What books are on your personal "must read at least once in this lifetime” list?](https://www.reddit.com/r/AskReddit/comments/1wrsw7o/what_books_are_on_your_personal_must_read_at/)
 * [What books are truly masterpieces?](https://www.reddit.com/r/AskReddit/comments/1wokqpm/what_books_are_truly_masterpieces/)
 * [What books do you find yourself re-reading?](https://www.reddit.com/r/books/comments/526iku/what_books_do_you_find_yourself_rereading/)
