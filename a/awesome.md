@@ -20,6 +20,7 @@ Awesome master list: [https://github.com/sindresorhus/awesome](https://github.co
 * Awesome Chess: [https://github.com/hkirat/awesome-chess](https://github.com/hkirat/awesome-chess)
 * Awesome Code Reading: [https://github.com/CodeReaderMe/awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading)
 * Awesome Competitive Programming: [https://github.com/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+* Awesome Courses: [https://gist.github.com/teocci/1c4c76cba9734612faf5646776ec5b28](https://gist.github.com/teocci/1c4c76cba9734612faf5646776ec5b28)
 * Awesome CS Courses: [https://github.com/prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 * Awesome CTF: [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * Awesome CTO: [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
