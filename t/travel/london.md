@@ -104,6 +104,7 @@
 * [Crumbs map of London restaurants](https://www.crumbsapp.co.uk/discover)
 * [Ethnic Food Recommendations](https://www.google.com/maps/d/viewer?ll=51.59413215119853%2C-0.6189512999999858\&z=8\&mid=1Uq_uwLNXy8OYC6MjDretfGYVSG1OdpI9)
 * [Favourite ethnic food in London](https://www.google.com/maps/@51.5041307,-0.4742993,10z/data=!4m3!11m2!2sueNe9IxNjaTEzWStqi-321dXUYxDJQ!3e3?entry=ttu\&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D)
+* [Independent coffee shops in London](https://indiecoffeelondon.co.uk/)
 * [Late Pubs of London](https://www.google.com/maps/d/u/0/viewer?mid=1ItFgDbsJlmFIAoIR_xRHj-5yyq1RVok\&ll=51.53358083536003%2C-0.12203304408033189\&z=15)
 * [Live Tube Map](https://www.londonunderground.live/)
 * [London Food Map](https://laurenleek.eu/food-map) - Lauren Leek
@@ -232,6 +233,7 @@
 * [Fanzo](https://www.fanzo.com/en) - Live Sports on TV at your nearest sport bar
 * [Hidden London](https://hidden-london.com/)
 * [Ian Visits](https://www.ianvisits.co.uk/calendar/)
+* [JauntOut London](https://www.jauntout.com/)
 * [Le Cool](https://london.lecool.com/)
 * [Lectures London](https://lectures.london/)
 * [Londonist](https://londonist.com/)
