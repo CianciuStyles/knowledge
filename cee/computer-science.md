@@ -7,6 +7,10 @@
 
 ### Books
 
+* [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)
+
+
+
 * [Computer Architecture: A Quantitative Approach](https://dl.acm.org/doi/epdf/10.5555/1999263) - John L. Hennessy, David A. Patterson
 * [Computer Organization and Architecture](https://os.ecci.ucr.ac.cr/ci0114/material/Stallings/Computer-Organization-Architecture-11th.pdf) - William Stallings
 * [Computer Science: An Overview](https://github.com/Mohammed-3tef/Computer_Science_Books/blob/08c55e40377f0ebc071c89beab398689e5eb539a/Computer%20Science%20An%20Overview%2C%2013th%20Edition.pdf) - J. Glenn Brooksheak, Dennis Brylow
