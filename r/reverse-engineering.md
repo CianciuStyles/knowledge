@@ -86,6 +86,7 @@
 * [Process Hacker](https://processhacker.sourceforge.io/)
 * [radare](https://rada.re/n/)
 * [Resource Hacker](https://www.angusj.com/resourcehacker/)
+* [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 * [x64dbg](https://x64dbg.com/)
 
 ### TryHackMe Rooms
