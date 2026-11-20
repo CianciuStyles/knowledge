@@ -42,6 +42,7 @@
 * [What's a "no skip 10/10" album from this decade for you?](https://www.reddit.com/r/AskReddit/comments/1us6doy/whats_a_no_skip_1010_album_from_this_decade_for/)​
 * ​[What's an album that defined the 90s?](https://www.reddit.com/r/AskReddit/comments/10bcxfh/whats_an_album_that_defined_the_90s/)
 * [What’s an album that’s 10/10 no skips?​](https://www.reddit.com/r/AskReddit/comments/1o5m3ey/whats_an_album_thats_1010_no_skips/)
+* [What's that 10/10 album with no skips?](https://www.reddit.com/r/AskReddit/comments/1xyy8fk/whats_that_1010_album_with_no_skips/)
 * ​[What's the best song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/6553ft/whats_the_best_song_youve_ever_heard/)​
 * ​[What's the most beautiful song you've ever heard?](https://www.reddit.com/r/AskReddit/comments/170gtc6/whats_the_most_beautiful_song_youve_ever_heard/)​
 * ​[What's your 10/10 Album?](https://www.reddit.com/r/AskReddit/comments/526kke/whats_your_1010_album/)​
