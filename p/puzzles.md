@@ -2,6 +2,7 @@
 
 ### Books
 
+* [Extreme Puzzle Books](https://extremepuzzlebooks.com/) - M. J. Bailey
 * [Maze: Solve The World's Most Challenging Puzzle](https://archive.org/details/mazesolvetheworldsmostchallengingpuzzle1985/mode/2up) - Christopher Manson
   * [Website version](https://inventwithpython.com/mazewebsite/)
 
