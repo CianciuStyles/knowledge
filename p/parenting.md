@@ -28,6 +28,7 @@
 ### Subreddits
 
 * [r/UKParenting](https://www.reddit.com/r/UKParenting/)
+  * [Dear Father Christmas... The UKParenting Christmas Gift Megathread 2026](https://www.reddit.com/r/UKParenting/comments/1xlxepc/dear_father_christmasthe_ukparenting_christmas/)
 
 ### Websites
 
