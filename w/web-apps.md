@@ -59,6 +59,7 @@
 
 ### File Sharing
 
+* [AnyDrop](https://anydrop.org/)
 * [FilePizza](https://file.pizza/)
 * [JustBeamIt](https://justbeamit.com/)
 * [NoUSB.co](https://nousb.co/)
