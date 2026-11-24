@@ -62,6 +62,7 @@
 * [What movie is a 10/10?](https://www.reddit.com/r/AskReddit/comments/ygv57q/what_movie_is_a_1010/) - [2](https://www.reddit.com/r/AskReddit/comments/195hgce/what_movie_is_a_1010/)
 * [What Movie is a perfect 10/10?](https://www.reddit.com/r/AskReddit/comments/oab3gz/what_movie_is_a_perfect_1010/)
 * [What movie is an absolute blast from start to finish?](https://www.reddit.com/r/AskReddit/comments/15txr5g/what_movie_is_an_absolute_blast_from_start_to/)
+* [What movie is objectively perfect from start to finish?](https://www.reddit.com/r/AskReddit/comments/1xytycw/what_movie_is_objectively_perfect_from_start_to/)
 * [What movie is so incredibly good that it's almost painful to watch?](https://www.reddit.com/r/AskReddit/comments/1cu1hs4/what_movie_is_so_incredibly_good_that_its_almost/)
 * [What movie is unexpectedly brilliant?](https://www.reddit.com/r/AskReddit/comments/71aqe6/what_movie_is_unexpectedly_brilliant/)
 * [What movie made you laugh out loud the whole time?](https://www.reddit.com/r/AskReddit/comments/1x5bonw/what_movie_made_you_laugh_out_loud_the_whole_time/)
