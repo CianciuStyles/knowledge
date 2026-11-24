@@ -35,9 +35,9 @@
 * [CTR Native](https://github.com/CTR-tools/ctr-native) - A native PC port of Crash Team Racing
 * [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 * [DevilutionX](https://github.com/diasurgical/devilutionx) - Diablo build for modern operating systems
-* [dhewm3](https://dhewm3.org/) - Doom3 Source Port ([GitHub](https://github.com/dhewm/dhewm3))
+* [dhewm3](https://dhewm3.org/) ([GitHub](https://github.com/dhewm/dhewm3)) - Doom3 Source Port
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
-* [Dusklight](https://twilitrealm.dev/) - reverse-engineered reimplementation of Twilight Princess ([GitHub](https://github.com/TwilitRealm/dusklight))
+* [Dusklight](https://twilitrealm.dev/) ([GitHub](https://github.com/TwilitRealm/dusklight)) - reverse-engineered reimplementation of Twilight Princess
 * [EDuke32](https://www.eduke32.com/) - Duke3D for Windows, Linux, and MacOS
 * [Estacado](https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp) - A native PC recompilation of The Darkness (Xbox 360)
 * [Gears of War 2: Hollow](https://www.moddb.com/mods/gears-of-war-2-hollow/downloads/gears-of-war-2-hollow-launcher) - PC Port
@@ -49,12 +49,12 @@
 * [openblack](https://github.com/openblack/openblack) - open-source game engine that supports playing Black & White (2001)
 * [OpenGOAL](https://opengoal.dev/) - Reviving the Language that Brought us the Jak and Daxter Series
 * [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Night of the Raven
-* [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault
+* [OpenMoHAA](https://github.com/openmoh/openmohaa) ([Android Port](https://github.com/cricastrocoli/openmohaa-android)) - Open re-implementation of Medal of Honor: Allied Assault
 * [OpenMW](https://openmw.org/) ([GitLab](https://gitlab.com/OpenMW/openmw)) - open-source open-world RPG game engine that supports playing Morrowind
 * [OpenPete](https://openpete.com/) - A native PC port of Spyro the Dragon
 * [OpenRA](https://www.openra.net) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era
 * [OpenRCT2](https://openrct2.org/) ([GitHub](https://github.com/OpenRCT2/OpenRCT2)) - open-source re-implementation of RollerCoaster Tycoon 2
-* [OpenRW](https://openrw.org/) - A Grand Theft Auto III re-implementation ([GitHub](https://github.com/rwengine/openrw))
+* [OpenRW](https://openrw.org/) ([GitHub](https://github.com/rwengine/openrw)) - A Grand Theft Auto III re-implementation
 * [OpenSAGE](https://opensage.github.io/) ([GitHub](https://github.com/OpenSAGE/OpenSAGE/)) - open source re-implementation of SAGE
 * [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - An Open Source remake of Sim City 2000 by Maxis
 * [OpenTomb](https://opentomb.github.io/) ([GitHub](https://github.com/opentomb/opentomb)) - a Cross-Platform reimplementation of classic Tomb Raider 1-5 engines
