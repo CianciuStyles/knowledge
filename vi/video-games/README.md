@@ -462,6 +462,7 @@
 * [What are some good video games to play with your SO?](https://www.reddit.com/r/AskReddit/comments/594owd/what_are_some_good_video_games_to_play_with_your/)
 * [What are some great single player FPS games?](https://www.reddit.com/r/patientgamers/comments/7v762j/what_are_some_great_single_player_fps_games/)
 * [What are some must have games for the original Nintendo DS?](https://www.reddit.com/r/patientgamers/comments/4w1fjn/what_are_some_must_have_games_for_the_original/)
+* [What are some niche 10/10 video games everyone should experience?](https://www.reddit.com/r/AskReddit/comments/1xz2wn0/what_are_some_niche_1010_video_games_everyone/)
 * [What are some older games that you will always recommend and truly believe to be timeless?](https://www.reddit.com/r/patientgamers/comments/1566l5m/what_are_some_older_games_that_you_will_always/)
 * [What are some short but sweet games that you would recommend?](https://www.reddit.com/r/patientgamers/comments/8v4v33/what_are_some_short_but_sweet_games_that_you/)
 * [What are the best co-op couch games?](https://www.reddit.com/r/AskReddit/comments/7r0nfp/what_are_the_best_coop_couch_games/)
